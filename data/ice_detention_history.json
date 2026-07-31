@@ -1,0 +1,55 @@
+{
+ "national_adp": [
+  {
+   "as_of": "2026-04-04",
+   "detained_total": 60311,
+   "no_conviction_count": 42722,
+   "no_conviction_pct": 70.8,
+   "by_criminality": {
+    "convicted_criminal": 17589,
+    "pending_criminal_charges": 18731,
+    "other_immigration_violator": 23991
+   },
+   "by_arresting_agency": {
+    "ice": 51428,
+    "cbp": 8883
+   }
+  },
+  {
+   "as_of": "2026-07-11",
+   "detained_total": 65765,
+   "no_conviction_count": 46436,
+   "no_conviction_pct": 70.6,
+   "by_criminality": {
+    "convicted_criminal": 19329,
+    "pending_criminal_charges": 20247,
+    "other_immigration_violator": 26189
+   },
+   "by_arresting_agency": {
+    "ice": 58231,
+    "cbp": 7534
+   }
+  }
+ ],
+ "_meta": {
+  "as_of": "2026-07-11",
+  "source": "U.S. Immigration and Customs Enforcement (ICE), Detention Management — Integrated Decision Support (IIDS)",
+  "source_url": "https://www.ice.gov/detain/detention-management",
+  "note": "Point-in-time ICE detention snapshots banked from each FY-stats release. _meta.as_of mirrors the newest national_adp snapshot so the freshness canary can discover the date (it scans _meta/top-level scalars, not nested lists)."
+ },
+ "deltas": [
+  {
+   "from": "2026-04-04",
+   "to": "2026-07-11",
+   "detained_total_change": 5454,
+   "detained_total_pct_change": 9.0,
+   "no_conviction_change": 3714,
+   "ice_arrest_change": 6803,
+   "cbp_arrest_change": -1349,
+   "ice_share_pct_from": 85.3,
+   "ice_share_pct_to": 88.5,
+   "cbp_share_pct_from": 14.7,
+   "cbp_share_pct_to": 11.5
+  }
+ ]
+}

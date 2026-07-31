@@ -1,0 +1,151 @@
+﻿table,cat,country,country_en,country_es,first_code,last_code,total_days,months_advanced,months_held,months_retrogressed,months_current
+family_final_action,F1,ALL,All other countries,Todos los demás países,08NOV16,15DEC18,767,4,3,0,0
+family_final_action,F1,CHINA,China (mainland-born),China (continental),08NOV16,15DEC18,767,4,3,0,0
+family_final_action,F1,INDIA,India,India,08NOV16,15DEC18,767,4,3,0,0
+family_final_action,F1,MEXICO,Mexico,México,01SEP06,01DEC07,456,5,2,0,0
+family_final_action,F1,PHILIPPINES,Philippines,Filipinas,01MAR13,01MAY13,61,1,6,0,0
+family_final_action,F2A,ALL,All other countries,Todos los demás países,01FEB24,22JUL26,902,3,4,0,0
+family_final_action,F2A,CHINA,China (mainland-born),China (continental),01FEB24,22JUL26,902,3,4,0,0
+family_final_action,F2A,INDIA,India,India,01FEB24,22JUL26,902,3,4,0,0
+family_final_action,F2A,MEXICO,Mexico,México,01FEB23,22JUL25,902,3,4,0,0
+family_final_action,F2A,PHILIPPINES,Philippines,Filipinas,01FEB24,22JUL26,902,3,4,0,0
+family_final_action,F2B,ALL,All other countries,Todos los demás países,01DEC16,01JAN18,396,4,3,0,0
+family_final_action,F2B,CHINA,China (mainland-born),China (continental),01DEC16,01JAN18,396,4,3,0,0
+family_final_action,F2B,INDIA,India,India,01DEC16,01JAN18,396,4,3,0,0
+family_final_action,F2B,MEXICO,Mexico,México,15NOV08,15FEB09,92,1,6,0,0
+family_final_action,F2B,PHILIPPINES,Philippines,Filipinas,22DEC12,01JUN13,161,3,4,0,0
+family_final_action,F3,ALL,All other countries,Todos los demás países,08SEP11,15MAY12,250,4,3,0,0
+family_final_action,F3,CHINA,China (mainland-born),China (continental),08SEP11,15MAY12,250,4,3,0,0
+family_final_action,F3,INDIA,India,India,08SEP11,15MAY12,250,4,3,0,0
+family_final_action,F3,MEXICO,Mexico,México,01MAY01,01JUL01,61,2,5,0,0
+family_final_action,F3,PHILIPPINES,Philippines,Filipinas,01MAR05,22FEB06,358,3,4,0,0
+family_final_action,F4,ALL,All other countries,Todos los demás países,08JAN08,01SEP09,602,5,2,0,0
+family_final_action,F4,CHINA,China (mainland-born),China (continental),08JAN08,01SEP09,602,5,2,0,0
+family_final_action,F4,INDIA,India,India,01NOV06,01NOV06,0,0,7,0,0
+family_final_action,F4,MEXICO,Mexico,México,08APR01,08APR01,0,0,7,0,0
+family_final_action,F4,PHILIPPINES,Philippines,Filipinas,22JUL06,01AUG07,375,4,3,0,0
+employment_final_action,1st,ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_final_action,1st,CHINA,China (mainland-born),China (continental),01FEB23,01JUL23,150,4,3,0,0
+employment_final_action,1st,INDIA,India,India,01FEB23,15OCT22,-109,2,3,2,0
+employment_final_action,1st,MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_final_action,1st,PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_final_action,2nd,ALL,All other countries,Todos los demás países,01APR24,C,197,1,1,0,4
+employment_final_action,2nd,CHINA,China (mainland-born),China (continental),01SEP21,01SEP21,0,0,7,0,0
+employment_final_action,2nd,INDIA,India,India,15JUL13,U,48,2,2,1,0
+employment_final_action,2nd,MEXICO,Mexico,México,01APR24,C,197,1,1,0,4
+employment_final_action,2nd,PHILIPPINES,Philippines,Filipinas,01APR24,C,197,1,1,0,4
+employment_final_action,3rd,ALL,All other countries,Todos los demás países,22APR23,01SEP24,498,5,2,0,0
+employment_final_action,3rd,CHINA,China (mainland-born),China (continental),01MAY21,01JAN22,245,4,3,0,0
+employment_final_action,3rd,INDIA,India,India,15NOV13,01JAN14,47,2,5,0,0
+employment_final_action,3rd,MEXICO,Mexico,México,22APR23,01SEP24,498,5,2,0,0
+employment_final_action,3rd,PHILIPPINES,Philippines,Filipinas,22APR23,01AUG23,101,2,5,0,0
+employment_final_action,Other Workers,ALL,All other countries,Todos los demás países,01SEP21,01APR22,212,4,3,0,0
+employment_final_action,Other Workers,CHINA,China (mainland-born),China (continental),08DEC18,01MAY19,144,3,4,0,0
+employment_final_action,Other Workers,INDIA,India,India,15NOV13,01JAN14,47,2,5,0,0
+employment_final_action,Other Workers,MEXICO,Mexico,México,01SEP21,01APR22,212,4,3,0,0
+employment_final_action,Other Workers,PHILIPPINES,Philippines,Filipinas,01SEP21,01DEC21,91,2,5,0,0
+employment_final_action,4th,ALL,All other countries,Todos los demás países,01JAN21,15OCT22,652,4,3,0,0
+employment_final_action,4th,CHINA,China (mainland-born),China (continental),01JAN21,15OCT22,652,4,3,0,0
+employment_final_action,4th,INDIA,India,India,01JAN21,15OCT22,652,4,3,0,0
+employment_final_action,4th,MEXICO,Mexico,México,01JAN21,15OCT22,652,4,3,0,0
+employment_final_action,4th,PHILIPPINES,Philippines,Filipinas,01JAN21,15OCT22,652,4,3,0,0
+employment_final_action,Certain Religious Workers,ALL,All other countries,Todos los demás países,01JAN21,15OCT22,457,3,2,0,0
+employment_final_action,Certain Religious Workers,CHINA,China (mainland-born),China (continental),01JAN21,15OCT22,457,3,2,0,0
+employment_final_action,Certain Religious Workers,INDIA,India,India,01JAN21,15OCT22,457,3,2,0,0
+employment_final_action,Certain Religious Workers,MEXICO,Mexico,México,01JAN21,15OCT22,457,3,2,0,0
+employment_final_action,Certain Religious Workers,PHILIPPINES,Philippines,Filipinas,01JAN21,15OCT22,457,3,2,0,0
+employment_final_action,"5th Unreserved (including C5, T5, I5, R5, NU, RU)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_final_action,"5th Unreserved (including C5, T5, I5, R5, NU, RU)",CHINA,China (mainland-born),China (continental),15AUG16,01DEC16,108,3,4,0,0
+employment_final_action,"5th Unreserved (including C5, T5, I5, R5, NU, RU)",INDIA,India,India,01MAY22,U,0,0,5,0,0
+employment_final_action,"5th Unreserved (including C5, T5, I5, R5, NU, RU)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_final_action,"5th Unreserved (including C5, T5, I5, R5, NU, RU)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Rural (20%, including NR, RR)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Rural (20%, including NR, RR)",CHINA,China (mainland-born),China (continental),C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Rural (20%, including NR, RR)",INDIA,India,India,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Rural (20%, including NR, RR)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Rural (20%, including NR, RR)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: High Unemployment (10%, including NH, RH)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: High Unemployment (10%, including NH, RH)",CHINA,China (mainland-born),China (continental),C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: High Unemployment (10%, including NH, RH)",INDIA,India,India,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: High Unemployment (10%, including NH, RH)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: High Unemployment (10%, including NH, RH)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Infrastructure (2%, including RI)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Infrastructure (2%, including RI)",CHINA,China (mainland-born),China (continental),C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Infrastructure (2%, including RI)",INDIA,India,India,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Infrastructure (2%, including RI)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_final_action,"5th Set Aside: Infrastructure (2%, including RI)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+family_dates_for_filing,F1,ALL,All other countries,Todos los demás países,01SEP17,15JUN19,652,4,3,0,0
+family_dates_for_filing,F1,CHINA,China (mainland-born),China (continental),01SEP17,15JUN19,652,4,3,0,0
+family_dates_for_filing,F1,INDIA,India,India,01SEP17,15JUN19,652,4,3,0,0
+family_dates_for_filing,F1,MEXICO,Mexico,México,01SEP07,01DEC08,457,4,3,0,0
+family_dates_for_filing,F1,PHILIPPINES,Philippines,Filipinas,22APR15,22APR15,0,0,7,0,0
+family_dates_for_filing,F2A,ALL,All other countries,Todos los demás países,22DEC25,C,62,2,0,0,4
+family_dates_for_filing,F2A,CHINA,China (mainland-born),China (continental),22DEC25,C,62,2,0,0,4
+family_dates_for_filing,F2A,INDIA,India,India,22DEC25,C,62,2,0,0,4
+family_dates_for_filing,F2A,MEXICO,Mexico,México,22DEC25,C,62,2,0,0,4
+family_dates_for_filing,F2A,PHILIPPINES,Philippines,Filipinas,22DEC25,C,62,2,0,0,4
+family_dates_for_filing,F2B,ALL,All other countries,Todos los demás países,15MAR17,01JAN19,657,5,2,0,0
+family_dates_for_filing,F2B,CHINA,China (mainland-born),China (continental),15MAR17,01JAN19,657,5,2,0,0
+family_dates_for_filing,F2B,INDIA,India,India,15MAR17,01JAN19,657,5,2,0,0
+family_dates_for_filing,F2B,MEXICO,Mexico,México,15NOV09,15MAY10,181,2,5,0,0
+family_dates_for_filing,F2B,PHILIPPINES,Philippines,Filipinas,01OCT13,01OCT13,0,0,7,0,0
+family_dates_for_filing,F3,ALL,All other countries,Todos los demás países,22JUL12,01MAR13,222,3,4,0,0
+family_dates_for_filing,F3,CHINA,China (mainland-born),China (continental),22JUL12,01MAR13,222,3,4,0,0
+family_dates_for_filing,F3,INDIA,India,India,22JUL12,01MAR13,222,3,4,0,0
+family_dates_for_filing,F3,MEXICO,Mexico,México,01JUL01,15JUL01,14,1,6,0,0
+family_dates_for_filing,F3,PHILIPPINES,Philippines,Filipinas,01FEB06,08AUG06,188,3,4,0,0
+family_dates_for_filing,F4,ALL,All other countries,Todos los demás países,01MAR09,22JUN10,478,5,2,0,0
+family_dates_for_filing,F4,CHINA,China (mainland-born),China (continental),01MAR09,22JUN10,478,5,2,0,0
+family_dates_for_filing,F4,INDIA,India,India,15DEC06,15DEC06,0,0,7,0,0
+family_dates_for_filing,F4,MEXICO,Mexico,México,30APR01,30APR01,0,0,7,0,0
+family_dates_for_filing,F4,PHILIPPINES,Philippines,Filipinas,15JAN08,22MAR08,67,1,6,0,0
+employment_dates_for_filing,1st,ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_dates_for_filing,1st,CHINA,China (mainland-born),China (continental),01AUG23,01DEC23,122,1,6,0,0
+employment_dates_for_filing,1st,INDIA,India,India,01AUG23,01DEC23,122,1,6,0,0
+employment_dates_for_filing,1st,MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_dates_for_filing,1st,PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_dates_for_filing,2nd,ALL,All other countries,Todos los demás países,15OCT24,C,0,0,1,0,5
+employment_dates_for_filing,2nd,CHINA,China (mainland-born),China (continental),01JAN22,01JAN22,0,0,7,0,0
+employment_dates_for_filing,2nd,INDIA,India,India,01DEC13,15JAN15,410,2,5,0,0
+employment_dates_for_filing,2nd,MEXICO,Mexico,México,15OCT24,C,0,0,1,0,5
+employment_dates_for_filing,2nd,PHILIPPINES,Philippines,Filipinas,15OCT24,C,0,0,1,0,5
+employment_dates_for_filing,3rd,ALL,All other countries,Todos los demás países,01JUL23,C,198,2,0,0,4
+employment_dates_for_filing,3rd,CHINA,China (mainland-born),China (continental),01JAN22,08JAN22,7,1,6,0,0
+employment_dates_for_filing,3rd,INDIA,India,India,15AUG14,15JAN15,153,1,6,0,0
+employment_dates_for_filing,3rd,MEXICO,Mexico,México,01JUL23,C,198,2,0,0,4
+employment_dates_for_filing,3rd,PHILIPPINES,Philippines,Filipinas,01JUL23,01JAN24,184,2,5,0,0
+employment_dates_for_filing,Other Workers,ALL,All other countries,Todos los demás países,01DEC21,01AUG22,243,2,5,0,0
+employment_dates_for_filing,Other Workers,CHINA,China (mainland-born),China (continental),01OCT19,01OCT19,0,0,7,0,0
+employment_dates_for_filing,Other Workers,INDIA,India,India,15AUG14,15JAN15,153,1,6,0,0
+employment_dates_for_filing,Other Workers,MEXICO,Mexico,México,01DEC21,01AUG22,243,2,5,0,0
+employment_dates_for_filing,Other Workers,PHILIPPINES,Philippines,Filipinas,01DEC21,01AUG22,243,2,5,0,0
+employment_dates_for_filing,4th,ALL,All other countries,Todos los demás países,15MAR21,01JAN23,657,1,6,0,0
+employment_dates_for_filing,4th,CHINA,China (mainland-born),China (continental),15MAR21,01JAN23,657,1,6,0,0
+employment_dates_for_filing,4th,INDIA,India,India,15MAR21,01JAN23,657,1,6,0,0
+employment_dates_for_filing,4th,MEXICO,Mexico,México,15MAR21,01JAN23,657,1,6,0,0
+employment_dates_for_filing,4th,PHILIPPINES,Philippines,Filipinas,15MAR21,01JAN23,657,1,6,0,0
+employment_dates_for_filing,Certain Religious Workers,ALL,All other countries,Todos los demás países,15MAR21,01JAN23,0,0,5,0,0
+employment_dates_for_filing,Certain Religious Workers,CHINA,China (mainland-born),China (continental),15MAR21,01JAN23,0,0,5,0,0
+employment_dates_for_filing,Certain Religious Workers,INDIA,India,India,15MAR21,01JAN23,0,0,5,0,0
+employment_dates_for_filing,Certain Religious Workers,MEXICO,Mexico,México,15MAR21,01JAN23,0,0,5,0,0
+employment_dates_for_filing,Certain Religious Workers,PHILIPPINES,Philippines,Filipinas,15MAR21,01JAN23,0,0,5,0,0
+employment_dates_for_filing,"5th Unreserved (including C5, T5, I5, R5)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Unreserved (including C5, T5, I5, R5)",CHINA,China (mainland-born),China (continental),22AUG16,01MAR17,191,2,5,0,0
+employment_dates_for_filing,"5th Unreserved (including C5, T5, I5, R5)",INDIA,India,India,01MAY24,01MAY24,0,0,7,0,0
+employment_dates_for_filing,"5th Unreserved (including C5, T5, I5, R5)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Unreserved (including C5, T5, I5, R5)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (Rural: NR, RR - 20%)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (Rural: NR, RR - 20%)",CHINA,China (mainland-born),China (continental),C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (Rural: NR, RR - 20%)",INDIA,India,India,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (Rural: NR, RR - 20%)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (Rural: NR, RR - 20%)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (High Unemployment: NH, RH - 10%)",ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (High Unemployment: NH, RH - 10%)",CHINA,China (mainland-born),China (continental),C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (High Unemployment: NH, RH - 10%)",INDIA,India,India,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (High Unemployment: NH, RH - 10%)",MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_dates_for_filing,"5th Set Aside: (High Unemployment: NH, RH - 10%)",PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7
+employment_dates_for_filing,5th Set Aside: (Infrastructure: RI - 2%),ALL,All other countries,Todos los demás países,C,C,0,0,0,0,7
+employment_dates_for_filing,5th Set Aside: (Infrastructure: RI - 2%),CHINA,China (mainland-born),China (continental),C,C,0,0,0,0,7
+employment_dates_for_filing,5th Set Aside: (Infrastructure: RI - 2%),INDIA,India,India,C,C,0,0,0,0,7
+employment_dates_for_filing,5th Set Aside: (Infrastructure: RI - 2%),MEXICO,Mexico,México,C,C,0,0,0,0,7
+employment_dates_for_filing,5th Set Aside: (Infrastructure: RI - 2%),PHILIPPINES,Philippines,Filipinas,C,C,0,0,0,0,7

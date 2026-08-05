@@ -1,5 +1,8 @@
 # US Immigration Data — open datasets from MigrantUSA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21812233.svg)](https://doi.org/10.5281/zenodo.21812233)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Machine-readable time series and reference datasets on US immigration procedure and
 enforcement, maintained by [MigrantUSA](https://migrantusa.com) — a free, bilingual
 (English/Spanish) information site for immigrants living in the United States.
@@ -56,22 +59,29 @@ Use is free under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — 
 adapt, **with attribution**. If you found this useful enough to build on, a citation is
 the whole ask.
 
+**DOI:** [`10.5281/zenodo.21812233`](https://doi.org/10.5281/zenodo.21812233) — this is the
+*concept* DOI and always resolves to the newest version, so a citation using it stays valid
+as the series updates. (Each release also gets its own version DOI;
+`10.5281/zenodo.21812234` is v2026.08.05.)
+
 **APA**
 
 > MigrantUSA Editorial. (2026). *US Immigration Data: open historical datasets on US
-> immigration procedure and enforcement* [Data set].
-> https://github.com/migrantusa/us-immigration-data
+> immigration procedure and enforcement* [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.21812233
 
 **BibTeX**
 
 ```bibtex
-@misc{migrantusa_us_immigration_data,
-  author       = {{MigrantUSA Editorial}},
-  title        = {US Immigration Data: open historical datasets on US
-                  immigration procedure and enforcement},
-  year         = {2026},
-  howpublished = {\url{https://github.com/migrantusa/us-immigration-data}},
-  note         = {Data set. CC BY 4.0}
+@dataset{migrantusa_us_immigration_data,
+  author    = {{MigrantUSA Editorial}},
+  title     = {US Immigration Data: open historical datasets on US
+               immigration procedure and enforcement},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21812233},
+  url       = {https://doi.org/10.5281/zenodo.21812233},
+  note      = {CC BY 4.0}
 }
 ```
 
@@ -82,6 +92,7 @@ the whole ask.
 
 | | |
 |---|---|
+| **DOI (all versions)** | [10.5281/zenodo.21812233](https://doi.org/10.5281/zenodo.21812233) |
 | **Canonical page** | https://migrantusa.com/datasets/ |
 | **Methodology** | https://migrantusa.com/methodology/ |
 | **Machine-readable metadata** | [`CITATION.cff`](CITATION.cff) — GitHub's "Cite this repository" button reads this |

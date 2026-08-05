@@ -18,6 +18,17 @@ authors:
 repository-code: "https://github.com/migrantusa/us-immigration-data"
 url: "https://migrantusa.com/datasets/"
 license: CC-BY-4.0
+# Zenodo CONCEPT DOI — always resolves to the newest version. Do NOT swap in a version
+# DOI (10.5281/zenodo.21812234 is v2026.08.05); the concept DOI is what a citation should
+# point at so the reference stays valid as the series is updated.
+doi: 10.5281/zenodo.21812233
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21812233
+    description: Concept DOI — resolves to the latest version of the dataset
+  - type: doi
+    value: 10.5281/zenodo.21812234
+    description: Version DOI for v2026.08.05
 keywords:
   - immigration
   - United States

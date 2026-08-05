@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-07-29",
+  "verified_on": "2026-08-04",
   "categories": [
    "tps",
    "visas",
@@ -52,6 +52,80 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-08-03",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "E-Verify moves the TPS Form I-9 dates again: Somalia to Aug. 5, Burma to Aug. 7, 2026",
+   "title_es": "E-Verify vuelve a mover las fechas del Formulario I-9 del TPS: Somalia al 5 de agosto y Birmania al 7 de agosto de 2026",
+   "summary_en": "E-Verify posted superseding guidance for Burma (replacing its July 27, 2026 release) and Somalia (replacing July 29, 2026) on the same day. Employment Authorization Documents issued under both designations remain extended per court order -- Aung Doe v. Noem, No. 25-cv-15483 (N.D. Ill.) for Burma and African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) for Somalia -- and both guidance releases still describe the extension as limited relief until the lower courts align with Mullin v. Doe. The Form I-9 Section 2 date employers enter moves from Aug. 3, 2026 to Aug. 5, 2026 for Somalia and to Aug. 7, 2026 for Burma; Section 1 still reads 'as per court order'. With Ethiopia and South Sudan at Aug. 6, 2026, each of the four court-stayed designations now carries a different date. Both USCIS country pages remain live -- neither has been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.",
+   "summary_es": "E-Verify publicó el mismo día guía que reemplaza la anterior para Birmania (la del 27 de julio de 2026) y Somalia (la del 29 de julio de 2026). Los Documentos de Autorización de Empleo emitidos bajo ambas designaciones siguen extendidos por orden judicial -- Aung Doe v. Noem, No. 25-cv-15483 (N.D. Ill.) para Birmania y African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) para Somalia -- y ambas guías siguen describiendo la extensión como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe. La fecha que los empleadores anotan en la Sección 2 del Formulario I-9 pasa del 3 de agosto de 2026 al 5 de agosto de 2026 para Somalia y al 7 de agosto de 2026 para Birmania; la Sección 1 sigue diciendo 'as per court order'. Con Etiopía y Sudán del Sur en el 6 de agosto de 2026, cada una de las cuatro designaciones suspendidas por tribunales queda con una fecha distinta. Las páginas de USCIS de ambos países siguen activas -- ninguna fue trasladada al archivo, el paso que puso en vigor las terminaciones de Haití, Siria y Yemen el 27 de julio de 2026.",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
+   "links_en": [
+    "/datasets/tps-work-permit-status/",
+    "/procedures/tps-by-country/",
+    "/procedures/tps-by-country/somalia/",
+    "/procedures/tps-by-country/burma-myanmar/"
+   ],
+   "links_es": [
+    "/es/datos/estado-permisos-trabajo-tps/",
+    "/es/tramites/tps-por-pais/",
+    "/es/tramites/tps-por-pais/somalia/",
+    "/es/tramites/tps-por-pais/burma-myanmar/"
+   ]
+  },
+  {
+   "date": "2026-08-03",
+   "precision": "day",
+   "category": "visas",
+   "title_en": "DOL publishes updated H-2A Adverse Effect Wage Rates -- effective Aug. 3, 2026 (Aug. 17 for Kansas v. DOL entities)",
+   "title_es": "El DOL publica los Salarios de Efecto Adverso (AEWR) actualizados para H-2A -- vigentes el 3 de agosto de 2026 (17 de agosto para entidades bajo Kansas contra el DOL)",
+   "summary_en": "The Department of Labor's Employment and Training Administration published updated Adverse Effect Wage Rates for H-2A agricultural workers under the OEWS-based methodology of the October 2025 interim final rule (FR Doc. 2026-15673). The updated rates are effective August 3, 2026, except for entities and states subject to the court order in Kansas et al. v. U.S. Department of Labor, 749 F. Supp. 3d 1363 (S.D. Ga. 2024), where they take effect August 17, 2026. When an AEWR update takes effect during a work contract, the employer must pay at least the updated rate from its effective date if it is higher than the applicable required wage.",
+   "summary_es": "La Administración de Empleo y Capacitación del Departamento de Trabajo publicó los Salarios de Efecto Adverso actualizados para trabajadores agrícolas H-2A bajo la metodología basada en OEWS de la regla final provisional de octubre de 2025 (FR Doc. 2026-15673). Las tarifas actualizadas entran en vigor el 3 de agosto de 2026, excepto para las entidades y estados sujetos a la orden judicial en Kansas contra el Departamento de Trabajo de EE.UU., 749 F. Supp. 3d 1363 (S.D. Ga. 2024), donde entran en vigor el 17 de agosto de 2026. Si una actualización del AEWR entra en vigor durante un contrato de trabajo, el empleador debe pagar al menos la tarifa actualizada desde su fecha de vigencia si es más alta que el salario requerido aplicable.",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the",
+   "links_en": [
+    "/immigration-cases/h2a-farmworker-wage-rule-changes/"
+   ],
+   "links_es": [
+    "/es/casos-de-inmigracion/cambios-en-la-regla-de-salarios-de-trabajadores-agricolas-h2a/"
+   ]
+  },
+  {
+   "date": "2026-01-26",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "Texas TDLR begins requiring proof of lawful presence for occupational licenses (agency rule effective May 1, 2026)",
+   "title_es": "El TDLR de Texas empieza a exigir prueba de presencia legal para licencias ocupacionales (regla en vigor el 1 de mayo de 2026)",
+   "summary_en": "Effective Jan. 26, 2026, the Texas Department of Licensing and Regulation requires certain applicants for an initial license or a renewal to submit documentation establishing lawful presence in the United States, citing 8 U.S.C. § 1621; the agency's rule took effect May 1, 2026. Applications remain pending until the documentation is submitted. Texas has never enacted a § 1621(d) opt-out, so this enforces the existing federal default rather than changing the state's classification. State officials told the Texas Tribune (Mar. 24, 2026) that DACA recipients will not qualify.",
+   "summary_es": "Desde el 26 de enero de 2026, el Departamento de Licencias y Regulación de Texas (TDLR) exige a ciertos solicitantes de una licencia inicial o una renovación presentar documentación que establezca presencia legal en Estados Unidos, citando la 8 U.S.C. § 1621; la regla de la agencia entró en vigor el 1 de mayo de 2026. Las solicitudes quedan pendientes hasta que se presente la documentación. Texas nunca aprobó una exención bajo el § 1621(d), así que esto aplica el régimen federal existente en lugar de cambiar la clasificación del estado. Funcionarios estatales dijeron al Texas Tribune (24 de marzo de 2026) que los beneficiarios de DACA no calificarán.",
+   "source_url": "https://www.tdlr.texas.gov/news/2026/01/26/lawful-presence-documentation-requirement/",
+   "affected_pages": [
+    "/datasets/professional-licenses-regardless-of-status-by-state/",
+    "/es/datos/licencias-profesionales-sin-importar-estatus-por-estado/"
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "precision": "day",
+   "category": "work-permits",
+   "title_en": "Ethiopia and South Sudan TPS work-permit dates move to Aug. 6: E-Verify supersedes the July 17 guidance",
+   "title_es": "Las fechas del permiso de trabajo del TPS de Etiopía y Sudán del Sur pasan al 6 de agosto: E-Verify reemplaza la guía del 17 de julio",
+   "summary_en": "On July 30, 2026 E-Verify posted superseding TPS guidance for Ethiopia and South Sudan, whose terminations remain stayed by the District of Massachusetts (African Communities Together v. Noem — Ethiopia No. 26-cv-10278, South Sudan No. 25-cv-13939). EADs issued under both designations remain extended per court order, and the Form I-9 / E-Verify expiration date employers enter moves from July 30 to Aug. 6, 2026. The guidance covers Ethiopia EADs with original expiration dates of June 12, 2024 and December 12, 2025, and South Sudan EADs with original expiration dates of November 3, 2023, May 3, 2025 and November 3, 2025, and describes each extension as limited relief until the lower courts align with Mullin v. Doe. All four court-stayed designations now carry an Aug. 3, 2026 (Burma, Somalia) or Aug. 6, 2026 (Ethiopia, South Sudan) date.",
+   "summary_es": "El 30 de julio de 2026 E-Verify publicó guía de TPS que reemplaza la anterior para Etiopía y Sudán del Sur, cuyas terminaciones siguen suspendidas por el Distrito de Massachusetts (African Communities Together v. Noem — Etiopía No. 26-cv-10278, Sudán del Sur No. 25-cv-13939). Los EAD emitidos bajo ambas designaciones siguen extendidos por orden judicial, y la fecha de vencimiento que los empleadores anotan en el Formulario I-9 / E-Verify pasa del 30 de julio al 6 de agosto de 2026. La guía cubre los EAD de Etiopía con vencimientos originales del 12 de junio de 2024 y el 12 de diciembre de 2025, y los de Sudán del Sur con vencimientos originales del 3 de noviembre de 2023, el 3 de mayo de 2025 y el 3 de noviembre de 2025, y describe cada extensión como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe. Las cuatro designaciones suspendidas por tribunales quedan ahora con fecha del 3 de agosto de 2026 (Birmania, Somalia) o del 6 de agosto de 2026 (Etiopía, Sudán del Sur).",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
+   "affected_pages": [
+    "/procedures/tps-by-country/",
+    "/procedures/tps-by-country/ethiopia/",
+    "/procedures/tps-by-country/south-sudan/",
+    "/datasets/tps-work-permit-status/",
+    "/immigration-cases/tps-termination-litigation/",
+    "/es/tramites/tps-por-pais/",
+    "/es/tramites/tps-por-pais/ethiopia/",
+    "/es/tramites/tps-por-pais/south-sudan/",
+    "/es/datos/estado-permisos-trabajo-tps/",
+    "/es/casos-de-inmigracion/litigio-terminacion-tps/"
+   ]
+  },
   {
    "date": "2026-07-20",
    "precision": "day",

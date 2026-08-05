@@ -5,13 +5,29 @@ enforcement, maintained by [MigrantUSA](https://migrantusa.com) — a free, bili
 (English/Spanish) information site for immigrants living in the United States.
 
 **Why this repo exists:** government sources publish only *today's* version of most of
-this data and silently overwrite it. Our pipelines re-check the sources continuously
-and bank every change, so the history — what changed, when, affecting whom — exists
-here even when the official page no longer shows it.
+this data and overwrite it without notice or archive. These pipelines re-check the
+sources on a schedule and bank each observed change, so the history — what changed,
+when, affecting whom — stays available **in a form the official pages do not provide**.
 
 Every value traces to the official source cited inside each file. Human-readable
 versions, methodology, and more datasets: **https://migrantusa.com/datasets/**
 (Spanish: https://migrantusa.com/es/datos/).
+
+📋 **[What changed recently →](CHANGES.md)** — the dated change record, regenerated daily.
+The datasets are snapshots; the *changes* are the part that exists nowhere else in this
+form, and they are the point of the repo.
+
+**How it is collected:** automated retrieval from primary government sources
+(Federal Register, USCIS, E-Verify, Department of State, ICE, EOIR, DOL), normalized and
+verified against the source before it lands. **How often:** the refresh runs daily
+([`scripts/refresh.py`](scripts/refresh.py) via
+[GitHub Actions](.github/workflows/refresh.yml)); files change only when the sources do,
+and each carries its own as-of date.
+
+**If you are mirroring this data** on a dataset registry or aggregator, please keep
+`https://migrantusa.com/datasets/` as the declared canonical source and cite this repo
+as the origin — it keeps provenance unambiguous when the same series appears in several
+places.
 
 ## Datasets
 
@@ -34,16 +50,51 @@ CSVs are convenience flattenings of the main table in each file.
 monthly); each file's `_meta` carries its own as-of date. Watch releases/commits, or
 subscribe to the human-readable feed: https://migrantusa.com/updates/index.xml
 
-## License & citation
+## Cite this dataset
 
-Data: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/4.0/)
-(CC BY 4.0) — free to use, share, and adapt, **with attribution and a link**.
+Use is free under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and
+adapt, **with attribution**. If you found this useful enough to build on, a citation is
+the whole ask.
 
-> Suggested citation: MigrantUSA, "[dataset name]," github.com/migrantusa/us-immigration-data,
-> retrieved [date]. https://migrantusa.com/datasets/
+**APA**
 
-Note that the underlying facts originate from the cited US government sources; this
-repo's contribution is the curation, normalization, verification, and banked history.
+> MigrantUSA Editorial. (2026). *US Immigration Data: open historical datasets on US
+> immigration procedure and enforcement* [Data set].
+> https://github.com/migrantusa/us-immigration-data
+
+**BibTeX**
+
+```bibtex
+@misc{migrantusa_us_immigration_data,
+  author       = {{MigrantUSA Editorial}},
+  title        = {US Immigration Data: open historical datasets on US
+                  immigration procedure and enforcement},
+  year         = {2026},
+  howpublished = {\url{https://github.com/migrantusa/us-immigration-data}},
+  note         = {Data set. CC BY 4.0}
+}
+```
+
+**Citing a single dataset or a specific change**
+
+> MigrantUSA Editorial. (2026). *[dataset name]*, in *US Immigration Data*. Retrieved
+> [date], from https://migrantusa.com/datasets/
+
+| | |
+|---|---|
+| **Canonical page** | https://migrantusa.com/datasets/ |
+| **Methodology** | https://migrantusa.com/methodology/ |
+| **Machine-readable metadata** | [`CITATION.cff`](CITATION.cff) — GitHub's "Cite this repository" button reads this |
+| **Change record** | [`CHANGES.md`](CHANGES.md) · [`data/change_log.json`](data/change_log.json) |
+| **Downloads** | JSON + CSV per dataset under [`data/`](data/) |
+| **Historical versions** | tagged releases, each a fixed point in the series |
+| **License** | CC BY 4.0 |
+
+⚖️ **What is and is not ours:** the underlying facts originate from the cited US
+government sources and carry no copyright. This repo's contribution — and the thing worth
+citing — is the curation, normalization, verification, and **the banked history**. When a
+claim rests on what a value *used to be*, cite the government source for the fact and this
+record for the change.
 
 ## Contact
 

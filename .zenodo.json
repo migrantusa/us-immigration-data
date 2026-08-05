@@ -1,0 +1,50 @@
+{
+  "title": "US Immigration Data: open historical datasets on US immigration procedure and enforcement",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "description": "<p>Machine-readable historical time series and reference datasets on United States immigration procedure and enforcement, maintained by <a href=\"https://migrantusa.com\">MigrantUSA</a>.</p><p><strong>Why this exists:</strong> the underlying government sources publish the <em>current</em> value of most of this information and overwrite it without notice or archive. These datasets re-check those sources on a schedule and bank each observed change, so the history — what changed, when, and whom it affected — remains available in a form the official pages do not provide.</p><p><strong>Contents:</strong> TPS designation, extension and termination history traced to Federal Register documents (1994–2026); USCIS filing-fee history across 40 forms with each change traced to its rule; month-over-month Visa Bulletin movement across all four tables; active 287(g) agreements with per-agency model and signing date; banked ICE detention statistics releases with computed change between releases; DOJ-recognized free legal-aid provision per immigration court; per-country TPS work-permit (EAD) status and current Form I-9 dates; and a verified dated change log.</p><p><strong>Provenance:</strong> every value cites its official government source inside the file. The datasets are curation, normalization, verification and banked history over public government data; the underlying facts originate with the cited US agencies.</p><p><strong>Formats:</strong> JSON is canonical and carries per-file metadata with source URLs and as-of dates; CSV flattenings are provided for convenience.</p>",
+  "creators": [
+    {
+      "name": "MigrantUSA Editorial"
+    }
+  ],
+  "keywords": [
+    "immigration",
+    "United States",
+    "temporary protected status",
+    "TPS",
+    "USCIS",
+    "visa bulletin",
+    "immigration enforcement",
+    "287(g)",
+    "immigration detention",
+    "immigration court",
+    "EOIR",
+    "legal aid",
+    "open government data",
+    "time series",
+    "administrative data",
+    "public policy"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://migrantusa.com/datasets/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-datapaper",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/migrantusa/us-immigration-data",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://migrantusa.com/methodology/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Data collection is automated and runs daily; each dataset carries its own as-of date in its _meta block. The repository's CHANGES.md renders the recent change record in human-readable form."
+}

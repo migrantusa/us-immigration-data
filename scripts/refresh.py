@@ -163,6 +163,72 @@ def csv_bytes(name, data):
     return buf.getvalue().encode("utf-8-sig"), f"{len(rows)} rows from {path}"
 
 
+CHANGES_MD = os.path.join(ROOT, "CHANGES.md")
+CHANGES_SHOWN = 40
+
+
+def changes_markdown(log):
+    """Render the recent change record as a human-readable page.
+
+    THIS IS THE POINT OF THE REPO, not a by-product. The datasets are snapshots; the
+    citable unit is the DELTA -- what a government source changed, when, from what to
+    what, with the primary source. Agencies publish only the current value and overwrite
+    it, so a maintained record of the changes themselves is the thing that does not exist
+    elsewhere in this form. Someone writing "according to historical USCIS fee data..."
+    needs exactly this, and needs to be able to point at it.
+    """
+    changes = sorted(log.get("changes", []), key=lambda c: c.get("date", ""), reverse=True)
+    meta = log.get("_meta", {}) or {}
+    out = [
+        "# What changed in US immigration data",
+        "",
+        "A dated record of changes to US government immigration data, each verified",
+        "against its primary source. Government agencies publish the *current* value and",
+        "overwrite it; this file keeps the change itself.",
+        "",
+        "**This page is generated** from [`data/change_log.json`](data/change_log.json)",
+        "(machine-readable, with the Spanish text and the affected dataset paths) by",
+        "[`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with",
+        "full context on each entry: <https://migrantusa.com/updates/>",
+        "",
+        f"Showing the {min(CHANGES_SHOWN, len(changes))} most recent of {len(changes)} "
+        "recorded changes."
+        + (f" Source data as of {meta.get('last_updated') or meta.get('as_of')}."
+           if (meta.get("last_updated") or meta.get("as_of")) else ""),
+        "",
+        "---",
+        "",
+    ]
+    for c in changes[:CHANGES_SHOWN]:
+        date = c.get("date", "undated")
+        # `precision` records how exactly the source dated the change; a month-precision
+        # entry must not be rendered as if the source gave a day.
+        if c.get("precision") and c["precision"] != "day":
+            date += f" ({c['precision']} precision)"
+        cat = (c.get("category") or "").upper()
+        out.append(f"### {date}" + (f" · {cat}" if cat else ""))
+        out.append("")
+        out.append(f"**{c.get('title_en','(untitled)')}**")
+        out.append("")
+        if c.get("summary_en"):
+            out.append(c["summary_en"])
+            out.append("")
+        if c.get("source_url"):
+            out.append(f"Primary source: <{c['source_url']}>")
+            out.append("")
+    out += [
+        "---",
+        "",
+        "## Citing a change",
+        "",
+        "Cite the primary government source for the underlying fact, and this record for",
+        "the change history. See [README](README.md#cite-this-dataset) for the citation",
+        "formats and DOI.",
+        "",
+    ]
+    return ("\n".join(out) + "\n").encode("utf-8")
+
+
 def main():
     check_only = "--check" in sys.argv
     os.makedirs(DST, exist_ok=True)
@@ -185,15 +251,22 @@ def main():
         print(f"  fetched {name}.json ({len(raw):,} bytes)"
               + (f" + {name}.csv ({note})" if cb else " (no flat CSV)"))
 
+    # Absolute destinations, so nothing depends on relative-path trickery. CHANGES.md is
+    # derived from change_log and is staged alongside the data, which puts it under the
+    # same all-or-nothing rule.
+    targets = {os.path.join(DST, n): c for n, c in staged.items()}
+    if "change_log.json" in staged:
+        targets[CHANGES_MD] = changes_markdown(
+            json.loads(staged["change_log.json"].decode("utf-8")))
+
     changed = []
-    for fname, content in sorted(staged.items()):
-        p = os.path.join(DST, fname)
-        old = open(p, "rb").read() if os.path.exists(p) else None
+    for path, content in sorted(targets.items()):
+        old = open(path, "rb").read() if os.path.exists(path) else None
         if old == content:
             continue
-        changed.append(fname)
+        changed.append(os.path.relpath(path, ROOT).replace(os.sep, "/"))
         if not check_only:
-            with open(p, "wb") as fh:
+            with open(path, "wb") as fh:
                 fh.write(content)
 
     if not changed:

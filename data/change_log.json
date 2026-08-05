@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-08-04",
+  "verified_on": "2026-08-05",
   "categories": [
    "tps",
    "visas",
@@ -9,7 +9,8 @@
    "expat",
    "education",
    "enforcement",
-   "benefits"
+   "benefits",
+   "procedures"
   ]
  },
  "upcoming": [
@@ -52,6 +53,26 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-08-05",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "USCIS restores full discretion to deny without first sending an RFE or NOID",
+   "title_es": "USCIS restablece la discreción plena para denegar sin enviar primero un RFE o NOID",
+   "summary_en": "USCIS Policy Alert PA-2026-05, issued Aug. 5, 2026 and effective immediately, updates Policy Manual Volume 1 so officers have full discretion to deny a benefit request without first issuing a Request for Evidence or a Notice of Intent to Deny when the initial evidence required by the form instructions is missing, or when the record does not establish eligibility. It applies to requests pending or filed on or after Aug. 5, 2026. The previous policy instructed officers to send an RFE or NOID first. The alert also drops the standard 12-week RFE response period: 8 CFR 103.2(b)(8)(iv) sets 12 weeks as the maximum, not the norm, and officers may now give less, so an RFE deadline can be considerably shorter than the 60-87 days previously typical. A NOID response stays capped at 30 days, mailed notices still add 3 days under 8 CFR 103.8(b), extra time cannot be granted, and the additional 14 days USCIS used to give for notices mailed outside the United States has been eliminated. Refugee and asylum applications are governed by separate regulations and are not covered.",
+   "summary_es": "La Alerta de Política PA-2026-05 de USCIS, emitida el 5 de agosto de 2026 y en vigor de inmediato, actualiza el Volumen 1 del Manual de Políticas para que los oficiales tengan discreción plena de denegar una solicitud de beneficio sin emitir primero una Solicitud de Evidencia (RFE) ni un Aviso de Intención de Denegar (NOID) cuando falta la evidencia inicial que exigen las instrucciones del formulario, o cuando el expediente no demuestra elegibilidad. Aplica a solicitudes pendientes o presentadas a partir del 5 de agosto de 2026. La política anterior instruía a los oficiales a enviar primero un RFE o NOID. La alerta también elimina el plazo estándar de 12 semanas para responder a un RFE: el 8 CFR 103.2(b)(8)(iv) fija las 12 semanas como máximo, no como norma, y los oficiales ahora pueden conceder menos, así que el plazo puede ser bastante más corto que los 60 a 87 días que eran habituales. La respuesta a un NOID sigue con un máximo de 30 días, los avisos por correo aún suman 3 días según el 8 CFR 103.8(b), no se puede conceder tiempo adicional, y se eliminaron los 14 días extra que USCIS daba para avisos enviados fuera de Estados Unidos. Las solicitudes de refugio y asilo se rigen por reglamentos distintos y no están cubiertas.",
+   "source_url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-EvidentiaryStandards.pdf",
+   "links_en": [
+    "/procedures/uscis-notice-codes/i-797e-rfe-request-for-evidence/",
+    "/procedures/uscis-notice-codes/uscis-noid-notice-of-intent-to-deny/",
+    "/procedures/uscis-notice-codes/"
+   ],
+   "links_es": [
+    "/es/tramites/codigos-aviso-uscis/i-797e-rfe-solicitud-de-evidencia/",
+    "/es/tramites/codigos-aviso-uscis/uscis-noid-aviso-de-intencion-de-denegar/",
+    "/es/tramites/codigos-aviso-uscis/"
+   ]
+  },
   {
    "date": "2026-08-03",
    "precision": "day",

@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 58 recorded changes.
+Showing the 40 most recent of 59 recorded changes.
 
 ---
+
+### 2026-08-05 · PROCEDURES
+
+**USCIS restores full discretion to deny without first sending an RFE or NOID**
+
+USCIS Policy Alert PA-2026-05, issued Aug. 5, 2026 and effective immediately, updates Policy Manual Volume 1 so officers have full discretion to deny a benefit request without first issuing a Request for Evidence or a Notice of Intent to Deny when the initial evidence required by the form instructions is missing, or when the record does not establish eligibility. It applies to requests pending or filed on or after Aug. 5, 2026. The previous policy instructed officers to send an RFE or NOID first. The alert also drops the standard 12-week RFE response period: 8 CFR 103.2(b)(8)(iv) sets 12 weeks as the maximum, not the norm, and officers may now give less, so an RFE deadline can be considerably shorter than the 60-87 days previously typical. A NOID response stays capped at 30 days, mailed notices still add 3 days under 8 CFR 103.8(b), extra time cannot be granted, and the additional 14 days USCIS used to give for notices mailed outside the United States has been eliminated. Refugee and asylum applications are governed by separate regulations and are not covered.
+
+Primary source: <https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-EvidentiaryStandards.pdf>
 
 ### 2026-08-03 · TPS
 
@@ -308,14 +316,6 @@ Primary source: <https://www.federalregister.gov/documents/2026/05/20/2026-10082
 Seven court listings (LaSalle and Oakdale LA, Kansas City MO, Otero NM, Guaynabo PR, San Antonio TX, Los Angeles-West CA) showed EOIR headquarters' Falls Church, VA address as the court city. Each was re-verified against its justice.gov page and corrected, in both languages.
 
 Primary source: <https://www.justice.gov/eoir/eoir-immigration-court-listing>
-
-### 2026-06-03 · EDUCATION
-
-**Federal court strikes down Nebraska in-state tuition for undocumented students**
-
-On June 3, 2026, the U.S. District Court for the District of Nebraska struck down LB 239 (2006) as preempted by federal law (8 U.S.C. § 1623) and barred its enforcement, ending in-state tuition for undocumented students immediately; the same ruling revoked their Nebraska Opportunity Grant and ACE Scholarship eligibility. Nebraska joins Texas, Kentucky, and Oklahoma; 19 states plus DC still offer in-state access.
-
-Primary source: <https://nebraskapublicmedia.org/en/news/news-articles/federal-judge-strikes-down-decades-old-nebraska-law-allowing-undocumented-students-to-access-in-state-tuition/>
 
 ---
 

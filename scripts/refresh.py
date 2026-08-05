@@ -150,7 +150,13 @@ def csv_bytes(name, data):
         return None, None
     import io
     buf = io.StringIO(newline="")
-    w = csv.DictWriter(buf, fieldnames=fields, extrasaction="ignore")
+    # ⚠️ lineterminator MUST be pinned. csv defaults to "\r\n", git normalises committed
+    # text to "\n", so a Linux runner regenerated CRLF, diffed it against the stored LF
+    # and committed all 7 CSVs on every run -- a daily no-value commit that destroyed the
+    # log's value as a record of what actually moved. Pinned to "\n" and reinforced by
+    # .gitattributes (`data/** -text`) so no checkout rewrites these bytes either.
+    w = csv.DictWriter(buf, fieldnames=fields, extrasaction="ignore",
+                       lineterminator="\n")
     w.writeheader()
     for r in rows:
         w.writerow({k: v for k, v in r.items() if not isinstance(v, (dict, list))})

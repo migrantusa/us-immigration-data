@@ -1,0 +1,10 @@
+# Data files are bytes, not text — git must never rewrite their line endings.
+#
+# Without this, committing from Windows normalises CRLF to LF in the repo while the
+# Linux refresh runner regenerates CRLF, so every scheduled run saw all 7 CSVs as
+# "changed" and committed them. That fired once (b7dd39b) before it was caught. The
+# generator now pins lineterminator="\n"; this makes the guarantee independent of who
+# runs it and from which platform.
+data/**  -text
+*.csv    -text
+*.json   -text

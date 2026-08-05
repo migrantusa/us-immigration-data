@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "US Immigration Data — open datasets on US immigration procedure and enforcement"
+abstract: >-
+  Machine-readable time series and reference datasets on United States immigration
+  procedure and enforcement. Government sources publish only the current version of most
+  of this information and overwrite it without notice; these datasets bank each observed
+  change, so the history — what changed, when, and whom it affected — remains available
+  after the official page no longer shows it. Contents include TPS designation history
+  (1994–2026), USCIS fee history across 40 forms, month-over-month Visa Bulletin
+  movement, 287(g) agreements with per-agency signing dates, banked ICE detention
+  population snapshots, DOJ-recognized legal-aid provision by immigration court, and a
+  verified change log. Every value cites its official source inside the file.
+type: dataset
+message: "If you use these datasets, please cite them as below."
+authors:
+  - name: "MigrantUSA Editorial"
+    website: "https://migrantusa.com"
+repository-code: "https://github.com/migrantusa/us-immigration-data"
+url: "https://migrantusa.com/datasets/"
+license: CC-BY-4.0
+keywords:
+  - immigration
+  - United States
+  - temporary protected status
+  - USCIS
+  - visa bulletin
+  - immigration enforcement
+  - 287(g)
+  - immigration detention
+  - immigration court
+  - open data
+  - time series

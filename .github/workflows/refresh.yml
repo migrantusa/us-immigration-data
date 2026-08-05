@@ -1,0 +1,54 @@
+name: Refresh datasets
+
+# WHY: this repo's value is the MAINTAINED SERIES, not the data. It shipped 2026-07-31,
+# sat at one commit for five days, and its README's promise ("our pipelines bank every
+# change") quietly became untrue. A citation asset that stops updating stops being one.
+#
+# Pulls from the PUBLIC dataset URLs on migrantusa.com, so this needs no cross-repo
+# token -- only the default GITHUB_TOKEN to commit back here.
+#
+# Blast radius is bounded deliberately: unattended automation is what got migrantusa
+# delisted from Bing in July. This job writes only under data/, aborts rather than
+# committing a partial refresh, refuses any file that shrank by more than half, touches
+# no website page, and pings no search engine.
+
+on:
+  schedule:
+    - cron: '41 21 * * *'      # daily 21:41 UTC — after the site's 20:23 UTC data cron
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch published datasets and rebuild CSVs
+        run: python scripts/refresh.py
+
+      - name: Commit if anything changed
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "no drift — nothing to commit"
+            exit 0
+          fi
+          git config user.name  "MigrantUSA Editorial"
+          git config user.email "info@migrantusa.com"
+          git add data/
+          # Name the changed datasets in the message so the commit log doubles as a
+          # human-readable record of what moved and when.
+          CHANGED=$(git diff --cached --name-only \
+                    | sed 's|data/||; s|\.json$||; s|\.csv$||' | sort -u | paste -sd', ')
+          git commit -m "data: scheduled refresh — ${CHANGED}"
+          git push

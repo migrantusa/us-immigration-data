@@ -56,6 +56,28 @@
   {
    "date": "2026-08-05",
    "precision": "day",
+   "category": "tps",
+   "title_en": "E-Verify moves the TPS Somalia Form I-9 date again: Aug. 5 to Aug. 10, 2026",
+   "title_es": "E-Verify vuelve a mover la fecha del Formulario I-9 del TPS de Somalia: del 5 al 10 de agosto de 2026",
+   "summary_en": "E-Verify posted superseding Somalia guidance on Aug. 5, 2026, replacing its Aug. 3, 2026 release. Employment Authorization Documents issued under the Somalia designation remain extended per court order -- African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) -- and the guidance still describes the extension as limited relief until the lower courts align with Mullin v. Doe. The Form I-9 Section 2 date employers enter moves from Aug. 5, 2026 to Aug. 10, 2026; Section 1 still reads 'as per court order'. The five-day step makes Somalia the last of the four court-stayed designations to come due rather than the first -- Ethiopia and South Sudan (Aug. 6, 2026) and Burma (Aug. 7, 2026) now fall before it. The USCIS Somalia country page remains live; it has not been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.",
+   "summary_es": "E-Verify publicó el 5 de agosto de 2026 guía de Somalia que reemplaza su publicación del 3 de agosto de 2026. Los Documentos de Autorización de Empleo emitidos bajo la designación de Somalia siguen extendidos por orden judicial -- African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) -- y la guía sigue describiendo la extensión como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe. La fecha que los empleadores anotan en la Sección 2 del Formulario I-9 pasa del 5 de agosto de 2026 al 10 de agosto de 2026; la Sección 1 sigue diciendo 'as per court order'. El salto de cinco días convierte a Somalia en la última de las cuatro designaciones suspendidas por tribunales en vencer, en vez de la primera -- Etiopía y Sudán del Sur (6 de agosto de 2026) y Birmania (7 de agosto de 2026) quedan antes. La página de país de Somalia en USCIS sigue activa; no fue trasladada al archivo, el paso que puso en vigor las terminaciones de Haití, Siria y Yemen el 27 de julio de 2026.",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-5",
+   "links_en": [
+    "/datasets/tps-work-permit-status/",
+    "/procedures/tps-by-country/",
+    "/procedures/tps-by-country/somalia/",
+    "/immigration-cases/tps-termination-litigation/"
+   ],
+   "links_es": [
+    "/es/datos/estado-permisos-trabajo-tps/",
+    "/es/tramites/tps-por-pais/",
+    "/es/tramites/tps-por-pais/somalia/",
+    "/es/casos-de-inmigracion/litigio-terminacion-tps/"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "precision": "day",
    "category": "procedures",
    "title_en": "USCIS restores full discretion to deny without first sending an RFE or NOID",
    "title_es": "USCIS restablece la discreción plena para denegar sin enviar primero un RFE o NOID",

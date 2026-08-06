@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 59 recorded changes.
+Showing the 40 most recent of 60 recorded changes.
 
 ---
+
+### 2026-08-05 · TPS
+
+**E-Verify moves the TPS Somalia Form I-9 date again: Aug. 5 to Aug. 10, 2026**
+
+E-Verify posted superseding Somalia guidance on Aug. 5, 2026, replacing its Aug. 3, 2026 release. Employment Authorization Documents issued under the Somalia designation remain extended per court order -- African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) -- and the guidance still describes the extension as limited relief until the lower courts align with Mullin v. Doe. The Form I-9 Section 2 date employers enter moves from Aug. 5, 2026 to Aug. 10, 2026; Section 1 still reads 'as per court order'. The five-day step makes Somalia the last of the four court-stayed designations to come due rather than the first -- Ethiopia and South Sudan (Aug. 6, 2026) and Burma (Aug. 7, 2026) now fall before it. The USCIS Somalia country page remains live; it has not been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-5>
 
 ### 2026-08-05 · PROCEDURES
 
@@ -308,14 +316,6 @@ Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-
 Our immigration-court state pages said EOIR operates 71 courts with 700+ judges; EOIR's own hearing-access list covers 77 court locations, and the judge count was unsourced. The same pages garbled the H.R.1 in-absentia arrest fee: it is $5,130 after the 2026 inflation adjustment (originally $5,000), and proposed rule 2026-10082 (May 20, 2026) would raise it to $18,000 but is not in effect.
 
 Primary source: <https://www.federalregister.gov/documents/2026/05/20/2026-10082/increasing-the-fee-for-certain-aliens-ordered-removed-in-absentia-as-established-by-the-hr-1>
-
-### 2026-06-12 · CORRECTION
-
-**Correction: 7 immigration-court addresses fixed on our by-state pages**
-
-Seven court listings (LaSalle and Oakdale LA, Kansas City MO, Otero NM, Guaynabo PR, San Antonio TX, Los Angeles-West CA) showed EOIR headquarters' Falls Church, VA address as the court city. Each was re-verified against its justice.gov page and corrected, in both languages.
-
-Primary source: <https://www.justice.gov/eoir/eoir-immigration-court-listing>
 
 ---
 

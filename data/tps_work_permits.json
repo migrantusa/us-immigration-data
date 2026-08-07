@@ -2,11 +2,11 @@
   "_meta": {
     "title_en": "TPS work-permit status by country — what changed after the June 25, 2026 Supreme Court ruling",
     "title_es": "Estado de los permisos de trabajo del TPS por país — qué cambió tras el fallo de la Corte Suprema del 25 de junio de 2026",
-    "as_of": "2026-08-05",
-    "last_checked": "2026-08-05",
+    "as_of": "2026-08-07",
+    "last_checked": "2026-08-07",
     "ruling": "Mullin v. Doe (Nos. 25-1083 / 25-1084), decided June 25, 2026, 6-3 (Alito) — the Supreme Court held that the immigration statute bars judicial review of the Secretary's TPS termination decisions.",
     "ruling_url": "https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf",
-    "source": "USCIS TPS country pages, the Federal Register termination/extension notices cited per country, and the E-Verify per-country TPS guidance. On July 27, 2026 USCIS archived the Haiti, Syria and Yemen TPS pages; E-Verify guidance issued July 29, 2026 confirms those three terminations are in force (Haiti and Syria effective July 27, 2026; Yemen effective July 20, 2026) and that A12/C19 EADs issued under them are no longer valid, so employers must reverify. Four designations remain court-stayed with EADs extended per court order — employers enter Aug. 6, 2026 for Ethiopia and South Sudan (July 30, 2026 guidance), Aug. 7, 2026 for Burma (Aug. 3, 2026 guidance) and Aug. 10, 2026 for Somalia (superseding Aug. 5, 2026 guidance) on Form I-9. Population estimates from the National Immigration Forum TPS fact sheet.",
+    "source": "USCIS TPS country pages, the Federal Register termination/extension notices cited per country, and the E-Verify per-country TPS guidance. On July 27, 2026 USCIS archived the Haiti, Syria and Yemen TPS pages; E-Verify guidance issued July 29, 2026 confirms those three terminations are in force (Haiti and Syria effective July 27, 2026; Yemen effective July 20, 2026) and that A12/C19 EADs issued under them are no longer valid, so employers must reverify. Four designations remain court-stayed with EADs extended per court order — employers enter Aug. 7, 2026 for Burma (Aug. 3, 2026 guidance), Aug. 10, 2026 for South Sudan and Somalia (Aug. 6 and Aug. 5, 2026 guidance) and Aug. 19, 2026 for Ethiopia (Aug. 6, 2026 guidance) on Form I-9. Population estimates from the National Immigration Forum TPS fact sheet.",
     "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status",
     "designation_count": 15,
     "active_count": 4,
@@ -18,12 +18,12 @@
     "jul1_people_source": "https://forumtogether.org/article/temporary-protected-status-fact-sheet/",
     "haiti_people": 330735,
     "syria_people": 3860,
-    "everify_guidance_date": "2026-08-05",
-    "i9_expiration_date": "2026-08-06",
-    "i9_expiration_fmt_en": "Aug. 6, 2026 (Ethiopia, South Sudan) · Aug. 7, 2026 (Burma) · Aug. 10, 2026 (Somalia)",
-    "i9_expiration_fmt_es": "6 de agosto de 2026 (Etiopía, Sudán del Sur) · 7 de agosto de 2026 (Birmania) · 10 de agosto de 2026 (Somalia)",
-    "headline_en": "On July 27, 2026 USCIS <strong>archived</strong> the Haiti, Syria and Yemen TPS pages, and E-Verify guidance issued <strong>July 29, 2026</strong> confirms those terminations are in force (Haiti and Syria effective July 27, 2026; Yemen effective July 20, 2026): A12/C19 EADs issued under them are <strong>no longer valid</strong> and employers must reverify, ending the court-order work-permit extension for roughly <strong>334,595</strong> Haitian and Syrian holders. <strong>Four</strong> designations are still court-stayed with EADs extended per court order, and the Form I-9 date now runs separately for each: <strong>Aug. 6, 2026</strong> for Ethiopia and South Sudan, <strong>Aug. 7, 2026</strong> for Burma, and <strong>Aug. 10, 2026</strong> for Somalia. Superseding <strong>Aug. 5, 2026</strong> guidance moved Somalia from Aug. 5 to Aug. 10, making it the latest of the four rather than the earliest.",
-    "headline_es": "El 27 de julio de 2026 USCIS <strong>archivó</strong> las páginas de TPS de Haití, Siria y Yemen, y la guía de E-Verify del <strong>29 de julio de 2026</strong> confirma que esas terminaciones están en vigor (Haití y Siria con efecto el 27 de julio de 2026; Yemen el 20 de julio de 2026): los EAD con categoría A12 o C19 emitidos bajo ellas <strong>ya no son válidos</strong> y los empleadores deben reverificar, lo que termina la extensión del permiso de trabajo por orden judicial para unos <strong>334,595</strong> titulares haitianos y sirios. Quedan <strong>cuatro</strong> designaciones suspendidas por tribunales con EAD extendidos por orden judicial, y la fecha del Formulario I-9 ahora corre por separado para cada una: <strong>6 de agosto de 2026</strong> para Etiopía y Sudán del Sur, <strong>7 de agosto de 2026</strong> para Birmania, y <strong>10 de agosto de 2026</strong> para Somalia. La guía del <strong>5 de agosto de 2026</strong> que reemplaza la anterior movió a Somalia del 5 al 10 de agosto, con lo que pasa a ser la más tardía de las cuatro en vez de la más próxima."
+    "everify_guidance_date": "2026-08-06",
+    "i9_expiration_date": "2026-08-07",
+    "i9_expiration_fmt_en": "Aug. 7, 2026 (Burma) — Aug. 10, 2026 (South Sudan, Somalia) — Aug. 19, 2026 (Ethiopia)",
+    "i9_expiration_fmt_es": "7 de agosto de 2026 (Birmania) — 10 de agosto de 2026 (Sudán del Sur, Somalia) — 19 de agosto de 2026 (Etiopía)",
+    "headline_en": "On July 27, 2026 USCIS <strong>archived</strong> the Haiti, Syria and Yemen TPS pages, and E-Verify guidance issued <strong>July 29, 2026</strong> confirms those terminations are in force (Haiti and Syria effective July 27, 2026; Yemen effective July 20, 2026): A12/C19 EADs issued under them are <strong>no longer valid</strong> and employers must reverify, ending the court-order work-permit extension for roughly <strong>334,595</strong> Haitian and Syrian holders. <strong>Four</strong> designations are still court-stayed with EADs extended per court order, and the Form I-9 dates now run: <strong>Aug. 7, 2026</strong> for Burma, <strong>Aug. 10, 2026</strong> for South Sudan and Somalia, and <strong>Aug. 19, 2026</strong> for Ethiopia. Superseding <strong>Aug. 6, 2026</strong> guidance moved Ethiopia from Aug. 6 to Aug. 19 — a 13-day step that makes it the furthest out of the four — and South Sudan from Aug. 6 to Aug. 10, the same day as Somalia; Burma’s Aug. 7 date is now the nearest.",
+    "headline_es": "El 27 de julio de 2026 USCIS <strong>archivó</strong> las páginas de TPS de Haití, Siria y Yemen, y la guía de E-Verify del <strong>29 de julio de 2026</strong> confirma que esas terminaciones están en vigor (Haití y Siria con efecto el 27 de julio de 2026; Yemen el 20 de julio de 2026): los EAD con categoría A12 o C19 emitidos bajo ellas <strong>ya no son válidos</strong> y los empleadores deben reverificar, lo que termina la extensión del permiso de trabajo por orden judicial para unos <strong>334,595</strong> titulares haitianos y sirios. Quedan <strong>cuatro</strong> designaciones suspendidas por tribunales con EAD extendidos por orden judicial, y las fechas del Formulario I-9 ahora son: <strong>7 de agosto de 2026</strong> para Birmania, <strong>10 de agosto de 2026</strong> para Sudán del Sur y Somalia, y <strong>19 de agosto de 2026</strong> para Etiopía. La guía del <strong>6 de agosto de 2026</strong> que reemplaza la anterior movió a Etiopía del 6 al 19 de agosto — un salto de 13 días que la deja como la más lejana de las cuatro — y a Sudán del Sur del 6 al 10 de agosto, el mismo día que Somalia; la fecha de Birmania del 7 de agosto es ahora la más próxima."
   },
   "countries": {
     "el-salvador": {
@@ -231,32 +231,32 @@
       "name_en": "Ethiopia",
       "name_es": "Etiopía",
       "category": "terminated_stayed",
-      "work_permit_en": "Extended per court order — July 30, 2026 USCIS/E-Verify guidance (superseding July 17) tells employers to enter Aug. 6, 2026 on Form I-9 / E-Verify. The guidance calls this limited relief until the lower courts align with Mullin v. Doe",
-      "work_permit_es": "Extendido por orden judicial — la guía de USCIS/E-Verify del 30 de julio de 2026 (que reemplaza la del 17 de julio) indica a los empleadores anotar el 6 de agosto de 2026 en el Formulario I-9 / E-Verify. La guía lo describe como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe",
-      "key_date": "2026-08-06",
+      "work_permit_en": "Extended per court order — Aug. 6, 2026 USCIS/E-Verify guidance (superseding July 30) tells employers to enter Aug. 19, 2026 on Form I-9 / E-Verify. The guidance calls this limited relief until the lower courts align with Mullin v. Doe",
+      "work_permit_es": "Extendido por orden judicial — la guía de USCIS/E-Verify del 6 de agosto de 2026 (que reemplaza la del 30 de julio) indica a los empleadores anotar el 19 de agosto de 2026 en el Formulario I-9 / E-Verify. La guía lo describe como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe",
+      "key_date": "2026-08-19",
       "fr_cite": "90 FR 58028",
       "docket": "African Communities Together v. Noem, No. 26-cv-10278 (D. Mass.)",
       "people_affected": null,
       "people_fmt": null,
       "people_source": null,
       "uscis_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-ethiopia",
-      "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-ethiopia-release-4"
+      "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-ethiopia-release-5"
     },
     "south-sudan": {
       "sort": 14,
       "name_en": "South Sudan",
       "name_es": "Sudán del Sur",
       "category": "terminated_stayed",
-      "work_permit_en": "Extended per court order — July 30, 2026 USCIS/E-Verify guidance (superseding July 17) tells employers to enter Aug. 6, 2026 on Form I-9 / E-Verify. The guidance calls this limited relief until the lower courts align with Mullin v. Doe",
-      "work_permit_es": "Extendido por orden judicial — la guía de USCIS/E-Verify del 30 de julio de 2026 (que reemplaza la del 17 de julio) indica a los empleadores anotar el 6 de agosto de 2026 en el Formulario I-9 / E-Verify. La guía lo describe como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe",
-      "key_date": "2026-08-06",
+      "work_permit_en": "Extended per court order — Aug. 6, 2026 USCIS/E-Verify guidance (superseding July 30) tells employers to enter Aug. 10, 2026 on Form I-9 / E-Verify. The guidance calls this limited relief until the lower courts align with Mullin v. Doe",
+      "work_permit_es": "Extendido por orden judicial — la guía de USCIS/E-Verify del 6 de agosto de 2026 (que reemplaza la del 30 de julio) indica a los empleadores anotar el 10 de agosto de 2026 en el Formulario I-9 / E-Verify. La guía lo describe como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe",
+      "key_date": "2026-08-10",
       "fr_cite": "90 FR 50484",
       "docket": "African Communities Together v. Noem, No. 25-cv-13939 (D. Mass.)",
       "people_affected": null,
       "people_fmt": null,
       "people_source": null,
       "uscis_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-south-sudan",
-      "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-south-sudan-3"
+      "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-south-sudan-4"
     }
   }
 }

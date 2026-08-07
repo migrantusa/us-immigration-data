@@ -56,6 +56,30 @@
   {
    "date": "2026-08-05",
    "precision": "day",
+   "category": "asylum",
+   "title_en": "Court splits the H.R.1 ruling: asylum-fee rejection and removal stay blocked; the TPS work-permit cap stands",
+   "title_es": "La corte divide el fallo sobre la H.R.1: siguen bloqueados el rechazo y la remoción por la cuota de asilo; queda en pie el tope de permisos de trabajo por TPS",
+   "summary_en": "On Aug. 5, 2026, the federal court in Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) replaced its July 21 administrative stay with a longer-term ruling. Stayed nationwide while the case proceeds: the rule provisions letting USCIS reject a pending Form I-589 or initiate removal solely for non-payment of the Annual Asylum Fee. Denied: the challenge to H.R.1’s one-year cap on TPS-based work permits — previously-extended TPS EADs no longer keep their prior expiration dates. The fee itself remains payable, and published summaries of the order do not list work-authorization termination among the stayed provisions — verify current USCIS guidance on that point. The plaintiffs appealed to the First Circuit on Aug. 6, 2026.",
+   "summary_es": "El 5 de agosto de 2026, el tribunal federal en Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) reemplazó su suspensión administrativa del 21 de julio con un fallo de más largo plazo. Suspendido a nivel nacional mientras avanza el caso: las disposiciones de la regla que permitían a USCIS rechazar un Formulario I-589 pendiente o iniciar la remoción únicamente por no pagar la Tarifa Anual de Asilo. Denegado: el reclamo contra el tope de un año de la H.R.1 para los permisos de trabajo basados en TPS — los EAD de TPS ya prorrogados ya no conservan su fecha de vencimiento anterior. La cuota en sí sigue siendo pagadera, y los resúmenes publicados de la orden no mencionan la cancelación de la autorización de trabajo entre lo suspendido — verifique la guía vigente de USCIS en ese punto. Los demandantes apelaron ante el Primer Circuito el 6 de agosto de 2026.",
+   "source_url": "https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/",
+   "link_en": "/procedures/asylum-annual-fee/",
+   "link_es": "/es/tramites/cuota-anual-de-asilo/"
+  },
+  {
+   "date": "2026-08-06",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "E-Verify moves two more TPS Form I-9 dates: Ethiopia to Aug. 19, South Sudan to Aug. 10, 2026",
+   "title_es": "E-Verify mueve dos fechas más del Formulario I-9 del TPS: Etiopía al 19 de agosto y Sudán del Sur al 10 de agosto de 2026",
+   "summary_en": "E-Verify posted superseding guidance for Ethiopia and South Sudan on Aug. 6, 2026 — the day their shared Form I-9 date came due — each replacing a July 30, 2026 release. Employment Authorization Documents under both designations remain extended per court order — African Communities Together v. Noem (Ethiopia: No. 26-cv-10278-BEM; South Sudan: No. 25-cv-13939-PBS, both D. Mass.) — and the guidance still describes the extension as limited relief until the lower courts align with Mullin v. Doe. South Sudan's Section 2 date moves from Aug. 6 to Aug. 10, 2026, the same day as Somalia; Ethiopia's moves from Aug. 6 to Aug. 19, 2026, a 13-day step that makes it the furthest out of the four court-stayed designations. Section 1 still reads 'as per court order'. Neither USCIS country page has been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.",
+   "summary_es": "E-Verify publicó el 6 de agosto de 2026 — el mismo día en que vencía su fecha compartida del Formulario I-9 — guía que reemplaza la del 30 de julio de 2026 para Etiopía y Sudán del Sur. Los Documentos de Autorización de Empleo bajo ambas designaciones siguen extendidos por orden judicial — African Communities Together v. Noem (Etiopía: No. 26-cv-10278-BEM; Sudán del Sur: No. 25-cv-13939-PBS, ambos D. Mass.) — y la guía sigue describiendo la extensión como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe. La fecha de la Sección 2 de Sudán del Sur pasa del 6 al 10 de agosto de 2026, el mismo día que Somalia; la de Etiopía pasa del 6 al 19 de agosto de 2026, un salto de 13 días que la deja como la más lejana de las cuatro designaciones suspendidas por tribunales. La Sección 1 sigue leyendo “as per court order”. Ninguna de las dos páginas de país de USCIS ha sido trasladada al archivo, el paso que puso en vigor las terminaciones de Haití, Siria y Yemen el 27 de julio de 2026.",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/"
+  },
+  {
+   "date": "2026-08-05",
+   "precision": "day",
    "category": "tps",
    "title_en": "E-Verify moves the TPS Somalia Form I-9 date again: Aug. 5 to Aug. 10, 2026",
    "title_es": "E-Verify vuelve a mover la fecha del Formulario I-9 del TPS de Somalia: del 5 al 10 de agosto de 2026",

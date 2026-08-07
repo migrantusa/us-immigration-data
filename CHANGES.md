@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 60 recorded changes.
+Showing the 40 most recent of 62 recorded changes.
 
 ---
+
+### 2026-08-06 · TPS
+
+**E-Verify moves two more TPS Form I-9 dates: Ethiopia to Aug. 19, South Sudan to Aug. 10, 2026**
+
+E-Verify posted superseding guidance for Ethiopia and South Sudan on Aug. 6, 2026 — the day their shared Form I-9 date came due — each replacing a July 30, 2026 release. Employment Authorization Documents under both designations remain extended per court order — African Communities Together v. Noem (Ethiopia: No. 26-cv-10278-BEM; South Sudan: No. 25-cv-13939-PBS, both D. Mass.) — and the guidance still describes the extension as limited relief until the lower courts align with Mullin v. Doe. South Sudan's Section 2 date moves from Aug. 6 to Aug. 10, 2026, the same day as Somalia; Ethiopia's moves from Aug. 6 to Aug. 19, 2026, a 13-day step that makes it the furthest out of the four court-stayed designations. Section 1 still reads 'as per court order'. Neither USCIS country page has been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
+
+### 2026-08-05 · ASYLUM
+
+**Court splits the H.R.1 ruling: asylum-fee rejection and removal stay blocked; the TPS work-permit cap stands**
+
+On Aug. 5, 2026, the federal court in Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) replaced its July 21 administrative stay with a longer-term ruling. Stayed nationwide while the case proceeds: the rule provisions letting USCIS reject a pending Form I-589 or initiate removal solely for non-payment of the Annual Asylum Fee. Denied: the challenge to H.R.1’s one-year cap on TPS-based work permits — previously-extended TPS EADs no longer keep their prior expiration dates. The fee itself remains payable, and published summaries of the order do not list work-authorization termination among the stayed provisions — verify current USCIS guidance on that point. The plaintiffs appealed to the First Circuit on Aug. 6, 2026.
+
+Primary source: <https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
 
 ### 2026-08-05 · TPS
 
@@ -300,22 +316,6 @@ Primary source: <https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-
 We added Mexico's official consular jurisdictions (SRE master list cross-checked against each consulate's own circunscripción page) — 53 offices, county-by-county for split states. Three errors fixed in the process: our Anchorage page described a consulate that closed in November 2015 (Alaska belongs to Seattle); the New Brunswick consulate's address is 390 George Street, Suite 100 (not 100 Bayard Street); and the directory counted 55 offices when the network is 52 (51 consulates plus the embassy's consular section, including Oklahoma City and San Juan).
 
 Primary source: <https://www.gob.mx/sre/documentos/list-of-mexican-consulates-in-the-united-states>
-
-### 2026-06-12 · CORRECTION
-
-**Correction: EOIR delisted 3 adjudication centers (74 locations); state court listings fixed**
-
-EOIR's hearing-access page now lists 74 court locations (the Falls Church, Richmond and Fort Worth adjudication centers were delisted). We also fixed state pages against the live list: Georgia was missing both Atlanta courts, Texas was missing El Paso SPC, Pennsylvania showed a nonexistent Pittsburgh court, and Alaska showed a nonexistent Anchorage court. Per EOIR's administrative control list, the Boise, Helena and Anchorage DHS offices are assigned to Portland, OR, and West Virginia to Philadelphia, PA.
-
-Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings>
-
-### 2026-06-12 · CORRECTION
-
-**Correction: EOIR court count and in-absentia fee updated on 104 court pages**
-
-Our immigration-court state pages said EOIR operates 71 courts with 700+ judges; EOIR's own hearing-access list covers 77 court locations, and the judge count was unsourced. The same pages garbled the H.R.1 in-absentia arrest fee: it is $5,130 after the 2026 inflation adjustment (originally $5,000), and proposed rule 2026-10082 (May 20, 2026) would raise it to $18,000 but is not in effect.
-
-Primary source: <https://www.federalregister.gov/documents/2026/05/20/2026-10082/increasing-the-fee-for-certain-aliens-ordered-removed-in-absentia-as-established-by-the-hr-1>
 
 ---
 

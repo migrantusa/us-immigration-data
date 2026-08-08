@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 62 recorded changes.
+Showing the 40 most recent of 63 recorded changes.
 
 ---
+
+### 2026-08-07 · TPS
+
+**Burma (Myanmar) and South Sudan TPS terminated, effective Aug. 7, 2026 — A12/C19 work permits no longer valid**
+
+On Aug. 7, 2026 USCIS archived the Burma (Myanmar) and South Sudan TPS country pages, and E-Verify guidance issued the same day states both designations are terminated, effective Aug. 7, 2026 (Burma: 90 FR 53378; South Sudan: 90 FR 50484). Form I-766 EADs with category A12 or C19 issued under them are no longer valid, and employers must reverify those employees. South Sudan was terminated three days before the Aug. 10 Form I-9 date its Aug. 6 guidance had promised. Two designations remain court-stayed with EADs extended per court order: Somalia (I-9 date Aug. 10, 2026) and Ethiopia (Aug. 19, 2026).
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-burma-release-aug>
 
 ### 2026-08-06 · TPS
 
@@ -308,14 +316,6 @@ Primary source: <https://www.census.gov/programs-surveys/acs>
 The IRS Free File guided-software income cap is $89,000 in adjusted gross income (up from $79,000) for the 2026 filing season. We updated the figure across every state's free-tax-help guide and the tax-software comparison; your ITIN is accepted, and the free return covers your federal taxes (some partners also include a free state return).
 
 Primary source: <https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free>
-
-### 2026-06-12 · CORRECTION
-
-**Correction: Mexico consulate directory — official county-level jurisdictions added; Anchorage page removed (closed since 2015)**
-
-We added Mexico's official consular jurisdictions (SRE master list cross-checked against each consulate's own circunscripción page) — 53 offices, county-by-county for split states. Three errors fixed in the process: our Anchorage page described a consulate that closed in November 2015 (Alaska belongs to Seattle); the New Brunswick consulate's address is 390 George Street, Suite 100 (not 100 Bayard Street); and the directory counted 55 offices when the network is 52 (51 consulates plus the embassy's consular section, including Oklahoma City and San Juan).
-
-Primary source: <https://www.gob.mx/sre/documentos/list-of-mexican-consulates-in-the-united-states>
 
 ---
 

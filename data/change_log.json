@@ -54,6 +54,18 @@
  ],
  "changes": [
   {
+   "date": "2026-08-07",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "Burma (Myanmar) and South Sudan TPS terminated, effective Aug. 7, 2026 — A12/C19 work permits no longer valid",
+   "title_es": "El TPS de Birmania (Myanmar) y Sudán del Sur queda terminado, con efecto el 7 de agosto de 2026 — los permisos de trabajo A12/C19 ya no son válidos",
+   "summary_en": "On Aug. 7, 2026 USCIS archived the Burma (Myanmar) and South Sudan TPS country pages, and E-Verify guidance issued the same day states both designations are terminated, effective Aug. 7, 2026 (Burma: 90 FR 53378; South Sudan: 90 FR 50484). Form I-766 EADs with category A12 or C19 issued under them are no longer valid, and employers must reverify those employees. South Sudan was terminated three days before the Aug. 10 Form I-9 date its Aug. 6 guidance had promised. Two designations remain court-stayed with EADs extended per court order: Somalia (I-9 date Aug. 10, 2026) and Ethiopia (Aug. 19, 2026).",
+   "summary_es": "El 7 de agosto de 2026 USCIS archivó las páginas de TPS de Birmania (Myanmar) y Sudán del Sur, y la guía de E-Verify emitida el mismo día indica que ambas designaciones están terminadas, con efecto el 7 de agosto de 2026 (Birmania: 90 FR 53378; Sudán del Sur: 90 FR 50484). Los Formularios I-766 (EAD) con categoría A12 o C19 emitidos bajo ellas ya no son válidos, y los empleadores deben reverificar a esos empleados. Sudán del Sur fue terminado tres días antes de la fecha del 10 de agosto en el Formulario I-9 que prometía su guía del 6 de agosto. Quedan dos designaciones suspendidas por tribunales con los EAD extendidos por orden judicial: Somalia (fecha I-9 del 10 de agosto de 2026) y Etiopía (19 de agosto de 2026).",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-burma-release-aug",
+   "link_en": "/procedures/tps-by-country/burma-myanmar/",
+   "link_es": "/es/tramites/tps-por-pais/burma-myanmar/"
+  },
+  {
    "date": "2026-08-05",
    "precision": "day",
    "category": "asylum",

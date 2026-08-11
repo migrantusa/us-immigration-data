@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 63 recorded changes.
+Showing the 40 most recent of 65 recorded changes.
 
 ---
+
+### 2026-08-11 · VISAS
+
+**USCIS gains authority to require e-filing — new Form I-936 waiver ($25); nothing is mandated yet**
+
+An interim final rule effective on publication (91 FR 51924, Aug. 11, 2026) lets USCIS mandate electronic filing of a benefit request that has been available for e-filing at least 180 days (8 CFR 103.2(a)(1)(ii)), after publishing notice on uscis.gov with at least 60 days of advance notice. It mandates nothing on its own: DHS states the rule will have no practical effect until Form I-936 is approved by OMB and USCIS issues such a notice. New Form I-936, Request for Waiver of E-Filing Requirement, is filed before a paper filing and costs $25 (8 CFR 106.2(a)(64)), with a fee waiver available on Form I-912 (8 CFR 106.3). The standard is undue hardship at USCIS's discretion, weighing geographic location, socioeconomic conditions and the availability of public technology resources; DHS says lacking home internet is not by itself enough — the requestor must explain why libraries, community centers, friends or family are not an option. Comments close Oct. 13, 2026 (DHS Docket USCIS-2026-0232, RIN 1615-AD19).
+
+Primary source: <https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing>
+
+### 2026-08-10 · TPS
+
+**E-Verify moves the TPS Somalia Form I-9 date again: Aug. 10 to Aug. 12, 2026**
+
+On the day Somalia's Aug. 10 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 5 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 12, 2026 on Form I-9 and in E-Verify. The two-day step makes Somalia the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 11, 2026). The release title is not the signal: Burma’s Aug. 7 termination was also posted as “Update on Termination” — only the text distinguishes an extension from a cut.
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-6>
 
 ### 2026-08-07 · TPS
 
@@ -300,22 +316,6 @@ Primary source: <https://www.cnn.com/2026/05/16/business/daca-processing-delays>
 Every facility page's street address was checked against the current official ICE detention-facility list (151 facilities). Two active facilities that were missing — Dakota County Sheriff Office in Dakota City, Nebraska and Woodbury County Jail in Sioux City, Iowa — were added with verified address and phone, bringing coverage to all 151. The visitation-hours guidance was also corrected across the directory to send families to the facility and the official ICE page for current hours.
 
 Primary source: <https://www.ice.gov/detention-facilities>
-
-### 2026-06-15 · DATA
-
-**State demographic figures refreshed to the 2024 Census ACS 5-year estimates**
-
-Across every state guide, the foreign-born, total-population, and Hispanic/Latino figures were refreshed from the 2023 to the 2024 American Community Survey 5-year estimates (the latest available), pulled directly from the US Census Bureau API. Puerto Rico stays on the 2023 vintage because the 2024 release suppresses its foreign-born figure.
-
-Primary source: <https://www.census.gov/programs-surveys/acs>
-
-### 2026-06-15 · FEES
-
-**IRS Free File income limit for the 2026 filing season is $89,000**
-
-The IRS Free File guided-software income cap is $89,000 in adjusted gross income (up from $79,000) for the 2026 filing season. We updated the figure across every state's free-tax-help guide and the tax-software comparison; your ITIN is accepted, and the free return covers your federal taxes (some partners also include a free state return).
-
-Primary source: <https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free>
 
 ---
 

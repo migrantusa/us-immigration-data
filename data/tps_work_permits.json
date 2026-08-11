@@ -2,11 +2,11 @@
   "_meta": {
     "title_en": "TPS work-permit status by country — what changed after the June 25, 2026 Supreme Court ruling",
     "title_es": "Estado de los permisos de trabajo del TPS por país — qué cambió tras el fallo de la Corte Suprema del 25 de junio de 2026",
-    "as_of": "2026-08-07",
-    "last_checked": "2026-08-07",
+    "as_of": "2026-08-11",
+    "last_checked": "2026-08-11",
     "ruling": "Mullin v. Doe (Nos. 25-1083 / 25-1084), decided June 25, 2026, 6-3 (Alito) — the Supreme Court held that the immigration statute bars judicial review of the Secretary's TPS termination decisions.",
     "ruling_url": "https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf",
-    "source": "USCIS TPS country pages, the Federal Register termination/extension notices cited per country, and the E-Verify per-country TPS guidance. On July 27, 2026 USCIS archived the Haiti, Syria and Yemen TPS pages; E-Verify guidance issued July 29, 2026 confirms those three terminations are in force (Haiti and Syria effective July 27, 2026; Yemen effective July 20, 2026). On Aug. 7, 2026 USCIS archived the Burma (Myanmar) and South Sudan TPS pages, and E-Verify guidance issued the same day states both designations are terminated, effective Aug. 7, 2026 — A12/C19 EADs issued under them are no longer valid and employers must reverify (South Sudan's termination landed three days before the Aug. 10 I-9 date its Aug. 6 guidance had promised). Two designations remain court-stayed with EADs extended per court order — employers enter Aug. 10, 2026 for Somalia (Aug. 5, 2026 guidance) and Aug. 19, 2026 for Ethiopia (Aug. 6, 2026 guidance) on Form I-9. Population estimates from the National Immigration Forum TPS fact sheet.",
+    "source": "USCIS TPS country pages, the Federal Register termination/extension notices cited per country, and the E-Verify per-country TPS guidance. On July 27, 2026 USCIS archived the Haiti, Syria and Yemen TPS pages; E-Verify guidance issued July 29, 2026 confirms those three terminations are in force (Haiti and Syria effective July 27, 2026; Yemen effective July 20, 2026). On Aug. 7, 2026 USCIS archived the Burma (Myanmar) and South Sudan TPS pages, and E-Verify guidance issued the same day states both designations are terminated, effective Aug. 7, 2026 — A12/C19 EADs issued under them are no longer valid and employers must reverify (South Sudan's termination landed three days before the Aug. 10 I-9 date its Aug. 6 guidance had promised). Two designations remain court-stayed with EADs extended per court order — employers enter Aug. 12, 2026 for Somalia (Aug. 10, 2026 guidance, superseding Aug. 5) and Aug. 19, 2026 for Ethiopia (Aug. 6, 2026 guidance) on Form I-9. Population estimates from the National Immigration Forum TPS fact sheet.",
     "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status",
     "designation_count": 15,
     "active_count": 4,
@@ -18,12 +18,12 @@
     "jul1_people_source": "https://forumtogether.org/article/temporary-protected-status-fact-sheet/",
     "haiti_people": 330735,
     "syria_people": 3860,
-    "everify_guidance_date": "2026-08-07",
-    "i9_expiration_date": "2026-08-10",
-    "i9_expiration_fmt_en": "Aug. 10, 2026 (Somalia) — Aug. 19, 2026 (Ethiopia)",
-    "i9_expiration_fmt_es": "10 de agosto de 2026 (Somalia) — 19 de agosto de 2026 (Etiopía)",
-    "headline_en": "On Aug. 7, 2026 USCIS <strong>archived</strong> the Burma (Myanmar) and South Sudan TPS pages, and E-Verify guidance issued the <strong>same day</strong> states both designations are terminated, effective Aug. 7, 2026 — A12/C19 EADs are no longer valid and employers must reverify. South Sudan was cut three days short of the Aug. 10 I-9 date its Aug. 6 guidance had promised. Two designations remain court-stayed: employers enter <strong>Aug. 10, 2026</strong> (Somalia) and <strong>Aug. 19, 2026</strong> (Ethiopia) on Form I-9.",
-    "headline_es": "El 7 de agosto de 2026 USCIS <strong>archivó</strong> las páginas de TPS de Birmania (Myanmar) y Sudán del Sur, y la guía de E-Verify emitida el <strong>mismo día</strong> indica que ambas designaciones están terminadas, con efecto el 7 de agosto de 2026 — los EAD A12/C19 ya no son válidos y los empleadores deben reverificar. A Sudán del Sur se le recortaron tres días respecto a la fecha del 10 de agosto que prometía su guía del 6 de agosto. Quedan dos designaciones suspendidas por tribunales: los empleadores anotan el <strong>10 de agosto de 2026</strong> (Somalia) y el <strong>19 de agosto de 2026</strong> (Etiopía) en el Formulario I-9."
+    "everify_guidance_date": "2026-08-10",
+    "i9_expiration_date": "2026-08-12",
+    "i9_expiration_fmt_en": "Aug. 12, 2026 (Somalia) — Aug. 19, 2026 (Ethiopia)",
+    "i9_expiration_fmt_es": "12 de agosto de 2026 (Somalia) — 19 de agosto de 2026 (Etiopía)",
+    "headline_en": "On Aug. 10, 2026 E-Verify posted superseding <strong>Somalia</strong> guidance: the EADs stay <strong>extended per court order</strong> and the Form I-9 date moves from Aug. 10 to <strong>Aug. 12, 2026</strong> — a two-day step that makes Somalia the earlier of the two designations still stayed (Ethiopia sits at <strong>Aug. 19, 2026</strong>). The USCIS Somalia TPS page is still live, not archived. Burma (Myanmar) and South Sudan lost their stays on Aug. 7, 2026 — their A12/C19 EADs are no longer valid and employers must reverify.",
+    "headline_es": "El 10 de agosto de 2026 E-Verify publicó guía de <strong>Somalia</strong> que reemplaza la anterior: los EAD siguen <strong>extendidos por orden judicial</strong> y la fecha del Formulario I-9 pasa del 10 al <strong>12 de agosto de 2026</strong> — un salto de dos días que deja a Somalia como la más próxima de las dos designaciones aún suspendidas (Etiopía queda en el <strong>19 de agosto de 2026</strong>). La página de TPS de Somalia de USCIS sigue activa, no archivada. Birmania (Myanmar) y Sudán del Sur perdieron su suspensión el 7 de agosto de 2026 — sus EAD A12/C19 ya no son válidos y los empleadores deben reverificar."
   },
   "countries": {
     "el-salvador": {
@@ -199,16 +199,16 @@
       "name_en": "Somalia",
       "name_es": "Somalia",
       "category": "terminated_stayed",
-      "work_permit_en": "Extended per court order — Aug. 5, 2026 USCIS/E-Verify guidance (superseding Aug. 3) tells employers to enter Aug. 10, 2026 on Form I-9 / E-Verify. The guidance calls this limited relief until the lower courts align with Mullin v. Doe",
-      "work_permit_es": "Extendido por orden judicial — la guía de USCIS/E-Verify del 5 de agosto de 2026 (que reemplaza la del 3 de agosto) indica a los empleadores anotar el 10 de agosto de 2026 en el Formulario I-9 / E-Verify. La guía lo describe como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe",
-      "key_date": "2026-08-10",
+      "work_permit_en": "Extended per court order — Aug. 10, 2026 USCIS/E-Verify guidance (superseding Aug. 5) tells employers to enter Aug. 12, 2026 on Form I-9 / E-Verify. The guidance calls this limited relief until the lower courts align with Mullin v. Doe",
+      "work_permit_es": "Extendido por orden judicial — la guía de USCIS/E-Verify del 10 de agosto de 2026 (que reemplaza la del 5 de agosto) indica a los empleadores anotar el 12 de agosto de 2026 en el Formulario I-9 / E-Verify. La guía lo describe como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe",
+      "key_date": "2026-08-12",
       "fr_cite": "91 FR 1547",
       "docket": "African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.)",
       "people_affected": null,
       "people_fmt": null,
       "people_source": null,
       "uscis_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-somalia",
-      "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-5"
+      "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-6"
     },
     "yemen": {
       "sort": 12,

@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-08-05",
+  "verified_on": "2026-08-11",
   "categories": [
    "tps",
    "visas",
@@ -53,6 +53,30 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-08-11",
+   "precision": "day",
+   "category": "visas",
+   "title_en": "USCIS gains authority to require e-filing — new Form I-936 waiver ($25); nothing is mandated yet",
+   "title_es": "USCIS obtiene autoridad para exigir la presentación electrónica — nuevo Formulario I-936 de exención ($25); todavía no exige nada",
+   "summary_en": "An interim final rule effective on publication (91 FR 51924, Aug. 11, 2026) lets USCIS mandate electronic filing of a benefit request that has been available for e-filing at least 180 days (8 CFR 103.2(a)(1)(ii)), after publishing notice on uscis.gov with at least 60 days of advance notice. It mandates nothing on its own: DHS states the rule will have no practical effect until Form I-936 is approved by OMB and USCIS issues such a notice. New Form I-936, Request for Waiver of E-Filing Requirement, is filed before a paper filing and costs $25 (8 CFR 106.2(a)(64)), with a fee waiver available on Form I-912 (8 CFR 106.3). The standard is undue hardship at USCIS's discretion, weighing geographic location, socioeconomic conditions and the availability of public technology resources; DHS says lacking home internet is not by itself enough — the requestor must explain why libraries, community centers, friends or family are not an option. Comments close Oct. 13, 2026 (DHS Docket USCIS-2026-0232, RIN 1615-AD19).",
+   "summary_es": "Una regla interina final vigente desde su publicación (91 FR 51924, 11 de agosto de 2026) permite a USCIS exigir la presentación electrónica de una solicitud de beneficio que haya estado disponible en línea al menos 180 días (8 CFR 103.2(a)(1)(ii)), tras publicar el aviso en uscis.gov con al menos 60 días de anticipación. Por sí sola no exige nada: el DHS afirma que la regla no tendrá efecto práctico hasta que el Formulario I-936 sea aprobado por la OMB y USCIS emita ese aviso. El nuevo Formulario I-936, Solicitud de Exención del Requisito de Presentación Electrónica, se presenta antes de la presentación en papel y cuesta $25 (8 CFR 106.2(a)(64)), con exoneración disponible mediante el Formulario I-912 (8 CFR 106.3). El criterio es dificultad indebida a discreción de USCIS, considerando la ubicación geográfica, las condiciones socioeconómicas y la disponibilidad de recursos tecnológicos públicos; el DHS indica que no tener internet en casa no basta por sí solo — hay que explicar por qué no son opción las bibliotecas, los centros comunitarios, los amigos o la familia. Los comentarios cierran el 13 de octubre de 2026 (expediente DHS USCIS-2026-0232, RIN 1615-AD19).",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+   "link_en": "/procedures/uscis/",
+   "link_es": "/es/tramites/uscis/"
+  },
+  {
+   "date": "2026-08-10",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "E-Verify moves the TPS Somalia Form I-9 date again: Aug. 10 to Aug. 12, 2026",
+   "title_es": "E-Verify vuelve a mover la fecha del Formulario I-9 del TPS de Somalia: del 10 al 12 de agosto de 2026",
+   "summary_en": "On the day Somalia's Aug. 10 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 5 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 12, 2026 on Form I-9 and in E-Verify. The two-day step makes Somalia the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 11, 2026). The release title is not the signal: Burma’s Aug. 7 termination was also posted as “Update on Termination” — only the text distinguishes an extension from a cut.",
+   "summary_es": "El día en que vencía la fecha del Formulario I-9 del 10 de agosto de Somalia, E-Verify publicó guía de Somalia que reemplaza la del 5 de agosto. Los EAD siguen extendidos por orden judicial bajo African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), y los empleadores anotan ahora el 12 de agosto de 2026 en el Formulario I-9 y en E-Verify. El salto de dos días deja a Somalia como la más próxima de las dos designaciones aún suspendidas por tribunales, antes que Etiopía (19 de agosto de 2026). La página de TPS de Somalia de USCIS sigue activa, no archivada (verificado el 11 de agosto de 2026). El título del aviso no es la señal: la terminación de Birmania del 7 de agosto también se publicó como “Update on Termination” — solo el texto distingue una extensión de un corte.",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-6",
+   "link_en": "/procedures/tps-by-country/somalia/",
+   "link_es": "/es/tramites/tps-por-pais/somalia/"
+  },
   {
    "date": "2026-08-07",
    "precision": "day",

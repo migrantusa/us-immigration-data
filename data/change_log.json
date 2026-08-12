@@ -11,7 +11,8 @@
    "enforcement",
    "benefits",
    "procedures"
-  ]
+  ],
+  "last_updated": "2026-08-12"
  },
  "upcoming": [
   {
@@ -53,6 +54,18 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-08-11",
+   "precision": "day",
+   "category": "citizenship",
+   "title_en": "New executive order on citizenship documents — birthright citizenship itself is unchanged",
+   "title_es": "Nueva orden ejecutiva sobre documentos de ciudadanía — la ciudadanía por nacimiento no cambia",
+   "summary_en": "Executive Order 14418, signed August 6 and published August 11, 2026 (91 FR 51991), does not reopen Trump v. Barbara: a child born in the United States to undocumented parents is still a U.S. citizen at birth. The order directs federal agencies not to issue — or accept state and local documents recognizing — U.S. citizenship for a person when neither parent is a U.S. citizen and one of four categories applies: a parent is a designated Foreign Terrorist Organization member or Specially Designated Global Terrorist; a parent is a foreign government employee (defined to include embassy or consulate employees who are nationals of that country); the parents engaged in a commercial transaction for birth tourism or U.S. surrogacy, or committed citizenship fraud; or the birth occurred in a U.S. territory where citizenship is not conferred by federal statute. The foreign-government-employee category is broader than the long-standing accredited-diplomat exception. Agencies must publish implementation guidance within 30 days, i.e. by September 5, 2026.",
+   "summary_es": "La Orden Ejecutiva 14418, firmada el 6 de agosto y publicada el 11 de agosto de 2026 (91 FR 51991), no reabre Trump v. Barbara: un niño nacido en Estados Unidos de padres indocumentados sigue siendo ciudadano estadounidense al nacer. La orden instruye a las agencias federales a no emitir — ni aceptar documentos estatales o locales que reconozcan — la ciudadanía estadounidense para una persona cuando ninguno de los dos padres es ciudadano y aplica una de cuatro categorías: un padre o madre es miembro de una Organización Terrorista Extranjera designada o Terrorista Global Especialmente Designado; un padre o madre es empleado de un gobierno extranjero (definido para incluir empleados de embajada o consulado que son nacionales de ese país); los padres hicieron una transacción comercial de turismo de parto o gestación subrogada en EE.UU., o cometieron fraude de ciudadanía; o el nacimiento ocurrió en un territorio de EE.UU. donde la ciudadanía no se otorga por ley federal. La categoría de empleados de gobiernos extranjeros es más amplia que la excepción antigua para diplomáticos acreditados. Las agencias deben publicar guía de implementación dentro de 30 días, es decir antes del 5 de septiembre de 2026.",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16403/continuing-to-protect-the-meaning-and-value-of-american-citizenship",
+   "link_en": "/immigration-cases/birthright-citizenship-supreme-court/",
+   "link_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
+  },
   {
    "date": "2026-08-11",
    "precision": "day",

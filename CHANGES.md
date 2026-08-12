@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 65 recorded changes.
+Showing the 40 most recent of 66 recorded changes. Source data as of 2026-08-12.
 
 ---
+
+### 2026-08-11 · CITIZENSHIP
+
+**New executive order on citizenship documents — birthright citizenship itself is unchanged**
+
+Executive Order 14418, signed August 6 and published August 11, 2026 (91 FR 51991), does not reopen Trump v. Barbara: a child born in the United States to undocumented parents is still a U.S. citizen at birth. The order directs federal agencies not to issue — or accept state and local documents recognizing — U.S. citizenship for a person when neither parent is a U.S. citizen and one of four categories applies: a parent is a designated Foreign Terrorist Organization member or Specially Designated Global Terrorist; a parent is a foreign government employee (defined to include embassy or consulate employees who are nationals of that country); the parents engaged in a commercial transaction for birth tourism or U.S. surrogacy, or committed citizenship fraud; or the birth occurred in a U.S. territory where citizenship is not conferred by federal statute. The foreign-government-employee category is broader than the long-standing accredited-diplomat exception. Agencies must publish implementation guidance within 30 days, i.e. by September 5, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/08/11/2026-16403/continuing-to-protect-the-meaning-and-value-of-american-citizenship>
 
 ### 2026-08-11 · VISAS
 
@@ -308,14 +316,6 @@ Primary source: <https://www.cnn.com/2026/05/16/business/daca-processing-delays>
 ### 2026-06-23
 
 **Supreme Court narrows returning green-card holders' rights at the border (Blanche v. Lau, 6–3)**
-
-### 2026-06-15 · ENFORCEMENT
-
-**ICE detention facility directory verified against the official ICE list**
-
-Every facility page's street address was checked against the current official ICE detention-facility list (151 facilities). Two active facilities that were missing — Dakota County Sheriff Office in Dakota City, Nebraska and Woodbury County Jail in Sioux City, Iowa — were added with verified address and phone, bringing coverage to all 151. The visitation-hours guidance was also corrected across the directory to send families to the facility and the official ICE page for current hours.
-
-Primary source: <https://www.ice.gov/detention-facilities>
 
 ---
 

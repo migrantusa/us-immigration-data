@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 66 recorded changes. Source data as of 2026-08-12.
+Showing the 40 most recent of 68 recorded changes. Source data as of 2026-08-12.
 
 ---
+
+### 2026-08-12 · TPS
+
+**E-Verify moves the TPS Somalia Form I-9 date again: Aug. 12 to Aug. 14, 2026**
+
+On the day Somalia's Aug. 12 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 10 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 14, 2026 on Form I-9 and in E-Verify. This is the second consecutive two-day step, and the third release in a row posted on the very day the prior date came due. Somalia remains the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 14, 2026).
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-7>
+
+### 2026-08-11 · CITIZENSHIP
+
+**DOJ has filed 123 civil denaturalization complaints since Jan. 20, 2025 — a record — USCIS announces 25 more**
+
+USCIS announced that the Justice Department filed denaturalization actions against 25 individuals since July 2026 — described as the largest denaturalization effort yet — and that 123 civil denaturalization complaints have been filed since Jan. 20, 2025, the most in recorded history. In June 2026 news outlets had reported a DOJ goal of at least 250 cases by the end of fiscal year 2026. These are individual civil suits under 8 U.S.C. § 1451(a); each is decided on its own record. Denaturalization does not affect people who are U.S. citizens by birth.
+
+Primary source: <https://www.uscis.gov/newsroom/news-releases/justice-department-files-record-25-denaturalization-cases-against-naturalized-criminals-including>
 
 ### 2026-08-11 · CITIZENSHIP
 
@@ -304,18 +320,6 @@ Primary source: <https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf>
 Alexandra Lozano resigned from the Washington State Bar in lieu of discipline (May 26, 2026), closed her firm (June 10, 2026), and was suspended from practice before DHS, the immigration courts, and the BIA (June 18, 2026). USCIS lists steps for her clients: update your mailing address (special VAWA/T/U procedure if it applies), request your file through FOIA, and call 800-375-5283 if you do not know which office has your case.
 
 Primary source: <https://www.uscis.gov/newsroom/alerts/important-notice-for-clients-of-former-immigration-attorney-alexandra-lozano>
-
-### 2026-06-24 · BENEFITS
-
-**DACA renewal processing times have risen in 2026**
-
-USCIS data reported by CNN in May 2026 showed the median DACA (Form I-821D) renewal taking about 70 days from October 2025 through February 2026, up from roughly 15 days a year earlier, amid expanded background vetting introduced in April 2026 and higher filing volumes. There is no premium processing for I-821D — only a discretionary expedite request. Renewals continue nationwide and first-time applications remain frozen. The practical advice on our renewal guide is unchanged but more urgent: file at the front of the 120–150-day window.
-
-Primary source: <https://www.cnn.com/2026/05/16/business/daca-processing-delays>
-
-### 2026-06-23
-
-**Supreme Court narrows returning green-card holders' rights at the border (Blanche v. Lau, 6–3)**
 
 ---
 

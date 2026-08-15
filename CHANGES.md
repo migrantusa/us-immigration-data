@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 68 recorded changes. Source data as of 2026-08-12.
+Showing the 40 most recent of 69 recorded changes. Source data as of 2026-08-12.
 
 ---
+
+### 2026-08-14 · TPS
+
+**Somalia TPS terminated effective Aug. 14, 2026 — court lifts the stay and E-Verify says A12/C19 EADs are no longer valid**
+
+On the day Somalia's Aug. 14 Form I-9 date came due, the District of Massachusetts granted the government's motion and lifted the administrative stay in African Communities Together v. Noem (No. 26-cv-11201); the plaintiffs filed a notice of appeal the same day. E-Verify guidance issued Aug. 14, 2026 (superseding Aug. 12) states the Somalia designation is terminated, effective Aug. 14, 2026: Form I-766 EADs with category A12 or C19 are no longer valid and employers must reverify. Ethiopia's stay survived a same-day motion to lift (No. 26-cv-10278) and it is now the only designation still court-stayed, with a Form I-9 date of Aug. 19, 2026. The USCIS Somalia page had not yet been archived as of Aug. 15, 2026.
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-somalia-release-aug-14-2026>
 
 ### 2026-08-12 · TPS
 
@@ -312,14 +320,6 @@ Primary source: <https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf>
 ### 2026-06-26
 
 **Supreme Court clears the way to end TPS for Haiti and Syria; work permits expire July 1, 2026**
-
-### 2026-06-26
-
-**USCIS publishes notice for clients of former immigration attorney Alexandra Lozano**
-
-Alexandra Lozano resigned from the Washington State Bar in lieu of discipline (May 26, 2026), closed her firm (June 10, 2026), and was suspended from practice before DHS, the immigration courts, and the BIA (June 18, 2026). USCIS lists steps for her clients: update your mailing address (special VAWA/T/U procedure if it applies), request your file through FOIA, and call 800-375-5283 if you do not know which office has your case.
-
-Primary source: <https://www.uscis.gov/newsroom/alerts/important-notice-for-clients-of-former-immigration-attorney-alexandra-lozano>
 
 ---
 

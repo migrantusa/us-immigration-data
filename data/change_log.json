@@ -55,6 +55,18 @@
  ],
  "changes": [
   {
+   "date": "2026-08-14",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "Somalia TPS terminated effective Aug. 14, 2026 — court lifts the stay and E-Verify says A12/C19 EADs are no longer valid",
+   "title_es": "El TPS de Somalia terminó con efecto el 14 de agosto de 2026 — el tribunal levanta la suspensión y E-Verify indica que los EAD A12/C19 ya no son válidos",
+   "summary_en": "On the day Somalia's Aug. 14 Form I-9 date came due, the District of Massachusetts granted the government's motion and lifted the administrative stay in African Communities Together v. Noem (No. 26-cv-11201); the plaintiffs filed a notice of appeal the same day. E-Verify guidance issued Aug. 14, 2026 (superseding Aug. 12) states the Somalia designation is terminated, effective Aug. 14, 2026: Form I-766 EADs with category A12 or C19 are no longer valid and employers must reverify. Ethiopia's stay survived a same-day motion to lift (No. 26-cv-10278) and it is now the only designation still court-stayed, with a Form I-9 date of Aug. 19, 2026. The USCIS Somalia page had not yet been archived as of Aug. 15, 2026.",
+   "summary_es": "El día en que vencía la fecha del Formulario I-9 del 14 de agosto de Somalia, el Distrito de Massachusetts concedió la moción del gobierno y levantó la suspensión administrativa en African Communities Together v. Noem (No. 26-cv-11201); los demandantes presentaron un aviso de apelación el mismo día. La guía de E-Verify del 14 de agosto de 2026 (que reemplaza la del 12 de agosto) indica que la designación de Somalia está terminada, con efecto el 14 de agosto de 2026: los Formularios I-766 (EAD) con categoría A12 o C19 ya no son válidos y los empleadores deben reverificar. La suspensión de Etiopía sobrevivió una moción del mismo día para levantarla (No. 26-cv-10278) y ahora es la única designación aún suspendida por tribunal, con fecha I-9 del 19 de agosto de 2026. La página de Somalia de USCIS aún no había sido archivada al 15 de agosto de 2026.",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-somalia-release-aug-14-2026",
+   "link_en": "/procedures/tps-by-country/somalia/",
+   "link_es": "/es/tramites/tps-por-pais/somalia/"
+  },
+  {
    "date": "2026-08-11",
    "precision": "day",
    "category": "citizenship",

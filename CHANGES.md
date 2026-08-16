@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 69 recorded changes. Source data as of 2026-08-12.
+Showing the 40 most recent of 72 recorded changes. Source data as of 2026-08-12.
 
 ---
+
+### 2026-08-14 · PROCEDURES
+
+**New I-539 and I-765 form editions Sept. 15 -- older editions rejected, no grace period**
+
+USCIS announced that revised 09/15/26 editions of Form I-539 (extend/change status) and Form I-765 (work permit) publish September 15, 2026, aligned with the fixed-period-of-admission rule. No grace period: older editions postmarked or submitted on or after September 15 are rejected; the new editions are accepted only on or after that date.
+
+Primary source: <https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting>
+
+### 2026-08-14 · BENEFITS
+
+**Appeals court lets USCIS resume re-review of approved cases (39-country litigation)**
+
+On August 14, 2026 the First Circuit partially stayed the Rhode Island ruling in Dorcas International v. USCIS: while the appeal proceeds, USCIS may resume re-reviewing already-approved benefit requests of people from the designated countries who entered the U.S. on or after January 20, 2021. The asylum and benefits holds remain vacated.
+
+Primary source: <https://www.ca1.uscourts.gov/sites/ca1/files/opnfiles/26-1703P-01A.pdf>
 
 ### 2026-08-14 · TPS
 
@@ -52,6 +68,14 @@ Primary source: <https://www.federalregister.gov/documents/2026/08/11/2026-16403
 An interim final rule effective on publication (91 FR 51924, Aug. 11, 2026) lets USCIS mandate electronic filing of a benefit request that has been available for e-filing at least 180 days (8 CFR 103.2(a)(1)(ii)), after publishing notice on uscis.gov with at least 60 days of advance notice. It mandates nothing on its own: DHS states the rule will have no practical effect until Form I-936 is approved by OMB and USCIS issues such a notice. New Form I-936, Request for Waiver of E-Filing Requirement, is filed before a paper filing and costs $25 (8 CFR 106.2(a)(64)), with a fee waiver available on Form I-912 (8 CFR 106.3). The standard is undue hardship at USCIS's discretion, weighing geographic location, socioeconomic conditions and the availability of public technology resources; DHS says lacking home internet is not by itself enough — the requestor must explain why libraries, community centers, friends or family are not an option. Comments close Oct. 13, 2026 (DHS Docket USCIS-2026-0232, RIN 1615-AD19).
 
 Primary source: <https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing>
+
+### 2026-08-10 · FEES
+
+**Court declines to pause the TPS work-permit one-year cap during the H.R.1 fees appeal**
+
+On August 10, 2026 Judge Gorton denied the plaintiffs' emergency motion to stay the TPS work-authorization terminations pending appeal in Venezuelan Ass'n of Mass. v. USCIS, so the one-year cap on TPS-based EADs keeps operating. The plaintiffs' emergency stay motion at the First Circuit (No. 26-1893) was fully briefed August 14 and awaits a ruling.
+
+Primary source: <https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
 
 ### 2026-08-10 · TPS
 
@@ -306,20 +330,6 @@ Primary source: <https://legislature.maine.gov/statutes/22/title22sec1716-A.html
 Indiana's HEA 1271, enacted as Public Law 88-2026, is in effect as of July 1, 2026: every hospital must notify patients about payment assistance and offer an application before referring any bill to collections. Nonprofit hospitals must keep charity-care criteria indexed to the federal poverty guidelines; each hospital sets its own thresholds.
 
 Primary source: <https://iga.in.gov/legislative/2026/bills/house/1271/details>
-
-### 2026-07-01
-
-**Haiti and Syria TPS work permits expire — 334,595 lose work authorization after the June 25 Supreme Court ruling**
-
-Primary source: <https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf>
-
-### 2026-06-30
-
-**Supreme Court upholds birthright citizenship; Executive Order 14160 struck down (6–3)**
-
-### 2026-06-26
-
-**Supreme Court clears the way to end TPS for Haiti and Syria; work permits expire July 1, 2026**
 
 ---
 

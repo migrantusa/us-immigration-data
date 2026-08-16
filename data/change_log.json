@@ -57,12 +57,48 @@
   {
    "date": "2026-08-14",
    "precision": "day",
+   "category": "procedures",
+   "title_en": "New I-539 and I-765 form editions Sept. 15 -- older editions rejected, no grace period",
+   "title_es": "Nuevas ediciones de los Formularios I-539 e I-765 el 15 de septiembre -- las anteriores se rechazan, sin periodo de gracia",
+   "summary_en": "USCIS announced that revised 09/15/26 editions of Form I-539 (extend/change status) and Form I-765 (work permit) publish September 15, 2026, aligned with the fixed-period-of-admission rule. No grace period: older editions postmarked or submitted on or after September 15 are rejected; the new editions are accepted only on or after that date.",
+   "summary_es": "USCIS anunció que el 15 de septiembre de 2026 se publican las ediciones revisadas 09/15/26 del Formulario I-539 (extender/cambiar estatus) y del Formulario I-765 (permiso de trabajo), alineadas con la regla de admisión por periodo fijo. Sin periodo de gracia: las ediciones anteriores con matasellos o enviadas el 15 de septiembre o después se rechazan; las nuevas solo se aceptan a partir de esa fecha.",
+   "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting",
+   "link_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
+   "link_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
+  },
+  {
+   "date": "2026-08-14",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "Appeals court lets USCIS resume re-review of approved cases (39-country litigation)",
+   "title_es": "Corte de apelaciones permite a USCIS reanudar la re-revisión de casos aprobados (litigio de 39 países)",
+   "summary_en": "On August 14, 2026 the First Circuit partially stayed the Rhode Island ruling in Dorcas International v. USCIS: while the appeal proceeds, USCIS may resume re-reviewing already-approved benefit requests of people from the designated countries who entered the U.S. on or after January 20, 2021. The asylum and benefits holds remain vacated.",
+   "summary_es": "El 14 de agosto de 2026 el Primer Circuito suspendió parcialmente el fallo de Rhode Island en Dorcas International v. USCIS: mientras avanza la apelación, USCIS puede volver a re-revisar solicitudes de beneficios ya aprobadas de personas de los países designados que entraron a EE.UU. el 20 de enero de 2021 o después. Las pausas de asilo y beneficios siguen anuladas.",
+   "source_url": "https://www.ca1.uscourts.gov/sites/ca1/files/opnfiles/26-1703P-01A.pdf",
+   "link_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "link_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
+  },
+  {
+   "date": "2026-08-14",
+   "precision": "day",
    "category": "tps",
    "title_en": "Somalia TPS terminated effective Aug. 14, 2026 — court lifts the stay and E-Verify says A12/C19 EADs are no longer valid",
    "title_es": "El TPS de Somalia terminó con efecto el 14 de agosto de 2026 — el tribunal levanta la suspensión y E-Verify indica que los EAD A12/C19 ya no son válidos",
    "summary_en": "On the day Somalia's Aug. 14 Form I-9 date came due, the District of Massachusetts granted the government's motion and lifted the administrative stay in African Communities Together v. Noem (No. 26-cv-11201); the plaintiffs filed a notice of appeal the same day. E-Verify guidance issued Aug. 14, 2026 (superseding Aug. 12) states the Somalia designation is terminated, effective Aug. 14, 2026: Form I-766 EADs with category A12 or C19 are no longer valid and employers must reverify. Ethiopia's stay survived a same-day motion to lift (No. 26-cv-10278) and it is now the only designation still court-stayed, with a Form I-9 date of Aug. 19, 2026. The USCIS Somalia page had not yet been archived as of Aug. 15, 2026.",
    "summary_es": "El día en que vencía la fecha del Formulario I-9 del 14 de agosto de Somalia, el Distrito de Massachusetts concedió la moción del gobierno y levantó la suspensión administrativa en African Communities Together v. Noem (No. 26-cv-11201); los demandantes presentaron un aviso de apelación el mismo día. La guía de E-Verify del 14 de agosto de 2026 (que reemplaza la del 12 de agosto) indica que la designación de Somalia está terminada, con efecto el 14 de agosto de 2026: los Formularios I-766 (EAD) con categoría A12 o C19 ya no son válidos y los empleadores deben reverificar. La suspensión de Etiopía sobrevivió una moción del mismo día para levantarla (No. 26-cv-10278) y ahora es la única designación aún suspendida por tribunal, con fecha I-9 del 19 de agosto de 2026. La página de Somalia de USCIS aún no había sido archivada al 15 de agosto de 2026.",
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-somalia-release-aug-14-2026",
+   "link_en": "/procedures/tps-by-country/somalia/",
+   "link_es": "/es/tramites/tps-por-pais/somalia/"
+  },
+  {
+   "date": "2026-08-12",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "E-Verify moves the TPS Somalia Form I-9 date again: Aug. 12 to Aug. 14, 2026",
+   "title_es": "E-Verify vuelve a mover la fecha del Formulario I-9 del TPS de Somalia: del 12 al 14 de agosto de 2026",
+   "summary_en": "On the day Somalia's Aug. 12 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 10 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 14, 2026 on Form I-9 and in E-Verify. This is the second consecutive two-day step, and the third release in a row posted on the very day the prior date came due. Somalia remains the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 14, 2026).",
+   "summary_es": "El día en que vencía la fecha del Formulario I-9 del 12 de agosto de Somalia, E-Verify publicó guía de Somalia que reemplaza la del 10 de agosto. Los EAD siguen extendidos por orden judicial bajo African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), y los empleadores anotan ahora el 14 de agosto de 2026 en el Formulario I-9 y en E-Verify. Es el segundo salto consecutivo de dos días, y el tercer aviso seguido publicado el mismo día en que vencía la fecha anterior. Somalia sigue siendo la más próxima de las dos designaciones aún suspendidas por tribunales, antes que Etiopía (19 de agosto de 2026). La página de TPS de Somalia de USCIS sigue activa, no archivada (verificado el 14 de agosto de 2026).",
+   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-7",
    "link_en": "/procedures/tps-by-country/somalia/",
    "link_es": "/es/tramites/tps-por-pais/somalia/"
   },
@@ -77,18 +113,6 @@
    "source_url": "https://www.uscis.gov/newsroom/news-releases/justice-department-files-record-25-denaturalization-cases-against-naturalized-criminals-including",
    "link_en": "/immigration-cases/civil-denaturalization-citizenship-revocation/",
    "link_es": "/es/casos-de-inmigracion/desnaturalizacion-civil-revocacion-de-ciudadania/"
-  },
-  {
-   "date": "2026-08-12",
-   "precision": "day",
-   "category": "tps",
-   "title_en": "E-Verify moves the TPS Somalia Form I-9 date again: Aug. 12 to Aug. 14, 2026",
-   "title_es": "E-Verify vuelve a mover la fecha del Formulario I-9 del TPS de Somalia: del 12 al 14 de agosto de 2026",
-   "summary_en": "On the day Somalia's Aug. 12 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 10 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 14, 2026 on Form I-9 and in E-Verify. This is the second consecutive two-day step, and the third release in a row posted on the very day the prior date came due. Somalia remains the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 14, 2026).",
-   "summary_es": "El día en que vencía la fecha del Formulario I-9 del 12 de agosto de Somalia, E-Verify publicó guía de Somalia que reemplaza la del 10 de agosto. Los EAD siguen extendidos por orden judicial bajo African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), y los empleadores anotan ahora el 14 de agosto de 2026 en el Formulario I-9 y en E-Verify. Es el segundo salto consecutivo de dos días, y el tercer aviso seguido publicado el mismo día en que vencía la fecha anterior. Somalia sigue siendo la más próxima de las dos designaciones aún suspendidas por tribunales, antes que Etiopía (19 de agosto de 2026). La página de TPS de Somalia de USCIS sigue activa, no archivada (verificado el 14 de agosto de 2026).",
-   "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-7",
-   "link_en": "/procedures/tps-by-country/somalia/",
-   "link_es": "/es/tramites/tps-por-pais/somalia/"
   },
   {
    "date": "2026-08-11",
@@ -117,6 +141,18 @@
   {
    "date": "2026-08-10",
    "precision": "day",
+   "category": "fees",
+   "title_en": "Court declines to pause the TPS work-permit one-year cap during the H.R.1 fees appeal",
+   "title_es": "Corte se niega a pausar el tope de un año del permiso de trabajo TPS durante la apelación de tarifas H.R.1",
+   "summary_en": "On August 10, 2026 Judge Gorton denied the plaintiffs' emergency motion to stay the TPS work-authorization terminations pending appeal in Venezuelan Ass'n of Mass. v. USCIS, so the one-year cap on TPS-based EADs keeps operating. The plaintiffs' emergency stay motion at the First Circuit (No. 26-1893) was fully briefed August 14 and awaits a ruling.",
+   "summary_es": "El 10 de agosto de 2026 el juez Gorton negó la moción de emergencia de los demandantes para suspender, durante la apelación, la terminación de la autorización de trabajo basada en TPS en Venezuelan Ass'n of Mass. v. USCIS, así que el tope de un año para los EAD basados en TPS sigue operando. La moción de emergencia ante el Primer Circuito (No. 26-1893) quedó completamente presentada el 14 de agosto y espera decisión.",
+   "source_url": "https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/",
+   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
+  },
+  {
+   "date": "2026-08-10",
+   "precision": "day",
    "category": "tps",
    "title_en": "E-Verify moves the TPS Somalia Form I-9 date again: Aug. 10 to Aug. 12, 2026",
    "title_es": "E-Verify vuelve a mover la fecha del Formulario I-9 del TPS de Somalia: del 10 al 12 de agosto de 2026",
@@ -139,18 +175,6 @@
    "link_es": "/es/tramites/tps-por-pais/burma-myanmar/"
   },
   {
-   "date": "2026-08-05",
-   "precision": "day",
-   "category": "asylum",
-   "title_en": "Court splits the H.R.1 ruling: asylum-fee rejection and removal stay blocked; the TPS work-permit cap stands",
-   "title_es": "La corte divide el fallo sobre la H.R.1: siguen bloqueados el rechazo y la remoción por la cuota de asilo; queda en pie el tope de permisos de trabajo por TPS",
-   "summary_en": "On Aug. 5, 2026, the federal court in Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) replaced its July 21 administrative stay with a longer-term ruling. Stayed nationwide while the case proceeds: the rule provisions letting USCIS reject a pending Form I-589 or initiate removal solely for non-payment of the Annual Asylum Fee. Denied: the challenge to H.R.1’s one-year cap on TPS-based work permits — previously-extended TPS EADs no longer keep their prior expiration dates. The fee itself remains payable, and published summaries of the order do not list work-authorization termination among the stayed provisions — verify current USCIS guidance on that point. The plaintiffs appealed to the First Circuit on Aug. 6, 2026.",
-   "summary_es": "El 5 de agosto de 2026, el tribunal federal en Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) reemplazó su suspensión administrativa del 21 de julio con un fallo de más largo plazo. Suspendido a nivel nacional mientras avanza el caso: las disposiciones de la regla que permitían a USCIS rechazar un Formulario I-589 pendiente o iniciar la remoción únicamente por no pagar la Tarifa Anual de Asilo. Denegado: el reclamo contra el tope de un año de la H.R.1 para los permisos de trabajo basados en TPS — los EAD de TPS ya prorrogados ya no conservan su fecha de vencimiento anterior. La cuota en sí sigue siendo pagadera, y los resúmenes publicados de la orden no mencionan la cancelación de la autorización de trabajo entre lo suspendido — verifique la guía vigente de USCIS en ese punto. Los demandantes apelaron ante el Primer Circuito el 6 de agosto de 2026.",
-   "source_url": "https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/",
-   "link_en": "/procedures/asylum-annual-fee/",
-   "link_es": "/es/tramites/cuota-anual-de-asilo/"
-  },
-  {
    "date": "2026-08-06",
    "precision": "day",
    "category": "tps",
@@ -161,6 +185,18 @@
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
    "link_en": "/datasets/tps-work-permit-status/",
    "link_es": "/es/datos/estado-permisos-trabajo-tps/"
+  },
+  {
+   "date": "2026-08-05",
+   "precision": "day",
+   "category": "asylum",
+   "title_en": "Court splits the H.R.1 ruling: asylum-fee rejection and removal stay blocked; the TPS work-permit cap stands",
+   "title_es": "La corte divide el fallo sobre la H.R.1: siguen bloqueados el rechazo y la remoción por la cuota de asilo; queda en pie el tope de permisos de trabajo por TPS",
+   "summary_en": "On Aug. 5, 2026, the federal court in Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) replaced its July 21 administrative stay with a longer-term ruling. Stayed nationwide while the case proceeds: the rule provisions letting USCIS reject a pending Form I-589 or initiate removal solely for non-payment of the Annual Asylum Fee. Denied: the challenge to H.R.1’s one-year cap on TPS-based work permits — previously-extended TPS EADs no longer keep their prior expiration dates. The fee itself remains payable, and published summaries of the order do not list work-authorization termination among the stayed provisions — verify current USCIS guidance on that point. The plaintiffs appealed to the First Circuit on Aug. 6, 2026.",
+   "summary_es": "El 5 de agosto de 2026, el tribunal federal en Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) reemplazó su suspensión administrativa del 21 de julio con un fallo de más largo plazo. Suspendido a nivel nacional mientras avanza el caso: las disposiciones de la regla que permitían a USCIS rechazar un Formulario I-589 pendiente o iniciar la remoción únicamente por no pagar la Tarifa Anual de Asilo. Denegado: el reclamo contra el tope de un año de la H.R.1 para los permisos de trabajo basados en TPS — los EAD de TPS ya prorrogados ya no conservan su fecha de vencimiento anterior. La cuota en sí sigue siendo pagadera, y los resúmenes publicados de la orden no mencionan la cancelación de la autorización de trabajo entre lo suspendido — verifique la guía vigente de USCIS en ese punto. Los demandantes apelaron ante el Primer Circuito el 6 de agosto de 2026.",
+   "source_url": "https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/",
+   "link_en": "/procedures/asylum-annual-fee/",
+   "link_es": "/es/tramites/cuota-anual-de-asilo/"
   },
   {
    "date": "2026-08-05",
@@ -243,20 +279,6 @@
    ]
   },
   {
-   "date": "2026-01-26",
-   "precision": "day",
-   "category": "enforcement",
-   "title_en": "Texas TDLR begins requiring proof of lawful presence for occupational licenses (agency rule effective May 1, 2026)",
-   "title_es": "El TDLR de Texas empieza a exigir prueba de presencia legal para licencias ocupacionales (regla en vigor el 1 de mayo de 2026)",
-   "summary_en": "Effective Jan. 26, 2026, the Texas Department of Licensing and Regulation requires certain applicants for an initial license or a renewal to submit documentation establishing lawful presence in the United States, citing 8 U.S.C. § 1621; the agency's rule took effect May 1, 2026. Applications remain pending until the documentation is submitted. Texas has never enacted a § 1621(d) opt-out, so this enforces the existing federal default rather than changing the state's classification. State officials told the Texas Tribune (Mar. 24, 2026) that DACA recipients will not qualify.",
-   "summary_es": "Desde el 26 de enero de 2026, el Departamento de Licencias y Regulación de Texas (TDLR) exige a ciertos solicitantes de una licencia inicial o una renovación presentar documentación que establezca presencia legal en Estados Unidos, citando la 8 U.S.C. § 1621; la regla de la agencia entró en vigor el 1 de mayo de 2026. Las solicitudes quedan pendientes hasta que se presente la documentación. Texas nunca aprobó una exención bajo el § 1621(d), así que esto aplica el régimen federal existente en lugar de cambiar la clasificación del estado. Funcionarios estatales dijeron al Texas Tribune (24 de marzo de 2026) que los beneficiarios de DACA no calificarán.",
-   "source_url": "https://www.tdlr.texas.gov/news/2026/01/26/lawful-presence-documentation-requirement/",
-   "affected_pages": [
-    "/datasets/professional-licenses-regardless-of-status-by-state/",
-    "/es/datos/licencias-profesionales-sin-importar-estatus-por-estado/"
-   ]
-  },
-  {
    "date": "2026-07-30",
    "precision": "day",
    "category": "work-permits",
@@ -277,18 +299,6 @@
     "/es/datos/estado-permisos-trabajo-tps/",
     "/es/casos-de-inmigracion/litigio-terminacion-tps/"
    ]
-  },
-  {
-   "date": "2026-07-20",
-   "precision": "day",
-   "category": "rule-change",
-   "title_en": "Delaware enacts the country's highest statewide free-hospital-care threshold: free care at or below 300% FPL (SS 1 for SB 13, signed July 20, 2026)",
-   "title_es": "Delaware promulga el umbral estatal de atención hospitalaria gratis más alto del país: atención gratis hasta el 300% del FPL (SS 1 for SB 13, firmada el 20 de julio de 2026)",
-   "summary_en": "Governor Meyer signed Senate Substitute 1 for Senate Bill 13 on July 20, 2026, setting statewide minimum hospital financial assistance: full financial assistance for Delaware residents at or below 300% of the federal poverty level, a 75% discount above 300% through 350%, a 50% discount above 350% through 400%, and a medical-hardship policy giving at least a 50% discount with an income ceiling of at least 500% FPL. It is NOT yet in effect: the minimum financial-assistance standards under 16 Del. C. 9962(a) and (b) take effect January 1, 2027, and the remaining provisions take effect on the earlier of a Diamond State Hospital Cost Review Board notice in the Register of Regulations that final implementing regulations have been adopted, or July 1, 2027. Until then Delaware's existing charity-care rule (16 Del. C. 9311, Certificate of Public Review, 350% FPL) still governs.",
-   "summary_es": "El Gobernador Meyer firmó el Senate Substitute 1 for Senate Bill 13 el 20 de julio de 2026, fijando mínimos estatales de asistencia financiera hospitalaria: asistencia financiera completa para residentes de Delaware con ingreso igual o menor al 300% del nivel federal de pobreza, 75% de descuento por encima del 300% y hasta el 350%, 50% de descuento por encima del 350% y hasta el 400%, y una política de dificultad médica con descuento mínimo del 50% y techo de ingreso de al menos el 500% del FPL. TODAVÍA no está vigente: los estándares mínimos bajo 16 Del. C. 9962(a) y (b) entran en vigor el 1 de enero de 2027, y las demás disposiciones en la fecha que ocurra primero entre el aviso de la Diamond State Hospital Cost Review Board en el Register of Regulations de que se adoptaron los reglamentos finales, o el 1 de julio de 2027. Hasta entonces sigue rigiendo la regla actual de Delaware (16 Del. C. 9311, Certificate of Public Review, 350% del FPL).",
-   "source_url": "https://legis.delaware.gov/BillDetail?LegislationId=143519",
-   "link_en": "/benefits/free-hospital-care-by-state/delaware/",
-   "link_es": "/es/beneficios/atencion-hospitalaria-gratis-por-estado/delaware/"
   },
   {
    "date": "2026-07-29",
@@ -434,6 +444,18 @@
    "source_url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
    "link_en": "/procedures/uscis/i-765-employment-authorization-ead/",
    "link_es": "/es/tramites/uscis/i-765-autorizacion-empleo-ead/"
+  },
+  {
+   "date": "2026-07-20",
+   "precision": "day",
+   "category": "rule-change",
+   "title_en": "Delaware enacts the country's highest statewide free-hospital-care threshold: free care at or below 300% FPL (SS 1 for SB 13, signed July 20, 2026)",
+   "title_es": "Delaware promulga el umbral estatal de atención hospitalaria gratis más alto del país: atención gratis hasta el 300% del FPL (SS 1 for SB 13, firmada el 20 de julio de 2026)",
+   "summary_en": "Governor Meyer signed Senate Substitute 1 for Senate Bill 13 on July 20, 2026, setting statewide minimum hospital financial assistance: full financial assistance for Delaware residents at or below 300% of the federal poverty level, a 75% discount above 300% through 350%, a 50% discount above 350% through 400%, and a medical-hardship policy giving at least a 50% discount with an income ceiling of at least 500% FPL. It is NOT yet in effect: the minimum financial-assistance standards under 16 Del. C. 9962(a) and (b) take effect January 1, 2027, and the remaining provisions take effect on the earlier of a Diamond State Hospital Cost Review Board notice in the Register of Regulations that final implementing regulations have been adopted, or July 1, 2027. Until then Delaware's existing charity-care rule (16 Del. C. 9311, Certificate of Public Review, 350% FPL) still governs.",
+   "summary_es": "El Gobernador Meyer firmó el Senate Substitute 1 for Senate Bill 13 el 20 de julio de 2026, fijando mínimos estatales de asistencia financiera hospitalaria: asistencia financiera completa para residentes de Delaware con ingreso igual o menor al 300% del nivel federal de pobreza, 75% de descuento por encima del 300% y hasta el 350%, 50% de descuento por encima del 350% y hasta el 400%, y una política de dificultad médica con descuento mínimo del 50% y techo de ingreso de al menos el 500% del FPL. TODAVÍA no está vigente: los estándares mínimos bajo 16 Del. C. 9962(a) y (b) entran en vigor el 1 de enero de 2027, y las demás disposiciones en la fecha que ocurra primero entre el aviso de la Diamond State Hospital Cost Review Board en el Register of Regulations de que se adoptaron los reglamentos finales, o el 1 de julio de 2027. Hasta entonces sigue rigiendo la regla actual de Delaware (16 Del. C. 9311, Certificate of Public Review, 350% del FPL).",
+   "source_url": "https://legis.delaware.gov/BillDetail?LegislationId=143519",
+   "link_en": "/benefits/free-hospital-care-by-state/delaware/",
+   "link_es": "/es/beneficios/atencion-hospitalaria-gratis-por-estado/delaware/"
   },
   {
    "date": "2026-07-17",
@@ -845,6 +867,20 @@
    "source_url": "https://www.migracioncolombia.gov.co/noticias/atencion-migracion-colombia-actualiza-tarifas-para-2026",
    "link_en": "/expat/colombia/m-11-rentista-visa/",
    "link_es": "/es/expatriacion/colombia/visa-m11-rentista/"
+  },
+  {
+   "date": "2026-01-26",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "Texas TDLR begins requiring proof of lawful presence for occupational licenses (agency rule effective May 1, 2026)",
+   "title_es": "El TDLR de Texas empieza a exigir prueba de presencia legal para licencias ocupacionales (regla en vigor el 1 de mayo de 2026)",
+   "summary_en": "Effective Jan. 26, 2026, the Texas Department of Licensing and Regulation requires certain applicants for an initial license or a renewal to submit documentation establishing lawful presence in the United States, citing 8 U.S.C. § 1621; the agency's rule took effect May 1, 2026. Applications remain pending until the documentation is submitted. Texas has never enacted a § 1621(d) opt-out, so this enforces the existing federal default rather than changing the state's classification. State officials told the Texas Tribune (Mar. 24, 2026) that DACA recipients will not qualify.",
+   "summary_es": "Desde el 26 de enero de 2026, el Departamento de Licencias y Regulación de Texas (TDLR) exige a ciertos solicitantes de una licencia inicial o una renovación presentar documentación que establezca presencia legal en Estados Unidos, citando la 8 U.S.C. § 1621; la regla de la agencia entró en vigor el 1 de mayo de 2026. Las solicitudes quedan pendientes hasta que se presente la documentación. Texas nunca aprobó una exención bajo el § 1621(d), así que esto aplica el régimen federal existente en lugar de cambiar la clasificación del estado. Funcionarios estatales dijeron al Texas Tribune (24 de marzo de 2026) que los beneficiarios de DACA no calificarán.",
+   "source_url": "https://www.tdlr.texas.gov/news/2026/01/26/lawful-presence-documentation-requirement/",
+   "affected_pages": [
+    "/datasets/professional-licenses-regardless-of-status-by-state/",
+    "/es/datos/licencias-profesionales-sin-importar-estatus-por-estado/"
+   ]
   },
   {
    "date": "2026-01-21",

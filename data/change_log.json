@@ -55,6 +55,60 @@
  ],
  "changes": [
   {
+   "date": "2026-06-25",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "Legal-aid groups sue USCIS over DACA renewal delays (East Bay Sanctuary Covenant v. USCIS)",
+   "title_es": "Organizaciones de ayuda legal demandan a USCIS por atrasos en renovaciones de DACA",
+   "summary_en": "East Bay Sanctuary Covenant and the Immigration Institute of the Bay Area (Justice Action Center as counsel) filed suit in the Northern District of California, No. 3:26-cv-06367, over severe DACA renewal delays that leave timely filers without work authorization. Active; no order has changed the renewal procedure. Our I-821D renewal pages carry the case and the day-150 filing guidance.",
+   "summary_es": "East Bay Sanctuary Covenant y el Immigration Institute of the Bay Area (con Justice Action Center) demandaron en el Distrito Norte de California, No. 3:26-cv-06367, por atrasos severos en renovaciones de DACA que dejan sin autorización de empleo a quienes presentaron a tiempo. Activo; ninguna orden ha cambiado el procedimiento. Nuestras páginas del I-821D llevan el caso y la guía de presentar en el día 150.",
+   "source_url": "https://www.courtlistener.com/docket/73535388/east-bay-sanctuary-covenant-v-united-states-citizenship-and-immigration/",
+   "links": {
+    "en": "/procedures/uscis/i-821d-daca-renewal/",
+    "es": "/es/tramites/uscis/i-821d-daca-renovacion/"
+   }
+  },
+  {
+   "date": "2026-08-13",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "BIA: leaving on advance parole is now a \"departure\" — Matter of Arrabally overruled",
+   "title_es": "BIA: salir con advance parole ahora es una \"salida\" — Matter of Arrabally anulado",
+   "summary_en": "In Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decided Aug. 13), the Board of Immigration Appeals overruled Matter of Arrabally and Yerrabelly (2012) and held that a departure under a grant of advance parole is a \"departure\" under INA §212(a)(9)(B)(i)(II). Advance-parole travel is no longer a safe harbor from the unlawful-presence bars, and the Board applied the rule to a trip already taken. Our I-131 and DACA travel pages now carry the new rule.",
+   "summary_es": "En Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decidido el 13 de agosto), la Junta de Apelaciones de Inmigración anuló Matter of Arrabally and Yerrabelly (2012) y decidió que salir con advance parole es una \"salida\" bajo INA §212(a)(9)(B)(i)(II). Viajar con advance parole ya no protege de los castigos de presencia ilegal, y la Junta aplicó la regla a un viaje ya realizado. Nuestras páginas de I-131 y de viaje con DACA ya reflejan la nueva regla.",
+   "source_url": "https://www.justice.gov/eoir/media/1457741/dl?inline",
+   "links": {
+    "en": "/procedures/uscis/i-131-travel-document-advance-parole/",
+    "es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
+   }
+  },
+  {
+   "date": "2026-08-17",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "Overtime corrected for daily-overtime states: California, Alaska, Nevada, Colorado",
+   "title_es": "Horas extras corregidas para estados con regla diaria: California, Alaska, Nevada y Colorado",
+   "summary_en": "Our state wage pages stated overtime as the federal 1.5x-over-40h/week rule everywhere. Four states guarantee more: California (1.5x after 8h/day or 40h/week; 2x after 12h/day — Labor Code §510), Alaska (1.5x after 8h/day or 40h/week — Alaska Stat. §23.10.060), Nevada (1.5x after 8h in a 24-hour period for workers earning under 1.5x the state minimum wage — NRS 608.018), and Colorado (1.5x after 40h/week, 12h/workday, or 12 consecutive hours — COMPS Order Rule 4.1.1). Those four pages now state the state rule.",
+   "summary_es": "Nuestras páginas estatales de salarios presentaban las horas extras solo con la regla federal de 1.5x sobre 40h/semana. Cuatro estados garantizan más: California (1.5x después de 8h/día o 40h/semana; 2x después de 12h/día — Labor Code §510), Alaska (1.5x después de 8h/día o 40h/semana — Alaska Stat. §23.10.060), Nevada (1.5x después de 8h en un período de 24 horas si gana menos de 1.5x el salario mínimo estatal — NRS 608.018) y Colorado (1.5x después de 40h/semana, 12h/día o 12 horas consecutivas — COMPS Order Regla 4.1.1). Esas cuatro páginas ya muestran la regla estatal.",
+   "source_url": "https://www.dir.ca.gov/dlse/faq_overtime.htm",
+   "links": {
+    "en": "/procedures/work-wages-by-state/california/",
+    "es": "/es/tramites/trabajo-salarios-por-estado/california/"
+   }
+  },
+  {
+   "date": "2026-08-16",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "El Salvador TPS: pending EAD renewals extended by USCIS notice to Sept. 9, 2026",
+   "title_es": "TPS de El Salvador: renovaciones de EAD pendientes extendidas por aviso de USCIS hasta el 9 de septiembre de 2026",
+   "summary_en": "USCIS's El Salvador TPS page confirms that beneficiaries whose A12/C19 EAD renewal is still pending receive a notice (mail + myUSCIS) extending the expired card to September 9, 2026; qualifying card front dates go back to March 9, 2018. Nothing is announced beyond Sept. 9, 2026. Our El Salvador TPS pages now carry the mechanism EN+ES.",
+   "summary_es": "La página del TPS de El Salvador de USCIS confirma que los beneficiarios con renovación de EAD A12/C19 pendiente reciben un aviso (correo + myUSCIS) que extiende la tarjeta vencida hasta el 9 de septiembre de 2026; se aceptan fechas de tarjeta desde el 9 de marzo de 2018. No hay anuncio después del 9 de septiembre de 2026. Nuestras páginas del TPS de El Salvador ya explican el mecanismo EN+ES.",
+   "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador",
+   "link_en": "/procedures/tps-by-country/el-salvador/",
+   "link_es": "/es/tramites/tps-por-pais/el-salvador/"
+  },
+  {
    "date": "2026-08-14",
    "precision": "day",
    "category": "procedures",

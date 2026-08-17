@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 72 recorded changes. Source data as of 2026-08-12.
+Showing the 40 most recent of 76 recorded changes. Source data as of 2026-08-12.
 
 ---
+
+### 2026-08-17 · PROCEDURES
+
+**Overtime corrected for daily-overtime states: California, Alaska, Nevada, Colorado**
+
+Our state wage pages stated overtime as the federal 1.5x-over-40h/week rule everywhere. Four states guarantee more: California (1.5x after 8h/day or 40h/week; 2x after 12h/day — Labor Code §510), Alaska (1.5x after 8h/day or 40h/week — Alaska Stat. §23.10.060), Nevada (1.5x after 8h in a 24-hour period for workers earning under 1.5x the state minimum wage — NRS 608.018), and Colorado (1.5x after 40h/week, 12h/workday, or 12 consecutive hours — COMPS Order Rule 4.1.1). Those four pages now state the state rule.
+
+Primary source: <https://www.dir.ca.gov/dlse/faq_overtime.htm>
+
+### 2026-08-16 · PROCEDURES
+
+**El Salvador TPS: pending EAD renewals extended by USCIS notice to Sept. 9, 2026**
+
+USCIS's El Salvador TPS page confirms that beneficiaries whose A12/C19 EAD renewal is still pending receive a notice (mail + myUSCIS) extending the expired card to September 9, 2026; qualifying card front dates go back to March 9, 2018. Nothing is announced beyond Sept. 9, 2026. Our El Salvador TPS pages now carry the mechanism EN+ES.
+
+Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador>
 
 ### 2026-08-14 · PROCEDURES
 
@@ -36,6 +52,14 @@ Primary source: <https://www.ca1.uscourts.gov/sites/ca1/files/opnfiles/26-1703P-
 On the day Somalia's Aug. 14 Form I-9 date came due, the District of Massachusetts granted the government's motion and lifted the administrative stay in African Communities Together v. Noem (No. 26-cv-11201); the plaintiffs filed a notice of appeal the same day. E-Verify guidance issued Aug. 14, 2026 (superseding Aug. 12) states the Somalia designation is terminated, effective Aug. 14, 2026: Form I-766 EADs with category A12 or C19 are no longer valid and employers must reverify. Ethiopia's stay survived a same-day motion to lift (No. 26-cv-10278) and it is now the only designation still court-stayed, with a Form I-9 date of Aug. 19, 2026. The USCIS Somalia page had not yet been archived as of Aug. 15, 2026.
 
 Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-somalia-release-aug-14-2026>
+
+### 2026-08-13 · PROCEDURES
+
+**BIA: leaving on advance parole is now a "departure" — Matter of Arrabally overruled**
+
+In Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decided Aug. 13), the Board of Immigration Appeals overruled Matter of Arrabally and Yerrabelly (2012) and held that a departure under a grant of advance parole is a "departure" under INA §212(a)(9)(B)(i)(II). Advance-parole travel is no longer a safe harbor from the unlawful-presence bars, and the Board applied the rule to a trip already taken. Our I-131 and DACA travel pages now carry the new rule.
+
+Primary source: <https://www.justice.gov/eoir/media/1457741/dl?inline>
 
 ### 2026-08-12 · TPS
 
@@ -306,30 +330,6 @@ Primary source: <https://www.dhs.gov/enhanced-drivers-licenses-what-are-they>
 Our Illinois driver's-license guide still described the Temporary Visitor Driver's License (TVDL) as the path for undocumented residents. Illinois eliminated the TVDL on July 1, 2024: undocumented and no-SSN residents now receive the standard Illinois license (marked Federal Limits Apply) — $30, with a passport or approved consular card, one year of Illinois residency, and proof of insurance; existing TVDL holders can switch for $5. The page and every site mention have been corrected against the Illinois Secretary of State.
 
 Primary source: <https://www.ilsos.gov/departments/drivers/drivers-license/tvdl.html>
-
-### 2026-07-01 · ENFORCEMENT
-
-**Tennessee's state crime for remaining after a final removal order takes effect (HB 1704 / Public Chapter 771)**
-
-Section 1 of Tennessee's HB 1704 (Public Chapter 771) is in effect as of July 1, 2026: a Class A misdemeanor (up to 11 months and 29 days in jail and a $2,500 fine) for a noncitizen 18 or older who has an outstanding final removal order under the 8 U.S.C. § 1227(a) deportability grounds and intentionally remains in Tennessee more than 90 days after that order. The federal challenge (Lucy v. Skrmetti) was dismissed without prejudice on June 26, 2026, so no court order blocks the law; the plaintiffs may refile or appeal.
-
-Primary source: <https://publications.tnsosfiles.com/acts/114/pub/pc0771.pdf>
-
-### 2026-07-01 · BENEFITS
-
-**Maine hospitals must now give free care to patients at or below 200% FPL — 22 M.R.S. §1716-A takes effect**
-
-Maine's amended hospital charity-care law (P.L. 2025, ch. 488) is in effect as of July 1, 2026: hospitals must give free medically necessary care when family income is at or below 200% of the federal poverty level (up from 150% under the prior rule), offer payment plans capped at 4% of monthly income for patients up to 400% FPL, and provide written notice and appeal rights.
-
-Primary source: <https://legislature.maine.gov/statutes/22/title22sec1716-A.html>
-
-### 2026-07-01 · BENEFITS
-
-**Indiana hospitals must now offer payment-assistance applications before sending bills to collections — HEA 1271 (P.L. 88-2026) takes effect**
-
-Indiana's HEA 1271, enacted as Public Law 88-2026, is in effect as of July 1, 2026: every hospital must notify patients about payment assistance and offer an application before referring any bill to collections. Nonprofit hospitals must keep charity-care criteria indexed to the federal poverty guidelines; each hospital sets its own thresholds.
-
-Primary source: <https://iga.in.gov/legislative/2026/bills/house/1271/details>
 
 ---
 

@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 76 recorded changes. Source data as of 2026-08-12.
+Showing the 40 most recent of 77 recorded changes. Source data as of 2026-08-12.
 
 ---
+
+### 2026-08-18 · TPS
+
+**Ethiopia TPS terminated — the last court stay is lifted**
+
+On Aug. 18, 2026 Judge Brian E. Murphy of the District of Massachusetts lifted the administrative stay in African Communities Together v. Noem (No. 1:26-cv-10278, ECF 103), dismissing Counts I-IV and VI-VIII, denying dismissal of Count V, denying the postponement motion as moot, and ordering a joint discovery and briefing schedule by Aug. 25, 2026. USCIS archived the Ethiopia TPS page the same day and E-Verify guidance issued Aug. 18 (superseding Aug. 6) states the designation is terminated, effective Aug. 18, 2026 — A12/C19 EADs are no longer valid and employers must reverify. Ethiopia's promised Form I-9 date was Aug. 19, so it was cut one day short. No TPS designation is court-stayed any more.
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-ethiopia-release-aug-18-2026>
 
 ### 2026-08-17 · PROCEDURES
 
@@ -322,14 +330,6 @@ Primary source: <https://publications.tnsosfiles.com/acts/114/pub/pc0955.pdf>
 Three template claims on our 52-jurisdiction driver's-license pages failed primary-source verification and were corrected in English and Spanish: (1) Enhanced Driver's Licenses were described as available to green-card holders — DHS confirms EDLs prove U.S. citizenship and are for U.S. citizens only (issued by MI, MN, NY, VT, WA; valid at land/sea entry from Canada, Mexico, or the Caribbean — not Bermuda); (2) the Form I-9 note was garbled — a state license is a List B identity document by itself, and a separate List C work-authorization document (such as an unrestricted Social Security card) is what must accompany it; (3) generic fee ranges like "$20-$80" were removed and every fee cell now links to that state's official fee page. The CDL Social Security-number requirement citation was corrected to 49 CFR 383.153(e)(1).
 
 Primary source: <https://www.dhs.gov/enhanced-drivers-licenses-what-are-they>
-
-### 2026-07-01 · CORRECTION
-
-**Correction: Illinois driver's-license page updated — the TVDL was eliminated July 1, 2024**
-
-Our Illinois driver's-license guide still described the Temporary Visitor Driver's License (TVDL) as the path for undocumented residents. Illinois eliminated the TVDL on July 1, 2024: undocumented and no-SSN residents now receive the standard Illinois license (marked Federal Limits Apply) — $30, with a passport or approved consular card, one year of Illinois residency, and proof of insurance; existing TVDL holders can switch for $5. The page and every site mention have been corrected against the Illinois Secretary of State.
-
-Primary source: <https://www.ilsos.gov/departments/drivers/drivers-license/tvdl.html>
 
 ---
 

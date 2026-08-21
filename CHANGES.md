@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 77 recorded changes. Source data as of 2026-08-12.
+Showing the 40 most recent of 79 recorded changes. Source data as of 2026-08-21.
 
 ---
+
+### 2026-08-18 · PROCEDURES
+
+**USCIS publishes the public-charge framework that replaces the 2022 rule on September 18**
+
+On Aug. 18, 2026 USCIS published Policy Manual guidance, effective Sept. 18, 2026, that supersedes the 1999 Interim Field Guidance and governs public-charge determinations for I-485s filed on or after that date. Officers weigh five statutory factors case-by-case. Means-tested benefits received before Sept. 18, 2026 are considered only if they were cash assistance or long-term institutionalization (the 2022-rule limits); benefits the applicant receives on or after that date can all be considered — USCIS names cash assistance, housing assistance, food stamps, and college financial aid. Public-charge bonds (Form I-945) return, by USCIS invitation in a Notice of Intent to Deny only.
+
+Primary source: <https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination>
 
 ### 2026-08-18 · TPS
 
@@ -213,6 +221,14 @@ On July 27, 2026, DHS filed an interim final rule (Federal Register doc. 2026-15
 
 Primary source: <https://www.federalregister.gov/public-inspection/2026-15190/affirmative-asylum-referrals-without-interview>
 
+### 2026-07-24 · EDUCATION
+
+**Illinois in-state tuition for undocumented students struck down — no appeal; aid blocked too**
+
+On July 24, 2026 a federal court (S.D. Ill., USA v. Illinois, 3:25-cv-01691) ruled the Illinois laws granting in-state tuition to students not lawfully present unconstitutional and also blocked RISE Act state financial aid (including MAP grants) and the Illinois DREAM Fund. The court delayed its order 14 days; the state did not appeal, so nonresident rates apply from August 2026. Illinois becomes the sixth jurisdiction to lose access since June 2025 and the fifth by court order. Separately, DOJ has now sued 17 states over tuition-equity laws, adding New York, Connecticut, and Vermont on Aug. 10, 2026.
+
+Primary source: <https://www.higheredimmigrationportal.org/in-state-tuition-litigation-updates/>
+
 ### 2026-07-24 · WORK-PERMITS
 
 **TPS work-permit I-9 dates move again: Haiti and Syria to July 27, Somalia to July 29**
@@ -314,22 +330,6 @@ Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-ter
 On July 1, 2026, USCIS and E-Verify issued updated per-country guidance for Burma, Ethiopia, Haiti, Somalia, South Sudan, Syria, and Yemen: TPS EADs remain extended per court order — including Haiti (Miot v. Trump, D.D.C.) and Syria (Dahlia Doe v. Noem, S.D.N.Y.), whose permits had been set to lapse July 1 after the June 25 Supreme Court ruling (Mullin v. Doe). Employers enter 'as per court order' in I-9 Section 1 and July 10, 2026 in Section 2/E-Verify. The guidance calls this 'limited relief' until each lower court aligns with the ruling. This CORRECTS our July 1 snapshot, which said Haiti and Syria EADs expired that day.
 
 Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-07-02 · ENFORCEMENT
-
-**Tennessee now requires citizenship or 'qualified alien' status for professional licenses (Public Chapter 955, in effect since May 7, 2026)**
-
-Public Chapter 955 (HB 1709, signed May 7, 2026) makes US citizenship or 'qualified alien' status (Tenn. Code Ann. § 4-58-102 — the 8 U.S.C. § 1641(b) categories plus lawful nonimmigrants under § 1621(a)) a condition of eligibility for professional and commercial licenses across dozens of Tennessee boards — health professions, educators, insurance, banking, trades, alcohol permits — for new applications AND renewals. It repealed the prior rule accepting any SAVE-verified federal work authorization, so an EAD by itself (for example, DACA-based) no longer establishes eligibility. Exceptions: physicians with a pending work-visa application; J-1/F-1 students for alcohol permits. The automatic-revocation provision scheduled for July 1, 2026 never took effect (its companion bill HB 1711/SB 2108 died in committee).
-
-Primary source: <https://publications.tnsosfiles.com/acts/114/pub/pc0955.pdf>
-
-### 2026-07-01 · CORRECTION
-
-**Correction: 104 driver's-license pages verified against federal sources — EDL eligibility, I-9 framing, fee figures**
-
-Three template claims on our 52-jurisdiction driver's-license pages failed primary-source verification and were corrected in English and Spanish: (1) Enhanced Driver's Licenses were described as available to green-card holders — DHS confirms EDLs prove U.S. citizenship and are for U.S. citizens only (issued by MI, MN, NY, VT, WA; valid at land/sea entry from Canada, Mexico, or the Caribbean — not Bermuda); (2) the Form I-9 note was garbled — a state license is a List B identity document by itself, and a separate List C work-authorization document (such as an unrestricted Social Security card) is what must accompany it; (3) generic fee ranges like "$20-$80" were removed and every fee cell now links to that state's official fee page. The CDL Social Security-number requirement citation was corrected to 49 CFR 383.153(e)(1).
-
-Primary source: <https://www.dhs.gov/enhanced-drivers-licenses-what-are-they>
 
 ---
 

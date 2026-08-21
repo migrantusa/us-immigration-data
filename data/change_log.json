@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-08-19",
+  "verified_on": "2026-08-21",
   "categories": [
    "tps",
    "visas",
@@ -12,9 +12,19 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-08-12"
+  "last_updated": "2026-08-21"
  },
  "upcoming": [
+  {
+   "date": "2026-10-01",
+   "title_en": "EOIR filing fees rise for FY2027 (immigration-court appeals, motions, cancellation)",
+   "title_es": "Suben las cuotas de EOIR para el año fiscal 2027 (apelaciones, mociones y cancelación en corte de inmigración)",
+   "summary_en": "A final rule published August 21, 2026 (91 FR 54211) applies OBBBA's annual inflation adjustment (CPI-U +3.4%) to EOIR fees for filings on or after October 1, 2026: EOIR-26 and EOIR-29 appeals $1,060; motions to reopen/reconsider before an Immigration Judge $1,095 and before the Board $1,060 ($950 when based on a fee-free relief application); EOIR-40 and EOIR-42A $730; EOIR-42B $1,690. DHS-form fees collected by EOIR are updated separately on EOIR's website.",
+   "summary_es": "Una regla final publicada el 21 de agosto de 2026 (91 FR 54211) aplica el ajuste anual por inflación de la OBBBA (CPI-U +3.4%) a las cuotas de EOIR para presentaciones a partir del 1 de octubre de 2026: apelaciones EOIR-26 y EOIR-29 $1,060; mociones para reabrir/reconsiderar ante el juez de inmigración $1,095 y ante la Junta $1,060 ($950 cuando se basan en una solicitud de alivio sin cuota); EOIR-40 y EOIR-42A $730; EOIR-42B $1,690. Las cuotas de formularios del DHS cobradas por EOIR se actualizan aparte en el sitio de EOIR.",
+   "link_en": "/know-your-rights/if-immigration-bond-is-denied/",
+   "link_es": "/es/conoce-tus-derechos/si-le-niegan-la-fianza/",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027"
+  },
   {
    "date": "2027-01-01",
    "title_en": "Delaware's new hospital charity-care minimums take effect (SS 1 for SB 13)",
@@ -47,13 +57,41 @@
    "date": "2026-09-18",
    "title_en": "The 2022 public-charge rule's rescission takes effect (case-by-case framework; revised Form I-485 required)",
    "title_es": "Entra en vigor la rescisión de la regla de carga pública de 2022 (marco caso por caso; se exige el I-485 revisado)",
-   "summary_en": "From this date, the 2022 public-charge rule's limits on which benefits USCIS may consider are gone: officers assess all pertinent facts case-by-case for admissions and for I-485 applications postmarked or submitted electronically on or after September 18, 2026. Benefits received before this date are still considered under the 2022 rule. Older Form I-485 editions filed on or after this date will not be accepted.",
-   "summary_es": "Desde esta fecha desaparecen los límites de la regla de carga pública de 2022 sobre qué beneficios puede considerar USCIS: los oficiales evalúan todos los hechos pertinentes caso por caso para admisiones y para solicitudes I-485 con matasellos o envío electrónico a partir del 18 de septiembre de 2026. Los beneficios recibidos antes de esta fecha se siguen considerando bajo la regla de 2022. Las ediciones anteriores del Formulario I-485 presentadas a partir de esta fecha no serán aceptadas.",
+   "summary_en": "From this date, the 2022 public-charge rule's limits are gone and the Policy Manual guidance USCIS published August 18, 2026 governs (superseding the 1999 Interim Field Guidance): officers weigh five statutory factors case-by-case, and any means-tested benefit the applicant receives on or after September 18, 2026 — USCIS names cash assistance, housing assistance, food stamps, and college financial aid — can be considered; benefits received before this date are still judged under the 2022 rule's limits. Public-charge bonds (Form I-945) return, by USCIS invitation only. A revised Form I-485 (edition 09/18/26) is required — older editions filed on or after this date will be rejected.",
+   "summary_es": "Desde esta fecha desaparecen los límites de la regla de carga pública de 2022 y rige la guía del Manual de Políticas que USCIS publicó el 18 de agosto de 2026 (que sustituye la Guía de Campo Interina de 1999): los oficiales ponderan cinco factores estatutarios caso por caso, y cualquier beneficio sujeto a comprobación de recursos que el solicitante reciba a partir del 18 de septiembre de 2026 — USCIS nombra la asistencia en efectivo, la ayuda de vivienda, los cupones de alimentos y la ayuda financiera universitaria — puede considerarse; los beneficios recibidos antes de esta fecha se siguen juzgando con los límites de la regla de 2022. Vuelven las fianzas de carga pública (Formulario I-945), solo por invitación de USCIS. Se exige un Formulario I-485 revisado (edición 09/18/26) — las ediciones anteriores presentadas a partir de esta fecha serán rechazadas.",
    "link_en": "/procedures/public-charge/",
    "link_es": "/es/tramites/public-charge/"
   }
  ],
  "changes": [
+  {
+   "date": "2026-08-18",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "USCIS publishes the public-charge framework that replaces the 2022 rule on September 18",
+   "title_es": "USCIS publica el marco de carga pública que reemplaza la regla de 2022 el 18 de septiembre",
+   "summary_en": "On Aug. 18, 2026 USCIS published Policy Manual guidance, effective Sept. 18, 2026, that supersedes the 1999 Interim Field Guidance and governs public-charge determinations for I-485s filed on or after that date. Officers weigh five statutory factors case-by-case. Means-tested benefits received before Sept. 18, 2026 are considered only if they were cash assistance or long-term institutionalization (the 2022-rule limits); benefits the applicant receives on or after that date can all be considered — USCIS names cash assistance, housing assistance, food stamps, and college financial aid. Public-charge bonds (Form I-945) return, by USCIS invitation in a Notice of Intent to Deny only.",
+   "summary_es": "El 18 de agosto de 2026 USCIS publicó una guía del Manual de Políticas, vigente desde el 18 de septiembre de 2026, que sustituye la Guía de Campo Interina de 1999 y rige las determinaciones de carga pública para los I-485 presentados a partir de esa fecha. Los oficiales ponderan cinco factores estatutarios caso por caso. Los beneficios sujetos a comprobación de recursos recibidos antes del 18 de septiembre de 2026 solo se consideran si fueron asistencia en efectivo o institucionalización de largo plazo (los límites de la regla de 2022); los que el solicitante reciba a partir de esa fecha pueden considerarse todos — USCIS nombra la asistencia en efectivo, la ayuda de vivienda, los cupones de alimentos y la ayuda financiera universitaria. Vuelven las fianzas de carga pública (Formulario I-945), solo por invitación de USCIS en un Aviso de Intención de Denegar.",
+   "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination",
+   "links": {
+    "en": "/procedures/public-charge/",
+    "es": "/es/tramites/public-charge/"
+   }
+  },
+  {
+   "date": "2026-07-24",
+   "precision": "day",
+   "category": "education",
+   "title_en": "Illinois in-state tuition for undocumented students struck down — no appeal; aid blocked too",
+   "title_es": "Anulada la matrícula estatal de Illinois para estudiantes indocumentados — sin apelación; la ayuda también bloqueada",
+   "summary_en": "On July 24, 2026 a federal court (S.D. Ill., USA v. Illinois, 3:25-cv-01691) ruled the Illinois laws granting in-state tuition to students not lawfully present unconstitutional and also blocked RISE Act state financial aid (including MAP grants) and the Illinois DREAM Fund. The court delayed its order 14 days; the state did not appeal, so nonresident rates apply from August 2026. Illinois becomes the sixth jurisdiction to lose access since June 2025 and the fifth by court order. Separately, DOJ has now sued 17 states over tuition-equity laws, adding New York, Connecticut, and Vermont on Aug. 10, 2026.",
+   "summary_es": "El 24 de julio de 2026 un tribunal federal (S.D. Ill., USA v. Illinois, 3:25-cv-01691) declaró inconstitucionales las leyes de Illinois que daban matrícula estatal a estudiantes sin presencia legal y también bloqueó la ayuda financiera estatal de la Ley RISE (incluidas las becas MAP) y el Illinois DREAM Fund. El tribunal aplazó su orden 14 días; el estado no apeló, así que desde agosto de 2026 se aplican tarifas de no residente. Illinois es la sexta jurisdicción en perder el acceso desde junio de 2025 y la quinta por orden judicial. Aparte, el DOJ ya ha demandado a 17 estados por sus leyes de equidad de matrícula, sumando a Nueva York, Connecticut y Vermont el 10 de agosto de 2026.",
+   "source_url": "https://www.higheredimmigrationportal.org/in-state-tuition-litigation-updates/",
+   "links": {
+    "en": "/datasets/in-state-tuition-access/",
+    "es": "/es/datos/acceso-matricula-estatal/"
+   }
+  },
   {
    "date": "2026-08-18",
    "precision": "day",

@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 79 recorded changes. Source data as of 2026-08-21.
+Showing the 40 most recent of 81 recorded changes. Source data as of 2026-08-21.
 
 ---
+
+### 2026-08-20 · TAXES
+
+**Treasury/IRS propose restricting the refunded portion of the CTC, EITC, AOTC, and adoption credit to citizens and PRWORA qualified aliens**
+
+Proposed regulations published Aug. 20, 2026 (REG-119882-25, 91 FR 53812) would treat the refunded portion of the Child Tax Credit, Earned Income Tax Credit, American Opportunity Credit, and adoption credit as a federal public benefit under PRWORA. Only U.S. citizens, U.S. nationals, and PRWORA qualified aliens (lawful permanent residents, asylees, refugees, and certain other groups) could receive the refunded portion; on a joint return one qualifying spouse suffices, and the non-refundable portion that offsets tax owed is unaffected. This is a proposal, not current law — it would apply to tax years ending on or after the date final regulations publish. Comments are open through Oct. 5, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/08/20/2026-16985/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the>
+
+### 2026-08-20 · TAXES
+
+**IRS launches a digitally authenticated Tax Compliance Report in Individual Online Account**
+
+On Aug. 20, 2026 the IRS announced a downloadable Tax Compliance Report (IR-2026-97), available through IRS Individual Online Account, for use when applying for a job, a loan, a government benefit, or another service that requires tax-compliance information. Each report carries an IRS-issued digital certificate so receiving organizations can verify its authenticity. It complements, not replaces, the five transcript types.
+
+Primary source: <https://www.irs.gov/newsroom/irs-launches-digitally-authenticated-tax-compliance-report>
 
 ### 2026-08-18 · PROCEDURES
 
@@ -314,22 +330,6 @@ Primary source: <https://egov.uscis.gov/processing-times/>
 DHS interim final rule (Federal Register 2026-09289, amending 8 CFR 103.2(a)(7)) applies to benefit requests submitted on or after July 10, 2026. If USCIS accepts a filing and later finds an invalid signature, it may reject it (fee refunded, filing date lost) or deny it and keep the filing fee — with no opportunity to correct the signature. Valid means handwritten (signature, thumbprint, or X); scanned/faxed/photocopied wet-ink originals stay acceptable; myUSCIS e-filing uses its secure electronic signature.
 
 Primary source: <https://www.federalregister.gov/documents/2026/05/11/2026-09289/signatures-on-immigration-benefit-requests>
-
-### 2026-07-10
-
-**TPS work-permit I-9 dates move — July 17, 2026 for six litigation countries, July 24, 2026 for Haiti**
-
-On July 10, 2026, USCIS/E-Verify issued superseding guidance for the seven TPS designations extended per court order (Burma, Ethiopia, Haiti, Somalia, South Sudan, Syria, Yemen). EADs remain extended as 'limited relief,' but the date employers enter on Form I-9 Section 2 and in E-Verify moves from July 10, 2026 to July 17, 2026 — and to July 24, 2026 for Haiti.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-haiti-release-0>
-
-### 2026-07-03 · WORK
-
-**TPS work permits for all 7 countries in litigation extended per court order — employers enter July 10, 2026 on Form I-9 (July 1 USCIS/E-Verify guidance)**
-
-On July 1, 2026, USCIS and E-Verify issued updated per-country guidance for Burma, Ethiopia, Haiti, Somalia, South Sudan, Syria, and Yemen: TPS EADs remain extended per court order — including Haiti (Miot v. Trump, D.D.C.) and Syria (Dahlia Doe v. Noem, S.D.N.Y.), whose permits had been set to lapse July 1 after the June 25 Supreme Court ruling (Mullin v. Doe). Employers enter 'as per court order' in I-9 Section 1 and July 10, 2026 in Section 2/E-Verify. The guidance calls this 'limited relief' until each lower court aligns with the ruling. This CORRECTS our July 1 snapshot, which said Haiti and Syria EADs expired that day.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
 
 ---
 

@@ -65,6 +65,20 @@
  ],
  "changes": [
   {
+   "date": "2026-08-24",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "Correction: community health center pages no longer claim patient information is never shared with immigration authorities",
+   "title_es": "Corrección: las páginas de centros de salud comunitarios ya no afirman que la información del paciente nunca se comparte con autoridades migratorias",
+   "summary_en": "All 52 state community-health-center (FQHC) pages carried the blanket reassurance that patient information is not shared with immigration authorities. That is an overclaim after the 2025 HHS/CMS–ICE Medicaid data-sharing agreement, which a federal court only partially blocked on December 29, 2025. The pages now explain the HIPAA protection, the Medicaid-enrollment caveat, and that sliding-fee payment creates no Medicaid record.",
+   "summary_es": "Las 52 páginas estatales de centros de salud comunitarios (FQHC) llevaban la garantía general de que la información del paciente no se comparte con autoridades migratorias. Esa afirmación es excesiva tras el acuerdo de 2025 entre HHS/CMS e ICE para compartir datos de Medicaid, que un tribunal federal solo bloqueó parcialmente el 29 de diciembre de 2025. Las páginas ahora explican la protección de HIPAA, la advertencia sobre la inscripción en Medicaid y que pagar con la tarifa escalonada no crea un registro de Medicaid.",
+   "source_url": "https://clearinghouse.net/case/46754/",
+   "links": {
+    "en": "/immigration-cases/medicaid-data-sharing-with-ice/",
+    "es": "/es/casos-de-inmigracion/comparticion-de-datos-de-medicaid-con-ice/"
+   }
+  },
+  {
    "date": "2026-08-20",
    "precision": "day",
    "category": "taxes",

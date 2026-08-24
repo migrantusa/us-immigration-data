@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 81 recorded changes. Source data as of 2026-08-21.
+Showing the 40 most recent of 82 recorded changes. Source data as of 2026-08-21.
 
 ---
+
+### 2026-08-24 · BENEFITS
+
+**Correction: community health center pages no longer claim patient information is never shared with immigration authorities**
+
+All 52 state community-health-center (FQHC) pages carried the blanket reassurance that patient information is not shared with immigration authorities. That is an overclaim after the 2025 HHS/CMS–ICE Medicaid data-sharing agreement, which a federal court only partially blocked on December 29, 2025. The pages now explain the HIPAA protection, the Medicaid-enrollment caveat, and that sliding-fee payment creates no Medicaid record.
+
+Primary source: <https://clearinghouse.net/case/46754/>
 
 ### 2026-08-20 · TAXES
 
@@ -322,14 +330,6 @@ Primary source: <https://www.uscis.gov/newsroom/news-releases/us-citizenship-and
 Our Form I-90 page carried a 7-month figure for the "Initial issuance or replacement" category, taken from a 2026-05-26 snapshot of the USCIS processing-times system. Re-verified live against egov.uscis.gov on 2026-07-10, USCIS now publishes 6.5 months for that category; the 10-year renewal figure is unchanged at 10.5 months. Both pages (EN + ES) and the underlying dataset were corrected, and the page now also explains the Case Inquiry Date, which governs when USCIS will actually accept a question about a pending case.
 
 Primary source: <https://egov.uscis.gov/processing-times/>
-
-### 2026-07-10 · FEES
-
-**USCIS signature rule took effect July 10, 2026: invalid signature found after acceptance can mean denial with the fee kept**
-
-DHS interim final rule (Federal Register 2026-09289, amending 8 CFR 103.2(a)(7)) applies to benefit requests submitted on or after July 10, 2026. If USCIS accepts a filing and later finds an invalid signature, it may reject it (fee refunded, filing date lost) or deny it and keep the filing fee — with no opportunity to correct the signature. Valid means handwritten (signature, thumbprint, or X); scanned/faxed/photocopied wet-ink originals stay acceptable; myUSCIS e-filing uses its secure electronic signature.
-
-Primary source: <https://www.federalregister.gov/documents/2026/05/11/2026-09289/signatures-on-immigration-benefit-requests>
 
 ---
 

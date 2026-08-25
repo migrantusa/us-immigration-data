@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 82 recorded changes. Source data as of 2026-08-21.
+Showing the 40 most recent of 84 recorded changes. Source data as of 2026-08-25.
 
 ---
+
+### 2026-08-25 · ENFORCEMENT
+
+**CBP establishes four Customs-Enforcement Areas at sea — South Florida, Gulf Coast of Texas, Central/Southern California and Puerto Rico**
+
+Effective August 25, 2026, the CBP Commissioner declared four Customs-Enforcement Areas under the Anti-Smuggling Act of 1935 (19 U.S.C. 1701), published as CBP Dec. No. 26-17 at 91 FR 54800. Each area sits on the high seas adjacent to but OUTSIDE US customs waters and runs out to 24 nautical miles from the baseline — it covers water further offshore, not more land, and does not change what agents may do at an inland checkpoint, on a bus, or at a home. Inside a CEA, customs officers may board any vessel, examine the vessel and any merchandise or person on board, bring them into port, and pursue, seize or arrest, and may enforce 18 U.S.C. 2237 against a master who fails to heave to or obstructs a boarding. The four areas cover the South Florida coast including the Florida Keys, the Texas Gulf Coast from the Sabine River to the Mexican maritime boundary, the California coast from Ano Nuevo Lighthouse south to the Mexican maritime boundary including eight offshore islands, and the waters encircling Puerto Rico including Mona, Desecheo, Vieques and Culebra. CBP wrote the areas to operate independently, so enjoining one leaves the others in force.
+
+Primary source: <https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas>
 
 ### 2026-08-24 · BENEFITS
 
@@ -20,6 +28,14 @@ Showing the 40 most recent of 82 recorded changes. Source data as of 2026-08-21.
 All 52 state community-health-center (FQHC) pages carried the blanket reassurance that patient information is not shared with immigration authorities. That is an overclaim after the 2025 HHS/CMS–ICE Medicaid data-sharing agreement, which a federal court only partially blocked on December 29, 2025. The pages now explain the HIPAA protection, the Medicaid-enrollment caveat, and that sliding-fee payment creates no Medicaid record.
 
 Primary source: <https://clearinghouse.net/case/46754/>
+
+### 2026-08-21 · FEES
+
+**H.R.1 fees appeal: emergency stay motion withdrawn — First Circuit sets merits briefing, opening brief due September 30, 2026**
+
+In the H.R.1 immigration-fees appeal (Venezuelan Ass'n of Mass. v. USCIS, 1st Cir. No. 26-1893), the plaintiffs withdrew their renewed emergency stay motion on August 20, 2026, and on August 21 the court granted the withdrawal and set a merits briefing schedule with the appellants' opening brief due September 30, 2026. No emergency ruling will issue, so the one-year cap on TPS-based work permits keeps operating while the appeal is briefed.
+
+Primary source: <https://www.courtlistener.com/docket/73728632/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
 
 ### 2026-08-20 · TAXES
 
@@ -314,22 +330,6 @@ Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
 DHS published the final rule (FR doc 2026-14439) replacing open-ended 'duration of status' admission with a fixed admission period for F, J, and I nonimmigrants — for F-1, up to 4 years or the program end date, whichever is shorter, with a 30-day grace period and an extension-of-stay application for more time. It takes effect September 15, 2026 (a major rule subject to congressional review — DHS will publish a notice if the date changes). Those already in the U.S. on D/S keep their status until their I-20/DS-2019 program end date or 4 years after the effective date, whichever comes first, and receive a dated I-94 if they travel and re-enter.
 
 Primary source: <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant>
-
-### 2026-07-16 · RULE-CHANGE
-
-**DHS finalizes rescission of the 2022 public-charge rule — effective September 18, 2026**
-
-DHS issued a final rule (FR doc 2026-14539, published in the Federal Register July 20, 2026 at 91 FR 45324) rescinding the 2022 public-charge regulation. Nothing changes before September 18, 2026: the rescission applies to admissions and to Form I-485 filings postmarked or submitted electronically on or after that date, and the rule states that benefits received before it will still be considered under the 2022 rule. From September 18, USCIS officers will assess all pertinent facts case-by-case, and a revised Form I-485 will be required — older editions filed on or after that date will not be accepted.
-
-Primary source: <https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-rescinds-2022-public-charge-regulation>
-
-### 2026-07-10 · CORRECTION
-
-**Correction: I-90 replacement processing time is 6.5 months, not 7**
-
-Our Form I-90 page carried a 7-month figure for the "Initial issuance or replacement" category, taken from a 2026-05-26 snapshot of the USCIS processing-times system. Re-verified live against egov.uscis.gov on 2026-07-10, USCIS now publishes 6.5 months for that category; the 10-year renewal figure is unchanged at 10.5 months. Both pages (EN + ES) and the underlying dataset were corrected, and the page now also explains the Case Inquiry Date, which governs when USCIS will actually accept a question about a pending case.
-
-Primary source: <https://egov.uscis.gov/processing-times/>
 
 ---
 

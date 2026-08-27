@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-08-25",
+  "verified_on": "2026-08-26",
   "categories": [
    "tps",
    "visas",
@@ -12,28 +12,9 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-08-25"
+  "last_updated": "2026-08-26"
  },
  "upcoming": [
-  {
-   "date": "2026-10-01",
-   "title_en": "EOIR filing fees rise for FY2027 (immigration-court appeals, motions, cancellation)",
-   "title_es": "Suben las cuotas de EOIR para el año fiscal 2027 (apelaciones, mociones y cancelación en corte de inmigración)",
-   "summary_en": "A final rule published August 21, 2026 (91 FR 54211) applies OBBBA's annual inflation adjustment (CPI-U +3.4%) to EOIR fees for filings on or after October 1, 2026: EOIR-26 and EOIR-29 appeals $1,060; motions to reopen/reconsider before an Immigration Judge $1,095 and before the Board $1,060 ($950 when based on a fee-free relief application); EOIR-40 and EOIR-42A $730; EOIR-42B $1,690. DHS-form fees collected by EOIR are updated separately on EOIR's website.",
-   "summary_es": "Una regla final publicada el 21 de agosto de 2026 (91 FR 54211) aplica el ajuste anual por inflación de la OBBBA (CPI-U +3.4%) a las cuotas de EOIR para presentaciones a partir del 1 de octubre de 2026: apelaciones EOIR-26 y EOIR-29 $1,060; mociones para reabrir/reconsiderar ante el juez de inmigración $1,095 y ante la Junta $1,060 ($950 cuando se basan en una solicitud de alivio sin cuota); EOIR-40 y EOIR-42A $730; EOIR-42B $1,690. Las cuotas de formularios del DHS cobradas por EOIR se actualizan aparte en el sitio de EOIR.",
-   "link_en": "/know-your-rights/if-immigration-bond-is-denied/",
-   "link_es": "/es/conoce-tus-derechos/si-le-niegan-la-fianza/",
-   "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027"
-  },
-  {
-   "date": "2027-01-01",
-   "title_en": "Delaware's new hospital charity-care minimums take effect (SS 1 for SB 13)",
-   "title_es": "Entran en vigor los nuevos mínimos de charity care hospitalario de Delaware (SS 1 for SB 13)",
-   "summary_en": "Signed July 20, 2026. From January 1, 2027 Delaware hospitals must give full financial assistance at or below 300% FPL, a 75% discount to 350%, and a 50% discount to 400%; remaining provisions follow on the earlier of the Diamond State Hospital Cost Review Board's final-regulations notice or July 1, 2027.",
-   "summary_es": "Firmada el 20 de julio de 2026. Desde el 1 de enero de 2027 los hospitales de Delaware deben dar asistencia financiera completa hasta el 300% del FPL, 75% de descuento hasta el 350% y 50% hasta el 400%; las demás disposiciones entran en la fecha que ocurra primero entre el aviso de reglamentos finales de la Diamond State Hospital Cost Review Board o el 1 de julio de 2027.",
-   "link_en": "/benefits/free-hospital-care-by-state/delaware/",
-   "link_es": "/es/beneficios/atencion-hospitalaria-gratis-por-estado/delaware/"
-  },
   {
    "date": "2026-07-01",
    "title_en": "Germany's 45+ pension-provision thresholds reset July 1 — updated figures not yet published",
@@ -54,6 +35,30 @@
    "link_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
   },
   {
+   "date": "2026-09-15",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "New editions of Form I-765 and Form I-539 take effect — older editions rejected, no grace period",
+   "title_es": "Entran en vigor las nuevas ediciones de los Formularios I-765 e I-539 — las ediciones anteriores se rechazan, sin periodo de gracia",
+   "summary_en": "USCIS announced on August 14, 2026 that it will publish revised editions of Form I-765 (Application for Employment Authorization) and Form I-539 (Application to Extend/Change Nonimmigrant Status) on September 15, 2026, both carrying edition date 09/15/26. They replace the 08/21/25 edition of Form I-765 and the 08/28/24 edition of Form I-539. There is no grace period: USCIS will reject the older editions if they are postmarked or electronically submitted on or after September 15, 2026, and will not accept the new editions before that date. The trigger is the postmark or submission date, not the date USCIS receives the package. The revision follows the final rule setting fixed admission periods for F, J and I nonimmigrants, but the rejection rule applies to every I-765 filer — including DACA renewals, TPS registrations and asylum-based work permits, which are unrelated to that rule.",
+   "summary_es": "USCIS anunció el 14 de agosto de 2026 que publicará ediciones revisadas del Formulario I-765 (Solicitud de Autorización de Empleo) y del Formulario I-539 (Solicitud para Extender/Cambiar Estatus de No Inmigrante) el 15 de septiembre de 2026, ambas con fecha de edición 09/15/26. Reemplazan la edición del 08/21/25 del I-765 y la del 08/28/24 del I-539. No hay periodo de gracia: USCIS rechazará las ediciones anteriores si llevan matasellos o envío electrónico del 15 de septiembre de 2026 en adelante, y no aceptará las nuevas ediciones antes de esa fecha. Lo que cuenta es la fecha del matasellos o del envío, no la fecha en que USCIS recibe el paquete. La revisión proviene de la regla final sobre periodos fijos de admisión para no inmigrantes F, J e I, pero la regla de rechazo aplica a todos los que presenten un I-765 — incluidas las renovaciones de DACA, los registros de TPS y los permisos de trabajo por asilo, que nada tienen que ver con esa regla.",
+   "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting",
+   "guides_en": [
+    "/procedures/uscis/i-765-employment-authorization-ead/",
+    "/procedures/uscis/i-539-extension-status/",
+    "/procedures/uscis/i-821d-daca-renewal/",
+    "/procedures/uscis/i-821-tps-temporary-protected-status/"
+   ],
+   "guides_es": [
+    "/es/tramites/uscis/i-765-autorizacion-empleo-ead/",
+    "/es/tramites/uscis/i-539-extension-status/",
+    "/es/tramites/uscis/i-821d-daca-renovacion/",
+    "/es/tramites/uscis/i-821-tps-estatus-de-proteccion-temporal/"
+   ],
+   "link_en": "/procedures/uscis/i-765-employment-authorization-ead/",
+   "link_es": "/es/tramites/uscis/i-765-autorizacion-empleo-ead/"
+  },
+  {
    "date": "2026-09-18",
    "title_en": "The 2022 public-charge rule's rescission takes effect (case-by-case framework; revised Form I-485 required)",
    "title_es": "Entra en vigor la rescisión de la regla de carga pública de 2022 (marco caso por caso; se exige el I-485 revisado)",
@@ -61,6 +66,25 @@
    "summary_es": "Desde esta fecha desaparecen los límites de la regla de carga pública de 2022 y rige la guía del Manual de Políticas que USCIS publicó el 18 de agosto de 2026 (que sustituye la Guía de Campo Interina de 1999): los oficiales ponderan cinco factores estatutarios caso por caso, y cualquier beneficio sujeto a comprobación de recursos que el solicitante reciba a partir del 18 de septiembre de 2026 — USCIS nombra la asistencia en efectivo, la ayuda de vivienda, los cupones de alimentos y la ayuda financiera universitaria — puede considerarse; los beneficios recibidos antes de esta fecha se siguen juzgando con los límites de la regla de 2022. Vuelven las fianzas de carga pública (Formulario I-945), solo por invitación de USCIS. Se exige un Formulario I-485 revisado (edición 09/18/26) — las ediciones anteriores presentadas a partir de esta fecha serán rechazadas.",
    "link_en": "/procedures/public-charge/",
    "link_es": "/es/tramites/public-charge/"
+  },
+  {
+   "date": "2026-10-01",
+   "title_en": "EOIR filing fees rise for FY2027 (immigration-court appeals, motions, cancellation)",
+   "title_es": "Suben las cuotas de EOIR para el año fiscal 2027 (apelaciones, mociones y cancelación en corte de inmigración)",
+   "summary_en": "A final rule published August 21, 2026 (91 FR 54211) applies OBBBA's annual inflation adjustment (CPI-U +3.4%) to EOIR fees for filings on or after October 1, 2026: EOIR-26 and EOIR-29 appeals $1,060; motions to reopen/reconsider before an Immigration Judge $1,095 and before the Board $1,060 ($950 when based on a fee-free relief application); EOIR-40 and EOIR-42A $730; EOIR-42B $1,690. DHS-form fees collected by EOIR are updated separately on EOIR's website.",
+   "summary_es": "Una regla final publicada el 21 de agosto de 2026 (91 FR 54211) aplica el ajuste anual por inflación de la OBBBA (CPI-U +3.4%) a las cuotas de EOIR para presentaciones a partir del 1 de octubre de 2026: apelaciones EOIR-26 y EOIR-29 $1,060; mociones para reabrir/reconsiderar ante el juez de inmigración $1,095 y ante la Junta $1,060 ($950 cuando se basan en una solicitud de alivio sin cuota); EOIR-40 y EOIR-42A $730; EOIR-42B $1,690. Las cuotas de formularios del DHS cobradas por EOIR se actualizan aparte en el sitio de EOIR.",
+   "link_en": "/know-your-rights/if-immigration-bond-is-denied/",
+   "link_es": "/es/conoce-tus-derechos/si-le-niegan-la-fianza/",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027"
+  },
+  {
+   "date": "2027-01-01",
+   "title_en": "Delaware's new hospital charity-care minimums take effect (SS 1 for SB 13)",
+   "title_es": "Entran en vigor los nuevos mínimos de charity care hospitalario de Delaware (SS 1 for SB 13)",
+   "summary_en": "Signed July 20, 2026. From January 1, 2027 Delaware hospitals must give full financial assistance at or below 300% FPL, a 75% discount to 350%, and a 50% discount to 400%; remaining provisions follow on the earlier of the Diamond State Hospital Cost Review Board's final-regulations notice or July 1, 2027.",
+   "summary_es": "Firmada el 20 de julio de 2026. Desde el 1 de enero de 2027 los hospitales de Delaware deben dar asistencia financiera completa hasta el 300% del FPL, 75% de descuento hasta el 350% y 50% hasta el 400%; las demás disposiciones entran en la fecha que ocurra primero entre el aviso de reglamentos finales de la Diamond State Hospital Cost Review Board o el 1 de julio de 2027.",
+   "link_en": "/benefits/free-hospital-care-by-state/delaware/",
+   "link_es": "/es/beneficios/atencion-hospitalaria-gratis-por-estado/delaware/"
   }
  ],
  "changes": [
@@ -76,7 +100,9 @@
    "links": {
     "en": "/know-your-rights/border-zone-100-miles/",
     "es": "/es/conoce-tus-derechos/zona-fronteriza-100-millas/"
-   }
+   },
+   "link_en": "/know-your-rights/border-zone-100-miles/",
+   "link_es": "/es/conoce-tus-derechos/zona-fronteriza-100-millas/"
   },
   {
    "date": "2026-08-21",
@@ -90,7 +116,9 @@
    "links": {
     "en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
     "es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
-   }
+   },
+   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
   },
   {
    "date": "2026-08-24",
@@ -104,7 +132,9 @@
    "links": {
     "en": "/immigration-cases/medicaid-data-sharing-with-ice/",
     "es": "/es/casos-de-inmigracion/comparticion-de-datos-de-medicaid-con-ice/"
-   }
+   },
+   "link_en": "/immigration-cases/medicaid-data-sharing-with-ice/",
+   "link_es": "/es/casos-de-inmigracion/comparticion-de-datos-de-medicaid-con-ice/"
   },
   {
    "date": "2026-08-20",
@@ -118,7 +148,9 @@
    "links": {
     "en": "/taxes/itin/tax-credits-eligible-with-itin/",
     "es": "/es/impuestos/itin/creditos-fiscales-elegibles-con-itin/"
-   }
+   },
+   "link_en": "/taxes/itin/tax-credits-eligible-with-itin/",
+   "link_es": "/es/impuestos/itin/creditos-fiscales-elegibles-con-itin/"
   },
   {
    "date": "2026-08-20",
@@ -132,7 +164,9 @@
    "links": {
     "en": "/taxes/irs-transcript/",
     "es": "/es/impuestos/transcripcion-irs/"
-   }
+   },
+   "link_en": "/taxes/irs-transcript/",
+   "link_es": "/es/impuestos/transcripcion-irs/"
   },
   {
    "date": "2026-08-18",
@@ -146,7 +180,9 @@
    "links": {
     "en": "/procedures/public-charge/",
     "es": "/es/tramites/public-charge/"
-   }
+   },
+   "link_en": "/procedures/public-charge/",
+   "link_es": "/es/tramites/public-charge/"
   },
   {
    "date": "2026-07-24",
@@ -160,7 +196,9 @@
    "links": {
     "en": "/datasets/in-state-tuition-access/",
     "es": "/es/datos/acceso-matricula-estatal/"
-   }
+   },
+   "link_en": "/datasets/in-state-tuition-access/",
+   "link_es": "/es/datos/acceso-matricula-estatal/"
   },
   {
    "date": "2026-08-18",
@@ -174,7 +212,9 @@
    "links": {
     "en": "/procedures/tps-by-country/ethiopia/",
     "es": "/es/tramites/tps-por-pais/ethiopia/"
-   }
+   },
+   "link_en": "/procedures/tps-by-country/ethiopia/",
+   "link_es": "/es/tramites/tps-por-pais/ethiopia/"
   },
   {
    "date": "2026-06-25",
@@ -188,7 +228,9 @@
    "links": {
     "en": "/procedures/uscis/i-821d-daca-renewal/",
     "es": "/es/tramites/uscis/i-821d-daca-renovacion/"
-   }
+   },
+   "link_en": "/procedures/uscis/i-821d-daca-renewal/",
+   "link_es": "/es/tramites/uscis/i-821d-daca-renovacion/"
   },
   {
    "date": "2026-08-13",
@@ -202,7 +244,9 @@
    "links": {
     "en": "/procedures/uscis/i-131-travel-document-advance-parole/",
     "es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
-   }
+   },
+   "link_en": "/procedures/uscis/i-131-travel-document-advance-parole/",
+   "link_es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
   },
   {
    "date": "2026-08-17",
@@ -216,7 +260,9 @@
    "links": {
     "en": "/procedures/work-wages-by-state/california/",
     "es": "/es/tramites/trabajo-salarios-por-estado/california/"
-   }
+   },
+   "link_en": "/procedures/work-wages-by-state/california/",
+   "link_es": "/es/tramites/trabajo-salarios-por-estado/california/"
   },
   {
    "date": "2026-08-16",
@@ -394,7 +440,9 @@
     "/es/tramites/tps-por-pais/",
     "/es/tramites/tps-por-pais/somalia/",
     "/es/casos-de-inmigracion/litigio-terminacion-tps/"
-   ]
+   ],
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/"
   },
   {
    "date": "2026-08-05",
@@ -414,7 +462,9 @@
     "/es/tramites/codigos-aviso-uscis/i-797e-rfe-solicitud-de-evidencia/",
     "/es/tramites/codigos-aviso-uscis/uscis-noid-aviso-de-intencion-de-denegar/",
     "/es/tramites/codigos-aviso-uscis/"
-   ]
+   ],
+   "link_en": "/procedures/uscis-notice-codes/i-797e-rfe-request-for-evidence/",
+   "link_es": "/es/tramites/codigos-aviso-uscis/i-797e-rfe-solicitud-de-evidencia/"
   },
   {
    "date": "2026-08-03",
@@ -436,7 +486,9 @@
     "/es/tramites/tps-por-pais/",
     "/es/tramites/tps-por-pais/somalia/",
     "/es/tramites/tps-por-pais/burma-myanmar/"
-   ]
+   ],
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/"
   },
   {
    "date": "2026-08-03",
@@ -452,7 +504,9 @@
    ],
    "links_es": [
     "/es/casos-de-inmigracion/cambios-en-la-regla-de-salarios-de-trabajadores-agricolas-h2a/"
-   ]
+   ],
+   "link_en": "/immigration-cases/h2a-farmworker-wage-rule-changes/",
+   "link_es": "/es/casos-de-inmigracion/cambios-en-la-regla-de-salarios-de-trabajadores-agricolas-h2a/"
   },
   {
    "date": "2026-07-30",

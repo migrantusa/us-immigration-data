@@ -89,6 +89,22 @@
  ],
  "changes": [
   {
+   "date": "2026-08-28",
+   "precision": "day",
+   "category": "courts",
+   "title_en": "Second court blocks the USCIS asylum/benefits hold memos — N.D. California enjoins PM 602-0192 and PM 602-0194, certifies a class (Red Eagle Law v. Edlow)",
+   "title_es": "Un segundo tribunal bloquea los memorandos de pausa de USCIS — el Distrito Norte de California prohíbe los PM 602-0192 y PM 602-0194 y certifica una clase (Red Eagle Law v. Edlow)",
+   "summary_en": "A second court has now blocked the same policy memos. On August 24, 2026, the U.S. District Court for the Northern District of California issued an order in Red Eagle Law, L.C. v. Edlow, No. 26-cv-04850-CRB, enjoining PM 602-0192 and PM 602-0194 and ordering USCIS to adjudicate applications in the normal course. The court also certified a class: citizens or natives of the 39 countries listed in Proclamations 10949 or 10998 (or the Palestinian Authority) who have a pending asylum application (Form I-589) or another pending USCIS benefit application that was subject to the hold memos and had not received a final decision as of the certification date. USCIS updated its 'Court Order on Hold Policies' alert on August 28, 2026: it says it strongly disagrees with the order but will follow its terms pending possible further judicial review, and will issue updated instructions. USCIS has not said how this injunction interacts with the First Circuit's August 14 order reviving the Comprehensive Re-Review in the Dorcas appeal.",
+   "summary_es": "Un segundo tribunal ya bloqueó los mismos memorandos. El 24 de agosto de 2026, el Tribunal de Distrito de EE.UU. para el Distrito Norte de California emitió una orden en Red Eagle Law, L.C. v. Edlow, No. 26-cv-04850-CRB, que prohíbe aplicar los memorandos PM 602-0192 y PM 602-0194 y ordena a USCIS adjudicar las solicitudes en su curso normal. El tribunal también certificó una clase: ciudadanos o nativos de los 39 países de las Proclamaciones 10949 o 10998 (o de la Autoridad Palestina) con una solicitud de asilo (Formulario I-589) u otra solicitud de beneficios pendiente ante USCIS que estaba sujeta a esos memorandos de pausa y no había recibido decisión final a la fecha de la certificación. USCIS actualizó su alerta 'Court Order on Hold Policies' el 28 de agosto de 2026: dice estar en fuerte desacuerdo con la orden, pero que cumplirá sus términos mientras haya posible revisión judicial adicional, y que emitirá instrucciones actualizadas. USCIS no ha dicho cómo esta orden interactúa con la orden del Primer Circuito del 14 de agosto que reactivó la re-revisión integral en la apelación de Dorcas.",
+   "source_url": "https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies",
+   "links": {
+    "en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+    "es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
+   },
+   "link_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "link_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
+  },
+  {
    "date": "2026-08-25",
    "precision": "day",
    "category": "enforcement",

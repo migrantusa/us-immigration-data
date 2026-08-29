@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 84 recorded changes. Source data as of 2026-08-26.
+Showing the 40 most recent of 85 recorded changes. Source data as of 2026-08-26.
 
 ---
+
+### 2026-08-28 · COURTS
+
+**Second court blocks the USCIS asylum/benefits hold memos — N.D. California enjoins PM 602-0192 and PM 602-0194, certifies a class (Red Eagle Law v. Edlow)**
+
+A second court has now blocked the same policy memos. On August 24, 2026, the U.S. District Court for the Northern District of California issued an order in Red Eagle Law, L.C. v. Edlow, No. 26-cv-04850-CRB, enjoining PM 602-0192 and PM 602-0194 and ordering USCIS to adjudicate applications in the normal course. The court also certified a class: citizens or natives of the 39 countries listed in Proclamations 10949 or 10998 (or the Palestinian Authority) who have a pending asylum application (Form I-589) or another pending USCIS benefit application that was subject to the hold memos and had not received a final decision as of the certification date. USCIS updated its 'Court Order on Hold Policies' alert on August 28, 2026: it says it strongly disagrees with the order but will follow its terms pending possible further judicial review, and will issue updated instructions. USCIS has not said how this injunction interacts with the First Circuit's August 14 order reviving the Comprehensive Re-Review in the Dorcas appeal.
+
+Primary source: <https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies>
 
 ### 2026-08-25 · ENFORCEMENT
 
@@ -322,14 +330,6 @@ Primary source: <https://legis.delaware.gov/BillDetail?LegislationId=143519>
 On July 17, 2026, USCIS/E-Verify posted superseding guidance for Burma, Ethiopia, Somalia, South Sudan, Syria and Yemen: TPS EADs remain extended per court order, and the date employers enter on Form I-9/E-Verify moved from July 17, 2026 to July 24 (Somalia, Syria, Yemen), July 27 (Burma), or July 30 (Ethiopia, South Sudan). Haiti's guidance is unchanged — its I-9 date remains July 24, 2026. The extensions remain 'limited relief' until each lower court aligns with the June 25 Supreme Court ruling.
 
 Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-07-17 · RULE-CHANGE
-
-**Final rule ends 'duration of status' for F-1, J-1, and I — effective September 15, 2026**
-
-DHS published the final rule (FR doc 2026-14439) replacing open-ended 'duration of status' admission with a fixed admission period for F, J, and I nonimmigrants — for F-1, up to 4 years or the program end date, whichever is shorter, with a 30-day grace period and an extension-of-stay application for more time. It takes effect September 15, 2026 (a major rule subject to congressional review — DHS will publish a notice if the date changes). Those already in the U.S. on D/S keep their status until their I-20/DS-2019 program end date or 4 years after the effective date, whichever comes first, and receive a dated I-94 if they travel and re-enter.
-
-Primary source: <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant>
 
 ---
 

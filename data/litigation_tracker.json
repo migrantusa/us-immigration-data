@@ -2,34 +2,59 @@
  "_meta": {
   "title_en": "Immigration litigation tracker — 62 cases, status and dated movement",
   "title_es": "Rastreador de litigios migratorios — 62 casos, estado y movimiento fechado",
-  "as_of": "2026-07-28",
+  "as_of": "2026-09-01",
   "source": "MigrantUSA's own case tracker, maintained from the primary record for each case: the court's order or opinion, the Federal Register document, and the agency's own alert page. Each case entry carries its docket number and court so any row can be checked at the source.",
   "source_url": "https://migrantusa.com/immigration-cases/",
   "case_count": 62,
-  "event_count": 266,
-  "dated_event_count": 259,
+  "event_count": 317,
+  "dated_event_count": 311,
   "anchor_event_count": 4,
-  "upcoming_event_count": 3,
-  "next_scheduled_date": "2026-08-04",
+  "upcoming_event_count": 2,
+  "next_scheduled_date": "2026-09-08",
   "earliest_event": "1997-01-28",
-  "latest_event": "2026-07-27",
-  "months_covered": 31,
+  "latest_event": "2026-08-31",
+  "months_covered": 32,
   "busiest_month": "2026-06",
-  "busiest_month_events": 33,
-  "busiest_month_cases": 23,
+  "busiest_month_events": 40,
+  "busiest_month_cases": 25,
   "quantified_case_count": 6,
   "people_affected_total": 3205228,
   "status_counts": {
-   "partially_blocked": 9,
    "awaiting_decision": 6,
-   "in_effect": 19,
-   "decided": 11,
+   "partially_blocked": 9,
+   "in_effect": 20,
+   "decided": 10,
    "active_litigation": 10,
    "injunction_in_effect": 7
   },
   "notes": "Counts describe the cases we track, not the universe of immigration litigation. 'Status' is the case's posture at last check, not a prediction and not legal advice about any individual's situation."
  },
  "cases": [
+  {
+   "id": "detention-bond-hearings",
+   "title_en": "Prolonged immigration detention & bond hearings",
+   "title_es": "Detención migratoria prolongada y audiencias de fianza",
+   "case_name": "Genalo v. Black",
+   "docket": "No. 25-886",
+   "court_en": "U.S. Supreme Court (on certiorari to the U.S. Court of Appeals for the Second Circuit)",
+   "court_es": "Corte Suprema de EE.UU. (certiorari del Segundo Circuito)",
+   "status": "awaiting_decision",
+   "status_label_en": "Awaiting decision",
+   "status_label_es": "En espera de fallo",
+   "what_it_affects_en": "Noncitizens, including lawful permanent residents, who are already physically in the United States and held in mandatory ICE custody under 8 U.S.C. Section 1226(c) for prolonged periods (months to years) while their removal proceedings are pending. The case will determine whether such prolonged detention triggers a constitutional right to an individualized bond hearing and, if so, whether the government must justify continued detention by clear and convincing evidence; the right currently recognized by the Second Circuit (covering immigration detention in New York, Connecticut, and Vermont) is at stake nationwide given a circuit split.",
+   "what_it_affects_es": "No ciudadanos, incluidos residentes permanentes legales, que ya están físicamente en EE.UU. y están bajo custodia obligatoria de ICE conforme a 8 U.S.C. § 1226(c) por periodos prolongados (meses o años) mientras se resuelve su proceso de deportación. El caso decidirá si esa detención prolongada genera un derecho constitucional a una audiencia individual de fianza y, de ser así, si el gobierno debe justificar la detención continua con prueba clara y convincente.",
+   "people_affected": null,
+   "timeline_events": 7,
+   "first_event": "2024",
+   "latest_event": "2026-10-13",
+   "last_checked": "2026-09-01",
+   "topics": [
+    "detention",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/immigration-detention-bond-hearings/",
+   "url_es": "/es/casos-de-inmigracion/audiencias-fianza-detencion-inmigratoria/"
+  },
   {
    "id": "pacito-v-trump-refugee-suspension",
    "title_en": "Pacito v. Trump: Court Challenge to the Refugee Admissions (USRAP) Suspension",
@@ -47,12 +72,87 @@
    "timeline_events": 7,
    "first_event": "2025-01-20",
    "latest_event": "2026-09-08",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "asylum"
    ],
    "url_en": "/immigration-cases/refugee-admissions-suspension-usrap/",
    "url_es": "/es/casos-de-inmigracion/suspension-de-admisiones-de-refugiados-usrap/"
+  },
+  {
+   "id": "tennessee-sb1779-remain-after-removal",
+   "title_en": "Tennessee HB 1704 / SB 1779 (Public Chapter 771): state crime for remaining after a final removal order",
+   "title_es": "HB 1704 / SB 1779 de Tennessee (Capítulo Público 771): delito estatal por permanecer tras una orden final de expulsión",
+   "case_name": "Lucy v. Skrmetti",
+   "docket": "Tenn. Public Chapter 771 (HB 1704 / SB 1779); Lucy v. Skrmetti, No. 3:26-cv-00998 (M.D. Tenn.) (first suit: No. 3:26-cv-00763, dismissed June 26, 2026)",
+   "court_en": "U.S. District Court for the Middle District of Tennessee (Nashville Division)",
+   "court_es": "Tribunal de Distrito de EE. UU. para el Distrito Medio de Tennessee (División de Nashville)",
+   "status": "in_effect",
+   "status_label_en": "Policy in effect",
+   "status_label_es": "Política en vigor",
+   "what_it_affects_en": "Section 1 of Tennessee's HB 1704 (Public Chapter 771) creates a new state crime — a Class A misdemeanor punishable by up to 11 months and 29 days in jail and a fine of up to $2,500. It applies only to a person 18 or older who (1) is a noncitizen against whom a valid final order of removal is outstanding by reason of being a member of one of the deportability classes listed in 8 U.S.C. § 1227(a), and (2) intentionally fails or refuses to leave Tennessee within 90 days of that final removal order. It does not reach every noncitizen who has a removal order — it is limited to people removable under the § 1227(a) deportability grounds. The statute directs the court to stay the criminal case while the person is still pursuing available federal avenues to challenge the removal order. This is Tennessee state criminal law; federal immigration enforcement is separate. A second offense in the same act (Section 2, illegal re-entry into the state) does not take effect unless and until federal law changes, and is not addressed by this litigation.",
+   "what_it_affects_es": "La Sección 1 de la HB 1704 de Tennessee (Capítulo Público 771) crea un nuevo delito estatal: un delito menor de Clase A castigado con hasta 11 meses y 29 días de cárcel y una multa de hasta $2,500. Solo se aplica a una persona de 18 años o más que (1) sea un no ciudadano contra quien exista una orden final de expulsión válida y vigente por ser miembro de una de las categorías de deportabilidad enumeradas en 8 U.S.C. § 1227(a), y que (2) de forma intencional no salga o se niegue a salir de Tennessee dentro de los 90 días siguientes a esa orden final de expulsión. No abarca a todo no ciudadano que tenga una orden de expulsión: se limita a las personas expulsables conforme a los fundamentos de deportabilidad del § 1227(a). La ley ordena al tribunal suspender el proceso penal mientras la persona siga agotando las vías federales disponibles para impugnar la orden de expulsión. Es ley penal estatal de Tennessee; la aplicación de la ley migratoria federal es algo aparte. Un segundo delito de la misma ley (Sección 2, reingreso ilegal al estado) no entra en vigor a menos que cambie la ley federal, y no es objeto de este litigio.",
+   "people_affected": null,
+   "timeline_events": 9,
+   "first_event": "2026-04-06",
+   "latest_event": "2026-08-31",
+   "last_checked": "2026-09-01",
+   "topics": [
+    "enforcement",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/tennessee-sb-1779-remaining-after-a-removal-order/",
+   "url_es": "/es/casos-de-inmigracion/tennessee-sb-1779-permanecer-tras-una-orden-de-expulsion/"
+  },
+  {
+   "id": "benefits-adjudication-hold-vacated",
+   "title_en": "Court vacates USCIS asylum and benefits adjudication holds (39 countries)",
+   "title_es": "Un tribunal anula las pausas de USCIS en asilo y beneficios (39 países)",
+   "case_name": "Dorcas International Institute of Rhode Island v. U.S. Citizenship and Immigration Services",
+   "docket": "D.R.I. No. 1:26-cv-00132-JJM-PAS (on appeal: 1st Cir. No. 26-1703)",
+   "court_en": "U.S. District Court for the District of Rhode Island",
+   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito de Rhode Island",
+   "status": "decided",
+   "status_label_en": "Decided",
+   "status_label_es": "Resuelto",
+   "what_it_affects_en": "People from 39 \"travel-ban\" countries — which include large Cuban, Haitian, and Venezuelan communities — whose green-card (adjustment of status), work-permit (EAD), naturalization, and other USCIS benefit applications had been frozen, plus anyone with a pending asylum or withholding-of-removal case, since that hold applied regardless of nationality. With most of the ruling in effect, USCIS is again issuing decisions on these applications and is no longer weighing country of origin as an automatic negative factor. One exception applies since August 14, 2026: while the appeal proceeds, a First Circuit order lets USCIS resume re-reviewing already-approved cases of people from the designated countries who entered the United States on or after January 20, 2021. None of this changes who qualifies for any benefit. Since August 24, 2026, a separate class-wide injunction from the Northern District of California (Red Eagle Law v. Edlow) independently bars USCIS from applying the two hold memos to class members and orders normal-course adjudication.",
+   "what_it_affects_es": "Personas de 39 países sujetos a la \"prohibición de viaje\" — que incluyen a grandes comunidades cubana, haitiana y venezolana — cuyas solicitudes de green card (ajuste de estatus), permiso de trabajo (EAD), naturalización y otros beneficios de USCIS estaban congeladas, además de cualquier persona con un caso pendiente de asilo o de retención de expulsión, ya que esa pausa se aplicaba sin importar la nacionalidad. Con la mayor parte del fallo en vigor, USCIS vuelve a emitir decisiones sobre estas solicitudes y ya no considera el país de origen como un factor negativo automático. Hay una excepción desde el 14 de agosto de 2026: mientras avanza la apelación, una orden del Primer Circuito permite a USCIS volver a re-revisar los casos ya aprobados de personas de los países designados que entraron a Estados Unidos el 20 de enero de 2021 o después. Nada de esto cambia quién califica para ningún beneficio. Desde el 24 de agosto de 2026, una orden judicial de clase separada del Distrito Norte de California (Red Eagle Law v. Edlow) prohíbe de forma independiente a USCIS aplicar los dos memorandos de pausa a los miembros de la clase y ordena adjudicar en curso normal.",
+   "people_affected": null,
+   "timeline_events": 9,
+   "first_event": "2025-12-02",
+   "latest_event": "2026-08-28",
+   "last_checked": "2026-08-28",
+   "topics": [
+    "asylum",
+    "benefits"
+   ],
+   "url_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "url_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
+  },
+  {
+   "id": "tps-terminations",
+   "title_en": "TPS termination litigation",
+   "title_es": "Litigio sobre la terminación del TPS",
+   "case_name": "Mullin v. Doe / Trump v. Miot; National TPS Alliance v. Noem",
+   "docket": "Nos. 25-1083 & 25-1084 (U.S.); No. 25A326 (U.S.); 3:25-cv-01766 (N.D. Cal.)",
+   "court_en": "U.S. Supreme Court; 9th Circuit; N.D. California",
+   "court_es": "Corte Suprema de EE.UU.; Noveno Circuito; Distrito Norte de California",
+   "status": "in_effect",
+   "status_label_en": "Policy in effect",
+   "status_label_es": "Política en vigor",
+   "what_it_affects_en": "Holders of Temporary Protected Status from countries whose 2025 termination notices were challenged in court — chiefly Venezuela, Haiti, Syria, Honduras, Nicaragua and Nepal — and their U.S. employers and U.S.-citizen children. After the June 25, 2026 ruling these terminations are in effect.",
+   "what_it_affects_es": "Titulares del Estatus de Protección Temporal de países cuyos avisos de terminación de 2025 fueron impugnados en los tribunales — principalmente Venezuela, Haití, Siria, Honduras, Nicaragua y Nepal — y sus empleadores e hijos ciudadanos estadounidenses. Tras el fallo del 25 de junio de 2026, estas terminaciones están en vigor.",
+   "people_affected": 334595,
+   "timeline_events": 20,
+   "first_event": "2025-05-19",
+   "latest_event": "2026-08-25",
+   "last_checked": "2026-08-31",
+   "topics": [
+    "tps",
+    "work-permit"
+   ],
+   "url_en": "/immigration-cases/tps-termination-litigation/",
+   "url_es": "/es/casos-de-inmigracion/litigio-terminacion-tps/"
   },
   {
    "id": "naturalization-fee-increase-2026",
@@ -71,13 +171,214 @@
    "timeline_events": 2,
    "first_event": "2026-06-23",
    "latest_event": "2026-08-24",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "naturalization",
     "citizenship"
    ],
    "url_en": "/immigration-cases/n-400-citizenship-fee-increase-fee-waiver-elimination-2026/",
    "url_es": "/es/casos-de-inmigracion/aumento-tarifa-ciudadania-n-400-eliminacion-exencion-2026/"
+  },
+  {
+   "id": "interior-arrest-bond-circuit-split",
+   "title_en": "Bond hearings after interior ICE arrests: circuit split",
+   "title_es": "Audiencias de fianza tras arrestos de ICE en el interior: división de circuitos",
+   "case_name": "Rhoney v. Barbosa da Cunha; Cunha v. Freden; Buenrostro-Mendez v. Bondi; Herrera Avila v. Bondi; Hernandez Alvarez v. Warden; Santillan Quiroz v. Mullin; Rodriguez Vazquez v. Bostock",
+   "docket": "U.S. No. 26-104; 2d Cir. No. 25-3141; 5th Cir. No. 25-20496; 8th Cir. No. 25-3248; 9th Cir. No. 25-6842; 10th Cir. No. 26-6019; 11th Cir. No. 25-14065",
+   "court_en": "U.S. Courts of Appeals (2nd, 5th, 6th, 7th, 8th, 9th, 10th & 11th Circuits); certiorari petition pending at the U.S. Supreme Court",
+   "court_es": "Cortes de Apelaciones de EE.UU. (Circuitos 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º y 11.º); petición de certiorari pendiente en la Corte Suprema de EE.UU.",
+   "status": "active_litigation",
+   "status_label_en": "Active litigation",
+   "status_label_es": "Litigio activo",
+   "what_it_affects_en": "Immigrants who entered the U.S. without inspection, have been living here, and are arrested in the interior (not at or near the border) and placed in removal proceedings — and their ability to ask an immigration judge for release on bond while their case is pending. Whether a bond hearing is available now depends on the circuit where the person is detained: the courts of appeals have held one is available in the 2nd Circuit (Connecticut, New York, Vermont), the 6th (Kentucky, Michigan, Ohio, Tennessee), the 9th (Alaska, Arizona, California, Hawaii, Idaho, Montana, Nevada, Oregon, Washington), the 10th (Colorado, Kansas, New Mexico, Oklahoma, Utah, Wyoming) and the 11th (Alabama, Florida, Georgia), but not in the 5th Circuit (Louisiana, Mississippi, Texas) or the 8th Circuit (Arkansas, Iowa, Minnesota, Missouri, Nebraska, North Dakota, South Dakota); the 7th Circuit's decision was splintered and failed to command a majority on this issue, though the plaintiffs won the bottom-line result there. The 11th Circuit ruling is not final: that court withheld its mandate on May 13, 2026, and the government's petition for rehearing en banc, filed June 22, 2026, was still pending on the docket as of its August 28, 2026 update. This does not change mandatory detention for people caught at or near the border, or mandatory detention under § 1226(c) for certain criminal or terrorism-related grounds.",
+   "what_it_affects_es": "Inmigrantes que entraron a EE. UU. sin inspección, han estado viviendo aquí y son arrestados en el interior (no en la frontera ni cerca de ella) y puestos en proceso de deportación — y su posibilidad de pedirle a un juez de inmigración la libertad bajo fianza mientras su caso está pendiente. Que haya o no audiencia de fianza depende ahora del circuito donde la persona esté detenida: las cortes de apelaciones han resuelto que sí la hay en el 2.º Circuito (Connecticut, Nueva York, Vermont), el 6.º (Kentucky, Michigan, Ohio, Tennessee), el 9.º (Alaska, Arizona, California, Hawái, Idaho, Montana, Nevada, Oregón, Washington), el 10.º (Colorado, Kansas, Nuevo México, Oklahoma, Utah, Wyoming) y el 11.º (Alabama, Florida, Georgia), pero no en el 5.º Circuito (Luisiana, Misisipi, Texas) ni en el 8.º Circuito (Arkansas, Iowa, Minnesota, Misuri, Nebraska, Dakota del Norte, Dakota del Sur); la decisión del 7.º Circuito fue fragmentada y no logró reunir mayoría sobre esta cuestión, aunque allí los demandantes ganaron en el resultado final. El fallo del 11.º Circuito no es definitivo: esa corte retuvo su mandato el 13 de mayo de 2026 y la petición del gobierno de nueva audiencia en pleno, presentada el 22 de junio de 2026, seguía pendiente en el expediente según su actualización del 28 de agosto de 2026. Esto no cambia la detención obligatoria de quienes son detenidos en la frontera o cerca de ella, ni la detención obligatoria de la sección 1226(c) por ciertos antecedentes penales o de terrorismo.",
+   "people_affected": null,
+   "timeline_events": 14,
+   "first_event": "2026-02-06",
+   "latest_event": "2026-08-21",
+   "last_checked": "2026-09-01",
+   "topics": [
+    "detention",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
+   "url_es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
+  },
+  {
+   "id": "hr1-obbba-immigration-fees-2025",
+   "title_en": "New H.R.1 (OBBBA) Immigration Fees: Asylum, Work Permit (EAD), and TPS Charges",
+   "title_es": "Nuevas tarifas migratorias de la H.R.1 (OBBBA): asilo, permiso de trabajo (EAD) y TPS",
+   "case_name": "USCIS Immigration Fees Required by H.R.1 (OBBBA) — new asylum, EAD, and TPS fees",
+   "docket": "FR Doc. 2025-13738; 90 FR 34511 (Jul 22, 2025)",
+   "court_en": "U.S. Citizenship and Immigration Services (DHS), Federal Register notice",
+   "court_es": "Servicio de Ciudadanía e Inmigración de EE.UU. (USCIS/DHS), aviso del Registro Federal",
+   "status": "partially_blocked",
+   "status_label_en": "Partially blocked",
+   "status_label_es": "Parcialmente bloqueada",
+   "what_it_affects_en": "People applying for or with a pending asylum case (Form I-589); asylum seekers, parolees, and TPS holders who apply for or renew a work permit (Form I-765/EAD); and people registering or re-registering for Temporary Protected Status (Form I-821). These are three of the largest humanitarian categories, and the charges apply even to filings that used to be free. Because the fees cannot be waived, they raise the up-front cost of applying for humanitarian protection and work authorization.",
+   "what_it_affects_es": "Personas que solicitan asilo o que tienen un caso de asilo pendiente (Formulario I-589); solicitantes de asilo, personas con parole y titulares de TPS que solicitan o renuevan un permiso de trabajo (Formulario I-765/EAD); y personas que se registran o se vuelven a registrar para el Estatus de Protección Temporal (Formulario I-821). Son tres de las categorías humanitarias más grandes, y las tarifas se aplican incluso a trámites que antes eran gratuitos. Como no se pueden exonerar, aumentan el costo inicial de solicitar protección humanitaria y autorización de trabajo.",
+   "people_affected": null,
+   "timeline_events": 12,
+   "first_event": "2025-07-04",
+   "latest_event": "2026-08-21",
+   "last_checked": "2026-08-26",
+   "topics": [
+    "asylum",
+    "tps",
+    "work-permit"
+   ],
+   "url_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "url_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
+  },
+  {
+   "id": "expedited-removal-expansion",
+   "title_en": "Nationwide expedited-removal expansion",
+   "title_es": "Expansión nacional de la expulsión acelerada",
+   "case_name": "Make the Road New York v. Mullin",
+   "docket": "D.C. Cir. No. 25-5320; D.D.C. No. 1:25-cv-00190",
+   "court_en": "U.S. Court of Appeals for the D.C. Circuit (on appeal from the U.S. District Court for the District of Columbia)",
+   "court_es": "Circuito de DC (apelación del Tribunal Federal del Distrito de Columbia)",
+   "status": "in_effect",
+   "status_label_en": "Policy in effect",
+   "status_label_es": "Política en vigor",
+   "what_it_affects_en": "Noncitizens already physically inside the U.S. who entered without admission or parole and cannot prove at least two years of continuous presence. The restored 2025 rule lets DHS place them in expedited removal — summary deportation without a hearing before an immigration judge — anywhere in the country's interior, not only near the border.",
+   "what_it_affects_es": "No ciudadanos que ya están físicamente dentro de EE.UU., que entraron sin admisión ni parole y no pueden probar al menos dos años de presencia continua. La regla de 2025 restaurada permite al DHS colocarlos en expulsión acelerada — deportación sumaria sin audiencia ante un juez de inmigración — en cualquier parte del interior del país, no solo cerca de la frontera.",
+   "people_affected": null,
+   "timeline_events": 6,
+   "first_event": "2025-01-21",
+   "latest_event": "2026-08-17",
+   "last_checked": "2026-09-01",
+   "topics": [
+    "enforcement",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/expedited-removal-expansion/",
+   "url_es": "/es/casos-de-inmigracion/expansion-expulsion-acelerada/"
+  },
+  {
+   "id": "duration-of-status-fixed-admission",
+   "title_en": "End of \"duration of status\" for F-1, J-1, and I (final — effective Sept. 15, 2026)",
+   "title_es": "Fin de la \"duración de estatus\" para F-1, J-1 e I (final — vigente 15 sep 2026)",
+   "case_name": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "docket": "DHS Docket No. ICEB-2025-0001; RIN 1653-AA95; NPRM at 90 FR 42070 (FR Doc. 2025-16554)",
+   "court_en": "DHS / ICE rulemaking — not a court case",
+   "court_es": "Reglamentación de DHS / ICE — no es un caso judicial",
+   "status": "decided",
+   "status_label_en": "Decided",
+   "status_label_es": "Resuelto",
+   "what_it_affects_en": "F (academic students), J (exchange visitors), and I (foreign information-media) nonimmigrants and their dependents. The final rule replaces open-ended “duration of status” admission with a fixed admission period — for F-1, up to 4 years or the program end date, whichever is shorter — keeps a 30-day grace period, and requires an extension-of-stay application to USCIS for additional time. Transition: those already in the U.S. on D/S keep their status until the program end date on their Form I-20 or DS-2019 or 4 years after the effective date, whichever comes first (new 8 CFR 214.1(m)(1)(ii)); anyone who travels abroad after the effective date receives an I-94 with a fixed date on return.",
+   "what_it_affects_es": "No inmigrantes F (estudiantes académicos), J (visitantes de intercambio) e I (representantes de medios de información extranjeros) y sus dependientes. La regla final reemplaza la admisión indefinida por “duración de estatus” con un periodo de admisión fijo — para F-1, hasta 4 años o la fecha de fin del programa, lo que sea más corto — mantiene un periodo de gracia de 30 días, y exige una solicitud de extensión de estadía ante USCIS para más tiempo. Transición: quienes ya están en EE.UU. con D/S conservan su estatus hasta la fecha de fin del programa en su Formulario I-20 o DS-2019 o 4 años después de la fecha de vigencia, lo que ocurra primero (nuevo 8 CFR 214.1(m)(1)(ii)); quien viaje al extranjero después de la fecha de vigencia recibe al regresar un I-94 con fecha fija.",
+   "people_affected": null,
+   "timeline_events": 6,
+   "first_event": "2025-08-28",
+   "latest_event": "2026-08-14",
+   "last_checked": "2026-08-26",
+   "topics": [
+    "students",
+    "work-permit"
+   ],
+   "url_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
+   "url_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
+  },
+  {
+   "id": "civil-denaturalization-surge",
+   "title_en": "Civil denaturalization: efforts to revoke naturalized U.S. citizenship",
+   "title_es": "Desnaturalización civil: esfuerzos para revocar la ciudadanía estadounidense naturalizada",
+   "case_name": "DOJ civil denaturalization initiative (TRAC Report 774)",
+   "docket": "8 U.S.C. § 1451(a) (INA § 340); DOJ Civil Division enforcement-priorities memo (June 11, 2025); TRAC Report 774",
+   "court_en": "U.S. district courts (nationwide)",
+   "court_es": "Cortes federales de distrito (en todo el país)",
+   "status": "active_litigation",
+   "status_label_en": "Active litigation",
+   "status_label_es": "Litigio activo",
+   "what_it_affects_en": "Naturalized U.S. citizens — people born abroad who later became citizens. Civil denaturalization under 8 U.S.C. § 1451(a) (INA § 340) asks a federal court to revoke citizenship the government says was \"illegally procured\" or obtained by concealing a material fact or by willful misrepresentation. The June 11, 2025 DOJ Civil Division priorities memo lists the categories the government says it will pursue first, such as national-security or terrorism ties, war crimes or human-rights violations, gang or cartel affiliation, serious undisclosed crimes, and government-program fraud. Unlike criminal denaturalization, the civil process has no jury, no government-appointed defense attorney, and no statute of limitations; the government must prove its case by \"clear, convincing, and unequivocal\" evidence. U.S. citizens by birth are not affected. This is general information, not legal advice.",
+   "what_it_affects_es": "Ciudadanos estadounidenses naturalizados —personas nacidas en el extranjero que luego se hicieron ciudadanas. La desnaturalización civil bajo 8 U.S.C. § 1451(a) (INA § 340) pide a una corte federal revocar una ciudadanía que el gobierno alega fue \"obtenida ilegalmente\" o lograda ocultando un hecho material o mediante tergiversación deliberada. El memorando de prioridades de la División Civil del DOJ del 11 de junio de 2025 enumera las categorías que el gobierno dice perseguir primero, como vínculos con la seguridad nacional o el terrorismo, crímenes de guerra o violaciones de derechos humanos, afiliación a pandillas o carteles, delitos graves no declarados y fraude a programas del gobierno. A diferencia de la desnaturalización penal, el proceso civil no tiene jurado, no hay abogado defensor designado por el gobierno y no hay plazo de prescripción; el gobierno debe probar su caso con evidencia \"clara, convincente e inequívoca\". Las personas que son ciudadanas por nacimiento no se ven afectadas. Esta es información general, no asesoría legal.",
+   "people_affected": null,
+   "timeline_events": 6,
+   "first_event": "2025-06-11",
+   "latest_event": "2026-08-11",
+   "last_checked": "2026-08-26",
+   "topics": [
+    "naturalization",
+    "citizenship"
+   ],
+   "url_en": "/immigration-cases/civil-denaturalization-citizenship-revocation/",
+   "url_es": "/es/casos-de-inmigracion/desnaturalizacion-civil-revocacion-de-ciudadania/"
+  },
+  {
+   "id": "tuition-equity",
+   "title_en": "In-state tuition for undocumented students",
+   "title_es": "Matrícula estatal para estudiantes indocumentados",
+   "case_name": "U.S. challenges to state tuition-equity laws (8 U.S.C. § 1623)",
+   "docket": "multiple — e.g., 5th Cir. No. 25-10898 (TX); D. Minn. 0:25-cv-02668; S.D. Ill. 3:25-cv-01691",
+   "court_en": "Multiple U.S. District Courts; 5th, 6th, 8th & 10th Circuits",
+   "court_es": "Varios tribunales federales de distrito; Circuitos 5.º, 6.º, 8.º y 10.º",
+   "status": "active_litigation",
+   "status_label_en": "Active litigation",
+   "status_label_es": "Litigio activo",
+   "what_it_affects_en": "Undocumented students (and, depending on the state, DACA recipients and some other noncitizens) who qualify for in-state tuition rates at public colleges. Where laws were struck, affected students lose in-state rates; where cases continue, eligibility holds pending the courts.",
+   "what_it_affects_es": "Estudiantes indocumentados (y, según el estado, beneficiarios de DACA y otros no ciudadanos) que califican para tarifas de matrícula estatal en universidades públicas. Donde se anularon las leyes, los estudiantes afectados pierden la tarifa estatal; donde el caso continúa, la elegibilidad se mantiene a la espera de los tribunales.",
+   "people_affected": null,
+   "timeline_events": 10,
+   "first_event": "2025-06-04",
+   "latest_event": "2026-08-10",
+   "last_checked": "2026-08-26",
+   "topics": [
+    "tuition",
+    "benefits"
+   ],
+   "url_en": "/immigration-cases/in-state-tuition-equity/",
+   "url_es": "/es/casos-de-inmigracion/matricula-estatal-equidad/"
+  },
+  {
+   "id": "birthright-citizenship",
+   "title_en": "Birthright citizenship at the Supreme Court",
+   "title_es": "Ciudadanía por nacimiento en la Corte Suprema",
+   "case_name": "Trump v. Barbara",
+   "docket": "No. 25-365",
+   "court_en": "U.S. Supreme Court",
+   "court_es": "Corte Suprema de EE.UU.",
+   "status": "decided",
+   "status_label_en": "Decided",
+   "status_label_es": "Resuelto",
+   "what_it_affects_en": "U.S.-born children whose mother is an unauthorized immigrant, or lawfully present only temporarily, and whose father is not a U.S. citizen or lawful permanent resident — the class whose automatic birthright citizenship Executive Order 14160 would have denied. The Supreme Court struck the order down, so these children are U.S. citizens at birth, as they were before.",
+   "what_it_affects_es": "Hijos nacidos en EE.UU. cuya madre es inmigrante no autorizada, o con presencia legal solo temporal, y cuyo padre no es ciudadano estadounidense ni residente permanente legal — la categoría a la que la Orden Ejecutiva 14160 habría negado la ciudadanía automática por nacimiento. La Corte Suprema anuló la orden, así que estos niños son ciudadanos estadounidenses al nacer, como antes.",
+   "people_affected": 260000,
+   "timeline_events": 5,
+   "first_event": "2025-01-20",
+   "latest_event": "2026-08-06",
+   "last_checked": "2026-08-31",
+   "topics": [
+    "citizenship",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/birthright-citizenship-supreme-court/",
+   "url_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
+  },
+  {
+   "id": "alien-registration",
+   "title_en": "Alien registration mandate (Form G-325R)",
+   "title_es": "Mandato de registro de extranjeros (Formulario G-325R)",
+   "case_name": "Coalition for Humane Immigrant Rights (CHIRLA) v. U.S. Department of Homeland Security (a/k/a CHIRLA v. Noem) — alien registration / Form G-325R rule",
+   "docket": "D.D.C. 1:25-cv-00943-TNM (stayed); D.C. Cir. 25-5152 (consolidated with 25-5233 and 25-5247) — appeals dismissed Aug. 6, 2026",
+   "court_en": "U.S. District Court for the District of Columbia (Judge Trevor N. McFadden); on appeal, U.S. Court of Appeals for the D.C. Circuit",
+   "court_es": "Tribunal Federal del Distrito de Columbia (juez McFadden); en apelación, Circuito de DC",
+   "status": "in_effect",
+   "status_label_en": "Policy in effect",
+   "status_label_es": "Política en vigor",
+   "what_it_affects_en": "Affects noncitizens already physically present in the United States who are age 14 or older and were not previously registered or fingerprinted — for example, people who entered without inspection, certain parolees and applicants without a registration document, and Canadian visitors staying 30+ days — who under the registration rule (the March 2025 interim final rule, adopted as final on June 29, 2026) must file Form G-325R, submit biometrics, and carry proof of registration, with criminal penalties for willful failure to register or to carry proof. People already documented as registered (most lawful permanent residents, EAD holders, those issued an I-94 or placed in removal proceedings, and many DACA/TPS recipients with the right documents) are generally treated as already registered. The June 2026 final rule did not change who must register or the penalties; it adopted the interim rule's Form G-325R provisions without change, updated which documents count as proof of registration (adding Forms I-94A/I-94W, DSP-150, I-860 and I-871 and NEXUS/SENTRI/FAST/Global Entry documents), and imposed no filing or biometric services fee.",
+   "what_it_affects_es": "No ciudadanos que ya están físicamente en EE.UU., de 14 años o más, que no estaban registrados ni con huellas tomadas previamente — por ejemplo, quienes entraron sin inspección, ciertos parolados sin documento de registro y visitantes canadienses que se quedan 30+ días — quienes bajo la regla de registro (la regla interina de marzo de 2025, adoptada como final el 29 de junio de 2026) deben presentar el Formulario G-325R, dar datos biométricos y portar prueba de registro, con penas penales por no registrarse o no portar la prueba de forma intencional. Quienes ya constan como registrados (la mayoría de residentes permanentes, titulares de EAD, quienes recibieron un I-94 o están en proceso de deportación, y muchos beneficiarios de DACA/TPS con los documentos correctos) generalmente se consideran ya registrados. La regla final de junio de 2026 no cambió quién debe registrarse ni las penas; adoptó sin cambios las disposiciones del Formulario G-325R de la regla interina, actualizó qué documentos cuentan como prueba de registro (agregando los Formularios I-94A/I-94W, DSP-150, I-860 e I-871 y los documentos de NEXUS/SENTRI/FAST/Global Entry) y no impuso ninguna cuota de presentación ni de servicios biométricos.",
+   "people_affected": null,
+   "timeline_events": 9,
+   "first_event": "2025-03-12",
+   "latest_event": "2026-08-06",
+   "last_checked": "2026-09-01",
+   "topics": [
+    "enforcement",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/alien-registration-g325r/",
+   "url_es": "/es/casos-de-inmigracion/registro-de-extranjeros-g325r/"
   },
   {
    "id": "discretionary-ead-restriction-rule",
@@ -96,7 +397,7 @@
    "timeline_events": 2,
    "first_event": "2026-06-05",
    "latest_event": "2026-08-04",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "work-permit"
    ],
@@ -104,55 +405,28 @@
    "url_es": "/es/casos-de-inmigracion/restricciones-al-permiso-de-trabajo-discrecional-parole-accion-diferida/"
   },
   {
-   "id": "tps-terminations",
-   "title_en": "TPS termination litigation",
-   "title_es": "Litigio sobre la terminación del TPS",
-   "case_name": "Mullin v. Doe / Trump v. Miot; National TPS Alliance v. Noem",
-   "docket": "Nos. 25-1083 & 25-1084 (U.S.); No. 25A326 (U.S.); 3:25-cv-01766 (N.D. Cal.)",
-   "court_en": "U.S. Supreme Court; 9th Circuit; N.D. California",
-   "court_es": "Corte Suprema de EE.UU.; Noveno Circuito; Distrito Norte de California",
+   "id": "h2a-aewr-farmworker-wage-rule",
+   "title_en": "H-2A Farmworker Wage Rule Changes (AEWR) and United Farm Workers v. DOL",
+   "title_es": "Cambios en la regla salarial (AEWR) para trabajadores agrícolas H-2A y United Farm Workers contra el DOL",
+   "case_name": "United Farm Workers v. U.S. Department of Labor (H-2A Adverse Effect Wage Rate methodology rule)",
+   "docket": "No. 1:25-cv-01614 (E.D. Cal.); rule: FR Doc. 2025-19365, RIN 1205-AC24, DOL Docket No. ETA-2025-0008",
+   "court_en": "U.S. District Court for the Eastern District of California (rule issued by the U.S. Department of Labor)",
+   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito Este de California (regla emitida por el Departamento de Trabajo de EE.UU.)",
    "status": "in_effect",
    "status_label_en": "Policy in effect",
    "status_label_es": "Política en vigor",
-   "what_it_affects_en": "Holders of Temporary Protected Status from countries whose 2025 termination notices were challenged in court — chiefly Venezuela, Haiti, Syria, Honduras, Nicaragua and Nepal — and their U.S. employers and U.S.-citizen children. After the June 25, 2026 ruling these terminations are in effect.",
-   "what_it_affects_es": "Titulares del Estatus de Protección Temporal de países cuyos avisos de terminación de 2025 fueron impugnados en los tribunales — principalmente Venezuela, Haití, Siria, Honduras, Nicaragua y Nepal — y sus empleadores e hijos ciudadanos estadounidenses. Tras el fallo del 25 de junio de 2026, estas terminaciones están en vigor.",
-   "people_affected": 334595,
-   "timeline_events": 10,
-   "first_event": "2025-05-19",
-   "latest_event": "2026-07-27",
-   "last_checked": "2026-07-28",
-   "topics": [
-    "tps",
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/tps-termination-litigation/",
-   "url_es": "/es/casos-de-inmigracion/litigio-terminacion-tps/"
-  },
-  {
-   "id": "hr1-obbba-immigration-fees-2025",
-   "title_en": "New H.R.1 (OBBBA) Immigration Fees: Asylum, Work Permit (EAD), and TPS Charges",
-   "title_es": "Nuevas tarifas migratorias de la H.R.1 (OBBBA): asilo, permiso de trabajo (EAD) y TPS",
-   "case_name": "USCIS Immigration Fees Required by H.R.1 (OBBBA) — new asylum, EAD, and TPS fees",
-   "docket": "FR Doc. 2025-13738; 90 FR 34511 (Jul 22, 2025)",
-   "court_en": "U.S. Citizenship and Immigration Services (DHS), Federal Register notice",
-   "court_es": "Servicio de Ciudadanía e Inmigración de EE.UU. (USCIS/DHS), aviso del Registro Federal",
-   "status": "partially_blocked",
-   "status_label_en": "Partially blocked",
-   "status_label_es": "Parcialmente bloqueada",
-   "what_it_affects_en": "People applying for or with a pending asylum case (Form I-589); asylum seekers, parolees, and TPS holders who apply for or renew a work permit (Form I-765/EAD); and people registering or re-registering for Temporary Protected Status (Form I-821). These are three of the largest humanitarian categories, and the charges apply even to filings that used to be free. Because the fees cannot be waived, they raise the up-front cost of applying for humanitarian protection and work authorization.",
-   "what_it_affects_es": "Personas que solicitan asilo o que tienen un caso de asilo pendiente (Formulario I-589); solicitantes de asilo, personas con parole y titulares de TPS que solicitan o renuevan un permiso de trabajo (Formulario I-765/EAD); y personas que se registran o se vuelven a registrar para el Estatus de Protección Temporal (Formulario I-821). Son tres de las categorías humanitarias más grandes, y las tarifas se aplican incluso a trámites que antes eran gratuitos. Como no se pueden exonerar, aumentan el costo inicial de solicitar protección humanitaria y autorización de trabajo.",
+   "what_it_affects_en": "The Adverse Effect Wage Rate (AEWR) is the minimum hourly wage floor employers must pay H-2A temporary agricultural workers, and it also influences pay for many U.S. farmworkers who do the same jobs. This rule changes how that floor is calculated: it uses the Bureau of Labor Statistics' Occupational Employment and Wage Statistics (OEWS) survey by state and territory instead of the U.S. Department of Agriculture's Farm Labor Survey, sorts most field and livestock positions into five occupational codes and two skill levels (entry-level and higher-skill), and adds an adjustment factor that can lower the wage when the employer provides free housing. It affects H-2A crop and livestock workers nationwide and the domestic farmworkers whose pay tracks these rates.",
+   "what_it_affects_es": "El Salario de Efecto Adverso (AEWR, por sus siglas en inglés) es el salario mínimo por hora que los empleadores deben pagar a los trabajadores agrícolas temporales H-2A, y también influye en la paga de muchos trabajadores agrícolas de EE.UU. que realizan las mismas labores. Esta regla cambia cómo se calcula ese mínimo: usa la Encuesta de Empleo y Salarios por Ocupación (OEWS) de la Oficina de Estadísticas Laborales (BLS), por estado y territorio, en lugar de la Encuesta de Mano de Obra Agrícola del Departamento de Agricultura (USDA); agrupa la mayoría de los empleos de campo y ganadería en cinco códigos ocupacionales y dos niveles de habilidad (de nivel inicial y de mayor destreza); y añade un factor de ajuste que puede reducir el salario cuando el empleador proporciona vivienda gratuita. Afecta a los trabajadores H-2A de cosecha y ganadería en todo el país y a los trabajadores agrícolas nacionales cuya paga sigue estas tarifas.",
    "people_affected": null,
-   "timeline_events": 7,
-   "first_event": "2025-07-04",
-   "latest_event": "2026-07-21",
-   "last_checked": "2026-07-27",
+   "timeline_events": 5,
+   "first_event": "2025-10-02",
+   "latest_event": "2026-08-03",
+   "last_checked": "2026-08-26",
    "topics": [
-    "asylum",
-    "tps",
     "work-permit"
    ],
-   "url_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
-   "url_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
+   "url_en": "/immigration-cases/h2a-farmworker-wage-rule-changes/",
+   "url_es": "/es/casos-de-inmigracion/cambios-en-la-regla-de-salarios-de-trabajadores-agricolas-h2a/"
   },
   {
    "id": "asylum-ead",
@@ -171,38 +445,13 @@
    "timeline_events": 3,
    "first_event": "2026-02-23",
    "latest_event": "2026-07-21",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "asylum",
     "work-permit"
    ],
    "url_en": "/immigration-cases/asylum-work-permit-rule/",
    "url_es": "/es/casos-de-inmigracion/permiso-trabajo-asilo/"
-  },
-  {
-   "id": "duration-of-status-fixed-admission",
-   "title_en": "End of \"duration of status\" for F-1, J-1, and I (final — effective Sept. 15, 2026)",
-   "title_es": "Fin de la \"duración de estatus\" para F-1, J-1 e I (final — vigente 15 sep 2026)",
-   "case_name": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
-   "docket": "DHS Docket No. ICEB-2025-0001; RIN 1653-AA95; NPRM at 90 FR 42070 (FR Doc. 2025-16554)",
-   "court_en": "DHS / ICE rulemaking — not a court case",
-   "court_es": "Reglamentación de DHS / ICE — no es un caso judicial",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "F (academic students), J (exchange visitors), and I (foreign information-media) nonimmigrants and their dependents. The final rule replaces open-ended “duration of status” admission with a fixed admission period — for F-1, up to 4 years or the program end date, whichever is shorter — keeps a 30-day grace period, and requires an extension-of-stay application to USCIS for additional time. Transition: those already in the U.S. on D/S keep their status until the program end date on their Form I-20 or DS-2019 or 4 years after the effective date, whichever comes first (new 8 CFR 214.1(m)(1)(ii)); anyone who travels abroad after the effective date receives an I-94 with a fixed date on return.",
-   "what_it_affects_es": "No inmigrantes F (estudiantes académicos), J (visitantes de intercambio) e I (representantes de medios de información extranjeros) y sus dependientes. La regla final reemplaza la admisión indefinida por “duración de estatus” con un periodo de admisión fijo — para F-1, hasta 4 años o la fecha de fin del programa, lo que sea más corto — mantiene un periodo de gracia de 30 días, y exige una solicitud de extensión de estadía ante USCIS para más tiempo. Transición: quienes ya están en EE.UU. con D/S conservan su estatus hasta la fecha de fin del programa en su Formulario I-20 o DS-2019 o 4 años después de la fecha de vigencia, lo que ocurra primero (nuevo 8 CFR 214.1(m)(1)(ii)); quien viaje al extranjero después de la fecha de vigencia recibe al regresar un I-94 con fecha fija.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2025-08-28",
-   "latest_event": "2026-07-17",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "students",
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
-   "url_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
   },
   {
    "id": "public-charge",
@@ -221,62 +470,13 @@
    "timeline_events": 3,
    "first_event": "2025-11-19",
    "latest_event": "2026-07-16",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-31",
    "topics": [
     "benefits",
     "green-card"
    ],
    "url_en": "/immigration-cases/public-charge-rule/",
    "url_es": "/es/casos-de-inmigracion/regla-carga-publica/"
-  },
-  {
-   "id": "tennessee-sb1779-remain-after-removal",
-   "title_en": "Tennessee HB 1704 / SB 1779 (Public Chapter 771): state crime for remaining after a final removal order",
-   "title_es": "HB 1704 / SB 1779 de Tennessee (Capítulo Público 771): delito estatal por permanecer tras una orden final de expulsión",
-   "case_name": "Lucy v. Skrmetti",
-   "docket": "Tenn. Public Chapter 771 (HB 1704 / SB 1779); Lucy v. Skrmetti, No. 3:26-cv-00763 (M.D. Tenn.)",
-   "court_en": "U.S. District Court for the Middle District of Tennessee (Nashville Division)",
-   "court_es": "Tribunal de Distrito de EE. UU. para el Distrito Medio de Tennessee (División de Nashville)",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "Section 1 of Tennessee's HB 1704 (Public Chapter 771) creates a new state crime — a Class A misdemeanor punishable by up to 11 months and 29 days in jail and a fine of up to $2,500. It applies only to a person 18 or older who (1) is a noncitizen against whom a valid final order of removal is outstanding by reason of being a member of one of the deportability classes listed in 8 U.S.C. § 1227(a), and (2) intentionally fails or refuses to leave Tennessee within 90 days of that final removal order. It does not reach every noncitizen who has a removal order — it is limited to people removable under the § 1227(a) deportability grounds. The statute directs the court to stay the criminal case while the person is still pursuing available federal avenues to challenge the removal order. This is Tennessee state criminal law; federal immigration enforcement is separate. A second offense in the same act (Section 2, illegal re-entry into the state) does not take effect unless and until federal law changes, and is not addressed by this litigation.",
-   "what_it_affects_es": "La Sección 1 de la HB 1704 de Tennessee (Capítulo Público 771) crea un nuevo delito estatal: un delito menor de Clase A castigado con hasta 11 meses y 29 días de cárcel y una multa de hasta $2,500. Solo se aplica a una persona de 18 años o más que (1) sea un no ciudadano contra quien exista una orden final de expulsión válida y vigente por ser miembro de una de las categorías de deportabilidad enumeradas en 8 U.S.C. § 1227(a), y que (2) de forma intencional no salga o se niegue a salir de Tennessee dentro de los 90 días siguientes a esa orden final de expulsión. No abarca a todo no ciudadano que tenga una orden de expulsión: se limita a las personas expulsables conforme a los fundamentos de deportabilidad del § 1227(a). La ley ordena al tribunal suspender el proceso penal mientras la persona siga agotando las vías federales disponibles para impugnar la orden de expulsión. Es ley penal estatal de Tennessee; la aplicación de la ley migratoria federal es algo aparte. Un segundo delito de la misma ley (Sección 2, reingreso ilegal al estado) no entra en vigor a menos que cambie la ley federal, y no es objeto de este litigio.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2026-04-06",
-   "latest_event": "2026-07-01",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "enforcement",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/tennessee-sb-1779-remaining-after-a-removal-order/",
-   "url_es": "/es/casos-de-inmigracion/tennessee-sb-1779-permanecer-tras-una-orden-de-expulsion/"
-  },
-  {
-   "id": "h2a-aewr-farmworker-wage-rule",
-   "title_en": "H-2A Farmworker Wage Rule Changes (AEWR) and United Farm Workers v. DOL",
-   "title_es": "Cambios en la regla salarial (AEWR) para trabajadores agrícolas H-2A y United Farm Workers contra el DOL",
-   "case_name": "United Farm Workers v. U.S. Department of Labor (H-2A Adverse Effect Wage Rate methodology rule)",
-   "docket": "No. 1:25-cv-01614 (E.D. Cal.); rule: FR Doc. 2025-19365, RIN 1205-AC24, DOL Docket No. ETA-2025-0008",
-   "court_en": "U.S. District Court for the Eastern District of California (rule issued by the U.S. Department of Labor)",
-   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito Este de California (regla emitida por el Departamento de Trabajo de EE.UU.)",
-   "status": "in_effect",
-   "status_label_en": "Policy in effect",
-   "status_label_es": "Política en vigor",
-   "what_it_affects_en": "The Adverse Effect Wage Rate (AEWR) is the minimum hourly wage floor employers must pay H-2A temporary agricultural workers, and it also influences pay for many U.S. farmworkers who do the same jobs. This rule changes how that floor is calculated: it uses the Bureau of Labor Statistics' Occupational Employment and Wage Statistics (OEWS) survey by state and territory instead of the U.S. Department of Agriculture's Farm Labor Survey, sorts most field and livestock positions into five occupational codes and two skill levels (entry-level and higher-skill), and adds an adjustment factor that can lower the wage when the employer provides free housing. It affects H-2A crop and livestock workers nationwide and the domestic farmworkers whose pay tracks these rates.",
-   "what_it_affects_es": "El Salario de Efecto Adverso (AEWR, por sus siglas en inglés) es el salario mínimo por hora que los empleadores deben pagar a los trabajadores agrícolas temporales H-2A, y también influye en la paga de muchos trabajadores agrícolas de EE.UU. que realizan las mismas labores. Esta regla cambia cómo se calcula ese mínimo: usa la Encuesta de Empleo y Salarios por Ocupación (OEWS) de la Oficina de Estadísticas Laborales (BLS), por estado y territorio, en lugar de la Encuesta de Mano de Obra Agrícola del Departamento de Agricultura (USDA); agrupa la mayoría de los empleos de campo y ganadería en cinco códigos ocupacionales y dos niveles de habilidad (de nivel inicial y de mayor destreza); y añade un factor de ajuste que puede reducir el salario cuando el empleador proporciona vivienda gratuita. Afecta a los trabajadores H-2A de cosecha y ganadería en todo el país y a los trabajadores agrícolas nacionales cuya paga sigue estas tarifas.",
-   "people_affected": null,
-   "timeline_events": 4,
-   "first_event": "2025-10-02",
-   "latest_event": "2026-07-01",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/h2a-farmworker-wage-rule-changes/",
-   "url_es": "/es/casos-de-inmigracion/cambios-en-la-regla-de-salarios-de-trabajadores-agricolas-h2a/"
   },
   {
    "id": "irs-ice-taxpayer-data-sharing",
@@ -295,7 +495,7 @@
    "timeline_events": 8,
    "first_event": "2025-03-07",
    "latest_event": "2026-06-30",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "itin",
     "banking",
@@ -303,31 +503,6 @@
    ],
    "url_en": "/immigration-cases/irs-ice-taxpayer-data-sharing/",
    "url_es": "/es/casos-de-inmigracion/irs-ice-comparticion-datos-contribuyentes/"
-  },
-  {
-   "id": "birthright-citizenship",
-   "title_en": "Birthright citizenship at the Supreme Court",
-   "title_es": "Ciudadanía por nacimiento en la Corte Suprema",
-   "case_name": "Trump v. Barbara",
-   "docket": "No. 25-365",
-   "court_en": "U.S. Supreme Court",
-   "court_es": "Corte Suprema de EE.UU.",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "U.S.-born children whose mother is an unauthorized immigrant, or lawfully present only temporarily, and whose father is not a U.S. citizen or lawful permanent resident — the class whose automatic birthright citizenship Executive Order 14160 would have denied. The Supreme Court struck the order down, so these children are U.S. citizens at birth, as they were before.",
-   "what_it_affects_es": "Hijos nacidos en EE.UU. cuya madre es inmigrante no autorizada, o con presencia legal solo temporal, y cuyo padre no es ciudadano estadounidense ni residente permanente legal — la categoría a la que la Orden Ejecutiva 14160 habría negado la ciudadanía automática por nacimiento. La Corte Suprema anuló la orden, así que estos niños son ciudadanos estadounidenses al nacer, como antes.",
-   "people_affected": 260000,
-   "timeline_events": 4,
-   "first_event": "2025-01-20",
-   "latest_event": "2026-06-30",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "citizenship",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/birthright-citizenship-supreme-court/",
-   "url_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
   },
   {
    "id": "wassily-v-blanche-asylee-adjustment",
@@ -346,7 +521,7 @@
    "timeline_events": 2,
    "first_event": "2025-08-07",
    "latest_event": "2026-06-29",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "asylum",
     "green-card"
@@ -371,7 +546,7 @@
    "timeline_events": 4,
    "first_event": "2025-01-17",
    "latest_event": "2026-06-26",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "daca",
     "work-permit"
@@ -396,37 +571,12 @@
    "timeline_events": 2,
    "first_event": "2016-11",
    "latest_event": "2026-06-25",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "asylum"
    ],
    "url_en": "/immigration-cases/asylum-metering-supreme-court/",
    "url_es": "/es/casos-de-inmigracion/metering-asilo-corte-suprema/"
-  },
-  {
-   "id": "tuition-equity",
-   "title_en": "In-state tuition for undocumented students",
-   "title_es": "Matrícula estatal para estudiantes indocumentados",
-   "case_name": "U.S. challenges to state tuition-equity laws (8 U.S.C. § 1623)",
-   "docket": "multiple — e.g., 5th Cir. No. 25-10898 (TX); D. Minn. 0:25-cv-02668; S.D. Ill. 3:25-cv-01691",
-   "court_en": "Multiple U.S. District Courts; 5th, 6th, 8th & 10th Circuits",
-   "court_es": "Varios tribunales federales de distrito; Circuitos 5.º, 6.º, 8.º y 10.º",
-   "status": "active_litigation",
-   "status_label_en": "Active litigation",
-   "status_label_es": "Litigio activo",
-   "what_it_affects_en": "Undocumented students (and, depending on the state, DACA recipients and some other noncitizens) who qualify for in-state tuition rates at public colleges. Where laws were struck, affected students lose in-state rates; where cases continue, eligibility holds pending the courts.",
-   "what_it_affects_es": "Estudiantes indocumentados (y, según el estado, beneficiarios de DACA y otros no ciudadanos) que califican para tarifas de matrícula estatal en universidades públicas. Donde se anularon las leyes, los estudiantes afectados pierden la tarifa estatal; donde el caso continúa, la elegibilidad se mantiene a la espera de los tribunales.",
-   "people_affected": null,
-   "timeline_events": 6,
-   "first_event": "2025-06-04",
-   "latest_event": "2026-06-24",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "tuition",
-    "benefits"
-   ],
-   "url_en": "/immigration-cases/in-state-tuition-equity/",
-   "url_es": "/es/casos-de-inmigracion/matricula-estatal-equidad/"
   },
   {
    "id": "in-absentia-removal-orders-notice",
@@ -445,7 +595,7 @@
    "timeline_events": 4,
    "first_event": "2024-01-31",
    "latest_event": "2026-06-24",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement",
     "kyr"
@@ -470,7 +620,7 @@
    "timeline_events": 5,
    "first_event": "2025-10-30",
    "latest_event": "2026-06-24",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "work-permit"
    ],
@@ -494,38 +644,13 @@
    "timeline_events": 3,
    "first_event": "2007-01-01",
    "latest_event": "2026-06-23",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "green-card",
     "kyr"
    ],
    "url_en": "/immigration-cases/green-card-holders-reentry-blanche-v-lau/",
    "url_es": "/es/casos-de-inmigracion/residentes-permanentes-reingreso-blanche-v-lau/"
-  },
-  {
-   "id": "expedited-removal-expansion",
-   "title_en": "Nationwide expedited-removal expansion",
-   "title_es": "Expansión nacional de la expulsión acelerada",
-   "case_name": "Make the Road New York v. Mullin",
-   "docket": "D.C. Cir. No. 25-5320; D.D.C. No. 1:25-cv-00190",
-   "court_en": "U.S. Court of Appeals for the D.C. Circuit (on appeal from the U.S. District Court for the District of Columbia)",
-   "court_es": "Circuito de DC (apelación del Tribunal Federal del Distrito de Columbia)",
-   "status": "in_effect",
-   "status_label_en": "Policy in effect",
-   "status_label_es": "Política en vigor",
-   "what_it_affects_en": "Noncitizens already physically inside the U.S. who entered without admission or parole and cannot prove at least two years of continuous presence. The restored 2025 rule lets DHS place them in expedited removal — summary deportation without a hearing before an immigration judge — anywhere in the country's interior, not only near the border.",
-   "what_it_affects_es": "No ciudadanos que ya están físicamente dentro de EE.UU., que entraron sin admisión ni parole y no pueden probar al menos dos años de presencia continua. La regla de 2025 restaurada permite al DHS colocarlos en expulsión acelerada — deportación sumaria sin audiencia ante un juez de inmigración — en cualquier parte del interior del país, no solo cerca de la frontera.",
-   "people_affected": null,
-   "timeline_events": 3,
-   "first_event": "2025-01-21",
-   "latest_event": "2026-06-23",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "enforcement",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/expedited-removal-expansion/",
-   "url_es": "/es/casos-de-inmigracion/expansion-expulsion-acelerada/"
   },
   {
    "id": "courthouse-and-checkin-arrests",
@@ -544,7 +669,7 @@
    "timeline_events": 5,
    "first_event": "2025-07-31",
    "latest_event": "2026-06-23",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement",
     "detention",
@@ -570,7 +695,7 @@
    "timeline_events": 4,
    "first_event": "2025-03-25",
    "latest_event": "2026-06-22",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "citizenship",
     "naturalization",
@@ -596,88 +721,13 @@
    "timeline_events": 4,
    "first_event": "2025-10-14",
    "latest_event": "2026-06-19",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "green-card",
     "kyr"
    ],
    "url_en": "/immigration-cases/u-t-visa-vawa-survivor-protections-injunction/",
    "url_es": "/es/casos-de-inmigracion/protecciones-sobrevivientes-visa-u-t-vawa/"
-  },
-  {
-   "id": "benefits-adjudication-hold-vacated",
-   "title_en": "Court vacates USCIS asylum and benefits adjudication holds (39 countries)",
-   "title_es": "Un tribunal anula las pausas de USCIS en asilo y beneficios (39 países)",
-   "case_name": "Dorcas International Institute of Rhode Island v. U.S. Citizenship and Immigration Services",
-   "docket": "D.R.I. No. 1:26-cv-00132-JJM-PAS (on appeal: 1st Cir. No. 26-1703)",
-   "court_en": "U.S. District Court for the District of Rhode Island",
-   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito de Rhode Island",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "People from 39 \"travel-ban\" countries — which include large Cuban, Haitian, and Venezuelan communities — whose green-card (adjustment of status), work-permit (EAD), naturalization, and other USCIS benefit applications had been frozen, plus anyone with a pending asylum or withholding-of-removal case, since that hold applied regardless of nationality. With the policies vacated, USCIS is again issuing decisions on these applications and is no longer re-reviewing already-approved cases or weighing country of origin as an automatic negative factor. This restores normal processing; it does not change who qualifies for any benefit.",
-   "what_it_affects_es": "Personas de 39 países sujetos a la \"prohibición de viaje\" — que incluyen a grandes comunidades cubana, haitiana y venezolana — cuyas solicitudes de green card (ajuste de estatus), permiso de trabajo (EAD), naturalización y otros beneficios de USCIS estaban congeladas, además de cualquier persona con un caso pendiente de asilo o de retención de expulsión, ya que esa pausa se aplicaba sin importar la nacionalidad. Con las políticas anuladas, USCIS vuelve a emitir decisiones sobre estas solicitudes y ya no re-revisa los casos ya aprobados ni considera el país de origen como un factor negativo automático. Esto restablece el trámite normal; no cambia quién califica para ningún beneficio.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2025-12-02",
-   "latest_event": "2026-06-19",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "asylum",
-    "benefits"
-   ],
-   "url_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
-   "url_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
-  },
-  {
-   "id": "civil-denaturalization-surge",
-   "title_en": "Civil denaturalization: efforts to revoke naturalized U.S. citizenship",
-   "title_es": "Desnaturalización civil: esfuerzos para revocar la ciudadanía estadounidense naturalizada",
-   "case_name": "DOJ civil denaturalization initiative (TRAC Report 774)",
-   "docket": "8 U.S.C. § 1451(a) (INA § 340); DOJ Civil Division enforcement-priorities memo (June 11, 2025); TRAC Report 774",
-   "court_en": "U.S. district courts (nationwide)",
-   "court_es": "Cortes federales de distrito (en todo el país)",
-   "status": "active_litigation",
-   "status_label_en": "Active litigation",
-   "status_label_es": "Litigio activo",
-   "what_it_affects_en": "Naturalized U.S. citizens — people born abroad who later became citizens. Civil denaturalization under 8 U.S.C. § 1451(a) (INA § 340) asks a federal court to revoke citizenship the government says was \"illegally procured\" or obtained by concealing a material fact or by willful misrepresentation. The June 11, 2025 DOJ Civil Division priorities memo lists the categories the government says it will pursue first, such as national-security or terrorism ties, war crimes or human-rights violations, gang or cartel affiliation, serious undisclosed crimes, and government-program fraud. Unlike criminal denaturalization, the civil process has no jury, no government-appointed defense attorney, and no statute of limitations; the government must prove its case by \"clear, convincing, and unequivocal\" evidence. U.S. citizens by birth are not affected. This is general information, not legal advice.",
-   "what_it_affects_es": "Ciudadanos estadounidenses naturalizados —personas nacidas en el extranjero que luego se hicieron ciudadanas. La desnaturalización civil bajo 8 U.S.C. § 1451(a) (INA § 340) pide a una corte federal revocar una ciudadanía que el gobierno alega fue \"obtenida ilegalmente\" o lograda ocultando un hecho material o mediante tergiversación deliberada. El memorando de prioridades de la División Civil del DOJ del 11 de junio de 2025 enumera las categorías que el gobierno dice perseguir primero, como vínculos con la seguridad nacional o el terrorismo, crímenes de guerra o violaciones de derechos humanos, afiliación a pandillas o carteles, delitos graves no declarados y fraude a programas del gobierno. A diferencia de la desnaturalización penal, el proceso civil no tiene jurado, no hay abogado defensor designado por el gobierno y no hay plazo de prescripción; el gobierno debe probar su caso con evidencia \"clara, convincente e inequívoca\". Las personas que son ciudadanas por nacimiento no se ven afectadas. Esta es información general, no asesoría legal.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2025-06-11",
-   "latest_event": "2026-06-18",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "naturalization",
-    "citizenship"
-   ],
-   "url_en": "/immigration-cases/civil-denaturalization-citizenship-revocation/",
-   "url_es": "/es/casos-de-inmigracion/desnaturalizacion-civil-revocacion-de-ciudadania/"
-  },
-  {
-   "id": "detention-bond-hearings",
-   "title_en": "Prolonged immigration detention & bond hearings",
-   "title_es": "Detención migratoria prolongada y audiencias de fianza",
-   "case_name": "Genalo v. Black",
-   "docket": "No. 25-886",
-   "court_en": "U.S. Supreme Court (on certiorari to the U.S. Court of Appeals for the Second Circuit)",
-   "court_es": "Corte Suprema de EE.UU. (certiorari del Segundo Circuito)",
-   "status": "awaiting_decision",
-   "status_label_en": "Awaiting decision",
-   "status_label_es": "En espera de fallo",
-   "what_it_affects_en": "Noncitizens, including lawful permanent residents, who are already physically in the United States and held in mandatory ICE custody under 8 U.S.C. Section 1226(c) for prolonged periods (months to years) while their removal proceedings are pending. The case will determine whether such prolonged detention triggers a constitutional right to an individualized bond hearing and, if so, whether the government must justify continued detention by clear and convincing evidence; the right currently recognized by the Second Circuit (covering immigration detention in New York, Connecticut, and Vermont) is at stake nationwide given a circuit split.",
-   "what_it_affects_es": "No ciudadanos, incluidos residentes permanentes legales, que ya están físicamente en EE.UU. y están bajo custodia obligatoria de ICE conforme a 8 U.S.C. § 1226(c) por periodos prolongados (meses o años) mientras se resuelve su proceso de deportación. El caso decidirá si esa detención prolongada genera un derecho constitucional a una audiencia individual de fianza y, de ser así, si el gobierno debe justificar la detención continua con prueba clara y convincente.",
-   "people_affected": null,
-   "timeline_events": 3,
-   "first_event": "2024",
-   "latest_event": "2026-06-15",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "detention",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/immigration-detention-bond-hearings/",
-   "url_es": "/es/casos-de-inmigracion/audiencias-fianza-detencion-inmigratoria/"
   },
   {
    "id": "secure-america-act-enforcement-funding",
@@ -696,7 +746,7 @@
    "timeline_events": 3,
    "first_event": "2026-06-05",
    "latest_event": "2026-06-10",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "detention"
@@ -721,7 +771,7 @@
    "timeline_events": 5,
    "first_event": "2025-01-20",
    "latest_event": "2026-06-08",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "asylum"
    ],
@@ -733,7 +783,7 @@
    "title_en": "Lawsuit over detention conditions at Camp East Montana (Fort Bliss, El Paso)",
    "title_es": "Demanda por las condiciones de detención en Camp East Montana (Fort Bliss, El Paso)",
    "case_name": "Akari Angye et al. v. ICE",
-   "docket": "W.D. Tex. (El Paso Division) — class action; class-certification motion pending (case number not yet public)",
+   "docket": "No. 3:26-cv-01515 (W.D. Tex., El Paso Division) — class-certification motion filed May 30, 2026, still pending",
    "court_en": "U.S. District Court, Western District of Texas (El Paso Division)",
    "court_es": "Corte de Distrito de EE.UU., Distrito Oeste de Texas (División de El Paso)",
    "status": "active_litigation",
@@ -745,7 +795,7 @@
    "timeline_events": 3,
    "first_event": "2025-08",
    "latest_event": "2026-05-30",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "detention",
     "kyr"
@@ -770,7 +820,7 @@
    "timeline_events": 3,
    "first_event": "2025-08-12",
    "latest_event": "2026-05-26",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "dmv",
     "kyr"
@@ -795,7 +845,7 @@
    "timeline_events": 2,
    "first_event": "2026-05-21",
    "latest_event": "2026-05-22",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "green-card"
    ],
@@ -819,38 +869,13 @@
    "timeline_events": 5,
    "first_event": "2025-04-18",
    "latest_event": "2026-05-13",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "asylum",
     "enforcement"
    ],
    "url_en": "/immigration-cases/third-country-removals/",
    "url_es": "/es/casos-de-inmigracion/expulsiones-a-terceros-paises/"
-  },
-  {
-   "id": "interior-arrest-bond-circuit-split",
-   "title_en": "Bond hearings after interior ICE arrests: circuit split",
-   "title_es": "Audiencias de fianza tras arrestos de ICE en el interior: división de circuitos",
-   "case_name": "Cunha v. Freden; Buenrostro-Mendez v. Bondi; Herrera Avila v. Bondi; Hernandez Alvarez v. Warden",
-   "docket": "2d Cir. No. 25-3141; 5th Cir. No. 25-20496; 8th Cir. No. 25-3248; 11th Cir. No. 25-14065",
-   "court_en": "U.S. Courts of Appeals (2nd, 5th, 6th, 7th, 8th & 11th Circuits)",
-   "court_es": "Cortes de Apelaciones de EE.UU. (Circuitos 2.º, 5.º, 6.º, 7.º, 8.º y 11.º)",
-   "status": "active_litigation",
-   "status_label_en": "Active litigation",
-   "status_label_es": "Litigio activo",
-   "what_it_affects_en": "Immigrants who entered the U.S. without inspection, have been living here, and are arrested in the interior (not at or near the border) and placed in removal proceedings — and their ability to ask an immigration judge for release on bond while their case is pending. Whether a bond hearing is available now depends on the circuit where the person is detained: it is available in the 2nd, 6th, 7th, and 11th Circuits, but not in the 5th Circuit (Texas, Louisiana, Mississippi) or the 8th Circuit (Arkansas, Iowa, Minnesota, Missouri, Nebraska, North Dakota, South Dakota). This does not change mandatory detention for people caught at or near the border, or mandatory detention under § 1226(c) for certain criminal or terrorism-related grounds.",
-   "what_it_affects_es": "Inmigrantes que entraron a EE.UU. sin inspección, han estado viviendo aquí y son arrestados en el interior (no en la frontera ni cerca de ella) y puestos en proceso de deportación — y su posibilidad de pedirle a un juez de inmigración la libertad bajo fianza mientras su caso está pendiente. Que haya o no audiencia de fianza depende ahora del circuito donde la persona esté detenida: sí la hay en los Circuitos 2.º, 6.º, 7.º y 11.º, pero no en el 5.º Circuito (Texas, Luisiana, Misisipi) ni en el 8.º Circuito (Arkansas, Iowa, Minnesota, Misuri, Nebraska, Dakota del Norte, Dakota del Sur). Esto no cambia la detención obligatoria de quienes son detenidos en la frontera o cerca de ella, ni la detención obligatoria de la sección 1226(c) por ciertos antecedentes penales o de terrorismo.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2026-02-06",
-   "latest_event": "2026-05-11",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "detention",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
-   "url_es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
   },
   {
    "id": "sijs-deferred-action-rescission",
@@ -869,7 +894,7 @@
    "timeline_events": 5,
    "first_event": "2025-06-06",
    "latest_event": "2026-05-10",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "green-card",
     "work-permit"
@@ -894,7 +919,7 @@
    "timeline_events": 4,
    "first_event": "1997-03-06",
    "latest_event": "2026-04-14",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "work-permit",
     "enforcement"
@@ -919,7 +944,7 @@
    "timeline_events": 5,
    "first_event": "2025-11-12",
    "latest_event": "2026-04-13",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "detention",
     "kyr"
@@ -944,7 +969,7 @@
    "timeline_events": 5,
    "first_event": "2025-04-14",
    "latest_event": "2026-04-10",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-31",
    "topics": [
     "enforcement",
     "asylum"
@@ -969,7 +994,7 @@
    "timeline_events": 4,
    "first_event": "2025-03-25",
    "latest_event": "2026-04-07",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "students",
     "enforcement"
@@ -994,7 +1019,7 @@
    "timeline_events": 5,
    "first_event": "2025-06",
    "latest_event": "2026-03-26",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "benefits",
     "medicaid"
@@ -1019,7 +1044,7 @@
    "timeline_events": 4,
    "first_event": "2018-11-29",
    "latest_event": "2026-03-25",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "kyr"
@@ -1044,7 +1069,7 @@
    "timeline_events": 4,
    "first_event": "2025-04",
    "latest_event": "2026-03-20",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "students"
    ],
@@ -1068,7 +1093,7 @@
    "timeline_events": 5,
    "first_event": "2025-07-14",
    "latest_event": "2026-03-20",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "benefits"
    ],
@@ -1092,7 +1117,7 @@
    "timeline_events": 4,
    "first_event": "2025-01-17",
    "latest_event": "2026-03-04",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "asylum"
    ],
@@ -1116,7 +1141,7 @@
    "timeline_events": 4,
    "first_event": "2025-09-20",
    "latest_event": "2026-03-01",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement",
     "kyr",
@@ -1142,7 +1167,7 @@
    "timeline_events": 5,
    "first_event": "2004",
    "latest_event": "2026-03",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "detention",
     "enforcement"
@@ -1161,13 +1186,13 @@
    "status": "active_litigation",
    "status_label_en": "Active litigation",
    "status_label_es": "Litigio activo",
-   "what_it_affects_en": "New York residents who hold or are applying for a standard New York driver's license or non-driver ID, and anyone worried about whether the New York DMV can share their records with ICE or CBP. As of the last check, nothing has changed: the Green Light Law is still in effect, standard licenses are still issued regardless of immigration status, and state law still bars the DMV from disclosing its records to immigration-enforcement agencies without a judicial warrant or court order (and requires notifying the person when such a request is made). The federal government's appeal does not pause the law. This case does not change anyone's immigration status, and holding a New York license does not, by itself, affect a person's immigration case.",
-   "what_it_affects_es": "Residentes de Nueva York que tienen o solicitan una licencia de conducir estándar o una identificación estatal, y cualquier persona preocupada por si el DMV de Nueva York puede compartir sus registros con ICE o CBP. Hasta la última revisión, nada ha cambiado: la Ley Green Light sigue vigente, las licencias estándar se siguen emitiendo sin importar el estatus migratorio, y la ley estatal sigue prohibiendo que el DMV divulgue sus registros a las agencias de inmigración sin una orden judicial (y exige avisar a la persona cuando se hace tal solicitud). La apelación del gobierno federal no suspende la ley. Este caso no cambia el estatus migratorio de nadie, y tener una licencia de Nueva York, por sí solo, no afecta el caso migratorio de una persona.",
+   "what_it_affects_en": "New York residents who hold or are applying for a standard New York driver's license or non-driver ID, and anyone worried about whether the New York DMV can share their records with ICE or CBP. As of September 1, 2026 (docket re-checked), nothing has changed: the Green Light Law is still in effect, standard licenses are still issued regardless of immigration status, and state law still bars the DMV from disclosing its records to immigration-enforcement agencies without a judicial warrant or court order (and requires notifying the person when such a request is made). The federal government's appeal does not pause the law. This case does not change anyone's immigration status, and holding a New York license does not, by itself, affect a person's immigration case.",
+   "what_it_affects_es": "Residentes de Nueva York que tienen o solicitan una licencia de conducir estándar o una identificación estatal, y cualquier persona preocupada por si el DMV de Nueva York puede compartir sus registros con ICE o CBP. Al 1 de septiembre de 2026 (expediente reverificado), nada ha cambiado: la Ley Green Light sigue vigente, las licencias estándar se siguen emitiendo sin importar el estatus migratorio, y la ley estatal sigue prohibiendo que el DMV divulgue sus registros a las agencias de inmigración sin una orden judicial (y exige avisar a la persona cuando se hace tal solicitud). La apelación del gobierno federal no suspende la ley. Este caso no cambia el estatus migratorio de nadie, y tener una licencia de Nueva York, por sí solo, no afecta el caso migratorio de una persona.",
    "people_affected": null,
    "timeline_events": 4,
    "first_event": "2025-02-12",
    "latest_event": "2026-02-20",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "dmv",
     "enforcement"
@@ -1192,7 +1217,7 @@
    "timeline_events": 5,
    "first_event": "2025-07-11",
    "latest_event": "2026-02-19",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "kyr"
@@ -1217,7 +1242,7 @@
    "timeline_events": 4,
    "first_event": "2025-01-20",
    "latest_event": "2026-02-13",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "kyr"
@@ -1242,7 +1267,7 @@
    "timeline_events": 5,
    "first_event": "2025-03-14",
    "latest_event": "2026-02-12",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "detention"
@@ -1267,7 +1292,7 @@
    "timeline_events": 3,
    "first_event": "2025-03-05",
    "latest_event": "2026-02-11",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "students"
@@ -1292,7 +1317,7 @@
    "timeline_events": 5,
    "first_event": "1997-01-28",
    "latest_event": "2026-01-28",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "detention",
     "kyr"
@@ -1317,7 +1342,7 @@
    "timeline_events": 4,
    "first_event": "2025-03-25",
    "latest_event": "2026-01-24",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement",
     "work-permit"
@@ -1342,38 +1367,13 @@
    "timeline_events": 4,
    "first_event": "2025-04-01",
    "latest_event": "2026-01-01",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "detention"
    ],
    "url_en": "/immigration-cases/texas-sb-8-mandatory-287g-jail-agreements/",
    "url_es": "/es/casos-de-inmigracion/texas-sb-8-acuerdos-287g-obligatorios-en-carceles/"
-  },
-  {
-   "id": "alien-registration",
-   "title_en": "Alien registration mandate (Form G-325R)",
-   "title_es": "Mandato de registro de extranjeros (Formulario G-325R)",
-   "case_name": "Coalition for Humane Immigrant Rights (CHIRLA) v. U.S. Department of Homeland Security (a/k/a CHIRLA v. Noem) — alien registration / Form G-325R interim final rule",
-   "docket": "D.D.C. 1:25-cv-00943-TNM; D.C. Cir. 25-5152 (consolidated with 25-5233 and 25-5247)",
-   "court_en": "U.S. District Court for the District of Columbia (Judge Trevor N. McFadden); on appeal, U.S. Court of Appeals for the D.C. Circuit",
-   "court_es": "Tribunal Federal del Distrito de Columbia (juez McFadden); en apelación, Circuito de DC",
-   "status": "in_effect",
-   "status_label_en": "Policy in effect",
-   "status_label_es": "Política en vigor",
-   "what_it_affects_en": "Affects noncitizens already physically present in the United States who are age 14 or older and were not previously registered or fingerprinted — for example, people who entered without inspection, certain parolees and applicants without a registration document, and Canadian visitors staying 30+ days — who under the interim final rule must file Form G-325R, submit biometrics, and carry proof of registration, with criminal penalties for willful failure to register or to carry proof. People already documented as registered (most lawful permanent residents, EAD holders, those issued an I-94 or placed in removal proceedings, and many DACA/TPS recipients with the right documents) are generally treated as already registered.",
-   "what_it_affects_es": "No ciudadanos que ya están físicamente en EE.UU., de 14 años o más, que no estaban registrados ni con huellas tomadas previamente — por ejemplo, quienes entraron sin inspección, ciertos parolados sin documento de registro y visitantes canadienses que se quedan 30+ días — quienes bajo la regla deben presentar el Formulario G-325R, dar datos biométricos y portar prueba de registro, con penas penales por no registrarse o no portar la prueba de forma intencional. Quienes ya constan como registrados (la mayoría de residentes permanentes, titulares de EAD, quienes recibieron un I-94 o están en proceso de deportación, y muchos beneficiarios de DACA/TPS con los documentos correctos) generalmente se consideran ya registrados.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2025-03-12",
-   "latest_event": "2025-12-18",
-   "last_checked": "2026-07-27",
-   "topics": [
-    "enforcement",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/alien-registration-g325r/",
-   "url_es": "/es/casos-de-inmigracion/registro-de-extranjeros-g325r/"
   },
   {
    "id": "sanctuary-funding",
@@ -1392,7 +1392,7 @@
    "timeline_events": 5,
    "first_event": "2025-02-07",
    "latest_event": "2025-12-05",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement"
    ],
@@ -1416,7 +1416,7 @@
    "timeline_events": 5,
    "first_event": "1981",
    "latest_event": "2025-11",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "naturalization"
    ],
@@ -1440,7 +1440,7 @@
    "timeline_events": 3,
    "first_event": "2025-03-25",
    "latest_event": "2025-10-28",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "naturalization",
     "work-permit"
@@ -1465,7 +1465,7 @@
    "timeline_events": 3,
    "first_event": "2025-01-20",
    "latest_event": "2025-10-20",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "naturalization"
    ],
@@ -1489,7 +1489,7 @@
    "timeline_events": 5,
    "first_event": "2025-03-21",
    "latest_event": "2025-10-10",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "detention",
     "kyr"
@@ -1514,7 +1514,7 @@
    "timeline_events": 5,
    "first_event": "2025-02-13",
    "latest_event": "2025-10-09",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement",
     "kyr"
@@ -1539,7 +1539,7 @@
    "timeline_events": 2,
    "first_event": "2022-10-19",
    "latest_event": "2025-06-13",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "naturalization",
     "citizenship"
@@ -1564,7 +1564,7 @@
    "timeline_events": 4,
    "first_event": "2018-06-28",
    "latest_event": "2025-06-12",
-   "last_checked": "2026-07-27",
+   "last_checked": "2026-08-26",
    "topics": [
     "enforcement",
     "green-card"
@@ -1691,7 +1691,7 @@
   },
   {
    "month": "2025-12",
-   "events": 14,
+   "events": 15,
    "cases_with_activity": 12
   },
   {
@@ -1716,18 +1716,23 @@
   },
   {
    "month": "2026-05",
-   "events": 14,
+   "events": 15,
    "cases_with_activity": 11
   },
   {
    "month": "2026-06",
-   "events": 33,
-   "cases_with_activity": 23
+   "events": 40,
+   "cases_with_activity": 25
   },
   {
    "month": "2026-07",
-   "events": 12,
-   "cases_with_activity": 7
+   "events": 26,
+   "cases_with_activity": 13
+  },
+  {
+   "month": "2026-08",
+   "events": 29,
+   "cases_with_activity": 15
   }
  ]
 }

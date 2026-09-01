@@ -6,8 +6,8 @@
   "source": "MigrantUSA's own case tracker, maintained from the primary record for each case: the court's order or opinion, the Federal Register document, and the agency's own alert page. Each case entry carries its docket number and court so any row can be checked at the source.",
   "source_url": "https://migrantusa.com/immigration-cases/",
   "case_count": 62,
-  "event_count": 317,
-  "dated_event_count": 311,
+  "event_count": 320,
+  "dated_event_count": 314,
   "anchor_event_count": 4,
   "upcoming_event_count": 2,
   "next_scheduled_date": "2026-09-08",
@@ -93,7 +93,7 @@
    "what_it_affects_en": "Section 1 of Tennessee's HB 1704 (Public Chapter 771) creates a new state crime — a Class A misdemeanor punishable by up to 11 months and 29 days in jail and a fine of up to $2,500. It applies only to a person 18 or older who (1) is a noncitizen against whom a valid final order of removal is outstanding by reason of being a member of one of the deportability classes listed in 8 U.S.C. § 1227(a), and (2) intentionally fails or refuses to leave Tennessee within 90 days of that final removal order. It does not reach every noncitizen who has a removal order — it is limited to people removable under the § 1227(a) deportability grounds. The statute directs the court to stay the criminal case while the person is still pursuing available federal avenues to challenge the removal order. This is Tennessee state criminal law; federal immigration enforcement is separate. A second offense in the same act (Section 2, illegal re-entry into the state) does not take effect unless and until federal law changes, and is not addressed by this litigation.",
    "what_it_affects_es": "La Sección 1 de la HB 1704 de Tennessee (Capítulo Público 771) crea un nuevo delito estatal: un delito menor de Clase A castigado con hasta 11 meses y 29 días de cárcel y una multa de hasta $2,500. Solo se aplica a una persona de 18 años o más que (1) sea un no ciudadano contra quien exista una orden final de expulsión válida y vigente por ser miembro de una de las categorías de deportabilidad enumeradas en 8 U.S.C. § 1227(a), y que (2) de forma intencional no salga o se niegue a salir de Tennessee dentro de los 90 días siguientes a esa orden final de expulsión. No abarca a todo no ciudadano que tenga una orden de expulsión: se limita a las personas expulsables conforme a los fundamentos de deportabilidad del § 1227(a). La ley ordena al tribunal suspender el proceso penal mientras la persona siga agotando las vías federales disponibles para impugnar la orden de expulsión. Es ley penal estatal de Tennessee; la aplicación de la ley migratoria federal es algo aparte. Un segundo delito de la misma ley (Sección 2, reingreso ilegal al estado) no entra en vigor a menos que cambie la ley federal, y no es objeto de este litigio.",
    "people_affected": null,
-   "timeline_events": 9,
+   "timeline_events": 12,
    "first_event": "2026-04-06",
    "latest_event": "2026-08-31",
    "last_checked": "2026-09-01",
@@ -571,7 +571,7 @@
    "timeline_events": 2,
    "first_event": "2016-11",
    "latest_event": "2026-06-25",
-   "last_checked": "2026-08-26",
+   "last_checked": "2026-09-01",
    "topics": [
     "asylum"
    ],
@@ -1267,7 +1267,7 @@
    "timeline_events": 5,
    "first_event": "2025-03-14",
    "latest_event": "2026-02-12",
-   "last_checked": "2026-08-26",
+   "last_checked": "2026-09-01",
    "topics": [
     "enforcement",
     "detention"
@@ -1726,12 +1726,12 @@
   },
   {
    "month": "2026-07",
-   "events": 26,
+   "events": 27,
    "cases_with_activity": 13
   },
   {
    "month": "2026-08",
-   "events": 29,
+   "events": 31,
    "cases_with_activity": 15
   }
  ]

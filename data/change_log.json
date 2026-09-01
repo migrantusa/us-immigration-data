@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-08-26",
+  "verified_on": "2026-09-01",
   "categories": [
    "tps",
    "visas",
@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-08-26"
+  "last_updated": "2026-09-01"
  },
  "upcoming": [
   {
@@ -89,6 +89,22 @@
  ],
  "changes": [
   {
+   "date": "2026-09-01",
+   "precision": "day",
+   "category": "courts",
+   "title_en": "The government asks the Supreme Court to decide the interior-arrest bond split — a petition, not a grant (Rhoney v. Barbosa da Cunha, No. 26-104)",
+   "title_es": "El gobierno le pide a la Corte Suprema que resuelva la división sobre la fianza tras arrestos en el interior — es una petición, no una aceptación (Rhoney v. Barbosa da Cunha, n.º 26-104)",
+   "summary_en": "On July 23, 2026 the federal government filed a petition for a writ of certiorari asking the U.S. Supreme Court to review the Second Circuit's decision that immigrants arrested in the interior are detained under 8 U.S.C. § 1226(a) — where an immigration judge can set bond — rather than under § 1225(b)(2)(A) mandatory detention. It is docketed as Rhoney v. Barbosa da Cunha, No. 26-104, from Second Circuit No. 25-3141 (decided April 28, 2026), and the respondent's response was filed August 21, 2026. The Court has NOT granted certiorari: a petition is not a grant, the docket shows no conference date, and until the Court acts the detention rule in each circuit is unchanged. Three other things moved the split since our last review: the Eighth Circuit denied rehearing en banc and panel rehearing in Herrera Avila on June 17, 2026 and issued its mandate on June 25; the Tenth Circuit sided with the immigrants in Santillan Quiroz v. Mullin on June 30, 2026; and the Ninth Circuit did the same in Rodriguez Vazquez v. Bostock on July 30, 2026. The count is now five circuits for a bond hearing (2nd, 6th, 9th, 10th, 11th) against two for mandatory detention (5th, 8th), with the Seventh Circuit's decision failing to command a majority. One caveat on that count: the Eleventh Circuit withheld its mandate on May 13, 2026 and the government's petition for rehearing en banc, filed June 22, 2026, was still pending as of that docket's August 28, 2026 update — so its ruling is not final. Separately, the Supreme Court has set Genalo v. Black, No. 25-886, for oral argument on Tuesday, October 13, 2026 — that case is about prolonged detention under § 1226(c) and will not by itself resolve this split.",
+   "summary_es": "El 23 de julio de 2026 el gobierno federal presentó una petición de certiorari para que la Corte Suprema de EE.UU. revise el fallo del Segundo Circuito según el cual los inmigrantes arrestados en el interior quedan detenidos bajo 8 U.S.C. § 1226(a) — donde un juez de inmigración puede fijar fianza — y no bajo la detención obligatoria de la sección 1225(b)(2)(A). El caso se registró como Rhoney v. Barbosa da Cunha, n.º 26-104, proveniente del n.º 25-3141 del Segundo Circuito (resuelto el 28 de abril de 2026), y la respuesta del demandado se presentó el 21 de agosto de 2026. La Corte NO ha concedido certiorari: una petición no es una aceptación, el expediente no muestra fecha de conferencia y, mientras la Corte no actúe, la regla de detención de cada circuito sigue igual. Otras tres cosas movieron la división desde nuestra última revisión: el Octavo Circuito denegó la nueva audiencia en pleno y ante el panel en Herrera Avila el 17 de junio de 2026 y emitió su mandato el 25 de junio; el Décimo Circuito falló a favor de los inmigrantes en Santillan Quiroz v. Mullin el 30 de junio de 2026; y el Noveno Circuito hizo lo mismo en Rodriguez Vazquez v. Bostock el 30 de julio de 2026. El conteo ya es de cinco circuitos a favor de la audiencia de fianza (2.º, 6.º, 9.º, 10.º y 11.º) frente a dos a favor de la detención obligatoria (5.º y 8.º), y la decisión del Séptimo Circuito no logró reunir mayoría. Una advertencia sobre ese conteo: el Undécimo Circuito retuvo su mandato el 13 de mayo de 2026 y la petición del gobierno de nueva audiencia en pleno, presentada el 22 de junio de 2026, seguía pendiente según la actualización del expediente del 28 de agosto de 2026 — así que su fallo no es definitivo. Por separado, la Corte Suprema fijó los argumentos orales de Genalo v. Black, n.º 25-886, para el martes 13 de octubre de 2026 — ese caso trata de la detención prolongada bajo la sección 1226(c) y por sí solo no resolverá esta división.",
+   "source_url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html",
+   "links": {
+    "en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
+    "es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
+   },
+   "link_en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
+   "link_es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
+  },
+  {
    "date": "2026-08-28",
    "precision": "day",
    "category": "courts",
@@ -121,22 +137,6 @@
    "link_es": "/es/conoce-tus-derechos/zona-fronteriza-100-millas/"
   },
   {
-   "date": "2026-08-21",
-   "precision": "day",
-   "category": "fees",
-   "title_en": "H.R.1 fees appeal: emergency stay motion withdrawn — First Circuit sets merits briefing, opening brief due September 30, 2026",
-   "title_es": "Apelación de tarifas H.R.1: retirada la moción de emergencia — el Primer Circuito fija alegatos de fondo, escrito inicial para el 30 de septiembre de 2026",
-   "summary_en": "In the H.R.1 immigration-fees appeal (Venezuelan Ass'n of Mass. v. USCIS, 1st Cir. No. 26-1893), the plaintiffs withdrew their renewed emergency stay motion on August 20, 2026, and on August 21 the court granted the withdrawal and set a merits briefing schedule with the appellants' opening brief due September 30, 2026. No emergency ruling will issue, so the one-year cap on TPS-based work permits keeps operating while the appeal is briefed.",
-   "summary_es": "En la apelación de tarifas migratorias de la H.R.1 (Venezuelan Ass'n of Mass. v. USCIS, Primer Circuito No. 26-1893), los demandantes retiraron su moción de emergencia renovada el 20 de agosto de 2026, y el 21 de agosto la corte aceptó el retiro y fijó un calendario de alegatos de fondo con el escrito inicial de los apelantes para el 30 de septiembre de 2026. Ya no habrá una decisión de emergencia, así que el tope de un año para los permisos de trabajo basados en TPS sigue operando mientras se presentan los alegatos.",
-   "source_url": "https://www.courtlistener.com/docket/73728632/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/",
-   "links": {
-    "en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
-    "es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
-   },
-   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
-   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
-  },
-  {
    "date": "2026-08-24",
    "precision": "day",
    "category": "benefits",
@@ -151,6 +151,22 @@
    },
    "link_en": "/immigration-cases/medicaid-data-sharing-with-ice/",
    "link_es": "/es/casos-de-inmigracion/comparticion-de-datos-de-medicaid-con-ice/"
+  },
+  {
+   "date": "2026-08-21",
+   "precision": "day",
+   "category": "fees",
+   "title_en": "H.R.1 fees appeal: emergency stay motion withdrawn — First Circuit sets merits briefing, opening brief due September 30, 2026",
+   "title_es": "Apelación de tarifas H.R.1: retirada la moción de emergencia — el Primer Circuito fija alegatos de fondo, escrito inicial para el 30 de septiembre de 2026",
+   "summary_en": "In the H.R.1 immigration-fees appeal (Venezuelan Ass'n of Mass. v. USCIS, 1st Cir. No. 26-1893), the plaintiffs withdrew their renewed emergency stay motion on August 20, 2026, and on August 21 the court granted the withdrawal and set a merits briefing schedule with the appellants' opening brief due September 30, 2026. No emergency ruling will issue, so the one-year cap on TPS-based work permits keeps operating while the appeal is briefed.",
+   "summary_es": "En la apelación de tarifas migratorias de la H.R.1 (Venezuelan Ass'n of Mass. v. USCIS, Primer Circuito No. 26-1893), los demandantes retiraron su moción de emergencia renovada el 20 de agosto de 2026, y el 21 de agosto la corte aceptó el retiro y fijó un calendario de alegatos de fondo con el escrito inicial de los apelantes para el 30 de septiembre de 2026. Ya no habrá una decisión de emergencia, así que el tope de un año para los permisos de trabajo basados en TPS sigue operando mientras se presentan los alegatos.",
+   "source_url": "https://www.courtlistener.com/docket/73728632/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/",
+   "links": {
+    "en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+    "es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
+   },
+   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
   },
   {
    "date": "2026-08-20",
@@ -201,22 +217,6 @@
    "link_es": "/es/tramites/public-charge/"
   },
   {
-   "date": "2026-07-24",
-   "precision": "day",
-   "category": "education",
-   "title_en": "Illinois in-state tuition for undocumented students struck down — no appeal; aid blocked too",
-   "title_es": "Anulada la matrícula estatal de Illinois para estudiantes indocumentados — sin apelación; la ayuda también bloqueada",
-   "summary_en": "On July 24, 2026 a federal court (S.D. Ill., USA v. Illinois, 3:25-cv-01691) ruled the Illinois laws granting in-state tuition to students not lawfully present unconstitutional and also blocked RISE Act state financial aid (including MAP grants) and the Illinois DREAM Fund. The court delayed its order 14 days; the state did not appeal, so nonresident rates apply from August 2026. Illinois becomes the sixth jurisdiction to lose access since June 2025 and the fifth by court order. Separately, DOJ has now sued 17 states over tuition-equity laws, adding New York, Connecticut, and Vermont on Aug. 10, 2026.",
-   "summary_es": "El 24 de julio de 2026 un tribunal federal (S.D. Ill., USA v. Illinois, 3:25-cv-01691) declaró inconstitucionales las leyes de Illinois que daban matrícula estatal a estudiantes sin presencia legal y también bloqueó la ayuda financiera estatal de la Ley RISE (incluidas las becas MAP) y el Illinois DREAM Fund. El tribunal aplazó su orden 14 días; el estado no apeló, así que desde agosto de 2026 se aplican tarifas de no residente. Illinois es la sexta jurisdicción en perder el acceso desde junio de 2025 y la quinta por orden judicial. Aparte, el DOJ ya ha demandado a 17 estados por sus leyes de equidad de matrícula, sumando a Nueva York, Connecticut y Vermont el 10 de agosto de 2026.",
-   "source_url": "https://www.higheredimmigrationportal.org/in-state-tuition-litigation-updates/",
-   "links": {
-    "en": "/datasets/in-state-tuition-access/",
-    "es": "/es/datos/acceso-matricula-estatal/"
-   },
-   "link_en": "/datasets/in-state-tuition-access/",
-   "link_es": "/es/datos/acceso-matricula-estatal/"
-  },
-  {
    "date": "2026-08-18",
    "precision": "day",
    "category": "tps",
@@ -231,38 +231,6 @@
    },
    "link_en": "/procedures/tps-by-country/ethiopia/",
    "link_es": "/es/tramites/tps-por-pais/ethiopia/"
-  },
-  {
-   "date": "2026-06-25",
-   "precision": "day",
-   "category": "procedures",
-   "title_en": "Legal-aid groups sue USCIS over DACA renewal delays (East Bay Sanctuary Covenant v. USCIS)",
-   "title_es": "Organizaciones de ayuda legal demandan a USCIS por atrasos en renovaciones de DACA",
-   "summary_en": "East Bay Sanctuary Covenant and the Immigration Institute of the Bay Area (Justice Action Center as counsel) filed suit in the Northern District of California, No. 3:26-cv-06367, over severe DACA renewal delays that leave timely filers without work authorization. Active; no order has changed the renewal procedure. Our I-821D renewal pages carry the case and the day-150 filing guidance.",
-   "summary_es": "East Bay Sanctuary Covenant y el Immigration Institute of the Bay Area (con Justice Action Center) demandaron en el Distrito Norte de California, No. 3:26-cv-06367, por atrasos severos en renovaciones de DACA que dejan sin autorización de empleo a quienes presentaron a tiempo. Activo; ninguna orden ha cambiado el procedimiento. Nuestras páginas del I-821D llevan el caso y la guía de presentar en el día 150.",
-   "source_url": "https://www.courtlistener.com/docket/73535388/east-bay-sanctuary-covenant-v-united-states-citizenship-and-immigration/",
-   "links": {
-    "en": "/procedures/uscis/i-821d-daca-renewal/",
-    "es": "/es/tramites/uscis/i-821d-daca-renovacion/"
-   },
-   "link_en": "/procedures/uscis/i-821d-daca-renewal/",
-   "link_es": "/es/tramites/uscis/i-821d-daca-renovacion/"
-  },
-  {
-   "date": "2026-08-13",
-   "precision": "day",
-   "category": "procedures",
-   "title_en": "BIA: leaving on advance parole is now a \"departure\" — Matter of Arrabally overruled",
-   "title_es": "BIA: salir con advance parole ahora es una \"salida\" — Matter of Arrabally anulado",
-   "summary_en": "In Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decided Aug. 13), the Board of Immigration Appeals overruled Matter of Arrabally and Yerrabelly (2012) and held that a departure under a grant of advance parole is a \"departure\" under INA §212(a)(9)(B)(i)(II). Advance-parole travel is no longer a safe harbor from the unlawful-presence bars, and the Board applied the rule to a trip already taken. Our I-131 and DACA travel pages now carry the new rule.",
-   "summary_es": "En Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decidido el 13 de agosto), la Junta de Apelaciones de Inmigración anuló Matter of Arrabally and Yerrabelly (2012) y decidió que salir con advance parole es una \"salida\" bajo INA §212(a)(9)(B)(i)(II). Viajar con advance parole ya no protege de los castigos de presencia ilegal, y la Junta aplicó la regla a un viaje ya realizado. Nuestras páginas de I-131 y de viaje con DACA ya reflejan la nueva regla.",
-   "source_url": "https://www.justice.gov/eoir/media/1457741/dl?inline",
-   "links": {
-    "en": "/procedures/uscis/i-131-travel-document-advance-parole/",
-    "es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
-   },
-   "link_en": "/procedures/uscis/i-131-travel-document-advance-parole/",
-   "link_es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
   },
   {
    "date": "2026-08-17",
@@ -327,6 +295,22 @@
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-somalia-release-aug-14-2026",
    "link_en": "/procedures/tps-by-country/somalia/",
    "link_es": "/es/tramites/tps-por-pais/somalia/"
+  },
+  {
+   "date": "2026-08-13",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "BIA: leaving on advance parole is now a \"departure\" — Matter of Arrabally overruled",
+   "title_es": "BIA: salir con advance parole ahora es una \"salida\" — Matter of Arrabally anulado",
+   "summary_en": "In Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decided Aug. 13), the Board of Immigration Appeals overruled Matter of Arrabally and Yerrabelly (2012) and held that a departure under a grant of advance parole is a \"departure\" under INA §212(a)(9)(B)(i)(II). Advance-parole travel is no longer a safe harbor from the unlawful-presence bars, and the Board applied the rule to a trip already taken. Our I-131 and DACA travel pages now carry the new rule.",
+   "summary_es": "En Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decidido el 13 de agosto), la Junta de Apelaciones de Inmigración anuló Matter of Arrabally and Yerrabelly (2012) y decidió que salir con advance parole es una \"salida\" bajo INA §212(a)(9)(B)(i)(II). Viajar con advance parole ya no protege de los castigos de presencia ilegal, y la Junta aplicó la regla a un viaje ya realizado. Nuestras páginas de I-131 y de viaje con DACA ya reflejan la nueva regla.",
+   "source_url": "https://www.justice.gov/eoir/media/1457741/dl?inline",
+   "links": {
+    "en": "/procedures/uscis/i-131-travel-document-advance-parole/",
+    "es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
+   },
+   "link_en": "/procedures/uscis/i-131-travel-document-advance-parole/",
+   "link_es": "/es/tramites/uscis/i-131-documento-viaje-advance-parole/"
   },
   {
    "date": "2026-08-12",
@@ -411,6 +395,26 @@
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-burma-release-aug",
    "link_en": "/procedures/tps-by-country/burma-myanmar/",
    "link_es": "/es/tramites/tps-por-pais/burma-myanmar/"
+  },
+  {
+   "date": "2026-08-06",
+   "precision": "day",
+   "category": "courts",
+   "title_en": "The alien registration rule is now final and the appeal is over — DHS issued a final rule effective June 29, 2026 and the D.C. Circuit dismissed the challenge on August 6, 2026",
+   "title_es": "La regla de registro de extranjeros ya es final y la apelación terminó — el DHS emitió una regla final vigente desde el 29 de junio de 2026 y el Circuito de DC desestimó la impugnación el 6 de agosto de 2026",
+   "summary_en": "Two changes closed out the Form G-325R registration fight. On June 29, 2026 DHS published the final rule “Alien Registration Form and Evidence of Registration” (91 FR 39248, RIN 1615-AC96), effective the same day. It adopts the March 2025 interim final rule as final and, in DHS's words, adopts the amendments to 8 CFR 264.1(a) and (b) “without change” — Form G-325R remains the general registration form and the USCIS Proof of Alien G-325R Registration remains the evidence of registration. The changes it does make are administrative: it updates which documents count as registration or as proof of registration (adding Forms I-94A/I-94W, DSP-150 in place of the old Canadian and Mexican border crossing cards, I-860, I-871, and NEXUS/SENTRI/FAST/Global Entry documents; dropping obsolete Forms I-67, I-691 and I-700), restructures the fingerprinting waivers in 8 CFR 264.1(e) — edits DHS calls “non-substantive and clarifying” — and makes technical corrections to 8 CFR 264.1(g), 264.5(h) and 264.6. DHS decided not to impose a biometric services fee “at this time,” while saying it may impose an application or biometric services fee in the future. Then, on August 6, 2026, the D.C. Circuit (Judges Millett, Katsas and Childs) discharged its July 27 order to show cause — which had asked why the consolidated appeals (Nos. 25-5152, 25-5233, 25-5247) should not be dismissed as moot in light of the new final rule — and ordered the clerk to note that the case is dismissed, stating that no mandate will issue. The court did not rule on whether the registration rule is lawful. The duty to register, the duty of registered noncitizens 18 and over to carry proof, and the criminal penalties for willful noncompliance are statutory (INA sections 262, 264(e) and 266) and did not change. The district court case (D.D.C. 1:25-cv-00943) remains stayed. DHS separately asked for comments on possible future changes to the registration regulations; that comment period closed August 28, 2026.",
+   "summary_es": "Dos cambios cerraron la disputa sobre el registro con el Formulario G-325R. El 29 de junio de 2026 el DHS publicó la regla final “Alien Registration Form and Evidence of Registration” (91 FR 39248, RIN 1615-AC96), vigente ese mismo día. Adopta como final la regla interina de marzo de 2025 y, en palabras del DHS, adopta las modificaciones a 8 CFR 264.1(a) y (b) “sin cambios” — el Formulario G-325R sigue siendo el formulario general de registro y el USCIS Proof of Alien G-325R Registration sigue siendo la prueba de registro. Los cambios que sí hace son administrativos: actualiza qué documentos cuentan como registro o como prueba de registro (agrega los Formularios I-94A/I-94W, el DSP-150 en lugar de las antiguas tarjetas de cruce fronterizo canadiense y mexicana, el I-860, el I-871 y los documentos de NEXUS/SENTRI/FAST/Global Entry; elimina los formularios obsoletos I-67, I-691 e I-700), reestructura las exenciones de huellas en 8 CFR 264.1(e) — cambios que el DHS califica de “no sustantivos y aclaratorios” — y hace correcciones técnicas a 8 CFR 264.1(g), 264.5(h) y 264.6. El DHS decidió no imponer una cuota de servicios biométricos “por ahora”, aunque dijo que podría imponer una cuota de solicitud o de servicios biométricos en el futuro. Luego, el 6 de agosto de 2026, el Circuito de DC (jueces Millett, Katsas y Childs) dejó sin efecto su orden del 27 de julio de mostrar causa — que había preguntado por qué las apelaciones consolidadas (Nos. 25-5152, 25-5233, 25-5247) no deberían desestimarse por falta de objeto a la luz de la nueva regla final — y ordenó al secretario anotar que el caso queda desestimado, indicando que no se emitirá mandato. El tribunal no decidió si la regla de registro es legal. El deber de registrarse, el deber de las personas registradas de 18 años o más de portar la prueba y las penas penales por incumplimiento intencional son de ley (secciones 262, 264(e) y 266 de la INA) y no cambiaron. El caso en el tribunal de distrito (D.D.C. 1:25-cv-00943) sigue suspendido. Por separado, el DHS pidió comentarios sobre posibles cambios futuros a las regulaciones de registro; ese periodo de comentarios cerró el 28 de agosto de 2026.",
+   "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13057/alien-registration-form-and-evidence-of-registration",
+   "links": {
+    "en": "/immigration-cases/alien-registration-g325r/",
+    "es": "/es/casos-de-inmigracion/registro-de-extranjeros-g325r/"
+   },
+   "link_en": "/immigration-cases/alien-registration-g325r/",
+   "link_es": "/es/casos-de-inmigracion/registro-de-extranjeros-g325r/",
+   "affected_pages": [
+    "/immigration-cases/alien-registration-g325r/",
+    "/es/casos-de-inmigracion/registro-de-extranjeros-g325r/"
+   ]
   },
   {
    "date": "2026-08-06",
@@ -533,6 +537,8 @@
    "summary_en": "On July 30, 2026 E-Verify posted superseding TPS guidance for Ethiopia and South Sudan, whose terminations remain stayed by the District of Massachusetts (African Communities Together v. Noem — Ethiopia No. 26-cv-10278, South Sudan No. 25-cv-13939). EADs issued under both designations remain extended per court order, and the Form I-9 / E-Verify expiration date employers enter moves from July 30 to Aug. 6, 2026. The guidance covers Ethiopia EADs with original expiration dates of June 12, 2024 and December 12, 2025, and South Sudan EADs with original expiration dates of November 3, 2023, May 3, 2025 and November 3, 2025, and describes each extension as limited relief until the lower courts align with Mullin v. Doe. All four court-stayed designations now carry an Aug. 3, 2026 (Burma, Somalia) or Aug. 6, 2026 (Ethiopia, South Sudan) date.",
    "summary_es": "El 30 de julio de 2026 E-Verify publicó guía de TPS que reemplaza la anterior para Etiopía y Sudán del Sur, cuyas terminaciones siguen suspendidas por el Distrito de Massachusetts (African Communities Together v. Noem — Etiopía No. 26-cv-10278, Sudán del Sur No. 25-cv-13939). Los EAD emitidos bajo ambas designaciones siguen extendidos por orden judicial, y la fecha de vencimiento que los empleadores anotan en el Formulario I-9 / E-Verify pasa del 30 de julio al 6 de agosto de 2026. La guía cubre los EAD de Etiopía con vencimientos originales del 12 de junio de 2024 y el 12 de diciembre de 2025, y los de Sudán del Sur con vencimientos originales del 3 de noviembre de 2023, el 3 de mayo de 2025 y el 3 de noviembre de 2025, y describe cada extensión como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe. Las cuatro designaciones suspendidas por tribunales quedan ahora con fecha del 3 de agosto de 2026 (Birmania, Somalia) o del 6 de agosto de 2026 (Etiopía, Sudán del Sur).",
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/",
    "affected_pages": [
     "/procedures/tps-by-country/",
     "/procedures/tps-by-country/ethiopia/",
@@ -555,6 +561,8 @@
    "summary_en": "On July 29, 2026 E-Verify posted superseding TPS guidance for four countries on the same day. For Somalia — whose termination remains stayed by the District of Massachusetts (African Communities Together v. Noem, No. 26-cv-11201) — the guidance supersedes the July 24 release and moves the Form I-9 / E-Verify expiration date from July 29 to Aug. 3, 2026, matching Burma; it describes the extension as limited relief until the lower courts align with Mullin v. Doe, and covers EADs with original expiration dates of March 17, 2023, September 17, 2024 and March 17, 2026. For Haiti, Syria and Yemen — archived by USCIS on July 27 — the guidance states that Form I-766 EADs with category A12 or C19 issued under those designations are no longer valid, and that employers must reverify those employees and cannot continue employing anyone who does not provide proof of current employment authorization. Yemen's guidance now gives the same July 20, 2026 effective date as the archived USCIS page, resolving the conflict with its July 17 guidance (July 24) that we had been citing both ways. No Federal Register notice accompanied any of the four.",
    "summary_es": "El 29 de julio de 2026 E-Verify publicó, el mismo día, guía que reemplaza la anterior sobre el TPS de cuatro países. Para Somalia —cuya terminación sigue suspendida por el Distrito de Massachusetts (African Communities Together v. Noem, No. 26-cv-11201)— la guía reemplaza la del 24 de julio y mueve la fecha de vencimiento del Formulario I-9 / E-Verify del 29 de julio al 3 de agosto de 2026, igual que Birmania; describe la extensión como un alivio limitado hasta que los tribunales inferiores se alineen con Mullin v. Doe, y cubre los EAD con fechas de vencimiento originales del 17 de marzo de 2023, 17 de septiembre de 2024 y 17 de marzo de 2026. Para Haití, Siria y Yemen —archivados por USCIS el 27 de julio— la guía indica que los Formularios I-766 (EAD) con categoría A12 o C19 emitidos bajo esas designaciones ya no son válidos, y que los empleadores deben reverificar a esos empleados y no pueden seguir empleando a quien no presente prueba de autorización de empleo vigente. La guía de Yemen ahora da la misma fecha del 20 de julio de 2026 que la página archivada de USCIS, lo que resuelve el conflicto con su guía del 17 de julio (24 de julio) que citábamos en ambos sentidos. Ninguno de los cuatro vino acompañado de un aviso en el Federal Register.",
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/",
    "affected_pages": [
     "/procedures/tps-by-country/",
     "/procedures/tps-by-country/somalia/",
@@ -575,12 +583,30 @@
   {
    "date": "2026-07-27",
    "precision": "day",
+   "category": "courts",
+   "title_en": "Plaintiffs ask the full D.C. Circuit to rehear the nationwide expedited-removal ruling — en banc petition filed, still pending",
+   "title_es": "Los demandantes piden al Circuito de DC en pleno que revise el fallo sobre la expulsión acelerada nacional — petición en banc presentada y aún pendiente",
+   "summary_en": "Our case page said an en banc or Supreme Court petition was \"possible but not confirmed filed.\" It has been filed. On July 27, 2026 Make the Road New York petitioned the D.C. Circuit for rehearing en banc in Make the Road New York v. Mullin, No. 25-5320, asking the full court to rehear the June 23, 2026 panel decision that vacated the district court's block on the January 2025 nationwide expedited-removal expansion. The government filed its response on August 17, 2026. As of September 1, 2026 the D.C. Circuit had not ruled on the petition and had not issued its mandate. The expansion stays in effect while the petition is pending: on July 17, 2026 the court granted the government's motion to stay the district court's order pending appeal, and denied its request to issue the mandate early.",
+   "summary_es": "Nuestra página del caso decía que una petición en banc o ante la Corte Suprema era “posible pero no confirmada”. Ya fue presentada. El 27 de julio de 2026, Make the Road New York pidió al Circuito de DC una nueva audiencia en pleno (en banc) en Make the Road New York v. Mullin, No. 25-5320, para que el tribunal en pleno revise la decisión del panel del 23 de junio de 2026 que anuló el bloqueo de la expansión nacional de la expulsión acelerada de enero de 2025. El gobierno presentó su respuesta el 17 de agosto de 2026. Al 1 de septiembre de 2026, el Circuito de DC no se había pronunciado sobre la petición ni había emitido su mandato. La expansión sigue en vigor mientras la petición esté pendiente: el 17 de julio de 2026 el tribunal concedió la moción del gobierno para suspender la orden del tribunal de distrito durante la apelación y denegó su solicitud de emitir el mandato de forma anticipada.",
+   "source_url": "https://www.courtlistener.com/docket/71275483/make-the-road-new-york-v-markwayne-mullin/",
+   "links": {
+    "en": "/immigration-cases/expedited-removal-expansion/",
+    "es": "/es/casos-de-inmigracion/expansion-expulsion-acelerada/"
+   },
+   "link_en": "/immigration-cases/expedited-removal-expansion/",
+   "link_es": "/es/casos-de-inmigracion/expansion-expulsion-acelerada/"
+  },
+  {
+   "date": "2026-07-27",
+   "precision": "day",
    "category": "work-permits",
    "title_en": "TPS terminated for Haiti, Syria and Yemen — USCIS archived all three country pages",
    "title_es": "TPS terminado para Haití, Siria y Yemen — USCIS archivó las tres páginas de país",
    "summary_en": "On July 27, 2026 USCIS moved the Haiti, Syria and Yemen TPS country pages into its archive. The archived pages state each designation is terminated — Haiti and Syria effective July 27, 2026 (90 FR 54733; 90 FR 45398), Yemen effective July 20, 2026 (91 FR 10402) — and the court-order EAD extension language that had protected work permits is gone. Roughly 334,595 Haitian and Syrian TPS holders are affected. As of that date their last E-Verify guidance had not been superseded (July 24, 2026 for Haiti and Syria, setting a July 27 Form I-9 date; July 17 for Yemen, setting July 24 — USCIS and E-Verify gave different Yemen dates, so we cited both). E-Verify posted superseding guidance for all three on July 29, 2026. Four designations remain court-stayed with EADs extended per court order: Burma, whose July 27, 2026 E-Verify guidance moved the Form I-9 date to Aug. 3, 2026; Somalia (July 29); and Ethiopia and South Sudan (July 30). No new Federal Register notice was issued — this implements the existing termination notices after Mullin v. Doe (June 25, 2026).",
    "summary_es": "El 27 de julio de 2026 USCIS trasladó las páginas de TPS de Haití, Siria y Yemen a su archivo. Las páginas archivadas indican que cada designación está terminada — Haití y Siria con efecto el 27 de julio de 2026 (90 FR 54733; 90 FR 45398), Yemen el 20 de julio de 2026 (91 FR 10402) — y ya no aparece el texto de extensión de los EAD por orden judicial que protegía los permisos de trabajo. Unos 334,595 titulares de TPS de Haití y Siria están afectados. A esa fecha su última guía de E-Verify aún no había sido reemplazada (24 de julio de 2026 para Haití y Siria, con fecha del Formulario I-9 el 27 de julio; 17 de julio para Yemen, con fecha el 24 de julio — USCIS y E-Verify daban fechas distintas para Yemen, por eso citamos ambas). E-Verify publicó guía que las reemplaza para los tres el 29 de julio de 2026. Cuatro designaciones siguen suspendidas por tribunales con los EAD extendidos por orden judicial: Birmania, cuya guía de E-Verify del 27 de julio de 2026 movió la fecha del Formulario I-9 al 3 de agosto de 2026; Somalia (29 de julio); y Etiopía y Sudán del Sur (30 de julio). No se publicó un nuevo aviso en el Federal Register — esto aplica los avisos de terminación existentes tras Mullin v. Doe (25 de junio de 2026).",
    "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status",
+   "link_en": "/procedures/tps-by-country/",
+   "link_es": "/es/tramites/tps-por-pais/",
    "affected_pages": [
     "/procedures/tps-by-country/",
     "/es/tramites/tps-por-pais/",
@@ -599,6 +625,8 @@
    "summary_en": "Our Medicaid pages previously said \"41 states + DC + Puerto Rico have adopted ACA Medicaid expansion.\" That double-counted DC (KFF's 41 already includes it) and wrongly listed Puerto Rico, which as a territory runs a separate capped Medicaid program outside the expansion framework and cannot adopt the expansion. Corrected against KFF tracking on July 27, 2026: 41 states including DC have adopted; 10 states have not. The Puerto Rico page now explains the territory's separate program.",
    "summary_es": "Nuestras páginas de Medicaid decían \"41 estados + DC + Puerto Rico han adoptado la expansión de Medicaid bajo ACA.\" Eso contaba a DC dos veces (el 41 de KFF ya lo incluye) y listaba erróneamente a Puerto Rico, que como territorio opera un programa de Medicaid separado con tope de fondos, fuera del marco de la expansión, y no puede adoptarla. Corregido contra el rastreo de KFF el 27 de julio de 2026: 41 estados incluido DC la han adoptado; 10 estados no. La página de Puerto Rico ahora explica el programa separado del territorio.",
    "source_url": "https://www.kff.org/status-of-state-medicaid-expansion-decisions/",
+   "link_en": "/benefits/medicaid/",
+   "link_es": "/es/beneficios/medicaid/",
    "affected_pages": [
     "/benefits/medicaid/",
     "/es/beneficios/medicaid/",
@@ -615,6 +643,8 @@
    "summary_en": "On July 27, 2026, DHS filed an interim final rule (Federal Register doc. 2026-15190, effective on publication, scheduled July 28) allowing a USCIS asylum officer to refer an affirmative asylum application to an immigration judge without conducting an interview, based on a review of the record, where the officer concludes the applicant is barred from applying, barred from a grant, does not merit a favorable exercise of discretion, or is not eligible on the merits. An interview still precedes any USCIS grant or denial. Referral letters no longer need to include a credibility assessment. Public comments are open for 60 days after publication (Docket USCIS-2026-0199).",
    "summary_es": "El 27 de julio de 2026, el DHS presentó una regla final interina (documento del Registro Federal 2026-15190, vigente al publicarse, programada para el 28 de julio) que permite a un oficial de asilo de USCIS referir una solicitud de asilo afirmativo a un juez de inmigración sin realizar una entrevista, con base en la revisión del expediente, cuando el oficial concluye que el solicitante tiene prohibido solicitar asilo, tiene prohibida una aprobación, no amerita una decisión favorable de discreción, o no es elegible según los méritos. Una entrevista sigue precediendo cualquier aprobación o denegación de USCIS. Las cartas de referencia ya no necesitan incluir una evaluación de credibilidad. Los comentarios públicos están abiertos durante 60 días después de la publicación (expediente USCIS-2026-0199).",
    "source_url": "https://www.federalregister.gov/public-inspection/2026-15190/affirmative-asylum-referrals-without-interview",
+   "link_en": "/procedures/policy-changes/2026-15190-affirmative-asylum-referrals-without-interview/",
+   "link_es": "/es/tramites/cambios-politica/2026-15190-affirmative-asylum-referrals-without-interview/",
    "affected_pages": [
     "/procedures/policy-changes/2026-15190-affirmative-asylum-referrals-without-interview/",
     "/es/tramites/cambios-politica/2026-15190-affirmative-asylum-referrals-without-interview/",
@@ -629,12 +659,30 @@
   {
    "date": "2026-07-24",
    "precision": "day",
+   "category": "education",
+   "title_en": "Illinois in-state tuition for undocumented students struck down — no appeal; aid blocked too",
+   "title_es": "Anulada la matrícula estatal de Illinois para estudiantes indocumentados — sin apelación; la ayuda también bloqueada",
+   "summary_en": "On July 24, 2026 a federal court (S.D. Ill., USA v. Illinois, 3:25-cv-01691) ruled the Illinois laws granting in-state tuition to students not lawfully present unconstitutional and also blocked RISE Act state financial aid (including MAP grants) and the Illinois DREAM Fund. The court delayed its order 14 days; the state did not appeal, so nonresident rates apply from August 2026. Illinois becomes the sixth jurisdiction to lose access since June 2025 and the fifth by court order. Separately, DOJ has now sued 17 states over tuition-equity laws, adding New York, Connecticut, and Vermont on Aug. 10, 2026.",
+   "summary_es": "El 24 de julio de 2026 un tribunal federal (S.D. Ill., USA v. Illinois, 3:25-cv-01691) declaró inconstitucionales las leyes de Illinois que daban matrícula estatal a estudiantes sin presencia legal y también bloqueó la ayuda financiera estatal de la Ley RISE (incluidas las becas MAP) y el Illinois DREAM Fund. El tribunal aplazó su orden 14 días; el estado no apeló, así que desde agosto de 2026 se aplican tarifas de no residente. Illinois es la sexta jurisdicción en perder el acceso desde junio de 2025 y la quinta por orden judicial. Aparte, el DOJ ya ha demandado a 17 estados por sus leyes de equidad de matrícula, sumando a Nueva York, Connecticut y Vermont el 10 de agosto de 2026.",
+   "source_url": "https://www.higheredimmigrationportal.org/in-state-tuition-litigation-updates/",
+   "links": {
+    "en": "/datasets/in-state-tuition-access/",
+    "es": "/es/datos/acceso-matricula-estatal/"
+   },
+   "link_en": "/datasets/in-state-tuition-access/",
+   "link_es": "/es/datos/acceso-matricula-estatal/"
+  },
+  {
+   "date": "2026-07-24",
+   "precision": "day",
    "category": "work-permits",
    "title_en": "TPS work-permit I-9 dates move again: Haiti and Syria to July 27, Somalia to July 29",
    "title_es": "Las fechas I-9 de los permisos de trabajo del TPS cambian otra vez: Haití y Siria al 27 de julio, Somalia al 29 de julio",
    "summary_en": "On July 24, 2026, USCIS/E-Verify posted superseding guidance for three of the seven court-stayed TPS countries: employers now enter July 27, 2026 on Form I-9/E-Verify for Haiti (replacing the July 10 guidance) and Syria (replacing July 17), and July 29, 2026 for Somalia (replacing July 17). EADs remain extended per court order. Burma (July 27), Ethiopia and South Sudan (July 30) and Yemen (July 24) keep their July 17 guidance dates. These extensions are 'limited relief' until the lower courts align with the June 25 Supreme Court ruling — check your country's USCIS page daily.",
    "summary_es": "El 24 de julio de 2026, USCIS/E-Verify publicó guía que reemplaza la anterior para tres de los siete países con TPS suspendido por tribunales: los empleadores ahora anotan el 27 de julio de 2026 en el Formulario I-9/E-Verify para Haití (reemplaza la guía del 10 de julio) y Siria (reemplaza la del 17 de julio), y el 29 de julio de 2026 para Somalia (reemplaza la del 17 de julio). Los EAD siguen extendidos por orden judicial. Birmania (27 de julio), Etiopía y Sudán del Sur (30 de julio) y Yemen (24 de julio) mantienen las fechas de la guía del 17 de julio. Estas extensiones son un 'alivio limitado' hasta que los tribunales inferiores se alineen con el fallo de la Corte Suprema del 25 de junio — revise la página de USCIS de su país a diario.",
    "source_url": "https://www.e-verify.gov/about-e-verify/whats-new",
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/",
    "affected_pages": [
     "/procedures/tps-by-country/",
     "/datasets/tps-work-permit-status/",
@@ -665,7 +713,10 @@
     "https://www.dol.gov/agencies/whd/mw-consolidated",
     "https://www.oregon.gov/boli/workers/pages/minimum-wage.aspx",
     "https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/2026%20Minimum%20Wage%20Increase%20Notice_0.pdf"
-   ]
+   ],
+   "source_url": "https://www.dol.gov/agencies/whd/mw-consolidated",
+   "link_en": "/procedures/work-wages-by-state/",
+   "link_es": "/es/tramites/trabajo-salarios-por-estado/"
   },
   {
    "date": "2026-07-21",
@@ -690,6 +741,22 @@
    "source_url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
    "link_en": "/procedures/uscis/i-765-employment-authorization-ead/",
    "link_es": "/es/tramites/uscis/i-765-autorizacion-empleo-ead/"
+  },
+  {
+   "date": "2026-07-20",
+   "precision": "day",
+   "category": "courts",
+   "title_en": "The challenge to Tennessee's HB 1704 is alive again — plaintiffs filed a new case, Lucy v. Skrmetti, No. 3:26-cv-00998",
+   "title_es": "La impugnación contra la HB 1704 de Tennessee vuelve a estar viva — los demandantes presentaron un nuevo caso, Lucy v. Skrmetti, No. 3:26-cv-00998",
+   "summary_en": "Our case page said the plaintiffs \"may refile or appeal\" after the June 26, 2026 dismissal for lack of standing. They refiled. A new class-action complaint challenging Section 1 of H.B. 1704 was filed July 17, 2026 in the Middle District of Tennessee and docketed as Lucy v. Skrmetti, No. 3:26-cv-00998; no notice of appeal appears on the first case's docket. On July 20, 2026 Judge Eli Richardson denied the plaintiffs' motions to set aside the judgment and for reconsideration in the closed first case as moot, “in light of Plaintiffs filing a new action challenging Section 1 of H.B. 1704”. The plaintiffs moved for a preliminary injunction and class certification on July 20, 2026; as of September 1, 2026 the court had not ruled on either, so Section 1 — a Class A misdemeanor for intentionally remaining in Tennessee more than 90 days after a final removal order under the 8 U.S.C. § 1227(a) grounds — stays enforceable in the meantime.",
+   "summary_es": "Nuestra página del caso decía que los demandantes “podrían volver a demandar o apelar” tras la desestimación del 26 de junio de 2026 por falta de legitimación. Volvieron a demandar. Una nueva demanda colectiva contra la Sección 1 de la H.B. 1704 se presentó el 17 de julio de 2026 en el Distrito Medio de Tennessee y quedó registrada como Lucy v. Skrmetti, No. 3:26-cv-00998; en el expediente del primer caso no aparece ningún aviso de apelación. El 20 de julio de 2026, el juez Eli Richardson denegó por improcedentes las solicitudes de los demandantes para dejar sin efecto la sentencia y de reconsideración en el primer caso, ya cerrado, “en vista de que los demandantes presentaron una nueva acción que impugna la Sección 1 de la H.B. 1704”. Los demandantes solicitaron una medida cautelar y la certificación colectiva el 20 de julio de 2026; al 1 de septiembre de 2026 el tribunal no había resuelto ninguna de las dos, así que mientras tanto la Sección 1 — un delito menor de Clase A por permanecer intencionalmente en Tennessee más de 90 días después de una orden final de expulsión bajo los fundamentos del 8 U.S.C. § 1227(a) — sigue siendo aplicable.",
+   "source_url": "https://www.courtlistener.com/docket/73640005/lucy-v-skrmetti/",
+   "links": {
+    "en": "/immigration-cases/tennessee-sb-1779-remaining-after-a-removal-order/",
+    "es": "/es/casos-de-inmigracion/tennessee-sb-1779-permanecer-tras-una-orden-de-expulsion/"
+   },
+   "link_en": "/immigration-cases/tennessee-sb-1779-remaining-after-a-removal-order/",
+   "link_es": "/es/casos-de-inmigracion/tennessee-sb-1779-permanecer-tras-una-orden-de-expulsion/"
   },
   {
    "date": "2026-07-20",
@@ -872,6 +939,7 @@
    "precision": "day",
    "title_en": "Supreme Court upholds birthright citizenship; Executive Order 14160 struck down (6–3)",
    "title_es": "La Corte Suprema confirma la ciudadanía por nacimiento; anula la Orden Ejecutiva 14160 (6 a 3)",
+   "source_url": "https://www.supremecourt.gov/opinions/25pdf/25-365_4hdj.pdf",
    "link_en": "/immigration-cases/birthright-citizenship-supreme-court/",
    "link_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
   },
@@ -880,6 +948,7 @@
    "precision": "day",
    "title_en": "Supreme Court clears the way to end TPS for Haiti and Syria; work permits expire July 1, 2026",
    "title_es": "La Corte Suprema abre el camino para terminar el TPS de Haití y Siria; los permisos de trabajo vencen el 1 de julio de 2026",
+   "source_url": "https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf",
    "link_en": "/immigration-cases/tps-termination-litigation/",
    "link_es": "/es/casos-de-inmigracion/litigio-terminacion-tps/"
   },
@@ -893,6 +962,22 @@
    "source_url": "https://www.uscis.gov/newsroom/alerts/important-notice-for-clients-of-former-immigration-attorney-alexandra-lozano",
    "link_en": "/procedures/immigration-attorney-suspended-disbarred/",
    "link_es": "/es/tramites/abogado-de-inmigracion-suspendido/"
+  },
+  {
+   "date": "2026-06-25",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "Legal-aid groups sue USCIS over DACA renewal delays (East Bay Sanctuary Covenant v. USCIS)",
+   "title_es": "Organizaciones de ayuda legal demandan a USCIS por atrasos en renovaciones de DACA",
+   "summary_en": "East Bay Sanctuary Covenant and the Immigration Institute of the Bay Area (Justice Action Center as counsel) filed suit in the Northern District of California, No. 3:26-cv-06367, over severe DACA renewal delays that leave timely filers without work authorization. Active; no order has changed the renewal procedure. Our I-821D renewal pages carry the case and the day-150 filing guidance.",
+   "summary_es": "East Bay Sanctuary Covenant y el Immigration Institute of the Bay Area (con Justice Action Center) demandaron en el Distrito Norte de California, No. 3:26-cv-06367, por atrasos severos en renovaciones de DACA que dejan sin autorización de empleo a quienes presentaron a tiempo. Activo; ninguna orden ha cambiado el procedimiento. Nuestras páginas del I-821D llevan el caso y la guía de presentar en el día 150.",
+   "source_url": "https://www.courtlistener.com/docket/73535388/east-bay-sanctuary-covenant-v-united-states-citizenship-and-immigration/",
+   "links": {
+    "en": "/procedures/uscis/i-821d-daca-renewal/",
+    "es": "/es/tramites/uscis/i-821d-daca-renovacion/"
+   },
+   "link_en": "/procedures/uscis/i-821d-daca-renewal/",
+   "link_es": "/es/tramites/uscis/i-821d-daca-renovacion/"
   },
   {
    "date": "2026-06-24",
@@ -911,6 +996,7 @@
    "precision": "day",
    "title_en": "Supreme Court narrows returning green-card holders' rights at the border (Blanche v. Lau, 6–3)",
    "title_es": "La Corte Suprema reduce los derechos de los residentes que regresan en la frontera (Blanche v. Lau, 6 a 3)",
+   "source_url": "https://www.supremecourt.gov/docket/docketfiles/html/public/25-429.html",
    "link_en": "/immigration-cases/green-card-holders-reentry-blanche-v-lau/",
    "link_es": "/es/casos-de-inmigracion/residentes-permanentes-reingreso-blanche-v-lau/"
   },
@@ -982,7 +1068,9 @@
    "title_es": "Corrección: conteo de cortes EOIR y tarifa por ausencia actualizados en 104 páginas",
    "summary_en": "Our immigration-court state pages said EOIR operates 71 courts with 700+ judges; EOIR's own hearing-access list covers 77 court locations, and the judge count was unsourced. The same pages garbled the H.R.1 in-absentia arrest fee: it is $5,130 after the 2026 inflation adjustment (originally $5,000), and proposed rule 2026-10082 (May 20, 2026) would raise it to $18,000 but is not in effect.",
    "summary_es": "Nuestras páginas de cortes por estado decían que EOIR opera 71 cortes con más de 700 jueces; la lista oficial de acceso a audiencias de EOIR cubre 77 sedes, y el número de jueces no tenía fuente. Las mismas páginas confundían la tarifa de H.R.1 por arresto tras orden en ausencia: es $5,130 tras el ajuste por inflación de 2026 (originalmente $5,000), y la regla propuesta 2026-10082 (20 de mayo de 2026) la subiría a $18,000, pero no está vigente.",
-   "source_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10082/increasing-the-fee-for-certain-aliens-ordered-removed-in-absentia-as-established-by-the-hr-1"
+   "source_url": "https://www.federalregister.gov/documents/2026/05/20/2026-10082/increasing-the-fee-for-certain-aliens-ordered-removed-in-absentia-as-established-by-the-hr-1",
+   "link_en": "/procedures/immigration-court-by-state/",
+   "link_es": "/es/tramites/corte-inmigracion-por-estado/"
   },
   {
    "date": "2026-06-12",
@@ -992,7 +1080,9 @@
    "title_es": "Corrección: 7 direcciones de cortes de inmigración corregidas en nuestras páginas por estado",
    "summary_en": "Seven court listings (LaSalle and Oakdale LA, Kansas City MO, Otero NM, Guaynabo PR, San Antonio TX, Los Angeles-West CA) showed EOIR headquarters' Falls Church, VA address as the court city. Each was re-verified against its justice.gov page and corrected, in both languages.",
    "summary_es": "Siete cortes (LaSalle y Oakdale LA, Kansas City MO, Otero NM, Guaynabo PR, San Antonio TX, Los Ángeles-West CA) mostraban la dirección de la sede de EOIR en Falls Church, VA como ciudad de la corte. Cada una se verificó contra su página de justice.gov y se corrigió, en ambos idiomas.",
-   "source_url": "https://www.justice.gov/eoir/eoir-immigration-court-listing"
+   "source_url": "https://www.justice.gov/eoir/eoir-immigration-court-listing",
+   "link_en": "/procedures/immigration-court-by-state/",
+   "link_es": "/es/tramites/corte-inmigracion-por-estado/"
   },
   {
    "date": "2026-06-03",
@@ -1123,6 +1213,8 @@
    "summary_en": "Effective Jan. 26, 2026, the Texas Department of Licensing and Regulation requires certain applicants for an initial license or a renewal to submit documentation establishing lawful presence in the United States, citing 8 U.S.C. § 1621; the agency's rule took effect May 1, 2026. Applications remain pending until the documentation is submitted. Texas has never enacted a § 1621(d) opt-out, so this enforces the existing federal default rather than changing the state's classification. State officials told the Texas Tribune (Mar. 24, 2026) that DACA recipients will not qualify.",
    "summary_es": "Desde el 26 de enero de 2026, el Departamento de Licencias y Regulación de Texas (TDLR) exige a ciertos solicitantes de una licencia inicial o una renovación presentar documentación que establezca presencia legal en Estados Unidos, citando la 8 U.S.C. § 1621; la regla de la agencia entró en vigor el 1 de mayo de 2026. Las solicitudes quedan pendientes hasta que se presente la documentación. Texas nunca aprobó una exención bajo el § 1621(d), así que esto aplica el régimen federal existente en lugar de cambiar la clasificación del estado. Funcionarios estatales dijeron al Texas Tribune (24 de marzo de 2026) que los beneficiarios de DACA no calificarán.",
    "source_url": "https://www.tdlr.texas.gov/news/2026/01/26/lawful-presence-documentation-requirement/",
+   "link_en": "/datasets/professional-licenses-regardless-of-status-by-state/",
+   "link_es": "/es/datos/licencias-profesionales-sin-importar-estatus-por-estado/",
    "affected_pages": [
     "/datasets/professional-licenses-regardless-of-status-by-state/",
     "/es/datos/licencias-profesionales-sin-importar-estatus-por-estado/"

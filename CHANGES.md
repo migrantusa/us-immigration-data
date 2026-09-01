@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 85 recorded changes. Source data as of 2026-08-26.
+Showing the 40 most recent of 89 recorded changes. Source data as of 2026-09-01.
 
 ---
+
+### 2026-09-01 · COURTS
+
+**The government asks the Supreme Court to decide the interior-arrest bond split — a petition, not a grant (Rhoney v. Barbosa da Cunha, No. 26-104)**
+
+On July 23, 2026 the federal government filed a petition for a writ of certiorari asking the U.S. Supreme Court to review the Second Circuit's decision that immigrants arrested in the interior are detained under 8 U.S.C. § 1226(a) — where an immigration judge can set bond — rather than under § 1225(b)(2)(A) mandatory detention. It is docketed as Rhoney v. Barbosa da Cunha, No. 26-104, from Second Circuit No. 25-3141 (decided April 28, 2026), and the respondent's response was filed August 21, 2026. The Court has NOT granted certiorari: a petition is not a grant, the docket shows no conference date, and until the Court acts the detention rule in each circuit is unchanged. Three other things moved the split since our last review: the Eighth Circuit denied rehearing en banc and panel rehearing in Herrera Avila on June 17, 2026 and issued its mandate on June 25; the Tenth Circuit sided with the immigrants in Santillan Quiroz v. Mullin on June 30, 2026; and the Ninth Circuit did the same in Rodriguez Vazquez v. Bostock on July 30, 2026. The count is now five circuits for a bond hearing (2nd, 6th, 9th, 10th, 11th) against two for mandatory detention (5th, 8th), with the Seventh Circuit's decision failing to command a majority. One caveat on that count: the Eleventh Circuit withheld its mandate on May 13, 2026 and the government's petition for rehearing en banc, filed June 22, 2026, was still pending as of that docket's August 28, 2026 update — so its ruling is not final. Separately, the Supreme Court has set Genalo v. Black, No. 25-886, for oral argument on Tuesday, October 13, 2026 — that case is about prolonged detention under § 1226(c) and will not by itself resolve this split.
+
+Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html>
 
 ### 2026-08-28 · COURTS
 
@@ -181,6 +189,14 @@ On Aug. 7, 2026 USCIS archived the Burma (Myanmar) and South Sudan TPS country p
 
 Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-burma-release-aug>
 
+### 2026-08-06 · COURTS
+
+**The alien registration rule is now final and the appeal is over — DHS issued a final rule effective June 29, 2026 and the D.C. Circuit dismissed the challenge on August 6, 2026**
+
+Two changes closed out the Form G-325R registration fight. On June 29, 2026 DHS published the final rule “Alien Registration Form and Evidence of Registration” (91 FR 39248, RIN 1615-AC96), effective the same day. It adopts the March 2025 interim final rule as final and, in DHS's words, adopts the amendments to 8 CFR 264.1(a) and (b) “without change” — Form G-325R remains the general registration form and the USCIS Proof of Alien G-325R Registration remains the evidence of registration. The changes it does make are administrative: it updates which documents count as registration or as proof of registration (adding Forms I-94A/I-94W, DSP-150 in place of the old Canadian and Mexican border crossing cards, I-860, I-871, and NEXUS/SENTRI/FAST/Global Entry documents; dropping obsolete Forms I-67, I-691 and I-700), restructures the fingerprinting waivers in 8 CFR 264.1(e) — edits DHS calls “non-substantive and clarifying” — and makes technical corrections to 8 CFR 264.1(g), 264.5(h) and 264.6. DHS decided not to impose a biometric services fee “at this time,” while saying it may impose an application or biometric services fee in the future. Then, on August 6, 2026, the D.C. Circuit (Judges Millett, Katsas and Childs) discharged its July 27 order to show cause — which had asked why the consolidated appeals (Nos. 25-5152, 25-5233, 25-5247) should not be dismissed as moot in light of the new final rule — and ordered the clerk to note that the case is dismissed, stating that no mandate will issue. The court did not rule on whether the registration rule is lawful. The duty to register, the duty of registered noncitizens 18 and over to carry proof, and the criminal penalties for willful noncompliance are statutory (INA sections 262, 264(e) and 266) and did not change. The district court case (D.D.C. 1:25-cv-00943) remains stayed. DHS separately asked for comments on possible future changes to the registration regulations; that comment period closed August 28, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/06/29/2026-13057/alien-registration-form-and-evidence-of-registration>
+
 ### 2026-08-06 · TPS
 
 **E-Verify moves two more TPS Form I-9 dates: Ethiopia to Aug. 19, South Sudan to Aug. 10, 2026**
@@ -245,6 +261,14 @@ On July 29, 2026 E-Verify posted superseding TPS guidance for four countries on 
 
 Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
 
+### 2026-07-27 · COURTS
+
+**Plaintiffs ask the full D.C. Circuit to rehear the nationwide expedited-removal ruling — en banc petition filed, still pending**
+
+Our case page said an en banc or Supreme Court petition was "possible but not confirmed filed." It has been filed. On July 27, 2026 Make the Road New York petitioned the D.C. Circuit for rehearing en banc in Make the Road New York v. Mullin, No. 25-5320, asking the full court to rehear the June 23, 2026 panel decision that vacated the district court's block on the January 2025 nationwide expedited-removal expansion. The government filed its response on August 17, 2026. As of September 1, 2026 the D.C. Circuit had not ruled on the petition and had not issued its mandate. The expansion stays in effect while the petition is pending: on July 17, 2026 the court granted the government's motion to stay the district court's order pending appeal, and denied its request to issue the mandate early.
+
+Primary source: <https://www.courtlistener.com/docket/71275483/make-the-road-new-york-v-markwayne-mullin/>
+
 ### 2026-07-27 · WORK-PERMITS
 
 **TPS terminated for Haiti, Syria and Yemen — USCIS archived all three country pages**
@@ -299,6 +323,8 @@ Primary source: <https://www.uscis.gov/newsroom/alerts/court-issues-administrati
 
 The District of Columbia's minimum wage rose from $17.95 to $18.40 and Oregon's standard rate from $15.05 to $15.55 (Portland metro $16.30 to $16.80; non-urban $14.05 to $14.55), both effective July 1, 2026. We corrected both state pages in English and Spanish. Note that the Department of Labor's consolidated table lists a single rate per state and for Oregon that rate is the Portland metro figure, not the statewide standard — the rate that applies to you is the one for the place you actually work.
 
+Primary source: <https://www.dol.gov/agencies/whd/mw-consolidated>
+
 ### 2026-07-21 · DATA
 
 **ICE detention is up 9.0% since April — and all of the growth is interior arrests**
@@ -306,30 +332,6 @@ The District of Columbia's minimum wage rose from $17.95 to $18.40 and Oregon's 
 ICE released a new Detention Management snapshot on July 20, 2026 (data as of July 11). It counts 65,765 people in detention, up 5,454 (9.0%) from the 60,311 held on April 4. The entire net increase is interior enforcement: ICE-arrested detainees rose by 6,803 while CBP-arrested detainees fell by 1,349, moving the ICE share from 85.3% to 88.5%. The share with no criminal conviction barely moved, 70.8% to 70.6% (46,436 people). ICE publishes only the current snapshot and overwrites the file every ~2 weeks, so we now bank each release and publish the change between them.
 
 Primary source: <https://www.ice.gov/detain/detention-management>
-
-### 2026-07-21 · RULE-CHANGE
-
-**USCIS restores the 30-day deadline to decide asylum-based work permits — and ties them to the Annual Asylum Fee**
-
-A correcting amendment published July 21, 2026 (91 FR 45637) puts back the 30-day timeframe for USCIS to grant or deny an initial (c)(8) work-permit application, which the April 29, 2026 H.R.1 fee rule had inadvertently deleted from 8 CFR 208.7(a)(1). It is applicable as of May 29, 2026, so DHS's position is that no gap took effect. No EAD may still be issued before day 180 after the asylum application was filed. The correction also adds 'rejected' to the rule, so a (c)(8) work permit is rejected or denied when the asylum application is rejected — the route by which not paying the Annual Asylum Fee, which causes the Form I-589 to be rejected, also costs the applicant the work permit.
-
-Primary source: <https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction>
-
-### 2026-07-20 · RULE-CHANGE
-
-**Delaware enacts the country's highest statewide free-hospital-care threshold: free care at or below 300% FPL (SS 1 for SB 13, signed July 20, 2026)**
-
-Governor Meyer signed Senate Substitute 1 for Senate Bill 13 on July 20, 2026, setting statewide minimum hospital financial assistance: full financial assistance for Delaware residents at or below 300% of the federal poverty level, a 75% discount above 300% through 350%, a 50% discount above 350% through 400%, and a medical-hardship policy giving at least a 50% discount with an income ceiling of at least 500% FPL. It is NOT yet in effect: the minimum financial-assistance standards under 16 Del. C. 9962(a) and (b) take effect January 1, 2027, and the remaining provisions take effect on the earlier of a Diamond State Hospital Cost Review Board notice in the Register of Regulations that final implementing regulations have been adopted, or July 1, 2027. Until then Delaware's existing charity-care rule (16 Del. C. 9311, Certificate of Public Review, 350% FPL) still governs.
-
-Primary source: <https://legis.delaware.gov/BillDetail?LegislationId=143519>
-
-### 2026-07-17 · RULE-CHANGE
-
-**TPS work-permit I-9 dates move again — now July 24, 27, or 30, 2026 depending on country**
-
-On July 17, 2026, USCIS/E-Verify posted superseding guidance for Burma, Ethiopia, Somalia, South Sudan, Syria and Yemen: TPS EADs remain extended per court order, and the date employers enter on Form I-9/E-Verify moved from July 17, 2026 to July 24 (Somalia, Syria, Yemen), July 27 (Burma), or July 30 (Ethiopia, South Sudan). Haiti's guidance is unchanged — its I-9 date remains July 24, 2026. The extensions remain 'limited relief' until each lower court aligns with the June 25 Supreme Court ruling.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
 
 ---
 

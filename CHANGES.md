@@ -9,7 +9,7 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 92 recorded changes. Source data as of 2026-09-01.
+Showing the 40 most recent of 93 recorded changes. Source data as of 2026-09-01.
 
 ---
 

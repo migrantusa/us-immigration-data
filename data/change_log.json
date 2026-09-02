@@ -1351,6 +1351,18 @@
    "source_url": "https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html",
    "link_en": "/taxes/social-security-totalization-by-country/",
    "link_es": "/es/impuestos/seguro-social-totalizacion-por-pais/"
+  },
+  {
+   "date": "2025-08-25",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "DACA recipients excluded from ACA Marketplace coverage again (HHS final rule effective Aug 25, 2025)",
+   "title_es": "Los beneficiarios de DACA vuelven a quedar excluidos del Marketplace de ACA (regla final de HHS vigente desde el 25 de agosto de 2025)",
+   "summary_en": "HHS's Marketplace Integrity and Affordability final rule (90 FR, FR Doc. 2025-11606, published June 25, 2025) removed DACA recipients from the definition of \"lawfully present\" for Marketplace plans, premium tax credits and Basic Health Program coverage, reversing the May 2024 rule. Effective August 25, 2025. Our healthcare-by-status page had kept the 2024 wording; corrected September 2, 2026.",
+   "summary_es": "La regla final de HHS \"Marketplace Integrity and Affordability\" (FR Doc. 2025-11606, publicada el 25 de junio de 2025) eliminó a los beneficiarios de DACA de la definición de \"presencia legal\" para planes del Marketplace, créditos fiscales para primas y el Programa Básico de Salud, revirtiendo la regla de mayo de 2024. Vigente desde el 25 de agosto de 2025. Nuestra página de salud por estatus conservaba el texto de 2024; corregida el 2 de septiembre de 2026.",
+   "source_url": "https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability",
+   "link_en": "/procedures/pathways-by-status/healthcare-pathway-by-immigration-status/",
+   "link_es": "/es/tramites/caminos-por-estatus/salud-por-estatus-migratorio/"
   }
  ]
 }

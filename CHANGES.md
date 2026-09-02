@@ -9,9 +9,33 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 89 recorded changes. Source data as of 2026-09-01.
+Showing the 40 most recent of 92 recorded changes. Source data as of 2026-09-01.
 
 ---
+
+### 2026-09-01 · CORRECTION
+
+**Correction: EOIR pending caseload is 3,469,569 (FY 2026 Q3), not "3.7 million as of FY 2024"**
+
+All 104 immigration-court-by-state pages (EN + ES) stated that EOIR had approximately 3.7 million pending cases as of FY 2024 and an average wait of 1,200-1,500 days from the Notice to Appear to the first hearing. EOIR's own adjudication statistics (Pending Cases, New Cases, and Total Completions, data generated July 24, 2026) show 3,924,993 pending at the end of FY 2024 and 3,469,569 at the end of the third quarter of FY 2026; EOIR publishes no per-court NTA-to-hearing wait. The paragraph now renders from a dataset built from that PDF.
+
+Primary source: <https://www.justice.gov/eoir/media/1344791/dl?inline>
+
+### 2026-09-01 · CORRECTION
+
+**Correction: Form I-131 advance parole takes months longer than the "5-8 months" we stated, and a CBP parole fee applies at the port of entry**
+
+The 66 traveling-to-your-country pages (EN + ES) gave a 5-8 month processing time for Form I-131. USCIS's own processing-times system shows 23 months for advance parole and 16 months for re-entry permits (80% of cases adjudicated in the past six months); the pages now embed that live table. The same pages omitted that the USCIS fee schedule (Form G-1055, edition 05/29/26) attaches the Pub. L. 119-21 immigration parole fee, collected by CBP each time the holder seeks parole at a port of entry unless an exception applies.
+
+Primary source: <https://egov.uscis.gov/processing-times/>
+
+### 2026-09-01 · CORRECTION
+
+**Correction: the OpenSky Secured Visa requires US citizenship or permanent residence, so it is not an option for most ITIN-only applicants**
+
+Our 104 ITIN-banking-by-state pages listed the OpenSky Secured Visa as available to all ITIN holders. The card's own disclosure (Capital Bank, N.A.) requires the applicant to be a United States citizen or permanent resident and carries a $35 annual fee. The pages and the credit-building guide now say so; the Capital One Quicksilver Secured, which Capital One lists as ITIN-eligible, remains.
+
+Primary source: <https://app.openskycc.com/files/tc-sky1-073.pdf>
 
 ### 2026-09-01 · COURTS
 
@@ -308,30 +332,6 @@ Primary source: <https://www.higheredimmigrationportal.org/in-state-tuition-liti
 On July 24, 2026, USCIS/E-Verify posted superseding guidance for three of the seven court-stayed TPS countries: employers now enter July 27, 2026 on Form I-9/E-Verify for Haiti (replacing the July 10 guidance) and Syria (replacing July 17), and July 29, 2026 for Somalia (replacing July 17). EADs remain extended per court order. Burma (July 27), Ethiopia and South Sudan (July 30) and Yemen (July 24) keep their July 17 guidance dates. These extensions are 'limited relief' until the lower courts align with the June 25 Supreme Court ruling — check your country's USCIS page daily.
 
 Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-07-23 · ENFORCEMENT
-
-**Court pauses asylum-fee enforcement — but the fee itself still has to be paid**
-
-On July 21, 2026, a federal court in Massachusetts (Venez. Ass'n of Mass. v. USCIS, 26-cv-13038, D. Mass.) administratively stayed four applications of H.R.1: rejecting a Form I-589 for non-payment of the Annual Asylum Fee, terminating work authorization for non-payment, starting removal solely for non-payment, and applying H.R.1 to previously-extended TPS-based EAD expiration dates. Fee collection continues — anyone USCIS sent a notice must still pay it — and all other H.R.1 fees and requirements remain in effect. A hearing is set for July 30, 2026.
-
-Primary source: <https://www.uscis.gov/newsroom/alerts/court-issues-administrative-stay-of-certain-uscis-policies>
-
-### 2026-07-22 · WORK
-
-**DC and Oregon raised their minimum wage on July 1 — our pages were still showing the old rates**
-
-The District of Columbia's minimum wage rose from $17.95 to $18.40 and Oregon's standard rate from $15.05 to $15.55 (Portland metro $16.30 to $16.80; non-urban $14.05 to $14.55), both effective July 1, 2026. We corrected both state pages in English and Spanish. Note that the Department of Labor's consolidated table lists a single rate per state and for Oregon that rate is the Portland metro figure, not the statewide standard — the rate that applies to you is the one for the place you actually work.
-
-Primary source: <https://www.dol.gov/agencies/whd/mw-consolidated>
-
-### 2026-07-21 · DATA
-
-**ICE detention is up 9.0% since April — and all of the growth is interior arrests**
-
-ICE released a new Detention Management snapshot on July 20, 2026 (data as of July 11). It counts 65,765 people in detention, up 5,454 (9.0%) from the 60,311 held on April 4. The entire net increase is interior enforcement: ICE-arrested detainees rose by 6,803 while CBP-arrested detainees fell by 1,349, moving the ICE share from 85.3% to 88.5%. The share with no criminal conviction barely moved, 70.8% to 70.6% (46,436 people). ICE publishes only the current snapshot and overwrites the file every ~2 weeks, so we now bank each release and publish the change between them.
-
-Primary source: <https://www.ice.gov/detain/detention-management>
 
 ---
 

@@ -91,6 +91,42 @@
   {
    "date": "2026-09-01",
    "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: EOIR pending caseload is 3,469,569 (FY 2026 Q3), not \"3.7 million as of FY 2024\"",
+   "title_es": "Corrección: los casos pendientes de EOIR son 3,469,569 (3er trimestre del AF 2026), no \"3.7 millones al cierre del AF 2024\"",
+   "summary_en": "All 104 immigration-court-by-state pages (EN + ES) stated that EOIR had approximately 3.7 million pending cases as of FY 2024 and an average wait of 1,200-1,500 days from the Notice to Appear to the first hearing. EOIR's own adjudication statistics (Pending Cases, New Cases, and Total Completions, data generated July 24, 2026) show 3,924,993 pending at the end of FY 2024 and 3,469,569 at the end of the third quarter of FY 2026; EOIR publishes no per-court NTA-to-hearing wait. The paragraph now renders from a dataset built from that PDF.",
+   "summary_es": "Las 104 páginas de cortes de inmigración por estado (EN + ES) afirmaban que EOIR tenía aproximadamente 3.7 millones de casos pendientes al cierre del AF 2024 y una espera promedio de 1,200-1,500 días desde el Notice to Appear hasta la primera audiencia. Las estadísticas de adjudicación de EOIR (Pending Cases, New Cases, and Total Completions, datos generados el 24 de julio de 2026) muestran 3,924,993 pendientes al cierre del AF 2024 y 3,469,569 al cierre del tercer trimestre del AF 2026; EOIR no publica una espera por corte. El párrafo ahora se genera desde un dataset construido a partir de ese PDF.",
+   "source_url": "https://www.justice.gov/eoir/media/1344791/dl?inline",
+   "link_en": "/procedures/immigration-court-by-state/",
+   "link_es": "/es/tramites/corte-inmigracion-por-estado/"
+  },
+  {
+   "date": "2026-09-01",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: Form I-131 advance parole takes months longer than the \"5-8 months\" we stated, and a CBP parole fee applies at the port of entry",
+   "title_es": "Corrección: el permiso adelantado (I-131) tarda mucho más que los \"5 a 8 meses\" que indicábamos, y CBP cobra una tarifa de parole en el puerto de entrada",
+   "summary_en": "The 66 traveling-to-your-country pages (EN + ES) gave a 5-8 month processing time for Form I-131. USCIS's own processing-times system shows 23 months for advance parole and 16 months for re-entry permits (80% of cases adjudicated in the past six months); the pages now embed that live table. The same pages omitted that the USCIS fee schedule (Form G-1055, edition 05/29/26) attaches the Pub. L. 119-21 immigration parole fee, collected by CBP each time the holder seeks parole at a port of entry unless an exception applies.",
+   "summary_es": "Las 66 páginas de viajar a su país (EN + ES) daban un tiempo de trámite de 5 a 8 meses para el Formulario I-131. El sistema de tiempos de procesamiento de USCIS muestra 23 meses para el permiso adelantado y 16 para el permiso de reingreso (80% de los casos adjudicados en los últimos seis meses); las páginas ahora incluyen esa tabla en vivo. También omitían que la tabla de tarifas de USCIS (Formulario G-1055, edición 05/29/26) añade la tarifa de parole migratorio de la Pub. L. 119-21, que CBP cobra cada vez que el titular solicita parole en un puerto de entrada, salvo excepción.",
+   "source_url": "https://egov.uscis.gov/processing-times/",
+   "link_en": "/procedures/traveling-to-country-from-us/",
+   "link_es": "/es/tramites/viajar-a-pais-desde-eeuu/"
+  },
+  {
+   "date": "2026-09-01",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: the OpenSky Secured Visa requires US citizenship or permanent residence, so it is not an option for most ITIN-only applicants",
+   "title_es": "Corrección: la OpenSky Secured Visa exige ciudadanía o residencia permanente en EE. UU., así que no es una opción para la mayoría de quienes solo tienen ITIN",
+   "summary_en": "Our 104 ITIN-banking-by-state pages listed the OpenSky Secured Visa as available to all ITIN holders. The card's own disclosure (Capital Bank, N.A.) requires the applicant to be a United States citizen or permanent resident and carries a $35 annual fee. The pages and the credit-building guide now say so; the Capital One Quicksilver Secured, which Capital One lists as ITIN-eligible, remains.",
+   "summary_es": "Nuestras 104 páginas de banca con ITIN por estado presentaban la OpenSky Secured Visa como disponible para todos los titulares de ITIN. La propia divulgación de la tarjeta (Capital Bank, N.A.) exige ser ciudadano o residente permanente de los Estados Unidos y cobra una cuota anual de $35. Las páginas y la guía para construir crédito ahora lo indican; la Capital One Quicksilver Secured, que Capital One incluye entre las tarjetas elegibles con ITIN, se mantiene.",
+   "source_url": "https://app.openskycc.com/files/tc-sky1-073.pdf",
+   "link_en": "/banking/credit-with-itin/",
+   "link_es": "/es/banca/credito-con-itin/"
+  },
+  {
+   "date": "2026-09-01",
+   "precision": "day",
    "category": "courts",
    "title_en": "The government asks the Supreme Court to decide the interior-arrest bond split — a petition, not a grant (Rhoney v. Barbosa da Cunha, No. 26-104)",
    "title_es": "El gobierno le pide a la Corte Suprema que resuelva la división sobre la fianza tras arrestos en el interior — es una petición, no una aceptación (Rhoney v. Barbosa da Cunha, n.º 26-104)",

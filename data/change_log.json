@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-09-01",
+  "verified_on": "2026-09-05",
   "categories": [
    "tps",
    "visas",
@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-09-01"
+  "last_updated": "2026-09-05"
  },
  "upcoming": [
   {
@@ -88,6 +88,54 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-09-05",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "Correction: the H.R.1 car-loan interest deduction has no SSN requirement — ITIN pages said all four new deductions required one",
+   "title_es": "Corrección: la deducción por intereses de préstamo de auto de H.R.1 no exige SSN — las páginas de ITIN decían que las cuatro deducciones nuevas lo exigían",
+   "summary_en": "Six ITIN tax pages (EN + ES) stated that the four new H.R.1 deductions — tips, overtime, car-loan interest and the senior deduction — all require a Social Security number. Three do: 26 U.S.C. §§ 224(d), 225(d) and 151(d)(5) each contain an SSN rule. The car-loan interest deduction, 26 U.S.C. § 163(h)(4), contains none: it requires the vehicle identification number on the return and a loan taken out after December 31, 2024 that is secured by a first lien on a new (first-use) vehicle bought for personal use with final assembly in the United States; interest is capped at $10,000 a year and reduced above $100,000 of modified adjusted gross income ($200,000 joint). The IRS final regulations (2026-18219, Federal Register September 8, 2026) also contain no SSN rule. The pages now state the three-of-four rule and describe the car-loan exception.",
+   "summary_es": "Seis páginas de impuestos con ITIN (EN + ES) afirmaban que las cuatro deducciones nuevas de H.R.1 — propinas, horas extra, intereses de préstamo de auto y la deducción para personas mayores — exigen un número de Seguro Social. Tres sí: 26 U.S.C. §§ 224(d), 225(d) y 151(d)(5) contienen cada una una regla de SSN. La deducción por intereses de préstamo de auto, 26 U.S.C. § 163(h)(4), no contiene ninguna: exige el número de identificación del vehículo en la declaración y un préstamo tomado después del 31 de diciembre de 2024, garantizado con un primer gravamen sobre un vehículo nuevo (de primer uso) comprado para uso personal y ensamblado finalmente en Estados Unidos; el interés se limita a $10,000 al año y se reduce por encima de $100,000 de ingreso bruto ajustado modificado ($200,000 en declaración conjunta). El reglamento final del IRS (2026-18219, Registro Federal del 8 de septiembre de 2026) tampoco contiene una regla de SSN. Las páginas ahora indican la regla de tres de cuatro y describen la excepción.",
+   "source_url": "https://www.law.cornell.edu/uscode/text/26/163",
+   "link_en": "/taxes/itin/tax-credits-eligible-with-itin/",
+   "link_es": "/es/impuestos/itin/creditos-fiscales-elegibles-con-itin/"
+  },
+  {
+   "date": "2026-09-05",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: LSC civil legal aid directories reconciled with LSC's current grantee roster (7 states)",
+   "title_es": "Corrección: los directorios de asistencia legal civil LSC se reconciliaron con el directorio de donatarios vigente de LSC (7 estados)",
+   "summary_en": "The state directories were built from LSC's service-area map snapshot of May 27, 2026, whose 2018 reporting year predates several mergers. Checked page by page against LSC's own grantee roster (lsc.gov/about-lsc/our-grantees) on September 5, 2026: Wisconsin still listed Judicare Legal Aid, which merged into Legal Action of Wisconsin on January 1, 2026; Minnesota listed Legal Services of Northwest Minnesota, now part of Justice North, and omitted Anishinabe Legal Services; Michigan omitted Michigan Indian Legal Services and Oklahoma omitted Oklahoma Indian Legal Services (Native American Basic Field grantees that LSC's map feed does not carry); Arkansas and Pennsylvania counted dissolved or merged organizations as current grantees; Tennessee counted one grantee twice because it holds two service areas. Each page now lists only current grantees, states the number of distinct organizations, and keeps former grantees in a labeled note with their 2018 figures. No 2018 figures were invented for the added grantees: LSC publishes none, and the cells say so.",
+   "summary_es": "Los directorios estatales se construyeron a partir del mapa de áreas de servicio de LSC (captura del 27 de mayo de 2026), cuyo año de referencia 2018 es anterior a varias fusiones. Se compararon página por página con el directorio de donatarios de LSC (lsc.gov/about-lsc/our-grantees) el 5 de septiembre de 2026: Wisconsin aún listaba a Judicare Legal Aid, que se fusionó en Legal Action of Wisconsin el 1 de enero de 2026; Minnesota listaba a Legal Services of Northwest Minnesota, hoy parte de Justice North, y omitía a Anishinabe Legal Services; Michigan omitía a Michigan Indian Legal Services y Oklahoma a Oklahoma Indian Legal Services (donatarios del programa Native American Basic Field que el mapa de LSC no incluye); Arkansas y Pensilvania contaban organizaciones disueltas o fusionadas como donatarios vigentes; Tennessee contaba dos veces a un donatario que tiene dos áreas de servicio. Cada página ahora lista solo donatarios vigentes, indica el número de organizaciones distintas y conserva a los antiguos donatarios en una nota con sus cifras de 2018. No se inventaron cifras de 2018 para los donatarios agregados: LSC no las publica y las celdas lo dicen.",
+   "source_url": "https://www.lsc.gov/about-lsc/our-grantees",
+   "link_en": "/procedures/lsc-civil-legal-aid-by-state/",
+   "link_es": "/es/tramites/asistencia-legal-civil-lsc-por-estado/"
+  },
+  {
+   "date": "2026-09-04",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "Court pauses a third USCIS hold memo: Diversity Visa adjustment applications (PM-602-0193) — Medani v. Trump",
+   "title_es": "Un tribunal suspende un tercer memorando de pausa de USCIS: solicitudes de ajuste de estatus del Programa de Visas de Diversidad (PM-602-0193) — Medani v. Trump",
+   "summary_en": "On August 28, 2026 the Northern District of California, in Medani v. Trump, No. 26-cv-6332, temporarily vacated PM-602-0193 — the memo holding adjustment-of-status applications of FY-2026 Diversity Visa selectees — pending further litigation, ordered USCIS to resume ordinary adjudication of the plaintiffs' pending applications for the rest of the DV fiscal year, and certified a subclass of FY-2026 DV selectees and derivative beneficiaries subject to the hold. USCIS's September 4, 2026 alert says it strongly disagrees but will comply pending possible further review. Added to the standing hold-policies case page (EN + ES) and the litigation tracker.",
+   "summary_es": "El 28 de agosto de 2026, el Distrito Norte de California, en Medani v. Trump, No. 26-cv-6332, anuló temporalmente el PM-602-0193 — el memorando que mantenía en pausa las solicitudes de ajuste de estatus de los seleccionados del Programa de Visas de Diversidad del año fiscal 2026 — mientras continúa el litigio, ordenó a USCIS reanudar la adjudicación ordinaria de las solicitudes pendientes de los demandantes durante lo que resta del año fiscal del programa y certificó una subclase de seleccionados del DV del año fiscal 2026 y sus beneficiarios derivados. La alerta de USCIS del 4 de septiembre de 2026 dice que está en fuerte desacuerdo, pero que cumplirá mientras haya posible revisión adicional. Agregado a la página del caso de las pausas (EN + ES) y al rastreador de litigios.",
+   "source_url": "https://www.uscis.gov/newsroom/alerts/court-order-on-diversity-immigrant-visa-program-hold-policy",
+   "link_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "link_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
+  },
+  {
+   "date": "2026-09-04",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "State Department publishes its Executive Order 14418 implementation plan: a sworn parental attestation for a child's passport when neither parent is a U.S. citizen",
+   "title_es": "El Departamento de Estado publica su plan de implementación de la Orden Ejecutiva 14418: declaración jurada de los padres para el pasaporte de un niño cuando ninguno es ciudadano estadounidense",
+   "summary_en": "On September 4, 2026 the State Department posted a three-page proposed Implementation Plan for Executive Order 14418 (prospective only, effective on publication, subject to modification) and marked its EO 14160 page superseded. For a child's U.S. passport where neither parent is a U.S. citizen, an attestation from each parent, under penalty of perjury, about whether either parent meets any of the order's conditions must be submitted; if it is missing it is requested on review, and if the answers confirm no condition is met adjudication continues. State reads 'foreign government employee' to include locally hired embassy or consulate staff who are nationals of the sending country, and generally to exclude, case by case, third-country nationals, contractors, state-owned-enterprise employees and personal employees of officials. Trump v. Barbara is unchanged: a child born in the United States is a citizen at birth. USCIS, SSA and DOJ had published nothing as of September 5. Updated: the birthright case page, know-your-rights on U.S.-citizen children, and the 12 register-your-U.S.-born-child consulate pages (EN + ES).",
+   "summary_es": "El 4 de septiembre de 2026 el Departamento de Estado publicó un plan de implementación propuesto de tres páginas para la Orden Ejecutiva 14418 (solo prospectivo, vigente al publicarse, sujeto a modificaciones) y marcó su página de la OE 14160 como reemplazada. Para el pasaporte estadounidense de un niño cuando ninguno de los dos padres es ciudadano estadounidense, debe presentarse una declaración de cada padre o madre, bajo pena de perjurio, sobre si alguno de los dos cumple alguna de las condiciones de la orden; si falta, se pide en la revisión, y si las respuestas confirman que no aplica ninguna condición la adjudicación continúa. El Departamento de Estado lee 'empleado de un gobierno extranjero' como incluyente del personal local de una embajada o consulado que sea nacional del país que envía, y generalmente excluye, caso por caso, a nacionales de terceros países, contratistas, empleados de empresas estatales y empleados personales de funcionarios. Trump v. Barbara no cambia: un niño nacido en Estados Unidos es ciudadano al nacer. USCIS, la SSA y el DOJ no habían publicado nada al 5 de septiembre. Actualizados: la página del caso de ciudadanía por nacimiento, conoce tus derechos sobre hijos ciudadanos y las 12 páginas consulares de registrar a un hijo nacido en EE.UU. (EN + ES).",
+   "source_url": "https://travel.state.gov/content/travel/en/News/passports/executive-order-14418--continuing-to-protect-the-meaning-and-val.html",
+   "link_en": "/immigration-cases/birthright-citizenship-supreme-court/",
+   "link_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
+  },
   {
    "date": "2026-09-01",
    "precision": "day",
@@ -1305,6 +1353,18 @@
    "link_es": "/es/expatriacion/filipinas-srrv-residencia/"
   },
   {
+   "date": "2025-08-25",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "DACA recipients excluded from ACA Marketplace coverage again (HHS final rule effective Aug 25, 2025)",
+   "title_es": "Los beneficiarios de DACA vuelven a quedar excluidos del Marketplace de ACA (regla final de HHS vigente desde el 25 de agosto de 2025)",
+   "summary_en": "HHS's Marketplace Integrity and Affordability final rule (90 FR, FR Doc. 2025-11606, published June 25, 2025) removed DACA recipients from the definition of \"lawfully present\" for Marketplace plans, premium tax credits and Basic Health Program coverage, reversing the May 2024 rule. Effective August 25, 2025. Our healthcare-by-status page had kept the 2024 wording; corrected September 2, 2026.",
+   "summary_es": "La regla final de HHS \"Marketplace Integrity and Affordability\" (FR Doc. 2025-11606, publicada el 25 de junio de 2025) eliminó a los beneficiarios de DACA de la definición de \"presencia legal\" para planes del Marketplace, créditos fiscales para primas y el Programa Básico de Salud, revirtiendo la regla de mayo de 2024. Vigente desde el 25 de agosto de 2025. Nuestra página de salud por estatus conservaba el texto de 2024; corregida el 2 de septiembre de 2026.",
+   "source_url": "https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability",
+   "link_en": "/procedures/pathways-by-status/healthcare-pathway-by-immigration-status/",
+   "link_es": "/es/tramites/caminos-por-estatus/salud-por-estatus-migratorio/"
+  },
+  {
    "date": "2025-07-04",
    "precision": "day",
    "category": "fees",
@@ -1351,18 +1411,6 @@
    "source_url": "https://www.ssa.gov/benefits/retirement/social-security-fairness-act.html",
    "link_en": "/taxes/social-security-totalization-by-country/",
    "link_es": "/es/impuestos/seguro-social-totalizacion-por-pais/"
-  },
-  {
-   "date": "2025-08-25",
-   "precision": "day",
-   "category": "benefits",
-   "title_en": "DACA recipients excluded from ACA Marketplace coverage again (HHS final rule effective Aug 25, 2025)",
-   "title_es": "Los beneficiarios de DACA vuelven a quedar excluidos del Marketplace de ACA (regla final de HHS vigente desde el 25 de agosto de 2025)",
-   "summary_en": "HHS's Marketplace Integrity and Affordability final rule (90 FR, FR Doc. 2025-11606, published June 25, 2025) removed DACA recipients from the definition of \"lawfully present\" for Marketplace plans, premium tax credits and Basic Health Program coverage, reversing the May 2024 rule. Effective August 25, 2025. Our healthcare-by-status page had kept the 2024 wording; corrected September 2, 2026.",
-   "summary_es": "La regla final de HHS \"Marketplace Integrity and Affordability\" (FR Doc. 2025-11606, publicada el 25 de junio de 2025) eliminó a los beneficiarios de DACA de la definición de \"presencia legal\" para planes del Marketplace, créditos fiscales para primas y el Programa Básico de Salud, revirtiendo la regla de mayo de 2024. Vigente desde el 25 de agosto de 2025. Nuestra página de salud por estatus conservaba el texto de 2024; corregida el 2 de septiembre de 2026.",
-   "source_url": "https://www.federalregister.gov/documents/2025/06/25/2025-11606/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability",
-   "link_en": "/procedures/pathways-by-status/healthcare-pathway-by-immigration-status/",
-   "link_es": "/es/tramites/caminos-por-estatus/salud-por-estatus-migratorio/"
   }
  ]
 }

@@ -9,9 +9,41 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 93 recorded changes. Source data as of 2026-09-01.
+Showing the 40 most recent of 97 recorded changes. Source data as of 2026-09-05.
 
 ---
+
+### 2026-09-05 · PROCEDURES
+
+**Correction: the H.R.1 car-loan interest deduction has no SSN requirement — ITIN pages said all four new deductions required one**
+
+Six ITIN tax pages (EN + ES) stated that the four new H.R.1 deductions — tips, overtime, car-loan interest and the senior deduction — all require a Social Security number. Three do: 26 U.S.C. §§ 224(d), 225(d) and 151(d)(5) each contain an SSN rule. The car-loan interest deduction, 26 U.S.C. § 163(h)(4), contains none: it requires the vehicle identification number on the return and a loan taken out after December 31, 2024 that is secured by a first lien on a new (first-use) vehicle bought for personal use with final assembly in the United States; interest is capped at $10,000 a year and reduced above $100,000 of modified adjusted gross income ($200,000 joint). The IRS final regulations (2026-18219, Federal Register September 8, 2026) also contain no SSN rule. The pages now state the three-of-four rule and describe the car-loan exception.
+
+Primary source: <https://www.law.cornell.edu/uscode/text/26/163>
+
+### 2026-09-05 · CORRECTION
+
+**Correction: LSC civil legal aid directories reconciled with LSC's current grantee roster (7 states)**
+
+The state directories were built from LSC's service-area map snapshot of May 27, 2026, whose 2018 reporting year predates several mergers. Checked page by page against LSC's own grantee roster (lsc.gov/about-lsc/our-grantees) on September 5, 2026: Wisconsin still listed Judicare Legal Aid, which merged into Legal Action of Wisconsin on January 1, 2026; Minnesota listed Legal Services of Northwest Minnesota, now part of Justice North, and omitted Anishinabe Legal Services; Michigan omitted Michigan Indian Legal Services and Oklahoma omitted Oklahoma Indian Legal Services (Native American Basic Field grantees that LSC's map feed does not carry); Arkansas and Pennsylvania counted dissolved or merged organizations as current grantees; Tennessee counted one grantee twice because it holds two service areas. Each page now lists only current grantees, states the number of distinct organizations, and keeps former grantees in a labeled note with their 2018 figures. No 2018 figures were invented for the added grantees: LSC publishes none, and the cells say so.
+
+Primary source: <https://www.lsc.gov/about-lsc/our-grantees>
+
+### 2026-09-04 · BENEFITS
+
+**Court pauses a third USCIS hold memo: Diversity Visa adjustment applications (PM-602-0193) — Medani v. Trump**
+
+On August 28, 2026 the Northern District of California, in Medani v. Trump, No. 26-cv-6332, temporarily vacated PM-602-0193 — the memo holding adjustment-of-status applications of FY-2026 Diversity Visa selectees — pending further litigation, ordered USCIS to resume ordinary adjudication of the plaintiffs' pending applications for the rest of the DV fiscal year, and certified a subclass of FY-2026 DV selectees and derivative beneficiaries subject to the hold. USCIS's September 4, 2026 alert says it strongly disagrees but will comply pending possible further review. Added to the standing hold-policies case page (EN + ES) and the litigation tracker.
+
+Primary source: <https://www.uscis.gov/newsroom/alerts/court-order-on-diversity-immigrant-visa-program-hold-policy>
+
+### 2026-09-04 · PROCEDURES
+
+**State Department publishes its Executive Order 14418 implementation plan: a sworn parental attestation for a child's passport when neither parent is a U.S. citizen**
+
+On September 4, 2026 the State Department posted a three-page proposed Implementation Plan for Executive Order 14418 (prospective only, effective on publication, subject to modification) and marked its EO 14160 page superseded. For a child's U.S. passport where neither parent is a U.S. citizen, an attestation from each parent, under penalty of perjury, about whether either parent meets any of the order's conditions must be submitted; if it is missing it is requested on review, and if the answers confirm no condition is met adjudication continues. State reads 'foreign government employee' to include locally hired embassy or consulate staff who are nationals of the sending country, and generally to exclude, case by case, third-country nationals, contractors, state-owned-enterprise employees and personal employees of officials. Trump v. Barbara is unchanged: a child born in the United States is a citizen at birth. USCIS, SSA and DOJ had published nothing as of September 5. Updated: the birthright case page, know-your-rights on U.S.-citizen children, and the 12 register-your-U.S.-born-child consulate pages (EN + ES).
+
+Primary source: <https://travel.state.gov/content/travel/en/News/passports/executive-order-14418--continuing-to-protect-the-meaning-and-val.html>
 
 ### 2026-09-01 · CORRECTION
 
@@ -300,38 +332,6 @@ Primary source: <https://www.courtlistener.com/docket/71275483/make-the-road-new
 On July 27, 2026 USCIS moved the Haiti, Syria and Yemen TPS country pages into its archive. The archived pages state each designation is terminated — Haiti and Syria effective July 27, 2026 (90 FR 54733; 90 FR 45398), Yemen effective July 20, 2026 (91 FR 10402) — and the court-order EAD extension language that had protected work permits is gone. Roughly 334,595 Haitian and Syrian TPS holders are affected. As of that date their last E-Verify guidance had not been superseded (July 24, 2026 for Haiti and Syria, setting a July 27 Form I-9 date; July 17 for Yemen, setting July 24 — USCIS and E-Verify gave different Yemen dates, so we cited both). E-Verify posted superseding guidance for all three on July 29, 2026. Four designations remain court-stayed with EADs extended per court order: Burma, whose July 27, 2026 E-Verify guidance moved the Form I-9 date to Aug. 3, 2026; Somalia (July 29); and Ethiopia and South Sudan (July 30). No new Federal Register notice was issued — this implements the existing termination notices after Mullin v. Doe (June 25, 2026).
 
 Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status>
-
-### 2026-07-27 · BENEFITS
-
-**Correction: 41 states including DC have adopted Medicaid expansion — Puerto Rico cannot adopt it**
-
-Our Medicaid pages previously said "41 states + DC + Puerto Rico have adopted ACA Medicaid expansion." That double-counted DC (KFF's 41 already includes it) and wrongly listed Puerto Rico, which as a territory runs a separate capped Medicaid program outside the expansion framework and cannot adopt the expansion. Corrected against KFF tracking on July 27, 2026: 41 states including DC have adopted; 10 states have not. The Puerto Rico page now explains the territory's separate program.
-
-Primary source: <https://www.kff.org/status-of-state-medicaid-expansion-decisions/>
-
-### 2026-07-27 · ASYLUM
-
-**USCIS can now refer affirmative asylum cases to immigration court without an interview**
-
-On July 27, 2026, DHS filed an interim final rule (Federal Register doc. 2026-15190, effective on publication, scheduled July 28) allowing a USCIS asylum officer to refer an affirmative asylum application to an immigration judge without conducting an interview, based on a review of the record, where the officer concludes the applicant is barred from applying, barred from a grant, does not merit a favorable exercise of discretion, or is not eligible on the merits. An interview still precedes any USCIS grant or denial. Referral letters no longer need to include a credibility assessment. Public comments are open for 60 days after publication (Docket USCIS-2026-0199).
-
-Primary source: <https://www.federalregister.gov/public-inspection/2026-15190/affirmative-asylum-referrals-without-interview>
-
-### 2026-07-24 · EDUCATION
-
-**Illinois in-state tuition for undocumented students struck down — no appeal; aid blocked too**
-
-On July 24, 2026 a federal court (S.D. Ill., USA v. Illinois, 3:25-cv-01691) ruled the Illinois laws granting in-state tuition to students not lawfully present unconstitutional and also blocked RISE Act state financial aid (including MAP grants) and the Illinois DREAM Fund. The court delayed its order 14 days; the state did not appeal, so nonresident rates apply from August 2026. Illinois becomes the sixth jurisdiction to lose access since June 2025 and the fifth by court order. Separately, DOJ has now sued 17 states over tuition-equity laws, adding New York, Connecticut, and Vermont on Aug. 10, 2026.
-
-Primary source: <https://www.higheredimmigrationportal.org/in-state-tuition-litigation-updates/>
-
-### 2026-07-24 · WORK-PERMITS
-
-**TPS work-permit I-9 dates move again: Haiti and Syria to July 27, Somalia to July 29**
-
-On July 24, 2026, USCIS/E-Verify posted superseding guidance for three of the seven court-stayed TPS countries: employers now enter July 27, 2026 on Form I-9/E-Verify for Haiti (replacing the July 10 guidance) and Syria (replacing July 17), and July 29, 2026 for Somalia (replacing July 17). EADs remain extended per court order. Burma (July 27), Ethiopia and South Sudan (July 30) and Yemen (July 24) keep their July 17 guidance dates. These extensions are 'limited relief' until the lower courts align with the June 25 Supreme Court ruling — check your country's USCIS page daily.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
 
 ---
 

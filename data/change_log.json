@@ -89,6 +89,18 @@
  ],
  "changes": [
   {
+   "date": "2026-09-06",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "Correction: El Salvador TPS work permits — USCIS no longer lists the July 22, 2026 date; pending renewals get a notice extending the EAD to September 9, 2026",
+   "title_es": "Corrección: permisos de trabajo del TPS de El Salvador — USCIS ya no indica la fecha del 22 de julio de 2026; las renovaciones pendientes reciben un aviso que extiende el EAD hasta el 9 de septiembre de 2026",
+   "summary_en": "The status box on our El Salvador TPS page (EN + ES) said USCIS listed EADs expiring March 9, 2025 as valid through July 22, 2026. USCIS updated its El Salvador TPS page on September 3, 2026 and that date no longer appears anywhere on it. The page now lists EADs as auto-extended by Federal Register notice through March 9, 2026, and says that TPS holders whose renewal EAD (category A12 or C19) is still pending receive an individual USCIS notice extending the EAD to September 9, 2026; with that notice, cards with a Card Expires date of March 9, 2025, June 30, 2024, December 31, 2022, October 4, 2021, January 4, 2021, January 2, 2020, September 9, 2019 or March 9, 2018 remain proof of work authorization through September 9, 2026. Our status box now says exactly that, matching the page body and FAQ. USCIS has published nothing about the period after September 9, 2026.",
+   "summary_es": "El recuadro de estado de nuestra página del TPS de El Salvador (EN + ES) decía que USCIS indicaba que los EAD que vencen el 9 de marzo de 2025 eran válidos hasta el 22 de julio de 2026. USCIS actualizó su página del TPS de El Salvador el 3 de septiembre de 2026 y esa fecha ya no aparece en ninguna parte. La página ahora indica que los EAD se extendieron automáticamente por aviso del Registro Federal hasta el 9 de marzo de 2026, y dice que los titulares de TPS cuya renovación del EAD (categoría A12 o C19) sigue pendiente reciben un aviso individual de USCIS que extiende el EAD hasta el 9 de septiembre de 2026; con ese aviso, las tarjetas con fecha Card Expires del 9 de marzo de 2025, 30 de junio de 2024, 31 de diciembre de 2022, 4 de octubre de 2021, 4 de enero de 2021, 2 de enero de 2020, 9 de septiembre de 2019 o 9 de marzo de 2018 siguen siendo prueba de autorización de trabajo hasta el 9 de septiembre de 2026. Nuestro recuadro ahora dice exactamente eso, igual que el cuerpo de la página y las preguntas frecuentes. USCIS no ha publicado nada sobre el período posterior al 9 de septiembre de 2026.",
+   "link_en": "/procedures/tps-by-country/el-salvador/",
+   "link_es": "/es/tramites/tps-por-pais/el-salvador/",
+   "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador"
+  },
+  {
    "date": "2026-09-05",
    "precision": "day",
    "category": "procedures",

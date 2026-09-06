@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 97 recorded changes. Source data as of 2026-09-05.
+Showing the 40 most recent of 98 recorded changes. Source data as of 2026-09-05.
 
 ---
+
+### 2026-09-06 · TPS
+
+**Correction: El Salvador TPS work permits — USCIS no longer lists the July 22, 2026 date; pending renewals get a notice extending the EAD to September 9, 2026**
+
+The status box on our El Salvador TPS page (EN + ES) said USCIS listed EADs expiring March 9, 2025 as valid through July 22, 2026. USCIS updated its El Salvador TPS page on September 3, 2026 and that date no longer appears anywhere on it. The page now lists EADs as auto-extended by Federal Register notice through March 9, 2026, and says that TPS holders whose renewal EAD (category A12 or C19) is still pending receive an individual USCIS notice extending the EAD to September 9, 2026; with that notice, cards with a Card Expires date of March 9, 2025, June 30, 2024, December 31, 2022, October 4, 2021, January 4, 2021, January 2, 2020, September 9, 2019 or March 9, 2018 remain proof of work authorization through September 9, 2026. Our status box now says exactly that, matching the page body and FAQ. USCIS has published nothing about the period after September 9, 2026.
+
+Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador>
 
 ### 2026-09-05 · PROCEDURES
 
@@ -324,14 +332,6 @@ Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
 Our case page said an en banc or Supreme Court petition was "possible but not confirmed filed." It has been filed. On July 27, 2026 Make the Road New York petitioned the D.C. Circuit for rehearing en banc in Make the Road New York v. Mullin, No. 25-5320, asking the full court to rehear the June 23, 2026 panel decision that vacated the district court's block on the January 2025 nationwide expedited-removal expansion. The government filed its response on August 17, 2026. As of September 1, 2026 the D.C. Circuit had not ruled on the petition and had not issued its mandate. The expansion stays in effect while the petition is pending: on July 17, 2026 the court granted the government's motion to stay the district court's order pending appeal, and denied its request to issue the mandate early.
 
 Primary source: <https://www.courtlistener.com/docket/71275483/make-the-road-new-york-v-markwayne-mullin/>
-
-### 2026-07-27 · WORK-PERMITS
-
-**TPS terminated for Haiti, Syria and Yemen — USCIS archived all three country pages**
-
-On July 27, 2026 USCIS moved the Haiti, Syria and Yemen TPS country pages into its archive. The archived pages state each designation is terminated — Haiti and Syria effective July 27, 2026 (90 FR 54733; 90 FR 45398), Yemen effective July 20, 2026 (91 FR 10402) — and the court-order EAD extension language that had protected work permits is gone. Roughly 334,595 Haitian and Syrian TPS holders are affected. As of that date their last E-Verify guidance had not been superseded (July 24, 2026 for Haiti and Syria, setting a July 27 Form I-9 date; July 17 for Yemen, setting July 24 — USCIS and E-Verify gave different Yemen dates, so we cited both). E-Verify posted superseding guidance for all three on July 29, 2026. Four designations remain court-stayed with EADs extended per court order: Burma, whose July 27, 2026 E-Verify guidance moved the Form I-9 date to Aug. 3, 2026; Somalia (July 29); and Ethiopia and South Sudan (July 30). No new Federal Register notice was issued — this implements the existing termination notices after Mullin v. Doe (June 25, 2026).
-
-Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status>
 
 ---
 

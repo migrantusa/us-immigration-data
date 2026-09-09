@@ -9,9 +9,49 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 98 recorded changes. Source data as of 2026-09-05.
+Showing the 40 most recent of 103 recorded changes. Source data as of 2026-09-05.
 
 ---
+
+### 2026-09-09 · TAXES
+
+**Proposed: Census Bureau would use tax records to set your "usual residence" and would not count most noncitizens for apportionment**
+
+The Census Bureau filed a proposed rule on September 9, 2026 (FR document 2026-18481, docket USBC-2026-0628), scheduled to publish September 10. Proposed 15 CFR 60.2(a) would define "usual residence" as the residence at which they "have lawfully spent the greatest number of days," and says it "should be consistent with, and evidenced by, their tax records (e.g., tax returns, W-2 forms)." Proposed 15 CFR 60.4 governs foreign citizens in the United States: those who are also US citizens or lawful permanent residents would be counted at their usual residence, and "all other citizens of foreign countries" are "not counted for apportionment"; the preamble proposes excluding "illegal aliens and aliens whose legal status is less durable and indefinite in length than lawful permanent resident status," and invites comment on whether other statuses are materially similar to LPR status. It also asks whether to add a legal-status question to the questionnaire. This is a proposal and nothing in it is in effect; it does not change anyone's obligation to file. Census responses stay confidential under 13 U.S.C. 9, which the rule does not amend and in fact relies on. Comments are due 30 days after publication; the filed text carries a placeholder rather than a printed date, so we are not publishing a computed deadline — check the published notice or the docket. Our taxes guide now carries this in both languages.
+
+Primary source: <https://www.federalregister.gov/public-inspection/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations>
+
+### 2026-09-09 · LITIGATION
+
+**Correction: our CHNV parole page pointed readers at the wrong proceeding — the Family Reunification Parole injunction is under appeal**
+
+Our CHNV humanitarian parole page told readers to watch a district-court summary-judgment motion, and said nothing about the appeal of the preliminary injunction that is the only thing currently blocking termination of Family Reunification Parole and its work authorization. That was the wrong milestone to hand someone whose work permit depends on it. What the docket actually shows: the government appealed to the First Circuit as Doe v. Mullin, Nos. 26-1314 and 26-1628 (the second docketed June 4, 2026 on notice of appeal doc. #304); on July 28, 2026 the court ordered the two consolidated for briefing and oral argument; and on July 29 it set the schedule, with the appellants' brief and appendix due September 8, 2026, the appellees' brief 30 days after service, and the reply 21 days after that. Merits briefing is underway now. We do not claim to know what happened on or after September 8: the public docket reproduction we can read was last retrieved July 29, 2026 and RECAP's newest entry is August 11, 2026, so neither shows whether the brief was filed on time or extended — the page says exactly that. The district-court motion remains fully briefed since December 8, 2025 with no ruling docketed. The FRP injunction remains in effect. Both language versions and the case dataset now carry the appeal, its docket numbers, the consolidation, the schedule and that limitation. Shipped alongside: the third-country-removals case now names its First Circuit docket (No. 26-1212, D.V.D. v. DHS, argued May 13, 2026) instead of "expedited appeal"; the DACA timeline records the July 10, 2026 order that is the newest entry on Judge Hanen's docket; and a Spanish-wording sweep replaced "por improcedente" with "por haber quedado sin objeto" in six places across four cases, because the first loses the mootness rationale and reads as a rejection on the merits.
+
+Primary source: <https://dockets.justia.com/docket/circuit-courts/ca1/26-1628>
+
+### 2026-09-08 · TPS
+
+**Correction: USCIS DID act on Executive Order 14418 — we said it had published nothing, on 28 pages**
+
+Twenty-eight pages (14 EN + 14 ES) stated that USCIS, the Social Security Administration and the Justice Department "had published nothing as of September 5, 2026" about Executive Order 14418. That was false when we wrote it. DHS filed an interim final rule on September 4, 2026 at 4:15 pm EDT (FR doc 2026-18345, publishing September 9), and USCIS announced it the same day. The rule replaces "foreign diplomatic officer" with the broader "foreign government employee" — expressly covering embassy and consulate employees who are nationals of that country, which is our consulate audience — and lets such children register as lawful permanent residents. It is effective September 4, 2026 and applies only to children born on or after that date; it also updates Forms I-485 and G-325R. Critically, and this is the part that most protects readers: DHS states it will NOT implement the rule against members of the certified class in Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md.), while that preliminary injunction stands. All 28 pages now carry the rule, its effective date and scope, and the injunction carve-out. SSA and DOJ have still published nothing. Comments on the rule close about October 4, 2026.
+
+Primary source: <https://www.uscis.gov/newsroom/alerts/dhs-announces-rule-for-certain-children-born-in-the-united-states-to-foreign-government-employees>
+
+### 2026-09-08 · TPS
+
+**Sudan and Ukraine TPS: USCIS is mailing notices that extend expired work permits to Oct. 19 — our pages implied they had lapsed**
+
+Our Sudan and Ukraine entries said only that "an EAD auto-extension ran through April 19, 2026; verify current EAD validity with the latest USCIS notice." A holder whose card expired after that date could read our page and conclude they had no work authorization. E-Verify guidance dated September 3, 2026 shows otherwise: USCIS is mailing individual notices extending expired TPS-based EADs to October 19, 2026, and for Form I-9 a qualifying A12 or C19 card plus that notice is valid List A proof through October 19, 2026. Qualifying card-expiry is on or after July 22, 2026 for Sudan and on or after April 20, 2026 for Ukraine. Both bulletins also state the designations are set to terminate October 19, 2026. This is the same omission we corrected for El Salvador; it is now fixed in tps_designations.json and tps_work_permits.json, EN and ES.
+
+Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-temporary-protected-status-for-sudan-release-sept-03-2026>
+
+### 2026-09-08 · TPS
+
+**El Salvador TPS: E-Verify says it terminates Sept. 9, but no Federal Register notice exists — we now publish both halves**
+
+E-Verify guidance dated September 3, 2026 states that the El Salvador TPS designation "and related benefits are set to terminate on Sept. 9, 2026" and instructs employers to enter September 9, 2026 as the expiration date on Form I-9 and in E-Verify. At the same time, NO Federal Register notice exists — no extension, no redesignation and no termination — and nothing about El Salvador TPS sat on the FR public-inspection desk for the September 9 issue when we checked on September 8. That is a genuine gap, and the pages now report both halves instead of only one. The statutory backdrop: 8 U.S.C. 1254a(b)(3)(B) makes a termination effective no earlier than 60 days after a notice is published, and 1254a(b)(3)(C) extends a designation 6 months when the Secretary makes no timely determination (the deadline here fell about July 11, 2026). We can confirm nothing was PUBLISHED by then; we CANNOT confirm whether a determination was made, and the statute keys on the determination — so we assert no outcome and publish no computed end date. Two corrections to our earlier framing, both caught in cross-AI review: (1) the statute extends the DESIGNATION, while Lebanon's work permits were extended by the NOTICE itself ("Through this Federal Register notice, DHS automatically extends the validity of EADs") — so a statute alone is not what an employer enters into E-Verify, and the same gap reaches driver's-licence renewals and state benefits via SAVE; (2) the Lebanon analogy is weaker than it first appeared, because that notice was already on public inspection before its period ended ("FR Doc. 2026-10704 Filed 5-27-26; 11:15 am", printed May 29) whereas El Salvador's desk is empty. Reader guidance is now: plan around September 9, keep every document, do not quit on a rumor, do not tell an employer you are cleared to work past September 9, and get individual legal advice. Updated EN+ES: the El Salvador country page (rewritten section, callout, work FAQ and removal FAQ), the TPS-by-country hub, the TPS work-permit dataset page, and tps_designations.json.
+
+Primary source: <https://content.govdelivery.com/accounts/USDHSCISEVERIFY/bulletins/42855a4>
 
 ### 2026-09-06 · TPS
 
@@ -292,46 +332,6 @@ Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-ter
 USCIS Policy Alert PA-2026-05, issued Aug. 5, 2026 and effective immediately, updates Policy Manual Volume 1 so officers have full discretion to deny a benefit request without first issuing a Request for Evidence or a Notice of Intent to Deny when the initial evidence required by the form instructions is missing, or when the record does not establish eligibility. It applies to requests pending or filed on or after Aug. 5, 2026. The previous policy instructed officers to send an RFE or NOID first. The alert also drops the standard 12-week RFE response period: 8 CFR 103.2(b)(8)(iv) sets 12 weeks as the maximum, not the norm, and officers may now give less, so an RFE deadline can be considerably shorter than the 60-87 days previously typical. A NOID response stays capped at 30 days, mailed notices still add 3 days under 8 CFR 103.8(b), extra time cannot be granted, and the additional 14 days USCIS used to give for notices mailed outside the United States has been eliminated. Refugee and asylum applications are governed by separate regulations and are not covered.
 
 Primary source: <https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-EvidentiaryStandards.pdf>
-
-### 2026-08-03 · TPS
-
-**E-Verify moves the TPS Form I-9 dates again: Somalia to Aug. 5, Burma to Aug. 7, 2026**
-
-E-Verify posted superseding guidance for Burma (replacing its July 27, 2026 release) and Somalia (replacing July 29, 2026) on the same day. Employment Authorization Documents issued under both designations remain extended per court order -- Aung Doe v. Noem, No. 25-cv-15483 (N.D. Ill.) for Burma and African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) for Somalia -- and both guidance releases still describe the extension as limited relief until the lower courts align with Mullin v. Doe. The Form I-9 Section 2 date employers enter moves from Aug. 3, 2026 to Aug. 5, 2026 for Somalia and to Aug. 7, 2026 for Burma; Section 1 still reads 'as per court order'. With Ethiopia and South Sudan at Aug. 6, 2026, each of the four court-stayed designations now carries a different date. Both USCIS country pages remain live -- neither has been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-08-03 · VISAS
-
-**DOL publishes updated H-2A Adverse Effect Wage Rates -- effective Aug. 3, 2026 (Aug. 17 for Kansas v. DOL entities)**
-
-The Department of Labor's Employment and Training Administration published updated Adverse Effect Wage Rates for H-2A agricultural workers under the OEWS-based methodology of the October 2025 interim final rule (FR Doc. 2026-15673). The updated rates are effective August 3, 2026, except for entities and states subject to the court order in Kansas et al. v. U.S. Department of Labor, 749 F. Supp. 3d 1363 (S.D. Ga. 2024), where they take effect August 17, 2026. When an AEWR update takes effect during a work contract, the employer must pay at least the updated rate from its effective date if it is higher than the applicable required wage.
-
-Primary source: <https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the>
-
-### 2026-07-30 · WORK-PERMITS
-
-**Ethiopia and South Sudan TPS work-permit dates move to Aug. 6: E-Verify supersedes the July 17 guidance**
-
-On July 30, 2026 E-Verify posted superseding TPS guidance for Ethiopia and South Sudan, whose terminations remain stayed by the District of Massachusetts (African Communities Together v. Noem — Ethiopia No. 26-cv-10278, South Sudan No. 25-cv-13939). EADs issued under both designations remain extended per court order, and the Form I-9 / E-Verify expiration date employers enter moves from July 30 to Aug. 6, 2026. The guidance covers Ethiopia EADs with original expiration dates of June 12, 2024 and December 12, 2025, and South Sudan EADs with original expiration dates of November 3, 2023, May 3, 2025 and November 3, 2025, and describes each extension as limited relief until the lower courts align with Mullin v. Doe. All four court-stayed designations now carry an Aug. 3, 2026 (Burma, Somalia) or Aug. 6, 2026 (Ethiopia, South Sudan) date.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-07-29 · WORK-PERMITS
-
-**E-Verify supersedes TPS guidance for four countries the same day: Somalia's Form I-9 date moves to Aug. 3, and Haiti, Syria and Yemen EADs are declared no longer valid**
-
-On July 29, 2026 E-Verify posted superseding TPS guidance for four countries on the same day. For Somalia — whose termination remains stayed by the District of Massachusetts (African Communities Together v. Noem, No. 26-cv-11201) — the guidance supersedes the July 24 release and moves the Form I-9 / E-Verify expiration date from July 29 to Aug. 3, 2026, matching Burma; it describes the extension as limited relief until the lower courts align with Mullin v. Doe, and covers EADs with original expiration dates of March 17, 2023, September 17, 2024 and March 17, 2026. For Haiti, Syria and Yemen — archived by USCIS on July 27 — the guidance states that Form I-766 EADs with category A12 or C19 issued under those designations are no longer valid, and that employers must reverify those employees and cannot continue employing anyone who does not provide proof of current employment authorization. Yemen's guidance now gives the same July 20, 2026 effective date as the archived USCIS page, resolving the conflict with its July 17 guidance (July 24) that we had been citing both ways. No Federal Register notice accompanied any of the four.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-07-27 · COURTS
-
-**Plaintiffs ask the full D.C. Circuit to rehear the nationwide expedited-removal ruling — en banc petition filed, still pending**
-
-Our case page said an en banc or Supreme Court petition was "possible but not confirmed filed." It has been filed. On July 27, 2026 Make the Road New York petitioned the D.C. Circuit for rehearing en banc in Make the Road New York v. Mullin, No. 25-5320, asking the full court to rehear the June 23, 2026 panel decision that vacated the district court's block on the January 2025 nationwide expedited-removal expansion. The government filed its response on August 17, 2026. As of September 1, 2026 the D.C. Circuit had not ruled on the petition and had not issued its mandate. The expansion stays in effect while the petition is pending: on July 17, 2026 the court granted the government's motion to stay the district court's order pending appeal, and denied its request to issue the mandate early.
-
-Primary source: <https://www.courtlistener.com/docket/71275483/make-the-road-new-york-v-markwayne-mullin/>
 
 ---
 

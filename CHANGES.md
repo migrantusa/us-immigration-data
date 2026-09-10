@@ -9,329 +9,329 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 103 recorded changes. Source data as of 2026-09-05.
+Showing the 40 most recent of 165 recorded changes. Source data as of 2026-09-10.
 
 ---
 
-### 2026-09-09 · TAXES
+### 2026-09-10 · CORRECTION
 
-**Proposed: Census Bureau would use tax records to set your "usual residence" and would not count most noncitizens for apportionment**
+**Correction: the Affidavit of Support income table was two years stale, the U visa's sibling rule was wrong, and two official State Department pages disagree on whether entering the visa lottery costs $1.00 or nothing**
 
-The Census Bureau filed a proposed rule on September 9, 2026 (FR document 2026-18481, docket USBC-2026-0628), scheduled to publish September 10. Proposed 15 CFR 60.2(a) would define "usual residence" as the residence at which they "have lawfully spent the greatest number of days," and says it "should be consistent with, and evidenced by, their tax records (e.g., tax returns, W-2 forms)." Proposed 15 CFR 60.4 governs foreign citizens in the United States: those who are also US citizens or lawful permanent residents would be counted at their usual residence, and "all other citizens of foreign countries" are "not counted for apportionment"; the preamble proposes excluding "illegal aliens and aliens whose legal status is less durable and indefinite in length than lawful permanent resident status," and invites comment on whether other statuses are materially similar to LPR status. It also asks whether to add a legal-status question to the questionnaire. This is a proposal and nothing in it is in effect; it does not change anyone's obligation to file. Census responses stay confidential under 13 U.S.C. 9, which the rule does not amend and in fact relies on. Comments are due 30 days after publication; the filed text carries a placeholder rather than a printed date, so we are not publishing a computed deadline — check the published notice or the docket. Our taxes guide now carries this in both languages.
+Fourteen verified defects across the procedures, datasets and tools trees, fixed in English and Spanish together. The most consequential: the Affidavit of Support pages published the 2024 Form I-864P income table — a sponsor for a household of four was told $38,750 when USCIS's chart, "effective beginning Mar. 1, 2026," requires $41,250 at 125% of the poverty guidelines; the table now renders live from our own HHS dataset with both the 125% and the active-duty 100% columns. The same pages said the sponsor's promise "lasts 10 years": 8 U.S.C. 1183a(a)(2)-(3) sets no term at all — the affidavit is enforceable until naturalization or 40 qualifying quarters, and the page's own list of ending events already said so. On the U visa, the site listed derivative siblings as "unmarried siblings under 21"; the statute says unmarried siblings under 18 on the date the principal applied, and only when the principal is under 21 — a principal 21 or older can include only a spouse and children. On the Diversity Visa pages, NACARA was described as adding 5,000 visas to a 60,000 cap: 8 U.S.C. 1151(e) sets the level at 55,000 and Pub. L. 105-100 subtracts up to 5,000 from it, so about 50,000 are available and no 60,000 cap exists. Those pages also called any pre-selection charge a scam. State's own fee table now lists a "Diversity Visa Registration Fee (paid at time of registration only by the principal applicant) $1.00" while State's DV entry page still says "There is no cost to register for the DV Program" — both are quoted and neither is declared the winner. The DV pages also promised a DV-2027 registration window in October-November 2025; State has published no DV-2027 instructions at all, and its instructions page still reads "The processing requirements below are for the DV-2026 program." On tax pages: an ITIN filer was told the American Opportunity and Lifetime Learning credits were available, but P.L. 119-21 § 70606 rewrote 26 U.S.C. 25A(g)(1) to require the taxpayer's own Social Security number "to taxable years beginning after December 31, 2025," so both close from tax year 2026 (a 2025 return is unaffected); the non-resident page said a 30% rate applies to US-source income generally, when the IRS says effectively connected income — wages included — is taxed "at graduated rates … the same rates that apply to U.S. citizens and residents" and the flat 30% reaches only unconnected FDAP income; the treaty page dated Hungary's termination for non-withholding taxes to January 1, 2025 when Treasury's own notice says January 1, 2024, and counted 68 treaties in force when the IRS flags Hungary "Treaty Terminated" (Belarus and Russia are flagged "Partially Suspended"). Also fixed: the naturalization pages said an absence of more than a year "automatically" breaks continuous residence without noting that 6-to-12-month absences are presumed to break it too (8 CFR 316.5(c)(1)), and described the 65/20 civics exception as a 20-question test needing 6 correct when the officer asks 10 from a designated bank of 20; the border-wait dataset claimed 82 land ports when the file holds 85 crossings at 53 ports; the TPS work-permit dataset headline said "seven terminations" when its own data shows 11 of 15 designations terminated; the asylum annual-fee pages still said the rule was "open for public comment" 73 days after comments closed on June 29, 2026; and Self was listed as an ITIN-friendly bank on six pages when it sells a Credit Builder Loan and a secured credit card, not a deposit account with a debit card.
 
-Primary source: <https://www.federalregister.gov/public-inspection/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations>
+Primary source: <https://www.uscis.gov/i-864p>
 
-### 2026-09-09 · LITIGATION
+### 2026-09-10 · CORRECTION
 
-**Correction: our CHNV parole page pointed readers at the wrong proceeding — the Family Reunification Parole injunction is under appeal**
+**Correction: every state DMV page carried invented teen-driver ages, and told readers a driving-privilege card counts as an I-9 identity document**
 
-Our CHNV humanitarian parole page told readers to watch a district-court summary-judgment motion, and said nothing about the appeal of the preliminary injunction that is the only thing currently blocking termination of Family Reunification Parole and its work authorization. That was the wrong milestone to hand someone whose work permit depends on it. What the docket actually shows: the government appealed to the First Circuit as Doe v. Mullin, Nos. 26-1314 and 26-1628 (the second docketed June 4, 2026 on notice of appeal doc. #304); on July 28, 2026 the court ordered the two consolidated for briefing and oral argument; and on July 29 it set the schedule, with the appellants' brief and appendix due September 8, 2026, the appellees' brief 30 days after service, and the reply 21 days after that. Merits briefing is underway now. We do not claim to know what happened on or after September 8: the public docket reproduction we can read was last retrieved July 29, 2026 and RECAP's newest entry is August 11, 2026, so neither shows whether the brief was filed on time or extended — the page says exactly that. The district-court motion remains fully briefed since December 8, 2025 with no ruling docketed. The FRP injunction remains in effect. Both language versions and the case dataset now carry the appeal, its docket numbers, the consolidation, the schedule and that limitation. Shipped alongside: the third-country-removals case now names its First Circuit docket (No. 26-1212, D.V.D. v. DHS, argued May 13, 2026) instead of "expedited appeal"; the DACA timeline records the July 10, 2026 order that is the newest entry on Judge Hanen's docket; and a Spanish-wording sweep replaced "por improcedente" with "por haber quedado sin objeto" in six places across four cases, because the first loses the mootness rationale and reads as a rejection on the merits.
+A single template row was repeated across 52 English and 52 Spanish state DMV pages: "Learner's permit — typically 15-15.5 years old", "Provisional/junior license — typically 16-17 years old", and "Auto-converts to full license at 18." None of those figures came from any state. Delaware, the page that exposed it, sets the Level One Learner's Permit at "at least 16 years old and less than 18 years old" and its full-licence minimum at 17 — the page's own key-facts table already said 17, so the row contradicted the page it sat on. Every row now renders the value our own dataset holds for that state (website/data/dmv/state_general.json), and the generator reads the dataset instead of a guess. A second bullet on 53 English and 53 Spanish pages told readers a "standard or undocumented license" counts as an I-9 List B identity document; Delaware's DMV says its Driving Privilege Card "will NOT be considered a valid form of identification" and the card is printed "Not Valid for Identification" on its face, so the bullet was split and the caveat added. Delaware's own card row also said the card requires "DE residency for 6+ months + payment of DE income tax for 2+ years" — the DMV requires a Certification of Filing Compliance showing Delaware taxes were FILED for the previous two years, and publishes no months-of-residency test.
 
-Primary source: <https://dockets.justia.com/docket/circuit-courts/ca1/26-1628>
+Primary source: <https://services.dmv.de.gov/DriverServices/drivers_license/DPC/index.shtml>
 
-### 2026-09-08 · TPS
+### 2026-09-10 · CORRECTION
 
-**Correction: USCIS DID act on Executive Order 14418 — we said it had published nothing, on 28 pages**
+**Correction: state DMV pages hinted a matrícula consular "may" be accepted — in the states whose own rules require US-agency proof of lawful presence**
 
-Twenty-eight pages (14 EN + 14 ES) stated that USCIS, the Social Security Administration and the Justice Department "had published nothing as of September 5, 2026" about Executive Order 14418. That was false when we wrote it. DHS filed an interim final rule on September 4, 2026 at 4:15 pm EDT (FR doc 2026-18345, publishing September 9), and USCIS announced it the same day. The rule replaces "foreign diplomatic officer" with the broader "foreign government employee" — expressly covering embassy and consulate employees who are nationals of that country, which is our consulate audience — and lets such children register as lawful permanent residents. It is effective September 4, 2026 and applies only to children born on or after that date; it also updates Forms I-485 and G-325R. Critically, and this is the part that most protects readers: DHS states it will NOT implement the rule against members of the certified class in Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md.), while that preliminary injunction stands. All 28 pages now carry the rule, its effective date and scope, and the injunction carve-out. SSA and DOJ have still published nothing. Comments on the rule close about October 4, 2026.
+"Depends on the state. [State] may accept matrícula consular under certain circumstances" appeared on the English and Spanish page of every jurisdiction that does NOT issue a licence or ID without regard to immigration status — precisely the states where a consular ID cannot carry an applicant. Texas puts the requirement in statute: an applicant who is not a US citizen "must present to the department documentation issued by the appropriate United States agency that authorizes the applicant to be in the United States" (Tex. Transp. Code § 521.142(a)). Kentucky tells non-US citizens they "must provide proof of identity and lawful status"; North Dakota requires "proof of identity, date of birth, and legal presence in the United States" from every applicant; Tennessee requires "Citizenship or Legal Presence"; Michigan accepts only "a Canadian driver's license or a valid foreign passport" among foreign identity documents. Each page now says a matrícula consular, issued by a foreign consulate rather than a US agency, cannot meet that requirement, and points at the agency's own current document list. Puerto Rico was written separately: it issues a provisional licence under Ley 97-2013, so its page distinguishes the two credentials instead of asserting a flat no.
 
-Primary source: <https://www.uscis.gov/newsroom/alerts/dhs-announces-rule-for-certain-children-born-in-the-united-states-to-foreign-government-employees>
+Primary source: <https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm>
 
-### 2026-09-08 · TPS
+### 2026-09-10 · CORRECTION
 
-**Sudan and Ukraine TPS: USCIS is mailing notices that extend expired work permits to Oct. 19 — our pages implied they had lapsed**
+**Correction: the SNAP gross-income limit had no elderly or disability exception, and benefit pages promised a child's benefits "never count against you"**
 
-Our Sudan and Ukraine entries said only that "an EAD auto-extension ran through April 19, 2026; verify current EAD validity with the latest USCIS notice." A holder whose card expired after that date could read our page and conclude they had no work authorization. E-Verify guidance dated September 3, 2026 shows otherwise: USCIS is mailing individual notices extending expired TPS-based EADs to October 19, 2026, and for Form I-9 a qualifying A12 or C19 card plus that notice is valid List A proof through October 19, 2026. Qualifying card-expiry is on or after July 22, 2026 for Sudan and on or after April 20, 2026 for Ukraine. Both bulletins also state the designations are set to terminate October 19, 2026. This is the same omission we corrected for El Salvador; it is now fixed in tps_designations.json and tps_work_permits.json, EN and ES.
+Fifty English and fifty Spanish SNAP state pages answered "how much do I get" with a flat "Max gross income: 130% FPL." Under 7 CFR 273.9(a) a household containing a member age 60 or older or with a disability "shall meet the net income eligibility standards" only — it is exempt from the gross-income test entirely — and categorically eligible households meet neither test. A household that would have read itself out of SNAP now sees the exception. Separately, across the Medicaid and SNAP state pages, the hubs and the public-charge guide, the site told readers that benefits used by their US-citizen children "never count against you." USCIS policy alert PA-2026-09, effective 18 September 2026, does say USCIS "does not attribute to the alien the receipt of means-tested public benefits if the benefit is received by the applicant's relatives, including children" — but it adds that where a relative the applicant is legally obliged to support qualifies "based on the alien's income or assets falling below a certain level, then officers should consider the alien's income or assets falling below the threshold as part of the assets, resources, and financial status factor." That caveat is now on every page that made the promise. The Spanish SNAP hub also still answered the public-charge question with a bare "No" eight days before the 2022 rule's rescission takes effect (91 FR 45324); it now carries the date.
 
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-temporary-protected-status-for-sudan-release-sept-03-2026>
+Primary source: <https://www.ecfr.gov/current/title-7/section-273.9>
 
-### 2026-09-08 · TPS
+### 2026-09-10 · CORRECTION
 
-**El Salvador TPS: E-Verify says it terminates Sept. 9, but no Federal Register notice exists — we now publish both halves**
+**Correction: three know-your-rights errors — a regulation that never says "judicial", ICE's first courthouse directive described as a narrowing, and one E-Verify clock where there are two**
 
-E-Verify guidance dated September 3, 2026 states that the El Salvador TPS designation "and related benefits are set to terminate on Sept. 9, 2026" and instructs employers to enter September 9, 2026 as the expiration date on Form I-9 and in E-Verify. At the same time, NO Federal Register notice exists — no extension, no redesignation and no termination — and nothing about El Salvador TPS sat on the FR public-inspection desk for the September 9 issue when we checked on September 8. That is a genuine gap, and the pages now report both halves instead of only one. The statutory backdrop: 8 U.S.C. 1254a(b)(3)(B) makes a termination effective no earlier than 60 days after a notice is published, and 1254a(b)(3)(C) extends a designation 6 months when the Secretary makes no timely determination (the deadline here fell about July 11, 2026). We can confirm nothing was PUBLISHED by then; we CANNOT confirm whether a determination was made, and the statute keys on the determination — so we assert no outcome and publish no computed end date. Two corrections to our earlier framing, both caught in cross-AI review: (1) the statute extends the DESIGNATION, while Lebanon's work permits were extended by the NOTICE itself ("Through this Federal Register notice, DHS automatically extends the validity of EADs") — so a statute alone is not what an employer enters into E-Verify, and the same gap reaches driver's-licence renewals and state benefits via SAVE; (2) the Lebanon analogy is weaker than it first appeared, because that notice was already on public inspection before its period ended ("FR Doc. 2026-10704 Filed 5-27-26; 11:15 am", printed May 29) whereas El Salvador's desk is empty. Reader guidance is now: plan around September 9, keep every document, do not quit on a rumor, do not tell an employer you are cleared to work past September 9, and get individual legal advice. Updated EN+ES: the El Salvador country page (rewritten section, callout, work FAQ and removal FAQ), the TPS-by-country hub, the TPS work-permit dataset page, and tps_designations.json.
+On the page whose whole thesis is the difference between a judge's warrant and an administrative one, we attributed the judicial qualifier to the regulation itself: "federal regulation instructs that immigration officers may not enter non-public areas without consent or a judicial warrant (8 CFR 287.8(f)(2))." The regulation says "either a warrant or the consent of the owner or other person in control of the site to be inspected" — the judge-signed requirement for a home comes from the Fourth Amendment, not from that text. The sensitive-locations timeline listed "2018 — internal narrowing — reduced courthouse limitations", preceded by a 2013 courthouse guidance we cannot source; ICE Directive 11072.1 (issued and effective 10 January 2018) records "Superseded: None" on its own header, which makes it ICE's first courthouse directive rather than a narrowing of anything. And the workplace page gave a single deadline after an E-Verify mismatch: "contest within 8 federal working days." E-Verify runs two clocks — 10 federal government working days from issuance of the mismatch to tell your employer you will act, then eight federal government working days from receiving the Referral Date Confirmation to contact DHS or SSA. A worker counting eight days from the mismatch was counting the wrong clock.
 
-Primary source: <https://content.govdelivery.com/accounts/USDHSCISEVERIFY/bulletins/42855a4>
+Primary source: <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287>
 
-### 2026-09-06 · TPS
+### 2026-09-10 · CORRECTION
 
-**Correction: El Salvador TPS work permits — USCIS no longer lists the July 22, 2026 date; pending renewals get a notice extending the EAD to September 9, 2026**
+**Correction: childcare pages sent parents to a "[State] Department of Human Services" that most states do not have**
 
-The status box on our El Salvador TPS page (EN + ES) said USCIS listed EADs expiring March 9, 2025 as valid through July 22, 2026. USCIS updated its El Salvador TPS page on September 3, 2026 and that date no longer appears anywhere on it. The page now lists EADs as auto-extended by Federal Register notice through March 9, 2026, and says that TPS holders whose renewal EAD (category A12 or C19) is still pending receive an individual USCIS notice extending the EAD to September 9, 2026; with that notice, cards with a Card Expires date of March 9, 2025, June 30, 2024, December 31, 2022, October 4, 2021, January 4, 2021, January 2, 2020, September 9, 2019 or March 9, 2018 remain proof of work authorization through September 9, 2026. Our status box now says exactly that, matching the page body and FAQ. USCIS has published nothing about the period after September 9, 2026.
+The childcare-by-state generator ended its "immigrant-friendly states" section with "Verify with [State] Department of Human Services" on all 52 English and 52 Spanish state pages. Most states have no agency by that name — North Carolina runs SNAP and childcare through the Department of Health and Human Services, Arizona through the Department of Economic Security, and so on — so the sentence sent a reader searching for an office that does not exist, on a page that already renders the state's real portal, its CCDF programme name and its application methods a few lines above. Each page now points at those official contacts and at the state's childcare.gov page, which names the agency; the generator was corrected so a rebuild cannot restore the invented name.
 
-Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador>
+Primary source: <https://childcare.gov/state-resources>
 
-### 2026-09-05 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**Correction: the H.R.1 car-loan interest deduction has no SSN requirement — ITIN pages said all four new deductions required one**
+**Correction: our Cuba and Nicaragua “voting from the US” pages described a procedure that does not exist — neither country lets citizens abroad vote**
 
-Six ITIN tax pages (EN + ES) stated that the four new H.R.1 deductions — tips, overtime, car-loan interest and the senior deduction — all require a Social Security number. Three do: 26 U.S.C. §§ 224(d), 225(d) and 151(d)(5) each contain an SSN rule. The car-loan interest deduction, 26 U.S.C. § 163(h)(4), contains none: it requires the vehicle identification number on the return and a loan taken out after December 31, 2024 that is secured by a first lien on a new (first-use) vehicle bought for personal use with final assembly in the United States; interest is capped at $10,000 a year and reduced above $100,000 of modified adjusted gross income ($200,000 joint). The IRS final regulations (2026-18219, Federal Register September 8, 2026) also contain no SSN rule. The pages now state the three-of-four rule and describe the car-loan exception.
+Four pages (Cuba and Nicaragua, English and Spanish) told readers their country had “established consular voting… and/or postal voting” for citizens abroad, listed presidential, legislative and referendum ballots as available, and gave a registration deadline of “30-90 days before election day.” None of that is true for either country. Cuba's Ley No. 127, “Ley Electoral” (Gaceta Oficial No. 60 Ordinaria, 19 August 2019), art. 7 c) requires “residencia efectiva en el país por un período no menor de dos (2) años antes de las elecciones”, and art. 8 c) withholds the vote from anyone who does not meet that residence requirement — living in the US removes the right itself, and Cuba's President is elected by the deputies of the National Assembly (arts. 220-224), not by voters. Nicaragua's Ley No. 331 (reforms incorporated, La Gaceta – Diario Oficial No. 92, 20 May 2022), art. 109 makes an overseas vote conditional on the Consejo Supremo Electoral deciding, six months before the electoral process begins, that four operating conditions can be met, including an overseas voter registry it has never built; the decision has never been taken. The four pages were rewritten to quote the statutes, explain why no procedure exists, and say what a citizen can actually do; the same fabricated “30-90 day” deadline was removed from the other 20 voting-from-abroad pages, Mexico's real window was published (LGIPE art. 334: 1 September to 15 December of the year before the election) along with the internet-voting channel that 67.86% of the 2024 overseas roll used, and the generator template was corrected so a rebuild cannot restore the falsehoods.
 
-Primary source: <https://www.law.cornell.edu/uscode/text/26/163>
+Primary source: <https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o60_0.pdf>
 
-### 2026-09-05 · CORRECTION
+### 2026-09-10 · CORRECTION
 
-**Correction: LSC civil legal aid directories reconciled with LSC's current grantee roster (7 states)**
+**Correction: closed Nicaraguan consulates listed as open, two moved Mexican consulates, and a UN mission published as a consulate**
 
-The state directories were built from LSC's service-area map snapshot of May 27, 2026, whose 2018 reporting year predates several mergers. Checked page by page against LSC's own grantee roster (lsc.gov/about-lsc/our-grantees) on September 5, 2026: Wisconsin still listed Judicare Legal Aid, which merged into Legal Action of Wisconsin on January 1, 2026; Minnesota listed Legal Services of Northwest Minnesota, now part of Justice North, and omitted Anishinabe Legal Services; Michigan omitted Michigan Indian Legal Services and Oklahoma omitted Oklahoma Indian Legal Services (Native American Basic Field grantees that LSC's map feed does not carry); Arkansas and Pennsylvania counted dissolved or merged organizations as current grantees; Tennessee counted one grantee twice because it holds two service areas. Each page now lists only current grantees, states the number of distinct organizations, and keeps former grantees in a labeled note with their 2018 figures. No 2018 figures were invented for the added grantees: LSC publishes none, and the cells say so.
+A sweep of the consulate directory found addresses that would send a reader to the wrong building or to no building at all. Nicaragua closed its consulates in Los Angeles and Houston on 19 January 2024 and in New Orleans on 20 January 2024 — in Los Angeles by a notice on the door reading “el Consulado de la Ciudad de Los Ángeles cesa funciones a partir de hoy 19 de enero de 2024” — and the San Francisco office stopped serving the public; only Miami, New York and Washington, D.C. still operate, yet our hub said “7 consular offices” and every city page read as open. Mexico's consulates in Oklahoma City and Fresno have moved: SRE's directory (last updated 6 August 2026) gives 1131 W Sheridan Ave., Oklahoma City, OK 73106, tel. (405) 753-5622 — our page had the old 401 Northwest 16th Street and a number that no longer reaches the office — and 7435 N Ingram Ave., Fresno, CA 93711 in place of 2409 Merced Street. The Honduras and Ecuador New York pages printed 866 United Nations Plaza with a green “verified” badge: that is each country's Permanent Mission to the United Nations, which issues no passports or civil-registry documents, and the actual consulate address sat further down the same page. The Argentine consulate in Atlanta is at 53 Perimeter Center East, Suite #500, Atlanta, GA 30346 (its own site, contact page updated 19/03/2025), not 245 Peachtree Center Avenue, its email is catla@mrecic.gov.ar, and its jurisdiction is Alabama, Georgia, Kentucky, Mississippi, South Carolina and Tennessee — North Carolina belongs to the Embassy in Washington and Florida to Miami, and Argentine consulates are fixed-jurisdiction, so the old list cost readers the appointment.
 
-Primary source: <https://www.lsc.gov/about-lsc/our-grantees>
+Primary source: <https://www.vozdeamerica.com/a/cierre-de-varios-consulados-de-nicaragua-en-eeuu-mexico-y-guatemala-impacta-a-la-diaspora-del-pais-centroamericano/7485761.html>
 
-### 2026-09-04 · BENEFITS
+### 2026-09-10 · CORRECTION
 
-**Court pauses a third USCIS hold memo: Diversity Visa adjustment applications (PM-602-0193) — Medani v. Trump**
+**Correction: a geocoding bug pinned 104 consulates to the wrong city, and our sourcing lines claimed verifications that never happened**
 
-On August 28, 2026 the Northern District of California, in Medani v. Trump, No. 26-cv-6332, temporarily vacated PM-602-0193 — the memo holding adjustment-of-status applications of FY-2026 Diversity Visa selectees — pending further litigation, ordered USCIS to resume ordinary adjudication of the plaintiffs' pending applications for the rest of the DV fiscal year, and certified a subclass of FY-2026 DV selectees and derivative beneficiaries subject to the hold. USCIS's September 4, 2026 alert says it strongly disagrees but will comply pending possible further review. Added to the standing hold-policies case page (EN + ES) and the litigation tracker.
+Three sourcing defects, all fixed. First, the script that enriched our consulate dataset from OpenStreetMap matched a POI to a city with a containment test; when an OSM node carries no addr:city tag its city normalizes to the empty string, and an empty string is a substring of every city name, so the first tagless diplomatic POI in a country matched every city in it. That put 47 Mexican consulates on a node in Brownsville, Texas, 29 Guatemalan on a Miami node, 17 Honduran and 15 Dominican on Washington, D.C. nodes — published as each page's geographic source and used as its map pin. The false enrichment was stripped from 104 records and the matcher now requires a real city. Second, 32 Mexican consulate pages said their addresses were “cross-referenced against the U.S. State Department's foreign consular office directory”; that check was never run, and the Department no longer publishes such a directory — its page now renders one link and no list (read 2026-09-10) — so the sentence and the 52 pages that linked the directory were corrected. Third, 149 pages credited “datos del Ministerio de Relaciones Exteriores” for data whose own source field is the English Wikipedia list of that country's diplomatic missions; those lines now say what the data is. Separately, the by-state pages sent readers in a consulate-less state to neighbouring states chosen by geography rather than by whether they host a consulate — South Dakota's page named Iowa, Wyoming, Montana and North Dakota, all of which our own pages say host none, and the lists were circular — so all of them are now built from the consulate data and name the actual offices.
 
-Primary source: <https://www.uscis.gov/newsroom/alerts/court-order-on-diversity-immigrant-visa-program-hold-policy>
+Primary source: <https://api.openstreetmap.org/api/0.6/node/9384986783.json>
 
-### 2026-09-04 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**State Department publishes its Executive Order 14418 implementation plan: a sworn parental attestation for a child's passport when neither parent is a U.S. citizen**
+**Correction: our green-card-to-citizenship pages still described the 2008 civics test — USCIS has given the 2025 test since October 20, 2025**
 
-On September 4, 2026 the State Department posted a three-page proposed Implementation Plan for Executive Order 14418 (prospective only, effective on publication, subject to modification) and marked its EO 14160 page superseded. For a child's U.S. passport where neither parent is a U.S. citizen, an attestation from each parent, under penalty of perjury, about whether either parent meets any of the order's conditions must be submitted; if it is missing it is requested on review, and if the answers confirm no condition is met adjudication continues. State reads 'foreign government employee' to include locally hired embassy or consulate staff who are nationals of the sending country, and generally to exclude, case by case, third-country nationals, contractors, state-owned-enterprise employees and personal employees of officials. Trump v. Barbara is unchanged: a child born in the United States is a citizen at birth. USCIS, SSA and DOJ had published nothing as of September 5. Updated: the birthright case page, know-your-rights on U.S.-citizen children, and the 12 register-your-U.S.-born-child consulate pages (EN + ES).
+108 pages (54 English + 54 Spanish) told readers the naturalization civics test is 10 questions drawn from a 100-question list with 6 correct to pass, and pointed them at the 100-question study list. USCIS's own Study for the Test page says: "We will administer the 2025 naturalization civics test to aliens who file Form N-400, Application for Naturalization on or after Oct. 20, 2025. The 2025 naturalization civics test is an oral test consisting of 20 questions from the list of 128 civics test questions. You must answer 12 questions correctly to pass the 2025 test." Applicants who filed before October 20, 2025 still take the 2008 test, and applicants 65 or older with 20+ years as a permanent resident answer 10 questions from a specially selected bank of 20. Every page now states which test applies by filing date, and the generator templates that produced them were corrected too.
 
-Primary source: <https://travel.state.gov/content/travel/en/News/passports/executive-order-14418--continuing-to-protect-the-meaning-and-val.html>
+Primary source: <https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test>
 
-### 2026-09-01 · CORRECTION
+### 2026-09-10 · CORRECTION
 
-**Correction: EOIR pending caseload is 3,469,569 (FY 2026 Q3), not "3.7 million as of FY 2024"**
+**Correction: the U visa costs $0, not $440 — 16 pages quoted a fee USCIS does not charge**
 
-All 104 immigration-court-by-state pages (EN + ES) stated that EOIR had approximately 3.7 million pending cases as of FY 2024 and an average wait of 1,200-1,500 days from the Notice to Appear to the first hearing. EOIR's own adjudication statistics (Pending Cases, New Cases, and Total Completions, data generated July 24, 2026) show 3,924,993 pending at the end of FY 2024 and 3,469,569 at the end of the third quarter of FY 2026; EOIR publishes no per-court NTA-to-hearing wait. The paragraph now renders from a dataset built from that PDF.
+A cost FAQ repeated across 16 path-to-status pages said "U-visa: $440 (fee waiver available)" — and on the two U-visa pages themselves the body repeated the $440 a second time, contradicting the same page's own "Fee: FREE" heading. Form G-1055 (edition 09/09/26), the fee schedule USCIS publishes, lists Form I-918 Petition for U Nonimmigrant Status at $0 for general filing, and $0 for Supplement A and Supplement B; Form I-192 is also $0 for U petitioners. There is no fee and nothing to waive. Because those FAQ answers render as FAQPage structured data, the wrong figure was also being fed to search engines.
 
-Primary source: <https://www.justice.gov/eoir/media/1344791/dl?inline>
+Primary source: <https://www.uscis.gov/g-1055>
 
-### 2026-09-01 · CORRECTION
+### 2026-09-10 · CORRECTION
 
-**Correction: Form I-131 advance parole takes months longer than the "5-8 months" we stated, and a CBP parole fee applies at the port of entry**
+**Correction: our Selective Service table said everyone must register — five categories that Selective Service exempts were printed as "YES"**
 
-The 66 traveling-to-your-country pages (EN + ES) gave a 5-8 month processing time for Form I-131. USCIS's own processing-times system shows 23 months for advance parole and 16 months for re-entry permits (80% of cases adjudicated in the past six months); the pages now embed that live table. The same pages omitted that the USCIS fee schedule (Form G-1055, edition 05/29/26) attaches the Pub. L. 119-21 immigration parole fee, collected by CBP each time the holder seeks parole at a port of entry unless an exception applies.
+The who-must-register table on both language versions marked every row "YES," including lawful non-immigrants on current non-immigrant visas, H-2A seasonal agricultural workers, people confined for medical reasons, people continually confined by disability, and members of the Armed Forces on active duty. Selective Service's own Who Needs to Register chart marks all of those "No" or "No*", and Form N-400 agrees for non-immigrants ("Do not select 'Yes' if you were a lawful nonimmigrant for all of that time period"). The cause was a rendering bug, not bad data: our parsed dataset had the correct "no" values, but the page generator truth-tested a string, and the non-empty string "no" is true in Python, so every row printed YES. The generator and the pages are both fixed. The same pages also said the registration deadline is 30 days BEFORE the 26th birthday (it attaches within 30 days AFTER the 18th birthday, with late registration accepted until the day you turn 26), cited the wrong N-400 item (it is Part 9, Items 22.a.-22.c. on the 01/20/25 edition, not Part 11 Question 38), and described a 5-to-8-year naturalization bar that does not exist.
+
+Primary source: <https://www.sss.gov/wp-content/uploads/2026/07/WhoNeedstoRegister.Final.pdf>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: the expanded expedited-removal designation became operative July 17, 2026 — not June 23**
+
+Four pages headlined June 23, 2026 as the date the January 2025 nationwide expansion came back into force. On June 23 a D.C. Circuit panel did vacate the district court's stay in Make the Road New York v. Mullin, No. 25-5320 — but the Clerk withheld issuance of the mandate the same day, so the policy remained blocked. The government moved on June 26 for a stay pending appeal, and the court granted it on July 17, 2026 while denying early issuance of the mandate. AILA's summary of that order (AILA Doc. No. 26062463) reads: "The expansion designation is now unblocked and in effect." The window matters: an interior expedited-removal order issued between June 23 and July 17, 2026 was issued while the expansion was still blocked.
+
+Primary source: <https://www.aila.org/library/d-c-circuit-allows-expansion-of-expedited-removal>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: EB-5 filing fee is $4,675, not $11,160 — and the capital lock-up is 2 years, not 5**
+
+Both EB-5 pages quoted an $11,160 filing fee, a "12-24 month" I-526E wait, an at-risk rule broken by "returning funds before 5+ years," a total USCIS-fee line of "~$13,000-$15,000," a Regional Center Program "currently SUSPENDED periodically," and in-state tuition as a benefit derivatives receive. Form G-1055 (ed. 09/09/26) prices Form I-526E at $3,675 plus the separate $1,000 EB-5 Reform and Integrity Act fee on an initial filing — $4,675 — and the three-form total (I-526E + $1,000 + I-485 $1,440 + I-829 $3,750) is $9,865. USCIS Policy Manual 6 USCIS-PM G.2 says: "For petitions filed on or after March 15, 2022, the capital must be expected to remain invested for not less than 2 years." The 2022 Act reauthorized the Regional Center Program, ending the lapse-and-reauthorize cycle. USCIS's live 80th-percentile figure for I-526E at the Immigrant Investor Program Office is about 35 months. A green card makes a person eligible to establish state residency for tuition; it does not itself confer in-state rates.
+
+Primary source: <https://www.uscis.gov/policy-manual/volume-6-part-g-chapter-2>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: 14 utility pages sent readers to apply for the Affordable Connectivity Program, which ended June 1, 2024**
+
+A body bullet on 14 pages offered "ACP (Affordable Connectivity): $30/month for internet, $75 on tribal lands," and a FAQ answer on 7 of them named the ACP as a live low-income discount — while one of the same pages already said elsewhere that the program had ended. USAC, which administered the program for the FCC, states: "The ACP ended on June 1, 2024, due to a lack of additional funding from Congress." There is no successor. Every one of those pages now points to Lifeline instead, which is live: up to $9.25 a month off phone or internet, and up to $34.25 a month on qualifying Tribal lands. Note for the record: the FCC's own ACP fact sheet returns HTTP 403 to automated requests, so this was verified at USAC, the FCC's administrator, and at lifelinesupport.org.
+
+Primary source: <https://www.usac.org/about/affordable-connectivity-program/>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: HPV is not a required immigration vaccine — 30 vaccination pages listed it as one**
+
+A context block repeated on 30 pages (15 English + 15 Spanish) listed "HPV (age 9-26 catch-up)" among the vaccinations CDC's Technical Instructions for Civil Surgeons require, and dated those instructions to a "most recent major update 2023." CDC's vaccination page for civil surgeons lists exactly these required vaccines: diphtheria, tetanus, pertussis, polio, measles, mumps, rubella, rotavirus, Haemophilus influenzae type b, hepatitis A, hepatitis B, meningococcal disease, varicella, pneumococcal disease and influenza. HPV does not appear anywhere on it, and neither does zoster; the page's own last-updated date is March 11, 2025. A reader who believed the old text could have paid for a three-dose HPV series USCIS never asks for.
+
+Primary source: <https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/vaccination.html>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: a Form I-693 signed on or after November 1, 2023 has no 2-year expiry — it lasts as long as the application it was filed with**
+
+The immigration medical exam hub said the I-693 is "valid for 2 years from the date the civil surgeon signs," contradicting its own child pages. USCIS Policy Manual 8 USCIS-PM B.4 says a properly completed Form I-693 signed on or after November 1, 2023 "can only be used as evidence to show that the applicant is not inadmissible under the health-related grounds for the entire period the immigration benefit application with which the Form I-693 is submitted is pending," while one signed before that date "retains evidentiary value for 2 years from the date of the civil surgeon's signature." The same pages also linked to my.uscis.gov/findadoctor for finding a civil surgeon, which now returns HTTP 404; the working page is uscis.gov/tools/find-a-civil-surgeon, and that link was replaced on all four pages that carried it.
+
+Primary source: <https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: a federal-document apostille costs $20, not $8 — and China and Canada now accept apostilles**
+
+Both apostille pages priced the State Department's Office of Authentications service at about $8 per document and listed China and Canada as non-Hague countries needing full embassy legalization. The Schedule of Fees for Consular Services, 22 CFR 22.1, item 46, reads: "Authentications (by the Office of Authentications domestically): (a) Each basic authentication service $20." The HCCH status table for the 1961 Apostille Convention shows China acceded on 8 March 2023 with entry into force 7 November 2023, and Canada on 12 May 2023 with entry into force 11 January 2024. Both now accept an apostille.
+
+Primary source: <https://www.ecfr.gov/current/title-22/chapter-I/subchapter-J/part-22/section-22.1>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: our own methodology page advertised four automated monitors that do not exist, and a 90-day re-verification guarantee we do not meet**
+
+The methodology page (both languages) listed an EOIR statistics scraper, a state DMV contact verifier, a per-country consulate verifier and a daily TPS designation tracker, and described the USCIS processing-times pull as weekly. None of those four exists in our scheduled workflows, and the processing-times pull is monthly and currently run by hand because USCIS renders the data behind Cloudflare. The page also promised that "every 90 days minimum, every page is re-verified" — a promise a reader can falsify from our own Last Verified dates. The monitor table now lists only what actually runs (Federal Register, CBP border waits, State Department visa waits and litigation dockets daily; FX rates weekly; Visa Bulletin plus fee-change watcher monthly on the 16th; HRSA health-center data quarterly; a weekly source-link health check; and the hand-run monthly USCIS processing-times pull), says in plain terms which monitors do not exist, and replaces the 90-day guarantee with the honest version: each page prints the date it was last checked. The same 90-day promise was corrected on the editorial-standards pages, and the meta description's "6,000+ pages" was corrected to 4,500+ — our live sitemaps carry 2,268 English and 2,268 Spanish URLs.
+
+Primary source: <https://migrantusa.com/en/sitemap.xml>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: at least eight federal Circuits protect recording the police, not six — and Riley bars searching your phone, not seizing it**
+
+Both recording-rights pages counted six Circuits and told readers in the remaining Circuits the question was unsettled. Irizarry v. Yehia, 38 F.4th 1282 (10th Cir. 2022) says: "We recognize that the right exists and was clearly established when the incident occurred" — which is what defeats qualified immunity in Colorado, Kansas, New Mexico, Oklahoma, Utah and Wyoming. Sharpe v. Winterville Police Department, 59 F.4th 674 (4th Cir. 2023) holds "that livestreaming a police traffic stop is speech protected by the First Amendment" (the officer there still received qualified immunity because the right was not yet clearly established in that circuit). Both pages also said officers "cannot lawfully seize your phone, search it, or delete recordings without a warrant." Riley v. California, 573 U.S. 373 (2014) is narrower: its holding "is not that the information on a cell phone is immune from search; it is that a warrant is generally required before a search," and officers "remain free to examine the physical aspects of a phone" and may secure it while seeking that warrant. Telling readers a seizure is unlawful invites the confrontation the page warns against. The Spanish page separately named 42 U.S.C. 1983 as the remedy on a page about filming ICE; Section 1983 reaches only state actors, so both pages now say that a claim against a federal officer would be a Bivens action, sharply narrowed by Egbert v. Boule, 596 U.S. 482 (2022).
+
+Primary source: <https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010110708555.pdf>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: an ICE detainer's 48 hours exclude Saturdays, Sundays and holidays — across a holiday weekend that is four or five days**
+
+Four pages said a detainer asks a jail to hold someone "up to 48 hours" past their release. The regulation, 8 CFR 287.7(d), says the agency "shall maintain custody of the alien for a period not to exceed 48 hours, excluding Saturdays, Sundays, and holidays." That exclusion is the number a family actually plans a pickup around, so all four pages now carry it.
+
+Primary source: <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287/section-287.7>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: Sudan and Ukraine TPS run THROUGH October 19, 2026 under extensions — neither is terminated**
+
+Our I-821 pages said Sudan and Ukraine "terminate October 19, 2026." USCIS's Sudan country page reads: "TPS Continues Through: Oct. 19, 2026, under the extension of Sudan's TPS designation announced in the Jan. 17, 2025, FRN (90 FR 5944)"; the Ukraine page reads "TPS Designated Through: Oct. 19, 2026" (90 FR 5936). Neither has a published termination notice, and DHS can extend either again — October 19 ends an extension period, it does not terminate a designation. Both pages now also carry the separate, earlier date that the country pages publish: the EAD auto-extension by Federal Register notice ended April 19, 2026, which is proof of status rather than status itself.
+
+Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-sudan>
+
+### 2026-09-10 · CORRECTION
+
+**Correction: four USCIS wait times on our pages were far shorter than USCIS's own published figures**
+
+Eight pages quoted wait ranges that our own USCIS processing-times dataset contradicts. VAWA self-petitions (Form I-360) were described as "18-36 months" and, in the page metadata, as "about 15.5 months" — 15.5 was the median across four unrelated I-360 categories, not the VAWA figure; USCIS's 80th-percentile figure for VAWA is about 51.5 months. The I-601A provisional unlawful-presence waiver was given as 12-18 months against USCIS's 27.5. The I-526E was given as 12-24 months against 35. Removing conditions on residence (Form I-751) was given as 18-36 months against 33.5 months at service centers and 37.0 across field offices. The two I-360 pages now render the live dataset table instead of a hand-typed one, so the figures cannot drift again, and every other page states the USCIS figure with a pointer to check it live. Understating an I-601A wait by a year is the difference between a planned trip abroad and a family stranded there.
 
 Primary source: <https://egov.uscis.gov/processing-times/>
 
-### 2026-09-01 · CORRECTION
+### 2026-09-10 · CORRECTION
 
-**Correction: the OpenSky Secured Visa requires US citizenship or permanent residence, so it is not an option for most ITIN-only applicants**
+**Correction: replacing a Form I-94 costs $584, not $24 — the $24 is an additional fee sent separately**
 
-Our 104 ITIN-banking-by-state pages listed the OpenSky Secured Visa as available to all ITIN holders. The card's own disclosure (Capital Bank, N.A.) requires the applicant to be a United States citizen or permanent resident and carries a $35 annual fee. The pages and the credit-building guide now say so; the Capital One Quicksilver Secured, which Capital One lists as ITIN-eligible, remains.
+A fee-comparison table on six pages showed Form I-94 replacement as "Free for most" before H.R.1 and "$24" after. Form G-1055 (ed. 09/09/26) shows Form I-102 at $560 general filing, with the Pub. L. 119-21 I-94 fee of $24 listed as an "Additional Form I-94 Fee" that "you must submit... separately from the filing fee." So the before figure was never free and the after figure is $584. A reader who budgeted $24 would have had the filing rejected for the wrong fee.
 
-Primary source: <https://app.openskycc.com/files/tc-sky1-073.pdf>
+Primary source: <https://www.uscis.gov/g-1055>
 
-### 2026-09-01 · COURTS
+### 2026-09-10 · CORRECTION
 
-**The government asks the Supreme Court to decide the interior-arrest bond split — a petition, not a grant (Rhoney v. Barbosa da Cunha, No. 26-104)**
+**Correction: most Advance Parole categories cost $580 filed online, not a flat $630**
 
-On July 23, 2026 the federal government filed a petition for a writ of certiorari asking the U.S. Supreme Court to review the Second Circuit's decision that immigrants arrested in the interior are detained under 8 U.S.C. § 1226(a) — where an immigration judge can set bond — rather than under § 1225(b)(2)(A) mandatory detention. It is docketed as Rhoney v. Barbosa da Cunha, No. 26-104, from Second Circuit No. 25-3141 (decided April 28, 2026), and the respondent's response was filed August 21, 2026. The Court has NOT granted certiorari: a petition is not a grant, the docket shows no conference date, and until the Court acts the detention rule in each circuit is unchanged. Three other things moved the split since our last review: the Eighth Circuit denied rehearing en banc and panel rehearing in Herrera Avila on June 17, 2026 and issued its mandate on June 25; the Tenth Circuit sided with the immigrants in Santillan Quiroz v. Mullin on June 30, 2026; and the Ninth Circuit did the same in Rodriguez Vazquez v. Bostock on July 30, 2026. The count is now five circuits for a bond hearing (2nd, 6th, 9th, 10th, 11th) against two for mandatory detention (5th, 8th), with the Seventh Circuit's decision failing to command a majority. One caveat on that count: the Eleventh Circuit withheld its mandate on May 13, 2026 and the government's petition for rehearing en banc, filed June 22, 2026, was still pending as of that docket's August 28, 2026 update — so its ruling is not final. Separately, the Supreme Court has set Genalo v. Black, No. 25-886, for oral argument on Tuesday, October 13, 2026 — that case is about prolonged detention under § 1226(c) and will not by itself resolve this split.
+Both Form I-131 pages quoted a flat $630 for Advance Parole. Form G-1055 (ed. 09/09/26) lists $630 paper / $580 online for the pending-I-485, pending-initial-I-821, DED, DACA and TPS Travel Authorization categories; only the Re-Entry Permit row is paper-only at $630, and T and U holders pay $0. The pages already carried the separate Pub. L. 119-21 immigration parole fee that CBP collects at the port of entry each time an Advance Parole document is used; that remains unchanged.
 
-Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html>
+Primary source: <https://www.uscis.gov/g-1055>
 
-### 2026-08-28 · COURTS
+### 2026-09-10 · CORRECTION
 
-**Second court blocks the USCIS asylum/benefits hold memos — N.D. California enjoins PM 602-0192 and PM 602-0194, certifies a class (Red Eagle Law v. Edlow)**
+**Correction: if your DACA lapsed more than a year ago, the filing is an initial request — and USCIS is barred from granting those**
 
-A second court has now blocked the same policy memos. On August 24, 2026, the U.S. District Court for the Northern District of California issued an order in Red Eagle Law, L.C. v. Edlow, No. 26-cv-04850-CRB, enjoining PM 602-0192 and PM 602-0194 and ordering USCIS to adjudicate applications in the normal course. The court also certified a class: citizens or natives of the 39 countries listed in Proclamations 10949 or 10998 (or the Palestinian Authority) who have a pending asylum application (Form I-589) or another pending USCIS benefit application that was subject to the hold memos and had not received a final decision as of the certification date. USCIS updated its 'Court Order on Hold Policies' alert on August 28, 2026: it says it strongly disagrees with the order but will follow its terms pending possible further judicial review, and will issue updated instructions. USCIS has not said how this injunction interacts with the First Circuit's August 14 order reviving the Comprehensive Re-Review in the Dorcas appeal.
+The DACA renewal calculator told readers that a DACA expired more than a year ago "may have to be filed as if it were a new request, which is more complex and uncertain." USCIS's DACA page is blunter: "USCIS will continue to accept initial requests but will not process initial DACA requests at this time," and "DHS is prohibited from granting initial DACA requests and related employment authorization under the final rule." There is no path to a grant right now, though the fees would still be charged. The same pages said filing more than 150 days out "can lead to rejection"; USCIS says only that filing earlier than 150 days "will not result in a faster decision," and names no rejection consequence.
 
-Primary source: <https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies>
+Primary source: <https://www.uscis.gov/DACA>
 
-### 2026-08-25 · ENFORCEMENT
+### 2026-09-10 · RULE-CHANGE
 
-**CBP establishes four Customs-Enforcement Areas at sea — South Florida, Gulf Coast of Texas, Central/Southern California and Puerto Rico**
+**DHS interim final rule: a child born on or after September 4, 2026 to a “foreign government employee” can register as a permanent resident — comments close October 5, and a Maryland injunction limits who it reaches**
 
-Effective August 25, 2026, the CBP Commissioner declared four Customs-Enforcement Areas under the Anti-Smuggling Act of 1935 (19 U.S.C. 1701), published as CBP Dec. No. 26-17 at 91 FR 54800. Each area sits on the high seas adjacent to but OUTSIDE US customs waters and runs out to 24 nautical miles from the baseline — it covers water further offshore, not more land, and does not change what agents may do at an inland checkpoint, on a bus, or at a home. Inside a CEA, customs officers may board any vessel, examine the vessel and any merchandise or person on board, bring them into port, and pursue, seize or arrest, and may enforce 18 U.S.C. 2237 against a master who fails to heave to or obstructs a boarding. The four areas cover the South Florida coast including the Florida Keys, the Texas Gulf Coast from the Sabine River to the Mexican maritime boundary, the California coast from Ano Nuevo Lighthouse south to the Mexican maritime boundary including eight offshore islands, and the waters encircling Puerto Rico including Mona, Desecheo, Vieques and Culebra. CBP wrote the areas to operate independently, so enjoining one leaves the others in force.
+The Federal Register printed DHS's interim final rule on September 9, 2026 (FR doc 2026-18345, RIN 1615-AD24, DHS Docket No. USCIS-2026-0496), amending 8 CFR parts 101 and 264. It decides no one's citizenship: Trump v. Barbara still stands, a child born in the United States to undocumented parents is a U.S. citizen at birth, and every Executive Order 14418 category requires that neither parent is a U.S. citizen. What the rule changes is the registration mechanism — it replaces “foreign diplomatic officer” with the broader “foreign government employee,” which includes persons employed by a foreign embassy or consulate who are nationals of that foreign country and excludes third-country nationals, contractors, personal employees of officials and most state-owned-enterprise employees, and it lets those children voluntarily register as lawful permanent residents on Form I-485, with Form G-325R revised for those who do not. In the rule's own words it “is effective on September 4, 2026” and “will apply to children born to foreign government employees on or after September 4, 2026; children born to a foreign government employees prior to that date will be treated consistently with the regulations in place at the time of their birth,” and comments “must be received on or before October 5, 2026.” DHS adds that it will not implement the rule against any member of the certified class in Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md.), while the preliminary injunction entered there on September 2, 2026 stands; the government moved to dissolve or stay that injunction on September 8, 2026 (ECF 183) and the motion is pending. The State Department published its own implementation plan on September 4; the Social Security Administration and the Justice Department had published nothing as of September 10, 2026, and any family with a child born on or after September 4, 2026 to a parent employed by a foreign government, embassy, consulate or international organization should take the question to a licensed immigration attorney.
 
-Primary source: <https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas>
+Primary source: <https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the>
 
-### 2026-08-24 · BENEFITS
+### 2026-09-10 · CORRECTION
 
-**Correction: community health center pages no longer claim patient information is never shared with immigration authorities**
+**Correction: our Section 8 eligibility list invented one immigration category and left out four real ones**
 
-All 52 state community-health-center (FQHC) pages carried the blanket reassurance that patient information is not shared with immigration authorities. That is an overclaim after the 2025 HHS/CMS–ICE Medicaid data-sharing agreement, which a federal court only partially blocked on December 29, 2025. The pages now explain the HIPAA protection, the Medicaid-enrollment caveat, and that sliding-fee payment creates no Medicaid record.
+Our housing hub told readers that the eligible statuses for Section 8 and public housing are US citizen, permanent resident, refugee or asylee, Cuban-Haitian entrant and "VAWA self-petitioner". A VAWA self-petition is not on the statutory list at all, and the list omitted four categories that are: people paroled under INA 212(d)(5), people granted withholding of removal under INA 241(b)(3), people with temporary or permanent residence under INA 245A, and Marshall Islands, Micronesia and Palau citizens under the Compacts of Free Association, who also get a local preference under 24 CFR 5.506(c). Rewritten to the categories in 42 U.S.C. 1436a(a) as 24 CFR 5.506(a) applies them, on 2 pages (EN + ES) and in the generator scripts that produce them. VAWA still gives survivors separate housing protections — confidentiality, continued occupancy and emergency transfer — but not voucher eligibility.
 
-Primary source: <https://clearinghouse.net/case/46754/>
+Primary source: <https://www.law.cornell.edu/uscode/text/42/1436a>
 
-### 2026-08-21 · FEES
+### 2026-09-10 · CORRECTION
 
-**H.R.1 fees appeal: emergency stay motion withdrawn — First Circuit sets merits briefing, opening brief due September 30, 2026**
+**Correction: our SNAP pages overstated the average benefit, printed a household-of-four figure above the legal maximum, and named an agency that does not exist in most states**
 
-In the H.R.1 immigration-fees appeal (Venezuelan Ass'n of Mass. v. USCIS, 1st Cir. No. 26-1893), the plaintiffs withdrew their renewed emergency stay motion on August 20, 2026, and on August 21 the court granted the withdrawal and set a merits briefing schedule with the appellants' opening brief due September 30, 2026. No emergency ruling will issue, so the one-year cap on TPS-based work permits keeps operating while the appeal is briefed.
+Three template defects were repaired on 102 SNAP pages (51 EN + 51 ES). (1) "Average: $200-$300 per person/month" — USDA FNA reports the actual FY2025 national average monthly benefit per person as $188.30, so the whole quoted range sat above the real figure. (2) "Household of 4: ~$800-$1,200/month" — the FY2026 federal maximum for a four-person household in the 48 states and DC is $994, so the upper bound exceeded the legal maximum by $206, on pages whose own allotment table already printed $994. (3) "Visit the [State] Department of Human Services" appeared on all 50 state pages, but most states have no agency by that name; the step now points at the official contacts block already on each page, built from the USDA FNA state directory. The generator scripts were corrected too.
 
-Primary source: <https://www.courtlistener.com/docket/73728632/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
+Primary source: <https://www.fna.usda.gov/sites/default/files/resource-files/snap-annualsummary-8.pdf>
 
-### 2026-08-20 · TAXES
+### 2026-09-10 · CORRECTION
 
-**Treasury/IRS propose restricting the refunded portion of the CTC, EITC, AOTC, and adoption credit to citizens and PRWORA qualified aliens**
+**Correction: we told mixed-status families not to include an ineligible member's information — federal rules require the state to count that income**
 
-Proposed regulations published Aug. 20, 2026 (REG-119882-25, 91 FR 53812) would treat the refunded portion of the Child Tax Credit, Earned Income Tax Credit, American Opportunity Credit, and adoption credit as a federal public benefit under PRWORA. Only U.S. citizens, U.S. nationals, and PRWORA qualified aliens (lawful permanent residents, asylees, refugees, and certain other groups) could receive the refunded portion; on a joint return one qualifying spouse suffices, and the non-refundable portion that offsets tax owed is unaffected. This is a proposal, not current law — it would apply to tax years ending on or after the date final regulations publish. Comments are open through Oct. 5, 2026.
+On 102 SNAP pages (51 EN + 51 ES) the mixed-status advice read "Don't include ineligible members' information" / "NO incluya información sobre miembros inelegibles". Under 7 CFR 273.11(c)(3)(i) the State agency "must count all or, at the discretion of the State agency, all but a pro rata share, of the ineligible alien's income and deductible expenses and all of the ineligible alien's resources", and a SNAP household under 7 CFR 273.1(a) is everyone who lives together and customarily buys and prepares food together. Following our old wording produced an under-reported application and an overpayment the state can bill back. The corrected text separates the two rules that actually apply: the non-applicant's status does not have to be documented (7 CFR 273.4(b)(2)), but their income and resources are counted for the eligible members' allotment.
 
-Primary source: <https://www.federalregister.gov/documents/2026/08/20/2026-16985/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the>
+Primary source: <https://www.ecfr.gov/current/title-7/section-273.11>
 
-### 2026-08-20 · TAXES
+### 2026-09-10 · CORRECTION
 
-**IRS launches a digitally authenticated Tax Compliance Report in Individual Online Account**
+**Correction: work-authorized non-residents are not categorically shut out of Medicare, and DC's Health Care Alliance no longer takes new adults 26 and older**
 
-On Aug. 20, 2026 the IRS announced a downloadable Tax Compliance Report (IR-2026-97), available through IRS Individual Online Account, for use when applying for a job, a loan, a government benefit, or another service that requires tax-compliance information. Each report carries an IRS-issued digital certificate so receiving organizations can verify its authenticity. It complements, not replaces, the five transcript types.
+Two categorical claims were repaired. Our Medicare page said a work-authorized non-permanent-resident is "generally not eligible for Medicare". 42 U.S.C. 426(a) grants Part A at 65 to anyone entitled to monthly Social Security benefits under section 402 and sets no citizenship or green-card condition; 42 U.S.C. 402(y) pays those benefits to an alien who is lawfully present, which 8 CFR 1.3 defines to include deferred action, TPS and DED. With 40 quarters, that person gets premium-free Part A and can then enroll in Part B under 42 U.S.C. 1395o(1). What is closed is the buy-in, open under 1395o(2) only to citizens and LPRs of five continuous years. Separately, our Medicaid state table said DC's Alliance covers "all adults regardless of status"; DHCF's own published changes for October 1, 2025 are "No new enrollees 26 and older" and an income limit cut "from 215% of the federal poverty level to 138%".
 
-Primary source: <https://www.irs.gov/newsroom/irs-launches-digitally-authenticated-tax-compliance-report>
+Primary source: <https://www.law.cornell.edu/uscode/text/42/426>
 
-### 2026-08-18 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**USCIS publishes the public-charge framework that replaces the 2022 rule on September 18**
+**DMV pages: we told readers a non-REAL-ID license means you cannot board a domestic flight, cited the wrong federal rule, and said most states issue a state ID regardless of status**
 
-On Aug. 18, 2026 USCIS published Policy Manual guidance, effective Sept. 18, 2026, that supersedes the 1999 Interim Field Guidance and governs public-charge determinations for I-485s filed on or after that date. Officers weigh five statutory factors case-by-case. Means-tested benefits received before Sept. 18, 2026 are considered only if they were cash assistance or long-term institutionalization (the 2022-rule limits); benefits the applicant receives on or after that date can all be considered — USCIS names cash assistance, housing assistance, food stamps, and college financial aid. Public-charge bonds (Form I-945) return, by USCIS invitation in a Notice of Intent to Deny only.
+A source-by-source re-read of the 127-page DMV cluster on Sept. 10, 2026 corrected six template claims and eight state-specific ones. (1) Every state page carried an absolute: without a REAL ID "you cannot board a domestic commercial flight in the US." TSA's own identification page now says the opposite: "Starting February 1, 2026, if you are unable to provide the required acceptable form of ID at a TSA checkpoint, you will have the option to pay a $45 fee to use TSA ConfirmID. TSA will then attempt to verify your identity so you can begin the airport security screening process." TSA puts the check at "an average of 10-15 minutes; however, it could take 30 minutes or more." All 106 English and Spanish pages that carried the sentence now say that, and that you are still refused if TSA cannot verify you; the /dmv/ hub and 13 more state pages carried the same absolute in other words ("cannot be used to board a domestic flight") and now say the card is not accepted as identification, which is what is actually true. (2) The same block cited 49 CFR 1560 as the REAL ID authority on 104 pages. 49 CFR part 1560 is the Secure Flight Program and contains no REAL ID provision; the REAL ID rule is 6 CFR part 37, and the pages now cite 6 CFR 37.5(b) plus 37.5(d)(4), which lets federal agencies phase enforcement in but requires them to "achieve full enforcement of the requirements of paragraphs (b) and (c) of this section no later than May 5, 2027." (3) The non-driving state-ID row on 104 pages said "Status not required in most states for ID-only." NCSL counts "Nineteen states and the District of Columbia" whose laws let unauthorized immigrants obtain a credential - a minority, not most - and not all of those extend it to the ID card. (4) The Florida SB 1718 pages named only Connecticut's "Drive Only" and Delaware's "Driving Privilege Only" classes. FLHSMV publishes a second list on the same page - California, Colorado, DC, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Utah, Vermont, Virginia and Washington - whose non-REAL-ID licenses "may be invalid in the state of Florida if presented by a driver who is not lawfully present in the United States." Our own page then advised readers to consider California, Illinois, New Jersey, New York or Washington. (5) The Colorado CDL row gave no warning that, per the Colorado DMV, "effective Monday, September 29, 2025, the Colorado DMV has paused the issuance and renewals of term-limited (non-domiciled) Commercial Driver Licenses (CDLs) and Commercial Learner Permits (CLPs) to temporarily lawfully present residents until further notice." (6) The FAQ "Do they accept matricula consular?" asserted on 40 pages that the state accepts it "under certain circumstances" with no state source; it now sends readers to each agency's acceptable-document list. State fixes: Colorado's Standard fees had been read off the REAL ID table and were stale ($34 / $21.50 / $13.30 become the current $36 / $23.00 / $14.00); the Colorado credential's banner was quoted truncated, hiding the voting and public-benefit limits, and its 3-year validity and CRS 42-2-501 to 506 basis were missing; "such as providing state tax returns" was NCSL's 2013 description of SB13-251 and appears nowhere in Colorado's current document set; Arizona's "8 years; expires when driver turns 65" contradicted A.R.S. 28-3171(A), which makes the license valid until the 65th birthday and keys five-year renewals to age 60; Hawaii's limited-purpose license was cited to HRS 286-101.5 instead of 286-104.5, whose subsection (c) requires a reverse-side legend broader than "LIMITED PURPOSE"; a scraped Wikipedia sentence was serving as Hawaii's agency NAME in five places on each Hawaii page; New Jersey and New York said lawful status is required for the standard license when NJ MVC issues it "without regard to immigration status" and NY's Green Light Law "allows all New Yorkers age 16 and older to apply for a standard, not-for-federal purpose, non-commercial driver license or learner permit regardless of their citizenship or lawful status in the United States" (New York's non-driver ID card is the exception NY DMV names: "The Green Light Law does not apply to Non-Driver ID cards."); and the Minnesota fee link on four pages, which those pages' own cost FAQ defers to, is a 404 - the whole dps.mn.gov tree returns 404 today - so those cells now point to the fee schedule in Minn. Stat. sec. 171.06 - the same statute that settles two more Minnesota rows, since subd. 3(d) says the application "must not provide for identification of ... the applicant's citizenship, immigration status, or lawful presence in the United States" and bars DVS from asking, while our table said lawful status was required for both the standard license and the ID card.
 
-Primary source: <https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination>
+Primary source: <https://www.tsa.gov/travel/security-screening/identification>
 
-### 2026-08-18 · TPS
+### 2026-09-10 · CORRECTION
 
-**Ethiopia TPS terminated — the last court stay is lifted**
+**Correction: two of the four immigration hotlines we published on 104 legal-aid pages were numbers that do not exist**
 
-On Aug. 18, 2026 Judge Brian E. Murphy of the District of Massachusetts lifted the administrative stay in African Communities Together v. Noem (No. 1:26-cv-10278, ECF 103), dismissing Counts I-IV and VI-VIII, denying dismissal of Count V, denying the postponement motion as moot, and ordering a joint discovery and briefing schedule by Aug. 25, 2026. USCIS archived the Ethiopia TPS page the same day and E-Verify guidance issued Aug. 18 (superseding Aug. 6) states the designation is terminated, effective Aug. 18, 2026 — A12/C19 EADs are no longer valid and employers must reverify. Ethiopia's promised Form I-9 date was Aug. 19, so it was cut one day short. No TPS designation is court-stayed any more.
+Every state legal-aid page carried a "Specific-case hotlines" block listing "Asylum: RAICES (1-866-RAICES-4)" and "Detention: NIPNLG (1-800-867-2924)". Neither number is published by the organization it was attributed to. RAICES' own contact page publishes "+1 (833) 372-4237" and nothing in the 866 range; 1-866-RAICES-4 dials 1-866-724-2374, a number RAICES does not list anywhere. NIPNLG's contact page publishes exactly two numbers, "Phone: (617) 227-9727" and "Fax: (617) 227-5495", and the string 867-2924 does not appear on the site at all. A person in detention, or a family trying to reach an asylum organization, was being handed a dead or misrouted number at the moment it mattered most. All 104 pages (52 EN + 52 ES) now carry RAICES 1-833-372-4237 and the National Immigration Project (NIPNLG) (617) 227-9727, plus the ICE ERO Detention Reporting and Information Line 1-888-351-4024, which ICE publishes at ice.gov/contact/ero. The two numbers in the same block that were already correct were re-verified at the source and left alone: the National Domestic Violence Hotline publishes "1.800.799.SAFE (7233)" and the National Human Trafficking Hotline publishes "1-888-373-7888". The generator that stamps this block onto every state page was corrected in the same pass.
 
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-ethiopia-release-aug-18-2026>
+Primary source: <https://nipnlg.org/contact>
 
-### 2026-08-17 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**Overtime corrected for daily-overtime states: California, Alaska, Nevada, Colorado**
+**Correction: our USCIS office pages sent readers to "myUSCIS.com", a lookalike domain that redirects to a private medical-exam site, and told them a few walk-in slots exist**
 
-Our state wage pages stated overtime as the federal 1.5x-over-40h/week rule everywhere. Four states guarantee more: California (1.5x after 8h/day or 40h/week; 2x after 12h/day — Labor Code §510), Alaska (1.5x after 8h/day or 40h/week — Alaska Stat. §23.10.060), Nevada (1.5x after 8h in a 24-hour period for workers earning under 1.5x the state minimum wage — NRS 608.018), and Colorado (1.5x after 40h/week, 12h/workday, or 12 consecutive hours — COMPS Order Rule 4.1.1). Those four pages now state the state rule.
+All 104 USCIS field-office pages (52 EN + 52 ES) told readers to schedule an InfoPass appointment "via myUSCIS.com". Checked on 2026-09-10, https://myuscis.com answers HTTP 301 with Location: http://www.uscismedicalexams.com/ — a private commercial site, not a government one. The USCIS account portal is my.uscis.gov, which does brand itself "myUSCIS"; the word was right, the ".com" turned it into exactly the lookalike-domain pattern USCIS's own Avoid Scams program warns about. The pages now point to my.uscis.gov and give the USCIS Contact Center number USCIS publishes, 800-375-5283 (TTY 800-767-1833). The same pages' appointment FAQ said "few walk-in slots available", contradicting a line further down the same page; USCIS states categorically: "USCIS field offices do not allow walk-ins. You must have an appointment to visit an office." That FAQ now says an appointment is required for every purpose. The cluster hub also said "USCIS operates 93 field offices nationwide" and "walk-ins generally not allowed". Two independent sources refute 93: the USCIS Field Operations Directorate page says the directorate includes "88 field offices", and USCIS's own field-office-by-ZIP file dated 2026-07-29 lists 92 domestic field offices. The hub now quotes both figures rather than picking one, and states the no-walk-ins rule as USCIS states it. The two generator scripts that write this block were corrected in the same pass.
 
-Primary source: <https://www.dir.ca.gov/dlse/faq_overtime.htm>
+Primary source: <https://www.uscis.gov/about-us/find-a-uscis-office/field-offices>
 
-### 2026-08-16 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**El Salvador TPS: pending EAD renewals extended by USCIS notice to Sept. 9, 2026**
+**Correction: we called free IRS Taxpayer Assistance Centers fee-based Certifying Acceptance Agents, printed the word "none" where an address should be, and hid "this TAC is currently closed" on 34 offices**
 
-USCIS's El Salvador TPS page confirms that beneficiaries whose A12/C19 EAD renewal is still pending receive a notice (mail + myUSCIS) extending the expired card to September 9, 2026; qualifying card front dates go back to March 9, 2018. Nothing is announced beyond Sept. 9, 2026. Our El Salvador TPS pages now carry the mechanism EN+ES.
+Three defects across the 104 IRS-office pages (52 EN + 52 ES). (1) Every page said "many TACs are designated as Certifying Acceptance Agents" and its FAQ named an "ITIN-Certifying Acceptance Agent" designation. The IRS's own "Compare options to apply in person" table lists them as separate options: "IRS Taxpayer Assistance Center with ITIN services | Free | Reviews W-7: Yes | Helps complete W-7: No | Authenticates most supporting documents: Yes" against "Certifying Acceptance Agent | Fee-based | Yes | Yes | Yes". Calling a free IRS office a CAA implied a charge that does not exist, and implied help completing the W-7 that a TAC does not give. (2) The office tables printed the IRS locator's literal placeholder string "none" into the Address, Phone and Hours cells for 35 offices — a row that promised an office in a city and then showed nothing — while dropping the locator's note for that office. Our own dataset held the missing hours all along: the Cedar Rapids, Iowa row showed no address, no phone and no hours while the data said "This TAC opens 10 a.m. - Noon Tuesday and Thursday ONLY". The same dropped-notes bug hid "*This TAC is currently closed*" on 34 offices, 23 of which rendered a full address, a phone and "8:30am - 4:30pm" hours — the pages were sending readers to closed IRS offices. Empty cells now say so, and the locator's standing note is printed; dated one-off notes are deliberately not surfaced, because a May-dated closure would read as current. (3) The freshness line stamped a September verification over a directory snapshot taken 2026-05-27 (only DC, HI, MT and SC were reconciled later, on 2026-07-22). Each page now says which date the directory was captured and separately when the page was reviewed. The generator was fixed, and so was the CI gate that had been requiring the pages to print "none" — it now imports the renderer's own cell composer, so gate and generator cannot drift again.
 
-Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador>
+Primary source: <https://www.irs.gov/tin/itin/how-to-apply-for-an-itin>
 
-### 2026-08-14 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**New I-539 and I-765 form editions Sept. 15 -- older editions rejected, no grace period**
+**Correction: our BIA-recognized directory listed organizations DOJ does not recognize, ran on a roster four and a half months old, and called a listing count an organization count**
 
-USCIS announced that revised 09/15/26 editions of Form I-539 (extend/change status) and Form I-765 (work permit) publish September 15, 2026, aligned with the fixed-period-of-admission rule. No grace period: older editions postmarked or submitted on or after September 15 are rejected; the new editions are accepted only on or after that date.
+The 104 BIA-recognized-help pages (52 EN + 52 ES) were built from the EOIR Recognition & Accreditation Roster of April 20, 2026. The live roster is stamped "Report Last Updated on: 09/06/26", and re-pulling it changed the tables materially. Two rows were phantoms on a page that opens by telling readers it lists organizations "currently authorized by the U.S. Department of Justice": "Immigrant Legal Aid Foundation" (New York, 1740 Broadway, (917) 647-2023) returns zero hits for its name, its street and its phone in both current rosters, while control searches for sibling New York organizations on the same page do hit; and "Dreamers2gether Inc." was listed with a Houston, Texas office at 5211 Brookglen Dr, (203) 437-7566, when the organization's only office on the roster is "Principal Office / 14 N Main Street / Waterbury, CT 06702 / (202) 313-1951". Presenting an unlisted organization as DOJ-recognized is the exact risk these pages' own notario-fraud warning is about. Three published addresses had also moved: American Organization for Immigrants is at 1800 NE Loop 410, Suite 310, San Antonio, TX 78217 (not 702 Donaldson Avenue); Community Response Coalition of Kentucky at 210 East High Street, #9, Lexington, KY 40507 (not 153 Patchen Drive); Catholic Social Services, Archdiocese of Philadelphia Immigration Legal Services at 4404 N 5th Street, Philadelphia, PA 19140 (not 222 N. 17th Street). Separately, every page said "As of the 2026-04-20 EOIR roster: 1,452 recognized organizations operate 1,564 offices nationwide." 1,452 was our own count of roster LISTINGS — one per organization per city — not organizations; the alphabetical roster's own header prints "Number of Recognized Organizations: 949". The sentence now gives both and says which is which. Every page also claimed the roster "is updated quarterly"; 09/06/26 is not a quarterly step from 04/20/26 and the roster PDF says nothing about cadence, so the pages now tell readers to check the "Report Last Updated" date the file prints at the top. The parser was fixed to read that date out of the PDF instead of carrying a hardcoded one, and the immigration-court legal-deserts join that reads this dataset was rebuilt, which moved Louisiana from 7 recognized nonprofits to 6 and its ratio from 1.8 to 1.5 per court.
 
-Primary source: <https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting>
+Primary source: <https://www.justice.gov/eoir/recognition-accreditation-roster-reports>
 
-### 2026-08-14 · BENEFITS
+### 2026-09-10 · CORRECTION
 
-**Appeals court lets USCIS resume re-review of approved cases (39-country litigation)**
+**Correction: we told parents they must prove their own immigration status to get a Social Security number for their US-born child — SSA asks for identity and relationship, not status**
 
-On August 14, 2026 the First Circuit partially stayed the Rhode Island ruling in Dorcas International v. USCIS: while the appeal proceeds, USCIS may resume re-reviewing already-approved benefit requests of people from the designated countries who entered the U.S. on or after January 20, 2021. The asylum and benefits holds remain vacated.
+The 10 Social Security pages (5 EN + 5 ES) listed "Parent's proof of status (USC, LPR, or eligible status)" among the documents needed for a newborn's SSN. SSA's own publication for citizen children, EN-05-10023, says: "No matter where you apply, you will need to: Show us original documents proving your child's: U.S. citizenship. Age. Identity. Show us documents proving your identity and your relationship to your child." Nowhere does SSA ask a parent for immigration status — and the same page's own FAQ already said status is not a factor, so the page contradicted itself. The practical harm is specific: an undocumented parent reading our document list would conclude their US-citizen baby cannot get a number. Four more claims on the same pages were repaired against SSA. The processing table ("Online: 2-3 weeks / By mail: 4-6 weeks / In person: same appointment or 2-3 weeks") is replaced by SSA's single published figure — "Once your application is approved, you'll receive a Social Security card with your number on it by mail in 5 to 10 business days" — and by SSA's statement on the replacement page that "Your local Social Security office cannot print one for you," which kills the same-appointment claim. "Online: ssa.gov/forms" is replaced by how SSA says the online path works: start at ssa.gov/number-card, then finish at a local office; ssa.gov/forms is only where Form SS-5 is printed. "The 2023 Inflation Reduction Act expanded SSA staffing" was deleted: the enacted law, Public Law 117-169, was signed August 16, 2022, not 2023, and a full-text search of it returns zero occurrences of "Social Security Administration". "Approximately 5 million new SSN cards in FY 2024 and approximately 13 million name-change requests" was deleted as untraceable — the page's only cited source was the bare SSA homepage. And the SSA Inspector General fraud number we printed, 1-800-269-0271, appears nowhere on oig.ssa.gov's own reporting or scam-awareness pages, so it was replaced with the OIG's online reporting form. The generator scripts that stamp these blocks were corrected in the same pass.
 
-Primary source: <https://www.ca1.uscourts.gov/sites/ca1/files/opnfiles/26-1703P-01A.pdf>
+Primary source: <https://www.ssa.gov/pubs/EN-05-10023.pdf>
 
-### 2026-08-14 · TPS
+### 2026-09-10 · CORRECTION
 
-**Somalia TPS terminated effective Aug. 14, 2026 — court lifts the stay and E-Verify says A12/C19 EADs are no longer valid**
+**Correction: we said the Social Security office that handles your case sits in your own country — for 9 of 12 it is in a third country, and Cuba cannot be paid at all**
 
-On the day Somalia's Aug. 14 Form I-9 date came due, the District of Massachusetts granted the government's motion and lifted the administrative stay in African Communities Together v. Noem (No. 26-cv-11201); the plaintiffs filed a notice of appeal the same day. E-Verify guidance issued Aug. 14, 2026 (superseding Aug. 12) states the Somalia designation is terminated, effective Aug. 14, 2026: Form I-766 EADs with category A12 or C19 are no longer valid and employers must reverify. Ethiopia's stay survived a same-day motion to lift (No. 26-cv-10278) and it is now the only designation still court-stayed, with a Form I-9 date of Aug. 19, 2026. The USCIS Somalia page had not yet been archived as of Aug. 15, 2026.
+All 24 Social Security totalization pages (12 EN + 12 ES) told readers that "if you return to live in <country>" there is a dedicated Federal Benefits Unit at the US consulate there. SSA's own roster (ssa.gov/foreign/foreign.htm, read September 10, 2026) says otherwise for nine of the twelve: Cuba and Colombia are served from the US Embassy in Santo Domingo; Ecuador, El Salvador, Guatemala, Honduras and Nicaragua from San Jose, Costa Rica; Peru and Venezuela from Buenos Aires. Only Argentina, Mexico and the Dominican Republic have an FBU inside the country. Each page now names the office SSA actually lists, with its phone and email. The Cuba page also gained the fact it was silent on: SSA Handbook 1849 makes Cuba a US Treasury restricted country, so a non-citizen who lives there loses every withheld payment permanently. Same pass: the quarter-of-coverage figure moved from a two-year-stale $1,730 (2024) to $1,890, SSA's 2026 amount.
 
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/termination-of-temporary-protected-status-for-somalia-release-aug-14-2026>
+Primary source: <https://www.ssa.gov/foreign/foreign.htm>
 
-### 2026-08-13 · PROCEDURES
+### 2026-09-10 · CORRECTION
 
-**BIA: leaving on advance parole is now a "departure" — Matter of Arrabally overruled**
+**Correction: the FATCA threshold had only one half of the IRS test — a balance that peaked mid-year still requires Form 8938**
 
-In Matter of Delcarmen-Lara, 29 I&N Dec. 830 (BIA 2026, decided Aug. 13), the Board of Immigration Appeals overruled Matter of Arrabally and Yerrabelly (2012) and held that a departure under a grant of advance parole is a "departure" under INA §212(a)(9)(B)(i)(II). Advance-parole travel is no longer a safe harbor from the unlawful-presence bars, and the Board applied the rule to a trip already taken. Our I-131 and DACA travel pages now carry the new rule.
+The 24 country tax pages (12 EN + 12 ES) gave the Form 8938 thresholds as "Single: $50,000 at year-end / Married filing jointly: $100,000 at year-end". The IRS states TWO prongs and either one triggers the form: more than $50,000 on the last day of the year OR more than $75,000 at any time during it (single), and $100,000 / $150,000 married filing jointly. A reader whose foreign balance hit $80,000 in July and $40,000 on December 31 would have concluded nothing was due; IRC 6038D carries a $10,000 penalty. The 28 expat country pages carried the mirror-image error — quoting the in-US thresholds to readers living abroad, where the figures are $200,000/$300,000 and $400,000/$600,000. Both are fixed, along with the generator that produced them. Same pass: the US-Chile tax treaty entered into force December 19, 2023 (US Treasury), not 2016; the un-substituted "if <country> has NO tax treaty" block was deleted from the Mexico and Venezuela pages, which say two paragraphs earlier that both have one; El Salvador's territorial system replaced a claim that it taxes your US wages; and Cuba's 2019 Constitution (art. 36) replaced the pre-2019 rule that naturalising costs you Cuban citizenship.
 
-Primary source: <https://www.justice.gov/eoir/media/1457741/dl?inline>
+Primary source: <https://www.irs.gov/businesses/corporations/summary-of-fatca-reporting-for-us-taxpayers>
 
-### 2026-08-12 · TPS
+### 2026-09-10 · CORRECTION
 
-**E-Verify moves the TPS Somalia Form I-9 date again: Aug. 12 to Aug. 14, 2026**
+**Correction: a TPS termination takes effect no earlier than 60 days after publication, not the 6-18 months our 24 country pages said**
 
-On the day Somalia's Aug. 12 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 10 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 14, 2026 on Form I-9 and in E-Verify. This is the second consecutive two-day step, and the third release in a row posted on the very day the prior date came due. Somalia remains the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 14, 2026).
+Every TPS country page (12 EN + 12 ES) said "termination notices typically take effect 6-18 months after Federal Register publication". The statute says the opposite kind of thing: a termination may not take effect EARLIER than 60 days after the notice is published, or the existing expiration date if that is later — INA 244(b)(3)(B), 8 U.S.C. 1254a(b)(3)(B), quoted in the Yemen termination notice at 91 FR 10402. The 6-18 months figure is the length of an initial designation, stated correctly six lines above on the same pages. The pages also listed "8 countries" as terminated, omitting Honduras — which each Honduras page's own headline calls terminated — and Nicaragua, Nepal, Afghanistan and Cameroon; the list is now USCIS's own Countries Previously Designated roster of 15. Two more fixes in the same block: Haiti's holder count matches the site's dataset at roughly 330,735 rather than "500,000+", and the advance-parole paragraph now names the non-waivable H.R.1 parole fee ($1,020 for FY2026) that attaches on top of the $630 filing fee. Cancellation of removal now states all four elements of 8 U.S.C. 1229b(b)(1), including the exceptional-and-extremely-unusual-hardship test the old wording dropped.
 
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-7>
-
-### 2026-08-11 · CITIZENSHIP
-
-**DOJ has filed 123 civil denaturalization complaints since Jan. 20, 2025 — a record — USCIS announces 25 more**
-
-USCIS announced that the Justice Department filed denaturalization actions against 25 individuals since July 2026 — described as the largest denaturalization effort yet — and that 123 civil denaturalization complaints have been filed since Jan. 20, 2025, the most in recorded history. In June 2026 news outlets had reported a DOJ goal of at least 250 cases by the end of fiscal year 2026. These are individual civil suits under 8 U.S.C. § 1451(a); each is decided on its own record. Denaturalization does not affect people who are U.S. citizens by birth.
-
-Primary source: <https://www.uscis.gov/newsroom/news-releases/justice-department-files-record-25-denaturalization-cases-against-naturalized-criminals-including>
-
-### 2026-08-11 · CITIZENSHIP
-
-**New executive order on citizenship documents — birthright citizenship itself is unchanged**
-
-Executive Order 14418, signed August 6 and published August 11, 2026 (91 FR 51991), does not reopen Trump v. Barbara: a child born in the United States to undocumented parents is still a U.S. citizen at birth. The order directs federal agencies not to issue — or accept state and local documents recognizing — U.S. citizenship for a person when neither parent is a U.S. citizen and one of four categories applies: a parent is a designated Foreign Terrorist Organization member or Specially Designated Global Terrorist; a parent is a foreign government employee (defined to include embassy or consulate employees who are nationals of that country); the parents engaged in a commercial transaction for birth tourism or U.S. surrogacy, or committed citizenship fraud; or the birth occurred in a U.S. territory where citizenship is not conferred by federal statute. The foreign-government-employee category is broader than the long-standing accredited-diplomat exception. Agencies must publish implementation guidance within 30 days, i.e. by September 5, 2026.
-
-Primary source: <https://www.federalregister.gov/documents/2026/08/11/2026-16403/continuing-to-protect-the-meaning-and-value-of-american-citizenship>
-
-### 2026-08-11 · VISAS
-
-**USCIS gains authority to require e-filing — new Form I-936 waiver ($25); nothing is mandated yet**
-
-An interim final rule effective on publication (91 FR 51924, Aug. 11, 2026) lets USCIS mandate electronic filing of a benefit request that has been available for e-filing at least 180 days (8 CFR 103.2(a)(1)(ii)), after publishing notice on uscis.gov with at least 60 days of advance notice. It mandates nothing on its own: DHS states the rule will have no practical effect until Form I-936 is approved by OMB and USCIS issues such a notice. New Form I-936, Request for Waiver of E-Filing Requirement, is filed before a paper filing and costs $25 (8 CFR 106.2(a)(64)), with a fee waiver available on Form I-912 (8 CFR 106.3). The standard is undue hardship at USCIS's discretion, weighing geographic location, socioeconomic conditions and the availability of public technology resources; DHS says lacking home internet is not by itself enough — the requestor must explain why libraries, community centers, friends or family are not an option. Comments close Oct. 13, 2026 (DHS Docket USCIS-2026-0232, RIN 1615-AD19).
-
-Primary source: <https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing>
-
-### 2026-08-10 · FEES
-
-**Court declines to pause the TPS work-permit one-year cap during the H.R.1 fees appeal**
-
-On August 10, 2026 Judge Gorton denied the plaintiffs' emergency motion to stay the TPS work-authorization terminations pending appeal in Venezuelan Ass'n of Mass. v. USCIS, so the one-year cap on TPS-based EADs keeps operating. The plaintiffs' emergency stay motion at the First Circuit (No. 26-1893) was fully briefed August 14 and awaits a ruling.
-
-Primary source: <https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
-
-### 2026-08-10 · TPS
-
-**E-Verify moves the TPS Somalia Form I-9 date again: Aug. 10 to Aug. 12, 2026**
-
-On the day Somalia's Aug. 10 Form I-9 date came due, E-Verify posted superseding Somalia guidance replacing the Aug. 5 release. The EADs remain extended per court order under African Communities Together v. Noem (No. 26-cv-11201, D. Mass.), and employers now enter Aug. 12, 2026 on Form I-9 and in E-Verify. The two-day step makes Somalia the earlier of the two designations still court-stayed, ahead of Ethiopia (Aug. 19, 2026). The USCIS Somalia TPS page is still live, not archived (checked Aug. 11, 2026). The release title is not the signal: Burma’s Aug. 7 termination was also posted as “Update on Termination” — only the text distinguishes an extension from a cut.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-6>
-
-### 2026-08-07 · TPS
-
-**Burma (Myanmar) and South Sudan TPS terminated, effective Aug. 7, 2026 — A12/C19 work permits no longer valid**
-
-On Aug. 7, 2026 USCIS archived the Burma (Myanmar) and South Sudan TPS country pages, and E-Verify guidance issued the same day states both designations are terminated, effective Aug. 7, 2026 (Burma: 90 FR 53378; South Sudan: 90 FR 50484). Form I-766 EADs with category A12 or C19 issued under them are no longer valid, and employers must reverify those employees. South Sudan was terminated three days before the Aug. 10 Form I-9 date its Aug. 6 guidance had promised. Two designations remain court-stayed with EADs extended per court order: Somalia (I-9 date Aug. 10, 2026) and Ethiopia (Aug. 19, 2026).
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-burma-release-aug>
-
-### 2026-08-06 · COURTS
-
-**The alien registration rule is now final and the appeal is over — DHS issued a final rule effective June 29, 2026 and the D.C. Circuit dismissed the challenge on August 6, 2026**
-
-Two changes closed out the Form G-325R registration fight. On June 29, 2026 DHS published the final rule “Alien Registration Form and Evidence of Registration” (91 FR 39248, RIN 1615-AC96), effective the same day. It adopts the March 2025 interim final rule as final and, in DHS's words, adopts the amendments to 8 CFR 264.1(a) and (b) “without change” — Form G-325R remains the general registration form and the USCIS Proof of Alien G-325R Registration remains the evidence of registration. The changes it does make are administrative: it updates which documents count as registration or as proof of registration (adding Forms I-94A/I-94W, DSP-150 in place of the old Canadian and Mexican border crossing cards, I-860, I-871, and NEXUS/SENTRI/FAST/Global Entry documents; dropping obsolete Forms I-67, I-691 and I-700), restructures the fingerprinting waivers in 8 CFR 264.1(e) — edits DHS calls “non-substantive and clarifying” — and makes technical corrections to 8 CFR 264.1(g), 264.5(h) and 264.6. DHS decided not to impose a biometric services fee “at this time,” while saying it may impose an application or biometric services fee in the future. Then, on August 6, 2026, the D.C. Circuit (Judges Millett, Katsas and Childs) discharged its July 27 order to show cause — which had asked why the consolidated appeals (Nos. 25-5152, 25-5233, 25-5247) should not be dismissed as moot in light of the new final rule — and ordered the clerk to note that the case is dismissed, stating that no mandate will issue. The court did not rule on whether the registration rule is lawful. The duty to register, the duty of registered noncitizens 18 and over to carry proof, and the criminal penalties for willful noncompliance are statutory (INA sections 262, 264(e) and 266) and did not change. The district court case (D.D.C. 1:25-cv-00943) remains stayed. DHS separately asked for comments on possible future changes to the registration regulations; that comment period closed August 28, 2026.
-
-Primary source: <https://www.federalregister.gov/documents/2026/06/29/2026-13057/alien-registration-form-and-evidence-of-registration>
-
-### 2026-08-06 · TPS
-
-**E-Verify moves two more TPS Form I-9 dates: Ethiopia to Aug. 19, South Sudan to Aug. 10, 2026**
-
-E-Verify posted superseding guidance for Ethiopia and South Sudan on Aug. 6, 2026 — the day their shared Form I-9 date came due — each replacing a July 30, 2026 release. Employment Authorization Documents under both designations remain extended per court order — African Communities Together v. Noem (Ethiopia: No. 26-cv-10278-BEM; South Sudan: No. 25-cv-13939-PBS, both D. Mass.) — and the guidance still describes the extension as limited relief until the lower courts align with Mullin v. Doe. South Sudan's Section 2 date moves from Aug. 6 to Aug. 10, 2026, the same day as Somalia; Ethiopia's moves from Aug. 6 to Aug. 19, 2026, a 13-day step that makes it the furthest out of the four court-stayed designations. Section 1 still reads 'as per court order'. Neither USCIS country page has been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new>
-
-### 2026-08-05 · ASYLUM
-
-**Court splits the H.R.1 ruling: asylum-fee rejection and removal stay blocked; the TPS work-permit cap stands**
-
-On Aug. 5, 2026, the federal court in Venezuelan Ass’n of Mass. v. USCIS (No. 26-cv-13038, D. Mass.) replaced its July 21 administrative stay with a longer-term ruling. Stayed nationwide while the case proceeds: the rule provisions letting USCIS reject a pending Form I-589 or initiate removal solely for non-payment of the Annual Asylum Fee. Denied: the challenge to H.R.1’s one-year cap on TPS-based work permits — previously-extended TPS EADs no longer keep their prior expiration dates. The fee itself remains payable, and published summaries of the order do not list work-authorization termination among the stayed provisions — verify current USCIS guidance on that point. The plaintiffs appealed to the First Circuit on Aug. 6, 2026.
-
-Primary source: <https://www.courtlistener.com/docket/73564609/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
-
-### 2026-08-05 · TPS
-
-**E-Verify moves the TPS Somalia Form I-9 date again: Aug. 5 to Aug. 10, 2026**
-
-E-Verify posted superseding Somalia guidance on Aug. 5, 2026, replacing its Aug. 3, 2026 release. Employment Authorization Documents issued under the Somalia designation remain extended per court order -- African Communities Together v. Noem, No. 26-cv-11201 (D. Mass.) -- and the guidance still describes the extension as limited relief until the lower courts align with Mullin v. Doe. The Form I-9 Section 2 date employers enter moves from Aug. 5, 2026 to Aug. 10, 2026; Section 1 still reads 'as per court order'. The five-day step makes Somalia the last of the four court-stayed designations to come due rather than the first -- Ethiopia and South Sudan (Aug. 6, 2026) and Burma (Aug. 7, 2026) now fall before it. The USCIS Somalia country page remains live; it has not been moved to the archive, the step that put the Haiti, Syria and Yemen terminations into force on July 27, 2026.
-
-Primary source: <https://www.e-verify.gov/about-e-verify/whats-new/update-on-termination-of-temporary-protected-status-for-somalia-release-5>
-
-### 2026-08-05 · PROCEDURES
-
-**USCIS restores full discretion to deny without first sending an RFE or NOID**
-
-USCIS Policy Alert PA-2026-05, issued Aug. 5, 2026 and effective immediately, updates Policy Manual Volume 1 so officers have full discretion to deny a benefit request without first issuing a Request for Evidence or a Notice of Intent to Deny when the initial evidence required by the form instructions is missing, or when the record does not establish eligibility. It applies to requests pending or filed on or after Aug. 5, 2026. The previous policy instructed officers to send an RFE or NOID first. The alert also drops the standard 12-week RFE response period: 8 CFR 103.2(b)(8)(iv) sets 12 weeks as the maximum, not the norm, and officers may now give less, so an RFE deadline can be considerably shorter than the 60-87 days previously typical. A NOID response stays capped at 30 days, mailed notices still add 3 days under 8 CFR 103.8(b), extra time cannot be granted, and the additional 14 days USCIS used to give for notices mailed outside the United States has been eliminated. Refugee and asylum applications are governed by separate regulations and are not covered.
-
-Primary source: <https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-EvidentiaryStandards.pdf>
+Primary source: <https://www.federalregister.gov/documents/full_text/text/2026/03/03/2026-04179.txt>
 
 ---
 

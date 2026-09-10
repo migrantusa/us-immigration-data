@@ -31,15 +31,16 @@
    "name_en": "El Salvador",
    "name_es": "El Salvador",
    "category": "ending_no_notice",
-   "work_permit_en": "Valid through Sept. 9, 2026 (renewal pending? a USCIS notice auto-extends expired A12/C19 cards to that date). E-Verify guidance of Sept. 3, 2026 says the designation is set to terminate that day; no Federal Register notice — extension or termination — has been published.",
-   "work_permit_es": "Válido hasta el 9 de septiembre de 2026 (¿renovación pendiente? un aviso de USCIS extiende las tarjetas A12/C19 vencidas hasta esa fecha). La guía de E-Verify del 3 de septiembre de 2026 dice que la designación está prevista para terminar ese día; no se ha publicado ningún aviso en el Registro Federal, ni de extensión ni de terminación.",
+   "work_permit_en": "USCIS TPS page alert, checked Sept. 9, 2026: “Until such announcement is made, Salvadoran individuals present in the U.S. under TPS retain protection including work authorization.” E-Verify’s Sept. 3, 2026 guidance is still its newest El Salvador item and tells employers to enter Sept. 9, 2026 on Form I-9. No Federal Register notice — extension, redesignation or termination — has been published.",
+   "work_permit_es": "Alerta de la página del TPS de USCIS, consultada el 9 de septiembre de 2026: «Hasta que se haga ese anuncio, las personas salvadoreñas presentes en EE. UU. bajo el TPS conservan la protección, incluida la autorización de trabajo.» La guía de E-Verify del 3 de septiembre de 2026 sigue siendo su artículo más reciente sobre El Salvador e indica a los empleadores ingresar el 9 de septiembre de 2026 en el Formulario I-9. No se ha publicado ningún aviso en el Registro Federal — ni extensión, ni redesignación, ni terminación.",
    "key_date": "2026-09-09",
    "fr_cite": "90 FR 5953",
    "docket": "",
    "people_affected": null,
    "people_fmt": null,
    "people_source": null,
-   "uscis_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador"
+   "uscis_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-el-salvador",
+   "everify_url": "https://www.e-verify.gov/about-e-verify/whats-new"
   },
   "lebanon": {
    "sort": 1,

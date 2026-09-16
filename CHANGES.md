@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 165 recorded changes. Source data as of 2026-09-10.
+Showing the 40 most recent of 166 recorded changes. Source data as of 2026-09-16.
 
 ---
+
+### 2026-09-14 · PROCEDURES
+
+**A court postponed the end of "duration of status" one day before it was due to start — and the new I-539 and I-765 editions are not being accepted**
+
+On September 14, 2026 the U.S. District Court for the District of Massachusetts postponed the effective date of DHS's final rule replacing "duration of status" with a fixed admission period for F, J and I nonimmigrants (91 Fed. Reg. 44976, July 17, 2026), and preliminarily enjoined DHS from taking any further action to implement it, pending further order or resolution on the merits (Presidents' Alliance on Higher Education and Immigration, et al. v. DHS, 26-cv-13799, D. Mass.). The rule had been due to take effect September 15. Two things follow for filers. First, duration of status still applies — USCIS says it "will proceed under the previous regulatory provisions." Second, the form-edition change that USCIS announced on August 14 did not happen: USCIS "continues to accept the 08/28/24 edition of Form I-539 and 08/21/25 edition of Form I-765 and is not accepting the 09/15/26 edition of Forms I-539 and I-765." That reverses the warning we and others published, and it matters most to anyone filing an I-765 — DACA, TPS, asylum and adjustment applicants included — who was told to switch to the new edition. DHS says it disagrees with the order and will implement the rule if the order is lifted, so this is a postponement, not a cancellation: check the edition date on uscis.gov the day you file. Separately and unaffected by this order, Form I-485 does get a 09/18/26 edition on September 18, 2026 with no grace period.
+
+Primary source: <https://www.uscis.gov/i-539>
 
 ### 2026-09-10 · CORRECTION
 
@@ -324,14 +332,6 @@ Primary source: <https://www.ssa.gov/foreign/foreign.htm>
 The 24 country tax pages (12 EN + 12 ES) gave the Form 8938 thresholds as "Single: $50,000 at year-end / Married filing jointly: $100,000 at year-end". The IRS states TWO prongs and either one triggers the form: more than $50,000 on the last day of the year OR more than $75,000 at any time during it (single), and $100,000 / $150,000 married filing jointly. A reader whose foreign balance hit $80,000 in July and $40,000 on December 31 would have concluded nothing was due; IRC 6038D carries a $10,000 penalty. The 28 expat country pages carried the mirror-image error — quoting the in-US thresholds to readers living abroad, where the figures are $200,000/$300,000 and $400,000/$600,000. Both are fixed, along with the generator that produced them. Same pass: the US-Chile tax treaty entered into force December 19, 2023 (US Treasury), not 2016; the un-substituted "if <country> has NO tax treaty" block was deleted from the Mexico and Venezuela pages, which say two paragraphs earlier that both have one; El Salvador's territorial system replaced a claim that it taxes your US wages; and Cuba's 2019 Constitution (art. 36) replaced the pre-2019 rule that naturalising costs you Cuban citizenship.
 
 Primary source: <https://www.irs.gov/businesses/corporations/summary-of-fatca-reporting-for-us-taxpayers>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: a TPS termination takes effect no earlier than 60 days after publication, not the 6-18 months our 24 country pages said**
-
-Every TPS country page (12 EN + 12 ES) said "termination notices typically take effect 6-18 months after Federal Register publication". The statute says the opposite kind of thing: a termination may not take effect EARLIER than 60 days after the notice is published, or the existing expiration date if that is later — INA 244(b)(3)(B), 8 U.S.C. 1254a(b)(3)(B), quoted in the Yemen termination notice at 91 FR 10402. The 6-18 months figure is the length of an initial designation, stated correctly six lines above on the same pages. The pages also listed "8 countries" as terminated, omitting Honduras — which each Honduras page's own headline calls terminated — and Nicaragua, Nepal, Afghanistan and Cameroon; the list is now USCIS's own Countries Previously Designated roster of 15. Two more fixes in the same block: Haiti's holder count matches the site's dataset at roughly 330,735 rather than "500,000+", and the advance-parole paragraph now names the non-waivable H.R.1 parole fee ($1,020 for FY2026) that attaches on top of the $630 filing fee. Cancellation of removal now states all four elements of 8 U.S.C. 1229b(b)(1), including the exceptional-and-extremely-unusual-hardship test the old wording dropped.
-
-Primary source: <https://www.federalregister.gov/documents/full_text/text/2026/03/03/2026-04179.txt>
 
 ---
 

@@ -2,30 +2,30 @@
  "_meta": {
   "title_en": "Immigration litigation tracker — 62 cases, status and dated movement",
   "title_es": "Rastreador de litigios migratorios — 62 casos, estado y movimiento fechado",
-  "as_of": "2026-09-01",
+  "as_of": "2026-09-16",
   "source": "MigrantUSA's own case tracker, maintained from the primary record for each case: the court's order or opinion, the Federal Register document, and the agency's own alert page. Each case entry carries its docket number and court so any row can be checked at the source.",
   "source_url": "https://migrantusa.com/immigration-cases/",
   "case_count": 62,
-  "event_count": 320,
-  "dated_event_count": 314,
+  "event_count": 333,
+  "dated_event_count": 328,
   "anchor_event_count": 4,
-  "upcoming_event_count": 2,
-  "next_scheduled_date": "2026-09-08",
+  "upcoming_event_count": 1,
+  "next_scheduled_date": "2026-10-13",
   "earliest_event": "1997-01-28",
-  "latest_event": "2026-08-31",
-  "months_covered": 32,
+  "latest_event": "2026-09-14",
+  "months_covered": 33,
   "busiest_month": "2026-06",
-  "busiest_month_events": 40,
-  "busiest_month_cases": 25,
+  "busiest_month_events": 41,
+  "busiest_month_cases": 26,
   "quantified_case_count": 6,
   "people_affected_total": 3205228,
   "status_counts": {
    "awaiting_decision": 6,
+   "injunction_in_effect": 8,
+   "decided": 9,
    "partially_blocked": 9,
    "in_effect": 20,
-   "decided": 10,
-   "active_litigation": 10,
-   "injunction_in_effect": 7
+   "active_litigation": 10
   },
   "notes": "Counts describe the cases we track, not the universe of immigration litigation. 'Status' is the case's posture at last check, not a prediction and not legal advice about any individual's situation."
  },
@@ -47,13 +47,63 @@
    "timeline_events": 7,
    "first_event": "2024",
    "latest_event": "2026-10-13",
-   "last_checked": "2026-09-01",
+   "last_checked": "2026-09-15",
    "topics": [
     "detention",
     "kyr"
    ],
    "url_en": "/immigration-cases/immigration-detention-bond-hearings/",
    "url_es": "/es/casos-de-inmigracion/audiencias-fianza-detencion-inmigratoria/"
+  },
+  {
+   "id": "duration-of-status-fixed-admission",
+   "title_en": "End of \"duration of status\" for F-1, J-1, and I (final rule — effective date postponed by court order)",
+   "title_es": "Fin de la \"duración de estatus\" para F-1, J-1 e I (regla final — fecha de vigencia suspendida por orden judicial)",
+   "case_name": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "docket": "Presidents' Alliance on Higher Education and Immigration, et al. v. DHS, No. 26-cv-13799 (D. Mass.) — challenging DHS Docket No. ICEB-2025-0001; RIN 1653-AA95; final rule at 91 FR 44976 (FR Doc. 2026-14439)",
+   "court_en": "U.S. District Court for the District of Massachusetts (challenge to DHS/ICE rulemaking)",
+   "court_es": "Corte de Distrito de EE. UU. para el Distrito de Massachusetts (impugnación a la reglamentación del DHS/ICE)",
+   "status": "injunction_in_effect",
+   "status_label_en": "Blocked by injunction",
+   "status_label_es": "Bloqueada por medida cautelar",
+   "what_it_affects_en": "F (academic students), J (exchange visitors), and I (foreign information-media) nonimmigrants and their dependents. The final rule replaces open-ended “duration of status” admission with a fixed admission period — for F-1, up to 4 years or the program end date, whichever is shorter — keeps a 30-day grace period, and requires an extension-of-stay application to USCIS for additional time. Transition: those already in the U.S. on D/S keep their status until the program end date on their Form I-20 or DS-2019 or 4 years after the effective date, whichever comes first (new 8 CFR 214.1(m)(1)(ii)); anyone who travels abroad after the effective date receives an I-94 with a fixed date on return.",
+   "what_it_affects_es": "No inmigrantes F (estudiantes académicos), J (visitantes de intercambio) e I (representantes de medios de información extranjeros) y sus dependientes. La regla final reemplaza la admisión indefinida por “duración de estatus” con un periodo de admisión fijo — para F-1, hasta 4 años o la fecha de fin del programa, lo que sea más corto — mantiene un periodo de gracia de 30 días, y exige una solicitud de extensión de estadía ante USCIS para más tiempo. Transición: quienes ya están en EE.UU. con D/S conservan su estatus hasta la fecha de fin del programa en su Formulario I-20 o DS-2019 o 4 años después de la fecha de vigencia, lo que ocurra primero (nuevo 8 CFR 214.1(m)(1)(ii)); quien viaje al extranjero después de la fecha de vigencia recibe al regresar un I-94 con fecha fija.",
+   "people_affected": null,
+   "timeline_events": 7,
+   "first_event": "2025-08-28",
+   "latest_event": "2026-09-14",
+   "last_checked": "2026-09-16",
+   "topics": [
+    "students",
+    "work-permit"
+   ],
+   "url_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
+   "url_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
+  },
+  {
+   "id": "birthright-citizenship",
+   "title_en": "Birthright citizenship at the Supreme Court",
+   "title_es": "Ciudadanía por nacimiento en la Corte Suprema",
+   "case_name": "Trump v. Barbara",
+   "docket": "No. 25-365",
+   "court_en": "U.S. Supreme Court",
+   "court_es": "Corte Suprema de EE.UU.",
+   "status": "decided",
+   "status_label_en": "Decided",
+   "status_label_es": "Resuelto",
+   "what_it_affects_en": "U.S.-born children whose mother is an unauthorized immigrant, or lawfully present only temporarily, and whose father is not a U.S. citizen or lawful permanent resident — the class whose automatic birthright citizenship Executive Order 14160 would have denied. The Supreme Court struck the order down, so these children are U.S. citizens at birth, as they were before.",
+   "what_it_affects_es": "Hijos nacidos en EE.UU. cuya madre es inmigrante no autorizada, o con presencia legal solo temporal, y cuyo padre no es ciudadano estadounidense ni residente permanente legal — la categoría a la que la Orden Ejecutiva 14160 habría negado la ciudadanía automática por nacimiento. La Corte Suprema anuló la orden, así que estos niños son ciudadanos estadounidenses al nacer, como antes.",
+   "people_affected": 260000,
+   "timeline_events": 9,
+   "first_event": "2025-01-20",
+   "latest_event": "2026-09-09",
+   "last_checked": "2026-09-15",
+   "topics": [
+    "citizenship",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/birthright-citizenship-supreme-court/",
+   "url_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
   },
   {
    "id": "pacito-v-trump-refugee-suspension",
@@ -78,6 +128,57 @@
    ],
    "url_en": "/immigration-cases/refugee-admissions-suspension-usrap/",
    "url_es": "/es/casos-de-inmigracion/suspension-de-admisiones-de-refugiados-usrap/"
+  },
+  {
+   "id": "irs-ice-taxpayer-data-sharing",
+   "title_en": "IRS–ICE Taxpayer Data Sharing: Centro de Trabajadores Unidos v. Bessent",
+   "title_es": "Intercambio de datos de contribuyentes entre el IRS e ICE: Centro de Trabajadores Unidos v. Bessent",
+   "case_name": "Centro de Trabajadores Unidos v. Bessent",
+   "docket": "D.C. Cir. No. 25-5181 (aff'g D.D.C. No. 1:25-cv-00677, Friedrich, J.)",
+   "court_en": "U.S. Court of Appeals for the D.C. Circuit",
+   "court_es": "Corte de Apelaciones de EE.UU. para el Circuito del Distrito de Columbia",
+   "status": "partially_blocked",
+   "status_label_en": "Partially blocked",
+   "status_label_es": "Parcialmente bloqueada",
+   "what_it_affects_en": "People who file U.S. taxes with an Individual Taxpayer Identification Number (ITIN) or who otherwise have a return on file with the IRS, including immigrants without lawful status. Under the D.C. Circuit's reasoning, Section 6103 would let the IRS give ICE the name and address on file for a qualifying request tied to a non-tax criminal investigation; however, separate district-court injunctions currently block large-scale sharing. The decision does not authorize sharing for civil immigration enforcement, and it does not open up the contents of a tax return, such as income, dependents, or deductions.",
+   "what_it_affects_es": "Personas que declaran impuestos en EE.UU. con un Número de Identificación Personal del Contribuyente (ITIN) o que de otro modo tienen una declaración registrada ante el IRS, incluidas personas inmigrantes sin estatus legal. Según el razonamiento del Circuito de D.C., la Sección 6103 permitiría al IRS entregar a ICE el nombre y el domicilio en sus registros ante una solicitud que cumpla los requisitos y esté vinculada a una investigación penal no tributaria; sin embargo, medidas cautelares de tribunales de distrito bloquean actualmente el intercambio a gran escala. La decisión no autoriza el intercambio para la aplicación civil de las leyes de inmigración, ni abre el contenido de la declaración de impuestos, como ingresos, dependientes o deducciones.",
+   "people_affected": null,
+   "timeline_events": 9,
+   "first_event": "2025-03-07",
+   "latest_event": "2026-09-08",
+   "last_checked": "2026-09-10",
+   "topics": [
+    "itin",
+    "banking",
+    "taxes"
+   ],
+   "url_en": "/immigration-cases/irs-ice-taxpayer-data-sharing/",
+   "url_es": "/es/casos-de-inmigracion/irs-ice-comparticion-datos-contribuyentes/"
+  },
+  {
+   "id": "benefits-adjudication-hold-vacated",
+   "title_en": "Court vacates USCIS asylum and benefits adjudication holds (39 countries)",
+   "title_es": "Un tribunal anula las pausas de USCIS en asilo y beneficios (39 países)",
+   "case_name": "Dorcas International Institute of Rhode Island v. U.S. Citizenship and Immigration Services",
+   "docket": "D.R.I. No. 1:26-cv-00132-JJM-PAS (on appeal: 1st Cir. No. 26-1703)",
+   "court_en": "U.S. District Court for the District of Rhode Island",
+   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito de Rhode Island",
+   "status": "decided",
+   "status_label_en": "Decided",
+   "status_label_es": "Resuelto",
+   "what_it_affects_en": "People from 39 \"travel-ban\" countries — which include large Cuban, Haitian, and Venezuelan communities — whose green-card (adjustment of status), work-permit (EAD), naturalization, and other USCIS benefit applications had been frozen, plus anyone with a pending asylum or withholding-of-removal case, since that hold applied regardless of nationality. With most of the ruling in effect, USCIS is again issuing decisions on these applications and is no longer weighing country of origin as an automatic negative factor. One exception applies since August 14, 2026: while the appeal proceeds, a First Circuit order lets USCIS resume re-reviewing already-approved cases of people from the designated countries who entered the United States on or after January 20, 2021. None of this changes who qualifies for any benefit. Since August 24, 2026, a separate class-wide injunction from the Northern District of California (Red Eagle Law v. Edlow) independently bars USCIS from applying the two hold memos to class members and orders normal-course adjudication.",
+   "what_it_affects_es": "Personas de 39 países sujetos a la \"prohibición de viaje\" — que incluyen a grandes comunidades cubana, haitiana y venezolana — cuyas solicitudes de green card (ajuste de estatus), permiso de trabajo (EAD), naturalización y otros beneficios de USCIS estaban congeladas, además de cualquier persona con un caso pendiente de asilo o de retención de expulsión, ya que esa pausa se aplicaba sin importar la nacionalidad. Con la mayor parte del fallo en vigor, USCIS vuelve a emitir decisiones sobre estas solicitudes y ya no considera el país de origen como un factor negativo automático. Hay una excepción desde el 14 de agosto de 2026: mientras avanza la apelación, una orden del Primer Circuito permite a USCIS volver a re-revisar los casos ya aprobados de personas de los países designados que entraron a Estados Unidos el 20 de enero de 2021 o después. Nada de esto cambia quién califica para ningún beneficio. Desde el 24 de agosto de 2026, una orden judicial de clase separada del Distrito Norte de California (Red Eagle Law v. Edlow) prohíbe de forma independiente a USCIS aplicar los dos memorandos de pausa a los miembros de la clase y ordena adjudicar en curso normal.",
+   "people_affected": null,
+   "timeline_events": 11,
+   "first_event": "2025-12-02",
+   "latest_event": "2026-09-04",
+   "last_checked": "2026-09-05",
+   "topics": [
+    "asylum",
+    "benefits"
+   ],
+   "url_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "url_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
   },
   {
    "id": "tennessee-sb1779-remain-after-removal",
@@ -105,31 +206,6 @@
    "url_es": "/es/casos-de-inmigracion/tennessee-sb-1779-permanecer-tras-una-orden-de-expulsion/"
   },
   {
-   "id": "benefits-adjudication-hold-vacated",
-   "title_en": "Court vacates USCIS asylum and benefits adjudication holds (39 countries)",
-   "title_es": "Un tribunal anula las pausas de USCIS en asilo y beneficios (39 países)",
-   "case_name": "Dorcas International Institute of Rhode Island v. U.S. Citizenship and Immigration Services",
-   "docket": "D.R.I. No. 1:26-cv-00132-JJM-PAS (on appeal: 1st Cir. No. 26-1703)",
-   "court_en": "U.S. District Court for the District of Rhode Island",
-   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito de Rhode Island",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "People from 39 \"travel-ban\" countries — which include large Cuban, Haitian, and Venezuelan communities — whose green-card (adjustment of status), work-permit (EAD), naturalization, and other USCIS benefit applications had been frozen, plus anyone with a pending asylum or withholding-of-removal case, since that hold applied regardless of nationality. With most of the ruling in effect, USCIS is again issuing decisions on these applications and is no longer weighing country of origin as an automatic negative factor. One exception applies since August 14, 2026: while the appeal proceeds, a First Circuit order lets USCIS resume re-reviewing already-approved cases of people from the designated countries who entered the United States on or after January 20, 2021. None of this changes who qualifies for any benefit. Since August 24, 2026, a separate class-wide injunction from the Northern District of California (Red Eagle Law v. Edlow) independently bars USCIS from applying the two hold memos to class members and orders normal-course adjudication.",
-   "what_it_affects_es": "Personas de 39 países sujetos a la \"prohibición de viaje\" — que incluyen a grandes comunidades cubana, haitiana y venezolana — cuyas solicitudes de green card (ajuste de estatus), permiso de trabajo (EAD), naturalización y otros beneficios de USCIS estaban congeladas, además de cualquier persona con un caso pendiente de asilo o de retención de expulsión, ya que esa pausa se aplicaba sin importar la nacionalidad. Con la mayor parte del fallo en vigor, USCIS vuelve a emitir decisiones sobre estas solicitudes y ya no considera el país de origen como un factor negativo automático. Hay una excepción desde el 14 de agosto de 2026: mientras avanza la apelación, una orden del Primer Circuito permite a USCIS volver a re-revisar los casos ya aprobados de personas de los países designados que entraron a Estados Unidos el 20 de enero de 2021 o después. Nada de esto cambia quién califica para ningún beneficio. Desde el 24 de agosto de 2026, una orden judicial de clase separada del Distrito Norte de California (Red Eagle Law v. Edlow) prohíbe de forma independiente a USCIS aplicar los dos memorandos de pausa a los miembros de la clase y ordena adjudicar en curso normal.",
-   "people_affected": null,
-   "timeline_events": 9,
-   "first_event": "2025-12-02",
-   "latest_event": "2026-08-28",
-   "last_checked": "2026-08-28",
-   "topics": [
-    "asylum",
-    "benefits"
-   ],
-   "url_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
-   "url_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
-  },
-  {
    "id": "tps-terminations",
    "title_en": "TPS termination litigation",
    "title_es": "Litigio sobre la terminación del TPS",
@@ -146,7 +222,7 @@
    "timeline_events": 20,
    "first_event": "2025-05-19",
    "latest_event": "2026-08-25",
-   "last_checked": "2026-08-31",
+   "last_checked": "2026-09-15",
    "topics": [
     "tps",
     "work-permit"
@@ -256,31 +332,6 @@
    "url_es": "/es/casos-de-inmigracion/expansion-expulsion-acelerada/"
   },
   {
-   "id": "duration-of-status-fixed-admission",
-   "title_en": "End of \"duration of status\" for F-1, J-1, and I (final — effective Sept. 15, 2026)",
-   "title_es": "Fin de la \"duración de estatus\" para F-1, J-1 e I (final — vigente 15 sep 2026)",
-   "case_name": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
-   "docket": "DHS Docket No. ICEB-2025-0001; RIN 1653-AA95; NPRM at 90 FR 42070 (FR Doc. 2025-16554)",
-   "court_en": "DHS / ICE rulemaking — not a court case",
-   "court_es": "Reglamentación de DHS / ICE — no es un caso judicial",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "F (academic students), J (exchange visitors), and I (foreign information-media) nonimmigrants and their dependents. The final rule replaces open-ended “duration of status” admission with a fixed admission period — for F-1, up to 4 years or the program end date, whichever is shorter — keeps a 30-day grace period, and requires an extension-of-stay application to USCIS for additional time. Transition: those already in the U.S. on D/S keep their status until the program end date on their Form I-20 or DS-2019 or 4 years after the effective date, whichever comes first (new 8 CFR 214.1(m)(1)(ii)); anyone who travels abroad after the effective date receives an I-94 with a fixed date on return.",
-   "what_it_affects_es": "No inmigrantes F (estudiantes académicos), J (visitantes de intercambio) e I (representantes de medios de información extranjeros) y sus dependientes. La regla final reemplaza la admisión indefinida por “duración de estatus” con un periodo de admisión fijo — para F-1, hasta 4 años o la fecha de fin del programa, lo que sea más corto — mantiene un periodo de gracia de 30 días, y exige una solicitud de extensión de estadía ante USCIS para más tiempo. Transición: quienes ya están en EE.UU. con D/S conservan su estatus hasta la fecha de fin del programa en su Formulario I-20 o DS-2019 o 4 años después de la fecha de vigencia, lo que ocurra primero (nuevo 8 CFR 214.1(m)(1)(ii)); quien viaje al extranjero después de la fecha de vigencia recibe al regresar un I-94 con fecha fija.",
-   "people_affected": null,
-   "timeline_events": 6,
-   "first_event": "2025-08-28",
-   "latest_event": "2026-08-14",
-   "last_checked": "2026-08-26",
-   "topics": [
-    "students",
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
-   "url_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
-  },
-  {
    "id": "civil-denaturalization-surge",
    "title_en": "Civil denaturalization: efforts to revoke naturalized U.S. citizenship",
    "title_es": "Desnaturalización civil: esfuerzos para revocar la ciudadanía estadounidense naturalizada",
@@ -329,31 +380,6 @@
    ],
    "url_en": "/immigration-cases/in-state-tuition-equity/",
    "url_es": "/es/casos-de-inmigracion/matricula-estatal-equidad/"
-  },
-  {
-   "id": "birthright-citizenship",
-   "title_en": "Birthright citizenship at the Supreme Court",
-   "title_es": "Ciudadanía por nacimiento en la Corte Suprema",
-   "case_name": "Trump v. Barbara",
-   "docket": "No. 25-365",
-   "court_en": "U.S. Supreme Court",
-   "court_es": "Corte Suprema de EE.UU.",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "U.S.-born children whose mother is an unauthorized immigrant, or lawfully present only temporarily, and whose father is not a U.S. citizen or lawful permanent resident — the class whose automatic birthright citizenship Executive Order 14160 would have denied. The Supreme Court struck the order down, so these children are U.S. citizens at birth, as they were before.",
-   "what_it_affects_es": "Hijos nacidos en EE.UU. cuya madre es inmigrante no autorizada, o con presencia legal solo temporal, y cuyo padre no es ciudadano estadounidense ni residente permanente legal — la categoría a la que la Orden Ejecutiva 14160 habría negado la ciudadanía automática por nacimiento. La Corte Suprema anuló la orden, así que estos niños son ciudadanos estadounidenses al nacer, como antes.",
-   "people_affected": 260000,
-   "timeline_events": 5,
-   "first_event": "2025-01-20",
-   "latest_event": "2026-08-06",
-   "last_checked": "2026-08-31",
-   "topics": [
-    "citizenship",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/birthright-citizenship-supreme-court/",
-   "url_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/"
   },
   {
    "id": "alien-registration",
@@ -429,6 +455,31 @@
    "url_es": "/es/casos-de-inmigracion/cambios-en-la-regla-de-salarios-de-trabajadores-agricolas-h2a/"
   },
   {
+   "id": "chnv-parole",
+   "title_en": "CHNV humanitarian parole termination",
+   "title_es": "Terminación del parole humanitario CHNV",
+   "case_name": "Svitlana Doe v. Noem (CHNV / humanitarian parole termination)",
+   "docket": "1:25-cv-10495 (D. Mass.); SCOTUS application 24A1079 (Noem v. Doe); 1st Cir. Nos. 26-1314 and 26-1628 (Doe v. Mullin, government appeals of the FRP preliminary injunction, consolidated July 28, 2026)",
+   "court_en": "U.S. District Court for the District of Massachusetts (Judge Indira Talwani); U.S. Supreme Court (emergency stay, No. 24A1079); U.S. Court of Appeals for the First Circuit",
+   "court_es": "Tribunal Federal del Distrito de Massachusetts (jueza Talwani); Corte Suprema (suspensión); Primer Circuito",
+   "status": "partially_blocked",
+   "status_label_en": "Partially blocked",
+   "status_label_es": "Parcialmente bloqueada",
+   "what_it_affects_en": "People already in the United States who hold or held humanitarian parole — primarily Cuban, Haitian, Nicaraguan, and Venezuelan (CHNV) parolees, plus beneficiaries of Family Reunification Parole (FRP), Uniting for Ukraine (U4U), Operation Allies Welcome (OAW), Central American Minors (CAM), and military parole-in-place — whose parole and associated work authorization the federal government moved to terminate categorically. CHNV terminations are currently in effect; FRP terminations are currently enjoined.",
+   "what_it_affects_es": "Personas que ya están en EE.UU. y tienen o tuvieron parole humanitario — principalmente parolados cubanos, haitianos, nicaragüenses y venezolanos (CHNV), más beneficiarios del Parole de Reunificación Familiar (FRP), Uniting for Ukraine, Operation Allies Welcome, Central American Minors y parole militar — cuyo parole y autorización de empleo el gobierno buscó terminar de forma categórica. Las terminaciones CHNV están en vigor; las del FRP están suspendidas por orden judicial.",
+   "people_affected": 500000,
+   "timeline_events": 8,
+   "first_event": "2025-03-25",
+   "latest_event": "2026-07-29",
+   "last_checked": "2026-09-09",
+   "topics": [
+    "enforcement",
+    "work-permit"
+   ],
+   "url_en": "/immigration-cases/chnv-humanitarian-parole-termination/",
+   "url_es": "/es/casos-de-inmigracion/terminacion-parole-humanitario-chnv/"
+  },
+  {
    "id": "asylum-ead",
    "title_en": "Asylum work-permit (EAD) rule (proposed)",
    "title_es": "Regla del permiso de trabajo de asilo (EAD) (propuesta)",
@@ -445,7 +496,7 @@
    "timeline_events": 3,
    "first_event": "2026-02-23",
    "latest_event": "2026-07-21",
-   "last_checked": "2026-09-01",
+   "last_checked": "2026-09-15",
    "topics": [
     "asylum",
     "work-permit"
@@ -470,7 +521,7 @@
    "timeline_events": 3,
    "first_event": "2025-11-19",
    "latest_event": "2026-07-16",
-   "last_checked": "2026-08-31",
+   "last_checked": "2026-09-15",
    "topics": [
     "benefits",
     "green-card"
@@ -479,30 +530,29 @@
    "url_es": "/es/casos-de-inmigracion/regla-carga-publica/"
   },
   {
-   "id": "irs-ice-taxpayer-data-sharing",
-   "title_en": "IRS–ICE Taxpayer Data Sharing: Centro de Trabajadores Unidos v. Bessent",
-   "title_es": "Intercambio de datos de contribuyentes entre el IRS e ICE: Centro de Trabajadores Unidos v. Bessent",
-   "case_name": "Centro de Trabajadores Unidos v. Bessent",
-   "docket": "D.C. Cir. No. 25-5181 (aff'g D.D.C. No. 1:25-cv-00677, Friedrich, J.)",
-   "court_en": "U.S. Court of Appeals for the D.C. Circuit",
-   "court_es": "Corte de Apelaciones de EE.UU. para el Circuito del Distrito de Columbia",
-   "status": "partially_blocked",
-   "status_label_en": "Partially blocked",
-   "status_label_es": "Parcialmente bloqueada",
-   "what_it_affects_en": "People who file U.S. taxes with an Individual Taxpayer Identification Number (ITIN) or who otherwise have a return on file with the IRS, including immigrants without lawful status. Under the D.C. Circuit's reasoning, Section 6103 would let the IRS give ICE the name and address on file for a qualifying request tied to a non-tax criminal investigation; however, separate district-court injunctions currently block large-scale sharing. The decision does not authorize sharing for civil immigration enforcement, and it does not open up the contents of a tax return, such as income, dependents, or deductions.",
-   "what_it_affects_es": "Personas que declaran impuestos en EE.UU. con un Número de Identificación Personal del Contribuyente (ITIN) o que de otro modo tienen una declaración registrada ante el IRS, incluidas personas inmigrantes sin estatus legal. Según el razonamiento del Circuito de D.C., la Sección 6103 permitiría al IRS entregar a ICE el nombre y el domicilio en sus registros ante una solicitud que cumpla los requisitos y esté vinculada a una investigación penal no tributaria; sin embargo, medidas cautelares de tribunales de distrito bloquean actualmente el intercambio a gran escala. La decisión no autoriza el intercambio para la aplicación civil de las leyes de inmigración, ni abre el contenido de la declaración de impuestos, como ingresos, dependientes o deducciones.",
-   "people_affected": null,
-   "timeline_events": 8,
-   "first_event": "2025-03-07",
-   "latest_event": "2026-06-30",
-   "last_checked": "2026-09-01",
+   "id": "daca-work-permits",
+   "title_en": "DACA work permits (Texas case)",
+   "title_es": "Permisos de trabajo de DACA (caso de Texas)",
+   "case_name": "Texas v. United States (on remand to Judge Hanen)",
+   "docket": "1:18-cv-00068 (S.D. Tex.); 5th Cir. No. 23-40653",
+   "court_en": "S.D. Texas (Judge Hanen), on remand from the 5th Circuit",
+   "court_es": "Distrito Sur de Texas (juez Hanen), tras devolución del Quinto Circuito",
+   "status": "awaiting_decision",
+   "status_label_en": "Awaiting decision",
+   "status_label_es": "En espera de fallo",
+   "what_it_affects_en": "Current DACA recipients' ability to keep renewing deferred action and employment authorization, and the legal validity of DACA work permits — at issue program-wide, with the active injunction currently limited to Texas.",
+   "what_it_affects_es": "La capacidad de los actuales beneficiarios de DACA de seguir renovando la acción diferida y la autorización de empleo, y la validez legal de los permisos de trabajo de DACA — en disputa a nivel del programa, con la orden judicial activa limitada por ahora a Texas.",
+   "people_affected": 580000,
+   "timeline_events": 5,
+   "first_event": "2025-01-17",
+   "latest_event": "2026-07-10",
+   "last_checked": "2026-09-09",
    "topics": [
-    "itin",
-    "banking",
-    "taxes"
+    "daca",
+    "work-permit"
    ],
-   "url_en": "/immigration-cases/irs-ice-taxpayer-data-sharing/",
-   "url_es": "/es/casos-de-inmigracion/irs-ice-comparticion-datos-contribuyentes/"
+   "url_en": "/immigration-cases/daca-work-permits-texas/",
+   "url_es": "/es/casos-de-inmigracion/permisos-trabajo-daca-texas/"
   },
   {
    "id": "wassily-v-blanche-asylee-adjustment",
@@ -528,31 +578,6 @@
    ],
    "url_en": "/immigration-cases/asylee-adjustment-of-status-supreme-court/",
    "url_es": "/es/casos-de-inmigracion/ajuste-de-estatus-de-asilados-corte-suprema/"
-  },
-  {
-   "id": "daca-work-permits",
-   "title_en": "DACA work permits (Texas case)",
-   "title_es": "Permisos de trabajo de DACA (caso de Texas)",
-   "case_name": "Texas v. United States (on remand to Judge Hanen)",
-   "docket": "1:18-cv-00068 (S.D. Tex.); 5th Cir. No. 23-40653",
-   "court_en": "S.D. Texas (Judge Hanen), on remand from the 5th Circuit",
-   "court_es": "Distrito Sur de Texas (juez Hanen), tras devolución del Quinto Circuito",
-   "status": "awaiting_decision",
-   "status_label_en": "Awaiting decision",
-   "status_label_es": "En espera de fallo",
-   "what_it_affects_en": "Current DACA recipients' ability to keep renewing deferred action and employment authorization, and the legal validity of DACA work permits — at issue program-wide, with the active injunction currently limited to Texas.",
-   "what_it_affects_es": "La capacidad de los actuales beneficiarios de DACA de seguir renovando la acción diferida y la autorización de empleo, y la validez legal de los permisos de trabajo de DACA — en disputa a nivel del programa, con la orden judicial activa limitada por ahora a Texas.",
-   "people_affected": 580000,
-   "timeline_events": 4,
-   "first_event": "2025-01-17",
-   "latest_event": "2026-06-26",
-   "last_checked": "2026-09-01",
-   "topics": [
-    "daca",
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/daca-work-permits-texas/",
-   "url_es": "/es/casos-de-inmigracion/permisos-trabajo-daca-texas/"
   },
   {
    "id": "asylum-metering",
@@ -857,7 +882,7 @@
    "title_en": "Third-country removals",
    "title_es": "Expulsiones a terceros países",
    "case_name": "D.V.D. v. U.S. Department of Homeland Security (third-country removals)",
-   "docket": "SCOTUS 24A1153; D. Mass. 1:25-cv-10676; 1st Cir. (expedited appeal)",
+   "docket": "SCOTUS 24A1153; D. Mass. 1:25-cv-10676; 1st Cir. No. 26-1212 (D.V.D. v. DHS, expedited appeal, argued May 13, 2026)",
    "court_en": "U.S. District Court for the District of Massachusetts (Judge Brian E. Murphy); U.S. Court of Appeals for the First Circuit; U.S. Supreme Court (stay)",
    "court_es": "Tribunal Federal del Distrito de Massachusetts (juez Murphy); Primer Circuito; Corte Suprema (suspensión)",
    "status": "active_litigation",
@@ -869,7 +894,7 @@
    "timeline_events": 5,
    "first_event": "2025-04-18",
    "latest_event": "2026-05-13",
-   "last_checked": "2026-09-01",
+   "last_checked": "2026-09-09",
    "topics": [
     "asylum",
     "enforcement"
@@ -969,7 +994,7 @@
    "timeline_events": 5,
    "first_event": "2025-04-14",
    "latest_event": "2026-04-10",
-   "last_checked": "2026-08-31",
+   "last_checked": "2026-09-15",
    "topics": [
     "enforcement",
     "asylum"
@@ -1324,31 +1349,6 @@
    ],
    "url_en": "/immigration-cases/flores-settlement-family-detention-limits/",
    "url_es": "/es/casos-de-inmigracion/acuerdo-flores-limites-a-la-detencion-familiar/"
-  },
-  {
-   "id": "chnv-parole",
-   "title_en": "CHNV humanitarian parole termination",
-   "title_es": "Terminación del parole humanitario CHNV",
-   "case_name": "Svitlana Doe v. Noem (CHNV / humanitarian parole termination)",
-   "docket": "1:25-cv-10495 (D. Mass.); SCOTUS application 24A1079 (Noem v. Doe)",
-   "court_en": "U.S. District Court for the District of Massachusetts (Judge Indira Talwani); U.S. Supreme Court (emergency stay, No. 24A1079); U.S. Court of Appeals for the First Circuit",
-   "court_es": "Tribunal Federal del Distrito de Massachusetts (jueza Talwani); Corte Suprema (suspensión); Primer Circuito",
-   "status": "partially_blocked",
-   "status_label_en": "Partially blocked",
-   "status_label_es": "Parcialmente bloqueada",
-   "what_it_affects_en": "People already in the United States who hold or held humanitarian parole — primarily Cuban, Haitian, Nicaraguan, and Venezuelan (CHNV) parolees, plus beneficiaries of Family Reunification Parole (FRP), Uniting for Ukraine (U4U), Operation Allies Welcome (OAW), Central American Minors (CAM), and military parole-in-place — whose parole and associated work authorization the federal government moved to terminate categorically. CHNV terminations are currently in effect; FRP terminations are currently enjoined.",
-   "what_it_affects_es": "Personas que ya están en EE.UU. y tienen o tuvieron parole humanitario — principalmente parolados cubanos, haitianos, nicaragüenses y venezolanos (CHNV), más beneficiarios del Parole de Reunificación Familiar (FRP), Uniting for Ukraine, Operation Allies Welcome, Central American Minors y parole militar — cuyo parole y autorización de empleo el gobierno buscó terminar de forma categórica. Las terminaciones CHNV están en vigor; las del FRP están suspendidas por orden judicial.",
-   "people_affected": 500000,
-   "timeline_events": 4,
-   "first_event": "2025-03-25",
-   "latest_event": "2026-01-24",
-   "last_checked": "2026-09-01",
-   "topics": [
-    "enforcement",
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/chnv-humanitarian-parole-termination/",
-   "url_es": "/es/casos-de-inmigracion/terminacion-parole-humanitario-chnv/"
   },
   {
    "id": "texas-sb8-mandatory-287g",
@@ -1711,8 +1711,8 @@
   },
   {
    "month": "2026-04",
-   "events": 12,
-   "cases_with_activity": 11
+   "events": 13,
+   "cases_with_activity": 12
   },
   {
    "month": "2026-05",
@@ -1721,18 +1721,23 @@
   },
   {
    "month": "2026-06",
-   "events": 40,
-   "cases_with_activity": 25
+   "events": 41,
+   "cases_with_activity": 26
   },
   {
    "month": "2026-07",
-   "events": 27,
-   "cases_with_activity": 13
+   "events": 30,
+   "cases_with_activity": 15
   },
   {
    "month": "2026-08",
-   "events": 31,
+   "events": 32,
    "cases_with_activity": 15
+  },
+  {
+   "month": "2026-09",
+   "events": 8,
+   "cases_with_activity": 5
   }
  ]
 }

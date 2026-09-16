@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-09-10",
+  "verified_on": "2026-09-16",
   "categories": [
    "tps",
    "visas",
@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-09-10"
+  "last_updated": "2026-09-16"
  },
  "upcoming": [
   {
@@ -88,6 +88,18 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-09-14",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "A court postponed the end of \"duration of status\" one day before it was due to start — and the new I-539 and I-765 editions are not being accepted",
+   "title_es": "Una corte suspendió el fin de la \"duración de estatus\" un día antes de que empezara — y las nuevas ediciones del I-539 y el I-765 no se están aceptando",
+   "summary_en": "On September 14, 2026 the U.S. District Court for the District of Massachusetts postponed the effective date of DHS's final rule replacing \"duration of status\" with a fixed admission period for F, J and I nonimmigrants (91 Fed. Reg. 44976, July 17, 2026), and preliminarily enjoined DHS from taking any further action to implement it, pending further order or resolution on the merits (Presidents' Alliance on Higher Education and Immigration, et al. v. DHS, 26-cv-13799, D. Mass.). The rule had been due to take effect September 15. Two things follow for filers. First, duration of status still applies — USCIS says it \"will proceed under the previous regulatory provisions.\" Second, the form-edition change that USCIS announced on August 14 did not happen: USCIS \"continues to accept the 08/28/24 edition of Form I-539 and 08/21/25 edition of Form I-765 and is not accepting the 09/15/26 edition of Forms I-539 and I-765.\" That reverses the warning we and others published, and it matters most to anyone filing an I-765 — DACA, TPS, asylum and adjustment applicants included — who was told to switch to the new edition. DHS says it disagrees with the order and will implement the rule if the order is lifted, so this is a postponement, not a cancellation: check the edition date on uscis.gov the day you file. Separately and unaffected by this order, Form I-485 does get a 09/18/26 edition on September 18, 2026 with no grace period.",
+   "summary_es": "El 14 de septiembre de 2026 la Corte de Distrito de EE. UU. para el Distrito de Massachusetts suspendió la fecha de vigencia de la regla final del DHS que reemplaza la \"duración de estatus\" por un periodo de admisión fijo para los no inmigrantes F, J e I (91 Fed. Reg. 44976, 17 de julio de 2026), y prohibió preliminarmente al DHS seguir implementándola, mientras no haya otra orden o se resuelva el fondo (Presidents' Alliance on Higher Education and Immigration, et al. v. DHS, 26-cv-13799, D. Mass.). La regla iba a entrar en vigor el 15 de septiembre. De ahí se derivan dos cosas para quien presenta. Primero, la duración de estatus sigue aplicando: USCIS dice que \"continuará bajo las disposiciones reglamentarias anteriores\". Segundo, el cambio de ediciones que USCIS anunció el 14 de agosto no ocurrió: USCIS sigue aceptando la edición del 08/28/24 del Formulario I-539 y la del 08/21/25 del Formulario I-765, y no está aceptando la edición 09/15/26 de ninguno de los dos. Eso revierte la advertencia que publicamos nosotros y otros, y le importa sobre todo a quien presenta un I-765 — incluidos solicitantes de DACA, TPS, asilo y ajuste de estatus — a quien se le dijo que cambiara a la edición nueva. El DHS dice que está en desacuerdo con la orden y que implementará la regla si esta se levanta: es una suspensión, no una cancelación; verifique la fecha de edición en uscis.gov el día que presente. Aparte, y sin relación con esta orden, el Formulario I-485 sí recibe una edición 09/18/26 el 18 de septiembre de 2026, sin periodo de gracia.",
+   "link_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
+   "link_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/",
+   "source_url": "https://www.uscis.gov/i-539"
+  },
   {
    "date": "2026-09-10",
    "precision": "day",

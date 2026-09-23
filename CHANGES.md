@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 182 recorded changes. Source data as of 2026-09-17.
+Showing the 40 most recent of 183 recorded changes. Source data as of 2026-09-17.
 
 ---
+
+### 2026-09-22 · ENFORCEMENT
+
+**Folkston Annex and South Texas ICE Processing Center pages now carry the visiting schedules, legal-visit rules and contacts ICE publishes**
+
+The pages for the Folkston ICE Processing Center Annex (Georgia) and the South Texas ICE Processing Center (Pearsall, Texas) were deepened on September 22, 2026 with specifics verified the same day at their own ice.gov facility pages (last updated 08/20/2026 and 08/06/2026) and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: the family, attorney, video-call, consular and clergy visiting periods ICE lists for each facility; visitor rules (ID, arrival time, minors, what visitors may bring); the ERO eFile rules for booking legal visits and the facility contacts for urgent legal requests; legal-document fax and email routes; mail and money-deposit rules, including ICE's own contradiction at the Folkston Annex between a mail-in address for money orders and a statement that all money arriving by mail is returned to the sender; complaint channels (ICE OPR, DHS OIG); and, for South Texas, the free legal providers EOIR lists for Pearsall, Texas. Several earlier statements were corrected, including that letters to a Folkston Annex detainee need the last four digits of the A-number.
+
+Primary source: <https://www.ice.gov/detain/detention-facilities/south-texas-ice-processing-center>
 
 ### 2026-09-17 · ENFORCEMENT
 
@@ -324,14 +332,6 @@ Primary source: <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/par
 Our I-821 pages said Sudan and Ukraine "terminate October 19, 2026." USCIS's Sudan country page reads: "TPS Continues Through: Oct. 19, 2026, under the extension of Sudan's TPS designation announced in the Jan. 17, 2025, FRN (90 FR 5944)"; the Ukraine page reads "TPS Designated Through: Oct. 19, 2026" (90 FR 5936). Neither has a published termination notice, and DHS can extend either again — October 19 ends an extension period, it does not terminate a designation. Both pages now also carry the separate, earlier date that the country pages publish: the EAD auto-extension by Federal Register notice ended April 19, 2026, which is proof of status rather than status itself.
 
 Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-sudan>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: four USCIS wait times on our pages were far shorter than USCIS's own published figures**
-
-Eight pages quoted wait ranges that our own USCIS processing-times dataset contradicts. VAWA self-petitions (Form I-360) were described as "18-36 months" and, in the page metadata, as "about 15.5 months" — 15.5 was the median across four unrelated I-360 categories, not the VAWA figure; USCIS's 80th-percentile figure for VAWA is about 51.5 months. The I-601A provisional unlawful-presence waiver was given as 12-18 months against USCIS's 27.5. The I-526E was given as 12-24 months against 35. Removing conditions on residence (Form I-751) was given as 18-36 months against 33.5 months at service centers and 37.0 across field offices. The two I-360 pages now render the live dataset table instead of a hand-typed one, so the figures cannot drift again, and every other page states the USCIS figure with a pointer to check it live. Understating an I-601A wait by a year is the difference between a planned trip abroad and a family stranded there.
-
-Primary source: <https://egov.uscis.gov/processing-times/>
 
 ---
 

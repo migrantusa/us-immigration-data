@@ -89,6 +89,18 @@
  ],
  "changes": [
   {
+   "date": "2026-09-22",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "Folkston Annex and South Texas ICE Processing Center pages now carry the visiting schedules, legal-visit rules and contacts ICE publishes",
+   "title_es": "Las páginas del Folkston Annex y del South Texas ICE Processing Center ya traen los horarios de visita, las reglas de visitas legales y los contactos que publica ICE",
+   "summary_en": "The pages for the Folkston ICE Processing Center Annex (Georgia) and the South Texas ICE Processing Center (Pearsall, Texas) were deepened on September 22, 2026 with specifics verified the same day at their own ice.gov facility pages (last updated 08/20/2026 and 08/06/2026) and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: the family, attorney, video-call, consular and clergy visiting periods ICE lists for each facility; visitor rules (ID, arrival time, minors, what visitors may bring); the ERO eFile rules for booking legal visits and the facility contacts for urgent legal requests; legal-document fax and email routes; mail and money-deposit rules, including ICE's own contradiction at the Folkston Annex between a mail-in address for money orders and a statement that all money arriving by mail is returned to the sender; complaint channels (ICE OPR, DHS OIG); and, for South Texas, the free legal providers EOIR lists for Pearsall, Texas. Several earlier statements were corrected, including that letters to a Folkston Annex detainee need the last four digits of the A-number.",
+   "summary_es": "Las páginas del Folkston ICE Processing Center Annex (Georgia) y del South Texas ICE Processing Center (Pearsall, Texas) se ampliaron el 22 de septiembre de 2026 con datos verificados ese mismo día en sus propias páginas de ice.gov (actualizadas el 20/08/2026 y el 06/08/2026) y en la Lista de Proveedores de Servicios Legales Pro Bono de EOIR de julio de 2026. Ahora se publican: los horarios de visita familiar, de abogados, de videollamadas, consulares y religiosas que ICE indica para cada centro; las reglas para visitantes (identificación, hora de llegada, menores, qué se puede llevar); las reglas de ERO eFile para reservar visitas legales y los contactos del centro para solicitudes legales urgentes; las vías de fax y correo electrónico para documentos legales; las reglas de correo y de depósito de dinero, incluida la contradicción de la propia página de ICE en el Folkston Annex entre una dirección para enviar giros postales y la afirmación de que todo el dinero que llega por correo se devuelve al remitente; los canales de queja (OPR de ICE, OIG del DHS); y, para South Texas, los proveedores legales gratuitos que EOIR lista para Pearsall, Texas. Se corrigieron varias afirmaciones anteriores, entre ellas que las cartas para una persona detenida en el Folkston Annex requieren los últimos cuatro dígitos del A-number.",
+   "link_en": "/ice-detention/south-texas-ice-processing-center/",
+   "link_es": "/es/detencion-ice/south-texas-ice-processing-center/",
+   "source_url": "https://www.ice.gov/detain/detention-facilities/south-texas-ice-processing-center"
+  },
+  {
    "date": "2026-09-17",
    "precision": "day",
    "category": "enforcement",

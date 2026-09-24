@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-09-16",
+  "verified_on": "2026-09-24",
   "categories": [
    "tps",
    "visas",
@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-09-17"
+  "last_updated": "2026-09-24"
  },
  "upcoming": [
   {
@@ -24,48 +24,6 @@
    "link_en": "/expat/germany-freelancer-self-employed-visa/",
    "link_es": "/es/expatriacion/alemania-visa-freelancer-autoempleado/",
    "source_url": "https://service.berlin.de/dienstleistung/328332/en/"
-  },
-  {
-   "date": "2026-09-15",
-   "title_en": "Fixed-period admission replaces 'duration of status' for F, J, and I (effective date)",
-   "title_es": "La admisión de periodo fijo reemplaza la 'duración de estatus' para F, J e I (fecha de vigencia)",
-   "summary_en": "From this date, new F, J, and I admissions receive a fixed admit-until date instead of D/S. Current D/S holders keep status until their I-20/DS-2019 program end date or 4 years after this date, whichever comes first. Subject to congressional review — DHS will publish a Federal Register document if the date changes.",
-   "summary_es": "Desde esta fecha, las nuevas admisiones F, J e I reciben una fecha fija de admisión hasta en lugar de D/S. Quienes ya tienen D/S conservan su estatus hasta la fecha de fin del programa en su I-20/DS-2019 o 4 años después de esta fecha, lo que ocurra primero. Sujeta a revisión del Congreso — el DHS publicará un documento en el Federal Register si la fecha cambia.",
-   "link_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
-   "link_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
-  },
-  {
-   "date": "2026-09-15",
-   "precision": "day",
-   "category": "procedures",
-   "title_en": "New editions of Form I-765 and Form I-539 take effect — older editions rejected, no grace period",
-   "title_es": "Entran en vigor las nuevas ediciones de los Formularios I-765 e I-539 — las ediciones anteriores se rechazan, sin periodo de gracia",
-   "summary_en": "USCIS announced on August 14, 2026 that it will publish revised editions of Form I-765 (Application for Employment Authorization) and Form I-539 (Application to Extend/Change Nonimmigrant Status) on September 15, 2026, both carrying edition date 09/15/26. They replace the 08/21/25 edition of Form I-765 and the 08/28/24 edition of Form I-539. There is no grace period: USCIS will reject the older editions if they are postmarked or electronically submitted on or after September 15, 2026, and will not accept the new editions before that date. The trigger is the postmark or submission date, not the date USCIS receives the package. The revision follows the final rule setting fixed admission periods for F, J and I nonimmigrants, but the rejection rule applies to every I-765 filer — including DACA renewals, TPS registrations and asylum-based work permits, which are unrelated to that rule.",
-   "summary_es": "USCIS anunció el 14 de agosto de 2026 que publicará ediciones revisadas del Formulario I-765 (Solicitud de Autorización de Empleo) y del Formulario I-539 (Solicitud para Extender/Cambiar Estatus de No Inmigrante) el 15 de septiembre de 2026, ambas con fecha de edición 09/15/26. Reemplazan la edición del 08/21/25 del I-765 y la del 08/28/24 del I-539. No hay periodo de gracia: USCIS rechazará las ediciones anteriores si llevan matasellos o envío electrónico del 15 de septiembre de 2026 en adelante, y no aceptará las nuevas ediciones antes de esa fecha. Lo que cuenta es la fecha del matasellos o del envío, no la fecha en que USCIS recibe el paquete. La revisión proviene de la regla final sobre periodos fijos de admisión para no inmigrantes F, J e I, pero la regla de rechazo aplica a todos los que presenten un I-765 — incluidas las renovaciones de DACA, los registros de TPS y los permisos de trabajo por asilo, que nada tienen que ver con esa regla.",
-   "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting",
-   "guides_en": [
-    "/procedures/uscis/i-765-employment-authorization-ead/",
-    "/procedures/uscis/i-539-extension-status/",
-    "/procedures/uscis/i-821d-daca-renewal/",
-    "/procedures/uscis/i-821-tps-temporary-protected-status/"
-   ],
-   "guides_es": [
-    "/es/tramites/uscis/i-765-autorizacion-empleo-ead/",
-    "/es/tramites/uscis/i-539-extension-status/",
-    "/es/tramites/uscis/i-821d-daca-renovacion/",
-    "/es/tramites/uscis/i-821-tps-estatus-de-proteccion-temporal/"
-   ],
-   "link_en": "/procedures/uscis/i-765-employment-authorization-ead/",
-   "link_es": "/es/tramites/uscis/i-765-autorizacion-empleo-ead/"
-  },
-  {
-   "date": "2026-09-18",
-   "title_en": "The 2022 public-charge rule's rescission takes effect (case-by-case framework; revised Form I-485 required)",
-   "title_es": "Entra en vigor la rescisión de la regla de carga pública de 2022 (marco caso por caso; se exige el I-485 revisado)",
-   "summary_en": "From this date, the 2022 public-charge rule's limits are gone and the Policy Manual guidance USCIS published August 18, 2026 governs (superseding the 1999 Interim Field Guidance): officers weigh five statutory factors case-by-case, and any means-tested benefit the applicant receives on or after September 18, 2026 — USCIS names cash assistance, housing assistance, food stamps, and college financial aid — can be considered; benefits received before this date are still judged under the 2022 rule's limits. Public-charge bonds (Form I-945) return, by USCIS invitation only. A revised Form I-485 (edition 09/18/26) is required — older editions filed on or after this date will be rejected.",
-   "summary_es": "Desde esta fecha desaparecen los límites de la regla de carga pública de 2022 y rige la guía del Manual de Políticas que USCIS publicó el 18 de agosto de 2026 (que sustituye la Guía de Campo Interina de 1999): los oficiales ponderan cinco factores estatutarios caso por caso, y cualquier beneficio sujeto a comprobación de recursos que el solicitante reciba a partir del 18 de septiembre de 2026 — USCIS nombra la asistencia en efectivo, la ayuda de vivienda, los cupones de alimentos y la ayuda financiera universitaria — puede considerarse; los beneficios recibidos antes de esta fecha se siguen juzgando con los límites de la regla de 2022. Vuelven las fianzas de carga pública (Formulario I-945), solo por invitación de USCIS. Se exige un Formulario I-485 revisado (edición 09/18/26) — las ediciones anteriores presentadas a partir de esta fecha serán rechazadas.",
-   "link_en": "/procedures/public-charge/",
-   "link_es": "/es/tramites/public-charge/"
   },
   {
    "date": "2026-10-01",
@@ -89,6 +47,42 @@
  ],
  "changes": [
   {
+   "date": "2026-09-24",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: since July 4, 2025, Medicare is limited to citizens, green-card holders, Cuban and Haitian entrants and COFA residents; current enrollees outside those groups lose it January 4, 2027",
+   "title_es": "Corrección: desde el 4 de julio de 2025, Medicare se limita a ciudadanos, residentes permanentes, entrantes cubanos o haitianos y residentes bajo COFA; quienes ya están inscritos fuera de esos grupos lo pierden el 4 de enero de 2027",
+   "summary_en": "Our Medicare page said a lawfully present worker who is not a permanent resident (deferred action including DACA, TPS, DED) and has 40 work quarters gets premium-free Part A at 65. That reasoning from 42 U.S.C. 426(a) and 402(y) missed a later law. Section 71201 of Public Law 119-21, enacted July 4, 2025, added section 1899C to the Social Security Act: a person \"may be entitled to, or enrolled for, benefits under this title only if the individual is\" a citizen or national of the United States, a lawful permanent resident, a Cuban and Haitian entrant, or someone lawfully residing in the US under a Compact of Free Association. For people who were already entitled or enrolled on July 4, 2025, the limit applies beginning 18 months after enactment, which is January 4, 2027; the Commissioner of Social Security had to complete a review of those enrollees within one year of enactment and must notify each person identified that their entitlement or enrollment will end on that date. The page now quotes the statute, lists the four groups, gives the transition date, and says it describes the law text, not how the Social Security Administration is carrying out the review. The earlier September 10, 2026 correction on this page is superseded.",
+   "summary_es": "Nuestra página de Medicare decía que un trabajador presente legalmente que no es residente permanente (acción diferida incluido DACA, TPS, DED) y tiene 40 trimestres de trabajo obtiene la Parte A sin prima a los 65. Ese razonamiento a partir de 42 U.S.C. 426(a) y 402(y) pasó por alto una ley posterior. La sección 71201 de la Ley Pública 119-21, promulgada el 4 de julio de 2025, agregó la sección 1899C a la Ley del Seguro Social: una persona puede tener derecho a Medicare, o estar inscrita en él, solo si es ciudadana o nacional de EE. UU., residente permanente legal, entrante cubano o haitiano, o reside legalmente en EE. UU. conforme a un Pacto de Libre Asociación. Para quienes ya tenían derecho o estaban inscritos el 4 de julio de 2025, el límite se aplica a partir de 18 meses después de la promulgación, es decir, el 4 de enero de 2027; el Comisionado del Seguro Social debía terminar una revisión de esos inscritos dentro de un año desde la promulgación y debe notificar a cada persona identificada que su derecho o inscripción terminará en esa fecha. La página ahora cita la ley, enumera los cuatro grupos, da la fecha de transición y aclara que describe el texto legal, no cómo la Administración del Seguro Social está haciendo la revisión. La corrección anterior de esta página del 10 de septiembre de 2026 queda sustituida.",
+   "source_url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm",
+   "link_en": "/benefits/medicare/",
+   "link_es": "/es/beneficios/medicare/"
+  },
+  {
+   "date": "2026-09-24",
+   "precision": "day",
+   "category": "procedures",
+   "title_en": "Form I-864: only the 08/24/26 edition is accepted from October 1, 2026, and it authorizes USCIS to pull the sponsor's credit report",
+   "title_es": "Formulario I-864: desde el 1 de octubre de 2026 solo se acepta la edición 08/24/26, que autoriza a USCIS a pedir el informe de crédito del patrocinador",
+   "summary_en": "As of September 24, 2026, the USCIS Form I-864 page (last updated 09/04/2026) says the 08/24/26 edition was published August 31, 2026 with a 30-day grace period for the 10/17/24 edition: \"Beginning Oct. 1, 2026, we will only accept the 08/24/26 edition of Form I-864. USCIS will not process any 10/17/24 edition of Form I-864 postmarked or electronically submitted on or after Oct. 1, 2026.\" USCIS says it does not reject the Form I-485 itself when filed with an older I-864 edition and applies 8 CFR 103.2(b)(8) on missing initial evidence. The new edition includes a privacy release authorizing USCIS and the Department of State to request information from consumer reporting agencies, including credit reports and scores, and USCIS warns that a credit or security freeze can keep it from reading that information. Our affidavit-of-support guide now carries the edition rule, the credit release and the freeze warning. While re-reading the form instructions we also corrected the tax-return line: the instructions require an IRS transcript or a photocopy of the return for the most recent tax year, with three years optional, not three years of IRS transcripts.",
+   "summary_es": "Al 24 de septiembre de 2026, la página del Formulario I-864 de USCIS (última actualización 09/04/2026) dice que la edición 08/24/26 se publicó el 31 de agosto de 2026 con un período de gracia de 30 días para la edición 10/17/24: a partir del 1 de octubre de 2026 USCIS solo acepta la edición 08/24/26 y no procesará un I-864 de la edición 10/17/24 con matasellos o enviado electrónicamente en esa fecha o después. USCIS dice que no rechaza el Formulario I-485 en sí cuando se presenta con una edición anterior del I-864 y aplica 8 CFR 103.2(b)(8) sobre la falta de evidencia inicial. La nueva edición incluye una autorización de privacidad para que USCIS y el Departamento de Estado pidan información a agencias de informes de crédito, incluidos informes y puntajes de crédito, y USCIS advierte que un congelamiento de crédito o de seguridad puede impedirle leer esa información. Nuestra guía de la declaración de patrocinio ahora incluye la regla de edición, la autorización de crédito y la advertencia sobre congelamientos. Al releer las instrucciones del formulario también corregimos la línea sobre impuestos: las instrucciones piden una transcripción del IRS o una fotocopia de la declaración del año fiscal más reciente, con tres años como opción, no tres años de transcripciones del IRS.",
+   "source_url": "https://www.uscis.gov/i-864",
+   "link_en": "/procedures/affidavit-of-support/",
+   "link_es": "/es/tramites/affidavit-of-support/"
+  },
+  {
+   "date": "2026-09-23",
+   "precision": "day",
+   "category": "fees",
+   "title_en": "H.R.1 fees appeal: First Circuit moves the appellants' opening brief to October 30, 2026",
+   "title_es": "Apelación sobre las tarifas de la H.R.1: el Primer Circuito mueve el escrito inicial de los apelantes al 30 de octubre de 2026",
+   "summary_en": "On September 23, 2026 the First Circuit granted the appellants' first, unopposed request for more time in the H.R.1 fees appeal (No. 26-1893), enlarging the deadline for their brief and appendix from September 30 to October 30, 2026. The appellees' brief is due 30 days after the appellants' brief is served, and any reply 21 days after that. Nothing else changed: the H.R.1 asylum, work-permit (EAD) and TPS fees are still being collected, the nationwide stay of the rules letting USCIS reject a pending asylum application or start removal solely for non-payment of the Annual Asylum Fee still holds, and H.R.1's one-year cap on TPS-based work permits keeps operating while the appeal is briefed.",
+   "summary_es": "El 23 de septiembre de 2026 el Primer Circuito concedió la primera solicitud de prórroga de los apelantes, sin oposición, en la apelación sobre las tarifas de la H.R.1 (No. 26-1893), y amplió el plazo para su escrito y apéndice del 30 de septiembre al 30 de octubre de 2026. El escrito de los apelados vence 30 días después de la notificación del escrito de los apelantes, y la réplica 21 días después. Nada más cambió: las tarifas de asilo, permiso de trabajo (EAD) y TPS de la H.R.1 se siguen cobrando, la suspensión nacional de las reglas que permitían a USCIS rechazar una solicitud de asilo pendiente o iniciar la remoción únicamente por no pagar la Tarifa Anual de Asilo se mantiene, y el tope de un año de la H.R.1 para los permisos de trabajo basados en TPS sigue operando mientras se presentan los alegatos.",
+   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/",
+   "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.ca1.54635/gov.uscourts.ca1.54635.108513193.0.pdf"
+  },
+  {
    "date": "2026-09-22",
    "precision": "day",
    "category": "enforcement",
@@ -99,6 +93,28 @@
    "link_en": "/ice-detention/south-texas-ice-processing-center/",
    "link_es": "/es/detencion-ice/south-texas-ice-processing-center/",
    "source_url": "https://www.ice.gov/detain/detention-facilities/south-texas-ice-processing-center"
+  },
+  {
+   "date": "2026-09-18",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "The 2022 public-charge rule's rescission took effect September 18, 2026 — only the 09/18/26 edition of Form I-485 is accepted",
+   "title_es": "La rescisión de la regla de carga pública de 2022 entró en vigor el 18 de septiembre de 2026 — solo se acepta la edición 09/18/26 del Formulario I-485",
+   "summary_en": "On September 18, 2026 the final rule rescinding the 2022 public-charge regulation (91 FR 45324) took effect, with no court order blocking it. The Policy Manual guidance USCIS published August 18, 2026 now governs (superseding the 1999 Interim Field Guidance): officers weigh five statutory factors case-by-case, and any means-tested benefit an applicant receives on or after September 18, 2026 — USCIS names cash assistance, housing assistance, food stamps, and college financial aid — can be considered. Benefits received before that date, and Forms I-485 postmarked or electronically submitted before it, are still judged under the 2022 rule. Public-charge bonds (Form I-945) returned, by USCIS invitation only. USCIS now accepts only the 09/18/26 edition of Form I-485 and rejects the 01/20/25 and 09/04/26 editions if postmarked or electronically submitted on or after September 18, 2026, with no grace period. Three lawsuits challenging the rule are pending in the Southern District of New York: one filed September 14 by New York, 20 other states, the governor of Pennsylvania and the District of Columbia (No. 1:26-cv-07978), one filed the same day by New York City and other cities and counties (No. 1:26-cv-07982), and one filed September 17 by Make the Road New York and others (No. 1:26-cv-08129), which the court accepted as related. As of September 24, 2026 no court has blocked the rule; the first conference is set for October 9, 2026.",
+   "summary_es": "El 18 de septiembre de 2026 entró en vigor la regla final que rescinde la regulación de carga pública de 2022 (91 FR 45324), sin ninguna orden judicial que la bloquee. Ahora rige la guía del Manual de Políticas que USCIS publicó el 18 de agosto de 2026 (que sustituye la Guía de Campo Interina de 1999): los oficiales ponderan cinco factores estatutarios caso por caso, y cualquier beneficio sujeto a comprobación de recursos que el solicitante reciba a partir del 18 de septiembre de 2026 — USCIS nombra la asistencia en efectivo, la ayuda de vivienda, los cupones de alimentos y la ayuda financiera universitaria — puede considerarse. Los beneficios recibidos antes de esa fecha, y los Formularios I-485 con matasellos o envío electrónico anterior a ella, se siguen juzgando bajo la regla de 2022. Volvieron las fianzas de carga pública (Formulario I-945), solo por invitación de USCIS. USCIS ahora acepta solo la edición 09/18/26 del Formulario I-485 y rechaza las ediciones 01/20/25 y 09/04/26 si tienen matasellos o envío electrónico a partir del 18 de septiembre de 2026, sin periodo de gracia. Hay tres demandas contra la regla pendientes en el Distrito Sur de Nueva York: una presentada el 14 de septiembre por Nueva York, otros 20 estados, el gobernador de Pensilvania y el Distrito de Columbia (No. 1:26-cv-07978), otra presentada el mismo día por la ciudad de Nueva York y otras ciudades y condados (No. 1:26-cv-07982), y una tercera presentada el 17 de septiembre por Make the Road New York y otras organizaciones (No. 1:26-cv-08129), que el tribunal aceptó como relacionada. Al 24 de septiembre de 2026 ningún tribunal ha bloqueado la regla; la primera conferencia está fijada para el 9 de octubre de 2026.",
+   "source_url": "https://www.uscis.gov/i-485",
+   "guides_en": [
+    "/procedures/public-charge/",
+    "/immigration-cases/public-charge-rule/",
+    "/procedures/uscis/i-485-adjustment-of-status-green-card/"
+   ],
+   "guides_es": [
+    "/es/tramites/public-charge/",
+    "/es/casos-de-inmigracion/regla-carga-publica/",
+    "/es/tramites/uscis/i-485-ajuste-estatus-green-card/"
+   ],
+   "link_en": "/procedures/public-charge/",
+   "link_es": "/es/tramites/public-charge/"
   },
   {
    "date": "2026-09-17",
@@ -309,6 +325,18 @@
    "link_en": "/immigration-cases/ead-automatic-540-day-extension-eliminated/",
    "link_es": "/es/casos-de-inmigracion/extension-automatica-540-dias-permiso-trabajo-eliminada/",
    "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.1001937/gov.uscourts.cacd.1001937.46.0.pdf"
+  },
+  {
+   "date": "2026-09-16",
+   "precision": "day",
+   "category": "courts",
+   "title_en": "Tennessee's HB 1704 stays in effect: judge denies a preliminary injunction for lack of standing, and the first suit is on appeal",
+   "title_es": "La HB 1704 de Tennessee sigue en vigor: un juez deniega la medida cautelar por falta de legitimación, y la primera demanda está en apelación",
+   "summary_en": "On September 16, 2026 Judge Eli Richardson of the Middle District of Tennessee denied a preliminary injunction against Section 1 of HB 1704 (Public Chapter 771), the state crime for a noncitizen with certain final removal orders who intentionally fails to leave Tennessee within 90 days (Lucy v. Skrmetti, No. 3:26-cv-00998). The court found that neither named plaintiff had shown standing for a preliminary injunction; it did not decide whether the law is preempted by federal immigration law, and it deferred its decision on class certification. Section 1 stays in effect. The defendants' motion to dismiss is still pending. The plaintiffs' appeal of the first, dismissed suit (No. 3:26-cv-00763) is pending in the Sixth Circuit as No. 26-5660, where they filed their opening brief on September 11, 2026. This corrects our earlier statement that no appeal had been filed in the first case: the plaintiffs filed a notice of appeal on July 24, 2026.",
+   "summary_es": "El 16 de septiembre de 2026 el juez Eli Richardson, del Distrito Medio de Tennessee, denegó una medida cautelar contra la Sección 1 de la HB 1704 (Capítulo Público 771), el delito estatal para un no ciudadano con ciertas órdenes finales de expulsión que de forma intencional no sale de Tennessee dentro de 90 días (Lucy v. Skrmetti, No. 3:26-cv-00998). El tribunal concluyó que ninguno de los demandantes nombrados había demostrado legitimación a efectos de una medida cautelar; no decidió si la ley queda desplazada por la ley migratoria federal y aplazó su decisión sobre la certificación colectiva. La Sección 1 sigue en vigor. La moción para desestimar de los demandados sigue pendiente. La apelación de los demandantes contra la primera demanda, que fue desestimada (No. 3:26-cv-00763), sigue pendiente en el Sexto Circuito como No. 26-5660, donde presentaron su escrito inicial el 11 de septiembre de 2026. Esto corrige lo que dijimos antes, que no se había apelado el primer caso: los demandantes presentaron un aviso de apelación el 24 de julio de 2026.",
+   "link_en": "/immigration-cases/tennessee-sb-1779-remaining-after-a-removal-order/",
+   "link_es": "/es/casos-de-inmigracion/tennessee-sb-1779-permanecer-tras-una-orden-de-expulsion/",
+   "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.tnmd.110442/gov.uscourts.tnmd.110442.48.0.pdf"
   },
   {
    "date": "2026-09-14",
@@ -645,6 +673,26 @@
    "link_en": "/immigration-cases/birthright-citizenship-supreme-court/",
    "link_es": "/es/casos-de-inmigracion/ciudadania-por-nacimiento-corte-suprema/",
    "source_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the"
+  },
+  {
+   "date": "2026-09-09",
+   "precision": "day",
+   "category": "education",
+   "title_en": "Kansas in-state tuition for undocumented students permanently blocked — and DOJ sues eight more jurisdictions",
+   "title_es": "Bloqueada de forma permanente la matrícula estatal de Kansas para estudiantes indocumentados — y el DOJ demanda a ocho jurisdicciones más",
+   "summary_en": "On September 9, 2026 a federal district court (D. Kan., USA v. Kansas, 5:26-cv-4066) struck down Kansas's 2004 tuition equity law (KSA 76-731a) after approving an agreement between DOJ and the Kansas attorney general, and denied efforts by Governor Laura Kelly and affected students to intervene and defend the law. Local reporting (KCUR, Sept. 11) said the injunction took effect immediately, though how campuses would apply it was unclear. In September 2026 a student association represented by MALDEF appealed the denial of its bid to intervene to the Tenth Circuit. Separately, DOJ sued New Mexico, Arizona, Oregon and Washington on August 27, 2026 and Hawaii, the District of Columbia, Arkansas and Utah on September 10, 2026, bringing the total to 24 states plus D.C. that have faced federal tuition-equity suits (tracker last updated September 17, 2026). Those laws remain in effect while their cases proceed.",
+   "summary_es": "El 9 de septiembre de 2026 un tribunal federal de distrito (D. Kan., USA v. Kansas, 5:26-cv-4066) anuló la ley de equidad de matrícula de Kansas de 2004 (KSA 76-731a) tras aprobar un acuerdo entre el DOJ y el fiscal general de Kansas, y rechazó los intentos de la gobernadora Laura Kelly y de estudiantes afectados de intervenir para defender la ley. Según reportes locales (KCUR, 11 de septiembre), la orden entró en vigor de inmediato, aunque no quedó claro cómo la aplicaría cada campus. En septiembre de 2026 una asociación estudiantil representada por MALDEF apeló ante el Décimo Circuito la negativa a dejarla intervenir. Aparte, el DOJ demandó a Nuevo México, Arizona, Oregón y Washington el 27 de agosto de 2026 y a Hawái, el Distrito de Columbia, Arkansas y Utah el 10 de septiembre de 2026, con lo que ya son 24 estados más D.C. los que han enfrentado demandas federales sobre equidad de matrícula (rastreador actualizado el 17 de septiembre de 2026). Esas leyes siguen vigentes mientras avanzan sus casos.",
+   "source_url": "https://www.higheredimmigrationportal.org/in-state-tuition-litigation-updates/",
+   "guides_en": [
+    "/immigration-cases/in-state-tuition-equity/",
+    "/datasets/in-state-tuition-access/"
+   ],
+   "guides_es": [
+    "/es/casos-de-inmigracion/matricula-estatal-equidad/",
+    "/es/datos/acceso-matricula-estatal/"
+   ],
+   "link_en": "/immigration-cases/in-state-tuition-equity/",
+   "link_es": "/es/casos-de-inmigracion/matricula-estatal-equidad/"
   },
   {
    "date": "2026-09-09",
@@ -2461,6 +2509,30 @@
    "source_url": "https://www.ice.gov/doclib/detention-standards/2019/5_1.pdf",
    "link_en": "/ice-detention/",
    "link_es": "/es/detencion-ice/"
+  },
+  {
+   "date": "2026-09-24",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "Laredo, Winn, Diamondback and San Luis ICE facility pages now carry ICE's visiting rules, legal-access routes and latest inspection results",
+   "title_es": "Las páginas de los centros de ICE de Laredo, Winn, Diamondback y San Luis ya traen las reglas de visita, las vías de acceso legal y los resultados de la inspección más reciente de ICE",
+   "summary_en": "The pages for CoreCivic Laredo Processing Center (Texas), Winn Correctional Center (Louisiana), Diamondback Correctional Facility (Oklahoma) and San Luis Regional Detention Center (Arizona) were deepened on September 24, 2026 with specifics verified that day at each facility's ice.gov page (last updated 08/06/2026), ICE Office of Detention Oversight inspection reports from January 2026, CoreCivic's facility page for Diamondback, and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: each facility's family-visit schedule and visitor rules (Laredo's published windows cover only female detainees; Winn assigns days by custody level; Diamondback visits are by appointment within two one-hour blocks a week; San Luis splits days by sex), attorney, consular and clergy visiting, how legal video calls are booked (ERO eFile at Winn and Diamondback, email at San Luis), legal fax and email routes, mail formats and money-deposit routes (money orders at Laredo, cash accepted by mail at Winn, ViaPath at Diamondback, no published route at San Luis), and complaint channels. New inspection sections summarize ODO's January 2026 findings: one deficiency at Laredo (rated Good), 13 at Winn including two priority components (rated Acceptable/Adequate), and none at San Luis (rated Superior); ICE lists no inspection report for Diamondback.",
+   "summary_es": "Las páginas de CoreCivic Laredo Processing Center (Texas), Winn Correctional Center (Luisiana), Diamondback Correctional Facility (Oklahoma) y San Luis Regional Detention Center (Arizona) se ampliaron el 24 de septiembre de 2026 con datos verificados ese día en la página de ice.gov de cada centro (actualizada el 06/08/2026), en los informes de inspección de enero de 2026 de la Oficina de Supervisión de Detención de ICE, en la página de CoreCivic sobre Diamondback y en la Lista de Proveedores de Servicios Legales Pro Bono de la EOIR de julio de 2026. Ahora se publican: el horario de visitas familiares y las reglas para visitantes de cada centro (en Laredo las franjas publicadas solo cubren a mujeres detenidas; Winn asigna los días por nivel de custodia; en Diamondback las visitas son con cita dentro de dos bloques de una hora por semana; San Luis reparte los días por sexo), las visitas de abogados, consulares y religiosas, cómo se reservan las videollamadas legales (ERO eFile en Winn y Diamondback, correo electrónico en San Luis), las vías de fax y correo electrónico para documentos legales, los formatos de correo y las vías para depositar dinero (giros postales en Laredo, efectivo por correo en Winn, ViaPath en Diamondback, ninguna vía publicada en San Luis) y los canales de queja. Las nuevas secciones de inspección resumen los hallazgos de la ODO de enero de 2026: una deficiencia en Laredo (calificación Good), 13 en Winn, dos de ellas componentes prioritarios (Acceptable/Adequate), y ninguna en San Luis (Superior); ICE no lista ningún informe de inspección de Diamondback.",
+   "link_en": "/ice-detention/winn-correctional-center/",
+   "link_es": "/es/detencion-ice/winn-correctional-center/",
+   "source_url": "https://www.ice.gov/foia/odo-facility-inspections"
+  },
+  {
+   "date": "2026-09-24",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: ICE facility pages said the ERO field office handles check-ins, and called EOIR's main line a Board of Immigration Appeals number",
+   "title_es": "Corrección: las páginas de centros de ICE decían que la oficina de campo de ERO atiende las presentaciones (check-ins) y llamaban número de la Junta de Apelaciones a la línea principal de EOIR",
+   "summary_en": "151 ICE facility pages and the 24 field-office pages (EN + ES) said the ERO field office phone handles ICE check-in, supervision and reporting. ICE's field-office directory (updated Sep 2, 2026) says the field offices \"are not check-in locations\" and sends check-ins to ice.gov/check-in; the pages now say only that. Where ICE's own facility page and its field-office directory print different field-office numbers (48 pages, 14 offices), both numbers are now shown, each labelled with the ICE page it comes from. The number given for the Board of Immigration Appeals, (703) 305-0289, is the main line of EOIR, the Justice Department agency the BIA belongs to, as printed on EOIR's own pages; it is now labelled that way.",
+   "summary_es": "151 páginas de centros de ICE y las 24 páginas de oficinas de campo (EN + ES) decían que el teléfono de la oficina de campo de ERO atiende presentaciones (check-ins), supervisión y reportes. El directorio de oficinas de campo de ICE (actualizado el 2 de septiembre de 2026) dice que las oficinas de campo \"no son lugares de presentación\" y remite las presentaciones a ice.gov/check-in; las páginas ahora dicen solo eso. Donde la página del centro de ICE y su directorio de oficinas de campo publican números distintos (48 páginas, 14 oficinas), ahora se muestran ambos, cada uno con la página de ICE de la que proviene. El número indicado para la Junta de Apelaciones de Inmigración, (703) 305-0289, es la línea principal de EOIR, la agencia del Departamento de Justicia a la que pertenece la BIA, según las propias páginas de EOIR; ahora se identifica así.",
+   "link_en": "/ice-detention/",
+   "link_es": "/es/detencion-ice/",
+   "source_url": "https://www.ice.gov/contact/field-offices"
   }
  ]
 }

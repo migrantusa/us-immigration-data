@@ -9,9 +9,49 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 183 recorded changes. Source data as of 2026-09-17.
+Showing the 40 most recent of 191 recorded changes. Source data as of 2026-09-24.
 
 ---
+
+### 2026-09-24 · CORRECTION
+
+**Correction: since July 4, 2025, Medicare is limited to citizens, green-card holders, Cuban and Haitian entrants and COFA residents; current enrollees outside those groups lose it January 4, 2027**
+
+Our Medicare page said a lawfully present worker who is not a permanent resident (deferred action including DACA, TPS, DED) and has 40 work quarters gets premium-free Part A at 65. That reasoning from 42 U.S.C. 426(a) and 402(y) missed a later law. Section 71201 of Public Law 119-21, enacted July 4, 2025, added section 1899C to the Social Security Act: a person "may be entitled to, or enrolled for, benefits under this title only if the individual is" a citizen or national of the United States, a lawful permanent resident, a Cuban and Haitian entrant, or someone lawfully residing in the US under a Compact of Free Association. For people who were already entitled or enrolled on July 4, 2025, the limit applies beginning 18 months after enactment, which is January 4, 2027; the Commissioner of Social Security had to complete a review of those enrollees within one year of enactment and must notify each person identified that their entitlement or enrollment will end on that date. The page now quotes the statute, lists the four groups, gives the transition date, and says it describes the law text, not how the Social Security Administration is carrying out the review. The earlier September 10, 2026 correction on this page is superseded.
+
+Primary source: <https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm>
+
+### 2026-09-24 · PROCEDURES
+
+**Form I-864: only the 08/24/26 edition is accepted from October 1, 2026, and it authorizes USCIS to pull the sponsor's credit report**
+
+As of September 24, 2026, the USCIS Form I-864 page (last updated 09/04/2026) says the 08/24/26 edition was published August 31, 2026 with a 30-day grace period for the 10/17/24 edition: "Beginning Oct. 1, 2026, we will only accept the 08/24/26 edition of Form I-864. USCIS will not process any 10/17/24 edition of Form I-864 postmarked or electronically submitted on or after Oct. 1, 2026." USCIS says it does not reject the Form I-485 itself when filed with an older I-864 edition and applies 8 CFR 103.2(b)(8) on missing initial evidence. The new edition includes a privacy release authorizing USCIS and the Department of State to request information from consumer reporting agencies, including credit reports and scores, and USCIS warns that a credit or security freeze can keep it from reading that information. Our affidavit-of-support guide now carries the edition rule, the credit release and the freeze warning. While re-reading the form instructions we also corrected the tax-return line: the instructions require an IRS transcript or a photocopy of the return for the most recent tax year, with three years optional, not three years of IRS transcripts.
+
+Primary source: <https://www.uscis.gov/i-864>
+
+### 2026-09-24 · ENFORCEMENT
+
+**Laredo, Winn, Diamondback and San Luis ICE facility pages now carry ICE's visiting rules, legal-access routes and latest inspection results**
+
+The pages for CoreCivic Laredo Processing Center (Texas), Winn Correctional Center (Louisiana), Diamondback Correctional Facility (Oklahoma) and San Luis Regional Detention Center (Arizona) were deepened on September 24, 2026 with specifics verified that day at each facility's ice.gov page (last updated 08/06/2026), ICE Office of Detention Oversight inspection reports from January 2026, CoreCivic's facility page for Diamondback, and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: each facility's family-visit schedule and visitor rules (Laredo's published windows cover only female detainees; Winn assigns days by custody level; Diamondback visits are by appointment within two one-hour blocks a week; San Luis splits days by sex), attorney, consular and clergy visiting, how legal video calls are booked (ERO eFile at Winn and Diamondback, email at San Luis), legal fax and email routes, mail formats and money-deposit routes (money orders at Laredo, cash accepted by mail at Winn, ViaPath at Diamondback, no published route at San Luis), and complaint channels. New inspection sections summarize ODO's January 2026 findings: one deficiency at Laredo (rated Good), 13 at Winn including two priority components (rated Acceptable/Adequate), and none at San Luis (rated Superior); ICE lists no inspection report for Diamondback.
+
+Primary source: <https://www.ice.gov/foia/odo-facility-inspections>
+
+### 2026-09-24 · CORRECTION
+
+**Correction: ICE facility pages said the ERO field office handles check-ins, and called EOIR's main line a Board of Immigration Appeals number**
+
+151 ICE facility pages and the 24 field-office pages (EN + ES) said the ERO field office phone handles ICE check-in, supervision and reporting. ICE's field-office directory (updated Sep 2, 2026) says the field offices "are not check-in locations" and sends check-ins to ice.gov/check-in; the pages now say only that. Where ICE's own facility page and its field-office directory print different field-office numbers (48 pages, 14 offices), both numbers are now shown, each labelled with the ICE page it comes from. The number given for the Board of Immigration Appeals, (703) 305-0289, is the main line of EOIR, the Justice Department agency the BIA belongs to, as printed on EOIR's own pages; it is now labelled that way.
+
+Primary source: <https://www.ice.gov/contact/field-offices>
+
+### 2026-09-23 · FEES
+
+**H.R.1 fees appeal: First Circuit moves the appellants' opening brief to October 30, 2026**
+
+On September 23, 2026 the First Circuit granted the appellants' first, unopposed request for more time in the H.R.1 fees appeal (No. 26-1893), enlarging the deadline for their brief and appendix from September 30 to October 30, 2026. The appellees' brief is due 30 days after the appellants' brief is served, and any reply 21 days after that. Nothing else changed: the H.R.1 asylum, work-permit (EAD) and TPS fees are still being collected, the nationwide stay of the rules letting USCIS reject a pending asylum application or start removal solely for non-payment of the Annual Asylum Fee still holds, and H.R.1's one-year cap on TPS-based work permits keeps operating while the appeal is briefed.
+
+Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.ca1.54635/gov.uscourts.ca1.54635.108513193.0.pdf>
 
 ### 2026-09-22 · ENFORCEMENT
 
@@ -20,6 +60,14 @@ Showing the 40 most recent of 183 recorded changes. Source data as of 2026-09-17
 The pages for the Folkston ICE Processing Center Annex (Georgia) and the South Texas ICE Processing Center (Pearsall, Texas) were deepened on September 22, 2026 with specifics verified the same day at their own ice.gov facility pages (last updated 08/20/2026 and 08/06/2026) and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: the family, attorney, video-call, consular and clergy visiting periods ICE lists for each facility; visitor rules (ID, arrival time, minors, what visitors may bring); the ERO eFile rules for booking legal visits and the facility contacts for urgent legal requests; legal-document fax and email routes; mail and money-deposit rules, including ICE's own contradiction at the Folkston Annex between a mail-in address for money orders and a statement that all money arriving by mail is returned to the sender; complaint channels (ICE OPR, DHS OIG); and, for South Texas, the free legal providers EOIR lists for Pearsall, Texas. Several earlier statements were corrected, including that letters to a Folkston Annex detainee need the last four digits of the A-number.
 
 Primary source: <https://www.ice.gov/detain/detention-facilities/south-texas-ice-processing-center>
+
+### 2026-09-18 · BENEFITS
+
+**The 2022 public-charge rule's rescission took effect September 18, 2026 — only the 09/18/26 edition of Form I-485 is accepted**
+
+On September 18, 2026 the final rule rescinding the 2022 public-charge regulation (91 FR 45324) took effect, with no court order blocking it. The Policy Manual guidance USCIS published August 18, 2026 now governs (superseding the 1999 Interim Field Guidance): officers weigh five statutory factors case-by-case, and any means-tested benefit an applicant receives on or after September 18, 2026 — USCIS names cash assistance, housing assistance, food stamps, and college financial aid — can be considered. Benefits received before that date, and Forms I-485 postmarked or electronically submitted before it, are still judged under the 2022 rule. Public-charge bonds (Form I-945) returned, by USCIS invitation only. USCIS now accepts only the 09/18/26 edition of Form I-485 and rejects the 01/20/25 and 09/04/26 editions if postmarked or electronically submitted on or after September 18, 2026, with no grace period. Three lawsuits challenging the rule are pending in the Southern District of New York: one filed September 14 by New York, 20 other states, the governor of Pennsylvania and the District of Columbia (No. 1:26-cv-07978), one filed the same day by New York City and other cities and counties (No. 1:26-cv-07982), and one filed September 17 by Make the Road New York and others (No. 1:26-cv-08129), which the court accepted as related. As of September 24, 2026 no court has blocked the rule; the first conference is set for October 9, 2026.
+
+Primary source: <https://www.uscis.gov/i-485>
 
 ### 2026-09-17 · ENFORCEMENT
 
@@ -149,6 +197,14 @@ On September 10, 2026 (order filed September 11, Dkt. 46), Judge David O. Carter
 
 Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.cacd.1001937/gov.uscourts.cacd.1001937.46.0.pdf>
 
+### 2026-09-16 · COURTS
+
+**Tennessee's HB 1704 stays in effect: judge denies a preliminary injunction for lack of standing, and the first suit is on appeal**
+
+On September 16, 2026 Judge Eli Richardson of the Middle District of Tennessee denied a preliminary injunction against Section 1 of HB 1704 (Public Chapter 771), the state crime for a noncitizen with certain final removal orders who intentionally fails to leave Tennessee within 90 days (Lucy v. Skrmetti, No. 3:26-cv-00998). The court found that neither named plaintiff had shown standing for a preliminary injunction; it did not decide whether the law is preempted by federal immigration law, and it deferred its decision on class certification. Section 1 stays in effect. The defendants' motion to dismiss is still pending. The plaintiffs' appeal of the first, dismissed suit (No. 3:26-cv-00763) is pending in the Sixth Circuit as No. 26-5660, where they filed their opening brief on September 11, 2026. This corrects our earlier statement that no appeal had been filed in the first case: the plaintiffs filed a notice of appeal on July 24, 2026.
+
+Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.tnmd.110442/gov.uscourts.tnmd.110442.48.0.pdf>
+
 ### 2026-09-14 · PROCEDURES
 
 **A court postponed the end of "duration of status" one day before it was due to start — and the new I-539 and I-765 editions are not being accepted**
@@ -276,62 +332,6 @@ Primary source: <https://www.uscis.gov/policy-manual/volume-6-part-g-chapter-2>
 A body bullet on 14 pages offered "ACP (Affordable Connectivity): $30/month for internet, $75 on tribal lands," and a FAQ answer on 7 of them named the ACP as a live low-income discount — while one of the same pages already said elsewhere that the program had ended. USAC, which administered the program for the FCC, states: "The ACP ended on June 1, 2024, due to a lack of additional funding from Congress." There is no successor. Every one of those pages now points to Lifeline instead, which is live: up to $9.25 a month off phone or internet, and up to $34.25 a month on qualifying Tribal lands. Note for the record: the FCC's own ACP fact sheet returns HTTP 403 to automated requests, so this was verified at USAC, the FCC's administrator, and at lifelinesupport.org.
 
 Primary source: <https://www.usac.org/about/affordable-connectivity-program/>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: HPV is not a required immigration vaccine — 30 vaccination pages listed it as one**
-
-A context block repeated on 30 pages (15 English + 15 Spanish) listed "HPV (age 9-26 catch-up)" among the vaccinations CDC's Technical Instructions for Civil Surgeons require, and dated those instructions to a "most recent major update 2023." CDC's vaccination page for civil surgeons lists exactly these required vaccines: diphtheria, tetanus, pertussis, polio, measles, mumps, rubella, rotavirus, Haemophilus influenzae type b, hepatitis A, hepatitis B, meningococcal disease, varicella, pneumococcal disease and influenza. HPV does not appear anywhere on it, and neither does zoster; the page's own last-updated date is March 11, 2025. A reader who believed the old text could have paid for a three-dose HPV series USCIS never asks for.
-
-Primary source: <https://www.cdc.gov/immigrant-refugee-health/hcp/civil-surgeons/vaccination.html>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: a Form I-693 signed on or after November 1, 2023 has no 2-year expiry — it lasts as long as the application it was filed with**
-
-The immigration medical exam hub said the I-693 is "valid for 2 years from the date the civil surgeon signs," contradicting its own child pages. USCIS Policy Manual 8 USCIS-PM B.4 says a properly completed Form I-693 signed on or after November 1, 2023 "can only be used as evidence to show that the applicant is not inadmissible under the health-related grounds for the entire period the immigration benefit application with which the Form I-693 is submitted is pending," while one signed before that date "retains evidentiary value for 2 years from the date of the civil surgeon's signature." The same pages also linked to my.uscis.gov/findadoctor for finding a civil surgeon, which now returns HTTP 404; the working page is uscis.gov/tools/find-a-civil-surgeon, and that link was replaced on all four pages that carried it.
-
-Primary source: <https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: a federal-document apostille costs $20, not $8 — and China and Canada now accept apostilles**
-
-Both apostille pages priced the State Department's Office of Authentications service at about $8 per document and listed China and Canada as non-Hague countries needing full embassy legalization. The Schedule of Fees for Consular Services, 22 CFR 22.1, item 46, reads: "Authentications (by the Office of Authentications domestically): (a) Each basic authentication service $20." The HCCH status table for the 1961 Apostille Convention shows China acceded on 8 March 2023 with entry into force 7 November 2023, and Canada on 12 May 2023 with entry into force 11 January 2024. Both now accept an apostille.
-
-Primary source: <https://www.ecfr.gov/current/title-22/chapter-I/subchapter-J/part-22/section-22.1>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: our own methodology page advertised four automated monitors that do not exist, and a 90-day re-verification guarantee we do not meet**
-
-The methodology page (both languages) listed an EOIR statistics scraper, a state DMV contact verifier, a per-country consulate verifier and a daily TPS designation tracker, and described the USCIS processing-times pull as weekly. None of those four exists in our scheduled workflows, and the processing-times pull is monthly and currently run by hand because USCIS renders the data behind Cloudflare. The page also promised that "every 90 days minimum, every page is re-verified" — a promise a reader can falsify from our own Last Verified dates. The monitor table now lists only what actually runs (Federal Register, CBP border waits, State Department visa waits and litigation dockets daily; FX rates weekly; Visa Bulletin plus fee-change watcher monthly on the 16th; HRSA health-center data quarterly; a weekly source-link health check; and the hand-run monthly USCIS processing-times pull), says in plain terms which monitors do not exist, and replaces the 90-day guarantee with the honest version: each page prints the date it was last checked. The same 90-day promise was corrected on the editorial-standards pages, and the meta description's "6,000+ pages" was corrected to 4,500+ — our live sitemaps carry 2,268 English and 2,268 Spanish URLs.
-
-Primary source: <https://migrantusa.com/en/sitemap.xml>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: at least eight federal Circuits protect recording the police, not six — and Riley bars searching your phone, not seizing it**
-
-Both recording-rights pages counted six Circuits and told readers in the remaining Circuits the question was unsettled. Irizarry v. Yehia, 38 F.4th 1282 (10th Cir. 2022) says: "We recognize that the right exists and was clearly established when the incident occurred" — which is what defeats qualified immunity in Colorado, Kansas, New Mexico, Oklahoma, Utah and Wyoming. Sharpe v. Winterville Police Department, 59 F.4th 674 (4th Cir. 2023) holds "that livestreaming a police traffic stop is speech protected by the First Amendment" (the officer there still received qualified immunity because the right was not yet clearly established in that circuit). Both pages also said officers "cannot lawfully seize your phone, search it, or delete recordings without a warrant." Riley v. California, 573 U.S. 373 (2014) is narrower: its holding "is not that the information on a cell phone is immune from search; it is that a warrant is generally required before a search," and officers "remain free to examine the physical aspects of a phone" and may secure it while seeking that warrant. Telling readers a seizure is unlawful invites the confrontation the page warns against. The Spanish page separately named 42 U.S.C. 1983 as the remedy on a page about filming ICE; Section 1983 reaches only state actors, so both pages now say that a claim against a federal officer would be a Bivens action, sharply narrowed by Egbert v. Boule, 596 U.S. 482 (2022).
-
-Primary source: <https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010110708555.pdf>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: an ICE detainer's 48 hours exclude Saturdays, Sundays and holidays — across a holiday weekend that is four or five days**
-
-Four pages said a detainer asks a jail to hold someone "up to 48 hours" past their release. The regulation, 8 CFR 287.7(d), says the agency "shall maintain custody of the alien for a period not to exceed 48 hours, excluding Saturdays, Sundays, and holidays." That exclusion is the number a family actually plans a pickup around, so all four pages now carry it.
-
-Primary source: <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287/section-287.7>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: Sudan and Ukraine TPS run THROUGH October 19, 2026 under extensions — neither is terminated**
-
-Our I-821 pages said Sudan and Ukraine "terminate October 19, 2026." USCIS's Sudan country page reads: "TPS Continues Through: Oct. 19, 2026, under the extension of Sudan's TPS designation announced in the Jan. 17, 2025, FRN (90 FR 5944)"; the Ukraine page reads "TPS Designated Through: Oct. 19, 2026" (90 FR 5936). Neither has a published termination notice, and DHS can extend either again — October 19 ends an extension period, it does not terminate a designation. Both pages now also carry the separate, earlier date that the country pages publish: the EAD auto-extension by Federal Register notice ended April 19, 2026, which is proof of status rather than status itself.
-
-Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-sudan>
 
 ---
 

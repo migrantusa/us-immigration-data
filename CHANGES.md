@@ -9,9 +9,41 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 191 recorded changes. Source data as of 2026-09-24.
+Showing the 40 most recent of 196 recorded changes. Source data as of 2026-09-24.
 
 ---
+
+### 2026-09-25 · CORRECTION
+
+**Honduras consulates: addresses, phones and e-mails corrected from the Embassy of Honduras directory**
+
+The Embassy of Honduras in Washington now publishes a directory of its 19 consulates in the United States (hondurasemb.org/consulados). We re-read every office's page and corrected our 19 consulate pages: several offices have moved (the San Francisco consulate is in Oakland, Seattle's in Kent, Boston's in Chelsea, and the Dallas consulate is in Irving), and phones and e-mails changed across the network. Eight pages that said Honduras published no directory now cite it; the online appointment system still lists only 11 of the 19 offices, and the Houston consulate serves walk-ins in order of arrival. A 19th office in Kansas City (Overland Park, KS) is listed; we have no page for it yet. Peru: the Washington, D.C. office is a Consulate General, and the Orlando consulate general is listed by Peru's government with its own address.
+
+Primary source: <https://hondurasemb.org/consulados>
+
+### 2026-09-25 · CORRECTION
+
+**Haiti and Syria TPS holder counts now use DHS's own figures**
+
+Our TPS pages gave two different counts for the same people: some used the National Immigration Forum's estimates (about 330,735 Haitian and 3,860 Syrian holders), while the TPS-by-country hub used DHS's. We now use DHS's own estimates everywhere, from its termination notices: about 352,959 Haitian TPS holders (90 FR 54733, Nov. 28, 2025) and 6,132 Syrian (90 FR 45398, Sept. 22, 2025), about 359,091 together. Venezuela's figure is unchanged for now because DHS's notices give different populations for different dates.
+
+Primary source: <https://www.federalregister.gov/d/2025-21379>
+
+### 2026-09-25 · DATA
+
+**ICE 287(g) dataset refreshed: 2,559 agreements as of ICE's September 21, 2026 workbook**
+
+ICE published a September 21, 2026 edition of its 287(g) participating-agencies workbook; our pages were quoting the September 15 edition. Re-read from ICE's own workbook: 2,559 agreements (was 2,510) held by 2,193 distinct agencies across the same 40 jurisdictions (38 states plus Guam and the Northern Mariana Islands). By model: 185 Jail Enforcement, 1,812 Task Force, 562 Warrant Service Officer. Still 130 agreements predate February 2025, so 2,429 (95%) were signed since; Texas (538) and Florida (353) hold 34.8% of the total, and the same twelve states have none.
+
+Primary source: <https://www.ice.gov/identify-and-arrest/287g>
+
+### 2026-09-25 · DATA
+
+**Immigration-court judge lists re-checked against EOIR's September 24, 2026 listing; judges now counted once each**
+
+We compared every court's judge table with EOIR's own court listing (updated September 24, 2026). Judges had moved since our last check: 62 judge listings were added and 30 removed across about 40 courts, and all 807 remote-hearing rooms were re-tested (16 did not open; those rows now point to EOIR's own list). No court closed beyond the two already noted (Batavia and San Francisco). Our legal-deserts dataset had counted a judge once per court they appear at, so an assistant chief judge who supervises several courts was counted several times; it now counts each person once. The national figure is 765 judges (was 781), and Louisiana has 25 (was 27).
+
+Primary source: <https://www.justice.gov/eoir/eoir-immigration-court-listing>
 
 ### 2026-09-24 · CORRECTION
 
@@ -28,6 +60,14 @@ Primary source: <https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-11
 As of September 24, 2026, the USCIS Form I-864 page (last updated 09/04/2026) says the 08/24/26 edition was published August 31, 2026 with a 30-day grace period for the 10/17/24 edition: "Beginning Oct. 1, 2026, we will only accept the 08/24/26 edition of Form I-864. USCIS will not process any 10/17/24 edition of Form I-864 postmarked or electronically submitted on or after Oct. 1, 2026." USCIS says it does not reject the Form I-485 itself when filed with an older I-864 edition and applies 8 CFR 103.2(b)(8) on missing initial evidence. The new edition includes a privacy release authorizing USCIS and the Department of State to request information from consumer reporting agencies, including credit reports and scores, and USCIS warns that a credit or security freeze can keep it from reading that information. Our affidavit-of-support guide now carries the edition rule, the credit release and the freeze warning. While re-reading the form instructions we also corrected the tax-return line: the instructions require an IRS transcript or a photocopy of the return for the most recent tax year, with three years optional, not three years of IRS transcripts.
 
 Primary source: <https://www.uscis.gov/i-864>
+
+### 2026-09-24 · CORRECTION
+
+**Correction: the San Francisco Immigration Court closed on September 4, 2026 and its cases went to the Concord Immigration Court; our pages still showed it as open**
+
+In a notice dated May 1, 2026, EOIR announced that "the San Francisco Immigration Court will permanently close, and its Sansome Street location will become a hearing location under the administrative control of the Concord Immigration Court, at the close of business on Sept. 4, 2026," that it would issue new hearing notices to everyone whose case was reassigned to Concord, and that those cases would be heard at the Concord Immigration Court or remotely. An earlier EOIR notice (April 10, 2026) had already ended hearings at the court's Montgomery Street location on May 1, 2026. EOIR's court listing, updated September 24, 2026, shows ten California courts and no San Francisco court. Our San Francisco court page still gave the Montgomery Street address and phone as a working court, and the California court guide, three ICE field-office pages and our court dataset still counted it. The San Francisco page now explains the closure and how to confirm your current court and hearing date (your latest hearing notice, EOIR's line 1-800-898-7180, or the ACIS portal); the California guide lists 10 courts; the court dataset records San Francisco as closed; and the legal-deserts figures were recomputed (72 courts nationally, 18.2 recognized nonprofits per court).
+
+Primary source: <https://www.justice.gov/eoir/media/1439236/dl?inline=>
 
 ### 2026-09-24 · ENFORCEMENT
 
@@ -292,46 +332,6 @@ Primary source: <https://api.openstreetmap.org/api/0.6/node/9384986783.json>
 108 pages (54 English + 54 Spanish) told readers the naturalization civics test is 10 questions drawn from a 100-question list with 6 correct to pass, and pointed them at the 100-question study list. USCIS's own Study for the Test page says: "We will administer the 2025 naturalization civics test to aliens who file Form N-400, Application for Naturalization on or after Oct. 20, 2025. The 2025 naturalization civics test is an oral test consisting of 20 questions from the list of 128 civics test questions. You must answer 12 questions correctly to pass the 2025 test." Applicants who filed before October 20, 2025 still take the 2008 test, and applicants 65 or older with 20+ years as a permanent resident answer 10 questions from a specially selected bank of 20. Every page now states which test applies by filing date, and the generator templates that produced them were corrected too.
 
 Primary source: <https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: the U visa costs $0, not $440 — 16 pages quoted a fee USCIS does not charge**
-
-A cost FAQ repeated across 16 path-to-status pages said "U-visa: $440 (fee waiver available)" — and on the two U-visa pages themselves the body repeated the $440 a second time, contradicting the same page's own "Fee: FREE" heading. Form G-1055 (edition 09/09/26), the fee schedule USCIS publishes, lists Form I-918 Petition for U Nonimmigrant Status at $0 for general filing, and $0 for Supplement A and Supplement B; Form I-192 is also $0 for U petitioners. There is no fee and nothing to waive. Because those FAQ answers render as FAQPage structured data, the wrong figure was also being fed to search engines.
-
-Primary source: <https://www.uscis.gov/g-1055>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: our Selective Service table said everyone must register — five categories that Selective Service exempts were printed as "YES"**
-
-The who-must-register table on both language versions marked every row "YES," including lawful non-immigrants on current non-immigrant visas, H-2A seasonal agricultural workers, people confined for medical reasons, people continually confined by disability, and members of the Armed Forces on active duty. Selective Service's own Who Needs to Register chart marks all of those "No" or "No*", and Form N-400 agrees for non-immigrants ("Do not select 'Yes' if you were a lawful nonimmigrant for all of that time period"). The cause was a rendering bug, not bad data: our parsed dataset had the correct "no" values, but the page generator truth-tested a string, and the non-empty string "no" is true in Python, so every row printed YES. The generator and the pages are both fixed. The same pages also said the registration deadline is 30 days BEFORE the 26th birthday (it attaches within 30 days AFTER the 18th birthday, with late registration accepted until the day you turn 26), cited the wrong N-400 item (it is Part 9, Items 22.a.-22.c. on the 01/20/25 edition, not Part 11 Question 38), and described a 5-to-8-year naturalization bar that does not exist.
-
-Primary source: <https://www.sss.gov/wp-content/uploads/2026/07/WhoNeedstoRegister.Final.pdf>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: the expanded expedited-removal designation became operative July 17, 2026 — not June 23**
-
-Four pages headlined June 23, 2026 as the date the January 2025 nationwide expansion came back into force. On June 23 a D.C. Circuit panel did vacate the district court's stay in Make the Road New York v. Mullin, No. 25-5320 — but the Clerk withheld issuance of the mandate the same day, so the policy remained blocked. The government moved on June 26 for a stay pending appeal, and the court granted it on July 17, 2026 while denying early issuance of the mandate. AILA's summary of that order (AILA Doc. No. 26062463) reads: "The expansion designation is now unblocked and in effect." The window matters: an interior expedited-removal order issued between June 23 and July 17, 2026 was issued while the expansion was still blocked.
-
-Primary source: <https://www.aila.org/library/d-c-circuit-allows-expansion-of-expedited-removal>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: EB-5 filing fee is $4,675, not $11,160 — and the capital lock-up is 2 years, not 5**
-
-Both EB-5 pages quoted an $11,160 filing fee, a "12-24 month" I-526E wait, an at-risk rule broken by "returning funds before 5+ years," a total USCIS-fee line of "~$13,000-$15,000," a Regional Center Program "currently SUSPENDED periodically," and in-state tuition as a benefit derivatives receive. Form G-1055 (ed. 09/09/26) prices Form I-526E at $3,675 plus the separate $1,000 EB-5 Reform and Integrity Act fee on an initial filing — $4,675 — and the three-form total (I-526E + $1,000 + I-485 $1,440 + I-829 $3,750) is $9,865. USCIS Policy Manual 6 USCIS-PM G.2 says: "For petitions filed on or after March 15, 2022, the capital must be expected to remain invested for not less than 2 years." The 2022 Act reauthorized the Regional Center Program, ending the lapse-and-reauthorize cycle. USCIS's live 80th-percentile figure for I-526E at the Immigrant Investor Program Office is about 35 months. A green card makes a person eligible to establish state residency for tuition; it does not itself confer in-state rates.
-
-Primary source: <https://www.uscis.gov/policy-manual/volume-6-part-g-chapter-2>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: 14 utility pages sent readers to apply for the Affordable Connectivity Program, which ended June 1, 2024**
-
-A body bullet on 14 pages offered "ACP (Affordable Connectivity): $30/month for internet, $75 on tribal lands," and a FAQ answer on 7 of them named the ACP as a live low-income discount — while one of the same pages already said elsewhere that the program had ended. USAC, which administered the program for the FCC, states: "The ACP ended on June 1, 2024, due to a lack of additional funding from Congress." There is no successor. Every one of those pages now points to Lifeline instead, which is live: up to $9.25 a month off phone or internet, and up to $34.25 a month on qualifying Tribal lands. Note for the record: the FCC's own ACP fact sheet returns HTTP 403 to automated requests, so this was verified at USAC, the FCC's administrator, and at lifelinesupport.org.
-
-Primary source: <https://www.usac.org/about/affordable-connectivity-program/>
 
 ---
 

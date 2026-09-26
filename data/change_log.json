@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-09-24",
+  "verified_on": "2026-09-25",
   "categories": [
    "tps",
    "visas",
@@ -47,6 +47,54 @@
  ],
  "changes": [
   {
+   "date": "2026-09-25",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Honduras consulates: addresses, phones and e-mails corrected from the Embassy of Honduras directory",
+   "title_es": "Consulados de Honduras: direcciones, teléfonos y correos corregidos según el directorio de la Embajada de Honduras",
+   "summary_en": "The Embassy of Honduras in Washington now publishes a directory of its 19 consulates in the United States (hondurasemb.org/consulados). We re-read every office's page and corrected our 19 consulate pages: several offices have moved (the San Francisco consulate is in Oakland, Seattle's in Kent, Boston's in Chelsea, and the Dallas consulate is in Irving), and phones and e-mails changed across the network. Eight pages that said Honduras published no directory now cite it; the online appointment system still lists only 11 of the 19 offices, and the Houston consulate serves walk-ins in order of arrival. A 19th office in Kansas City (Overland Park, KS) is listed; we have no page for it yet. Peru: the Washington, D.C. office is a Consulate General, and the Orlando consulate general is listed by Peru's government with its own address.",
+   "summary_es": "La Embajada de Honduras en Washington publica ahora un directorio de sus 19 consulados en Estados Unidos (hondurasemb.org/consulados). Volvimos a leer la página de cada oficina y corregimos nuestras 19 páginas de consulados: varias oficinas se mudaron (el consulado de San Francisco está en Oakland, el de Seattle en Kent, el de Boston en Chelsea y el de Dallas en Irving), y los teléfonos y correos cambiaron en toda la red. Ocho páginas que decían que Honduras no publicaba un directorio ahora lo citan; el sistema de citas en línea sigue mostrando solo 11 de las 19 oficinas, y el consulado de Houston atiende sin cita por orden de llegada. Aparece una oficina en Kansas City (Overland Park, KS) para la que aún no tenemos página. Perú: la oficina de Washington, D.C. es un Consulado General, y el consulado general en Orlando figura en el portal del gobierno peruano con su propia dirección.",
+   "source_url": "https://hondurasemb.org/consulados",
+   "link_en": "/consulates/honduras/",
+   "link_es": "/es/consulados/honduras/"
+  },
+  {
+   "date": "2026-09-25",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Haiti and Syria TPS holder counts now use DHS's own figures",
+   "title_es": "Las cifras de titulares de TPS de Haití y Siria ahora usan las del propio DHS",
+   "summary_en": "Our TPS pages gave two different counts for the same people: some used the National Immigration Forum's estimates (about 330,735 Haitian and 3,860 Syrian holders), while the TPS-by-country hub used DHS's. We now use DHS's own estimates everywhere, from its termination notices: about 352,959 Haitian TPS holders (90 FR 54733, Nov. 28, 2025) and 6,132 Syrian (90 FR 45398, Sept. 22, 2025), about 359,091 together. Venezuela's figure is unchanged for now because DHS's notices give different populations for different dates.",
+   "summary_es": "Nuestras páginas de TPS daban dos cifras distintas para las mismas personas: algunas usaban las estimaciones del National Immigration Forum (unos 330,735 titulares de Haití y 3,860 de Siria), mientras que el índice de TPS por país usaba las del DHS. Ahora usamos en todas partes las estimaciones del propio DHS en sus avisos de terminación: unas 352,959 personas con TPS de Haití (90 FR 54733, 28 de noviembre de 2025) y 6,132 de Siria (90 FR 45398, 22 de septiembre de 2025), unas 359,091 en total. La cifra de Venezuela no cambia por ahora porque los avisos del DHS dan poblaciones distintas para fechas distintas.",
+   "source_url": "https://www.federalregister.gov/d/2025-21379",
+   "link_en": "/datasets/tps-work-permit-status/",
+   "link_es": "/es/datos/estado-permisos-trabajo-tps/"
+  },
+  {
+   "date": "2026-09-25",
+   "precision": "day",
+   "category": "data",
+   "title_en": "ICE 287(g) dataset refreshed: 2,559 agreements as of ICE's September 21, 2026 workbook",
+   "title_es": "Dataset 287(g) de ICE actualizado: 2,559 acuerdos según el archivo de ICE del 21 de septiembre de 2026",
+   "summary_en": "ICE published a September 21, 2026 edition of its 287(g) participating-agencies workbook; our pages were quoting the September 15 edition. Re-read from ICE's own workbook: 2,559 agreements (was 2,510) held by 2,193 distinct agencies across the same 40 jurisdictions (38 states plus Guam and the Northern Mariana Islands). By model: 185 Jail Enforcement, 1,812 Task Force, 562 Warrant Service Officer. Still 130 agreements predate February 2025, so 2,429 (95%) were signed since; Texas (538) and Florida (353) hold 34.8% of the total, and the same twelve states have none.",
+   "summary_es": "ICE publicó una edición del 21 de septiembre de 2026 de su archivo de agencias participantes en 287(g); nuestras páginas citaban la edición del 15 de septiembre. Leído de nuevo del archivo de ICE: 2,559 acuerdos (antes 2,510) en manos de 2,193 agencias distintas, en las mismas 40 jurisdicciones (38 estados más Guam y las Islas Marianas del Norte). Por modelo: 185 Jail Enforcement, 1,812 Task Force, 562 Warrant Service Officer. Siguen siendo 130 los acuerdos anteriores a febrero de 2025, así que 2,429 (95%) se firmaron después; Texas (538) y Florida (353) suman el 34.8% del total, y los mismos doce estados siguen sin ninguno.",
+   "source_url": "https://www.ice.gov/identify-and-arrest/287g",
+   "link_en": "/datasets/ice-287g-agreements/",
+   "link_es": "/es/datos/acuerdos-287g-ice/"
+  },
+  {
+   "date": "2026-09-25",
+   "precision": "day",
+   "category": "data",
+   "title_en": "Immigration-court judge lists re-checked against EOIR's September 24, 2026 listing; judges now counted once each",
+   "title_es": "Listas de jueces de las cortes de inmigración revisadas contra el listado de EOIR del 24 de septiembre de 2026; cada juez se cuenta una sola vez",
+   "summary_en": "We compared every court's judge table with EOIR's own court listing (updated September 24, 2026). Judges had moved since our last check: 62 judge listings were added and 30 removed across about 40 courts, and all 807 remote-hearing rooms were re-tested (16 did not open; those rows now point to EOIR's own list). No court closed beyond the two already noted (Batavia and San Francisco). Our legal-deserts dataset had counted a judge once per court they appear at, so an assistant chief judge who supervises several courts was counted several times; it now counts each person once. The national figure is 765 judges (was 781), and Louisiana has 25 (was 27).",
+   "summary_es": "Comparamos la tabla de jueces de cada corte con el listado oficial de EOIR (actualizado el 24 de septiembre de 2026). Hubo cambios desde nuestra última revisión: se agregaron 62 entradas de jueces y se quitaron 30 en unas 40 cortes, y se volvieron a probar las 807 salas de audiencias remotas (16 no abrieron; esas filas ahora remiten a la lista de EOIR). No cerró ninguna corte además de las dos ya señaladas (Batavia y San Francisco). Nuestro dataset de desiertos legales contaba a un juez una vez por cada corte en la que aparece, así que un juez principal adjunto que supervisa varias cortes se contaba varias veces; ahora cada persona se cuenta una sola vez. La cifra nacional es de 765 jueces (antes 781) y Luisiana tiene 25 (antes 27).",
+   "source_url": "https://www.justice.gov/eoir/eoir-immigration-court-listing",
+   "link_en": "/datasets/immigration-court-legal-deserts/",
+   "link_es": "/es/datos/desiertos-legales-tribunales-inmigracion/"
+  },
+  {
    "date": "2026-09-24",
    "precision": "day",
    "category": "correction",
@@ -69,6 +117,18 @@
    "source_url": "https://www.uscis.gov/i-864",
    "link_en": "/procedures/affidavit-of-support/",
    "link_es": "/es/tramites/affidavit-of-support/"
+  },
+  {
+   "date": "2026-09-24",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: the San Francisco Immigration Court closed on September 4, 2026 and its cases went to the Concord Immigration Court; our pages still showed it as open",
+   "title_es": "Corrección: la Corte de Inmigración de San Francisco cerró el 4 de septiembre de 2026 y sus casos pasaron a la Corte de Inmigración de Concord; nuestras páginas todavía la mostraban abierta",
+   "summary_en": "In a notice dated May 1, 2026, EOIR announced that \"the San Francisco Immigration Court will permanently close, and its Sansome Street location will become a hearing location under the administrative control of the Concord Immigration Court, at the close of business on Sept. 4, 2026,\" that it would issue new hearing notices to everyone whose case was reassigned to Concord, and that those cases would be heard at the Concord Immigration Court or remotely. An earlier EOIR notice (April 10, 2026) had already ended hearings at the court's Montgomery Street location on May 1, 2026. EOIR's court listing, updated September 24, 2026, shows ten California courts and no San Francisco court. Our San Francisco court page still gave the Montgomery Street address and phone as a working court, and the California court guide, three ICE field-office pages and our court dataset still counted it. The San Francisco page now explains the closure and how to confirm your current court and hearing date (your latest hearing notice, EOIR's line 1-800-898-7180, or the ACIS portal); the California guide lists 10 courts; the court dataset records San Francisco as closed; and the legal-deserts figures were recomputed (72 courts nationally, 18.2 recognized nonprofits per court).",
+   "summary_es": "En un aviso del 1 de mayo de 2026, EOIR anunció que la Corte de Inmigración de San Francisco cerraría de forma permanente y que su sede de Sansome Street pasaría a ser un lugar de audiencias bajo el control administrativo de la Corte de Inmigración de Concord, al cierre de operaciones del 4 de septiembre de 2026; que enviaría nuevas notificaciones de audiencia a todas las partes cuyos casos se reasignaran a Concord, y que esos casos se verían en la Corte de Inmigración de Concord o de forma remota. Un aviso anterior de EOIR (10 de abril de 2026) ya había puesto fin a las audiencias en la sede de Montgomery Street el 1 de mayo de 2026. El listado de cortes de EOIR, actualizado el 24 de septiembre de 2026, muestra diez cortes en California y ninguna en San Francisco. Nuestra página de la corte de San Francisco seguía dando la dirección y el teléfono de Montgomery Street como si la corte funcionara, y la guía de cortes de California, tres páginas de oficinas de campo de ICE y nuestro conjunto de datos de cortes todavía la contaban. La página de San Francisco ahora explica el cierre y cómo confirmar su corte y la fecha de su audiencia (su notificación de audiencia más reciente, la línea de EOIR 1-800-898-7180 o el portal ACIS); la guía de California lista 10 cortes; el conjunto de datos registra San Francisco como cerrada; y las cifras de desiertos legales se recalcularon (72 cortes a nivel nacional, 18.2 organizaciones reconocidas por corte).",
+   "source_url": "https://www.justice.gov/eoir/media/1439236/dl?inline=",
+   "link_en": "/procedures/immigration-court-by-state/california/san-francisco/",
+   "link_es": "/es/tramites/corte-inmigracion-por-estado/california/san-francisco/"
   },
   {
    "date": "2026-09-23",

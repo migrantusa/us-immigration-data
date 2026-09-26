@@ -44,6 +44,7 @@ Alabama,Gordo Police Department,Pickens County,TFM,2026-07-09
 Alabama,Gordon Police Department,Houston County,TFM,2026-08-18
 Alabama,Grove Hill Police Department,Clarke County,TFM,2026-07-02
 Alabama,Hale County Sheriff's Office,Hale County,TFM,2026-03-31
+Alabama,Headland Police Department,Henry County,TFM,2026-09-21
 Alabama,Henry County Sheriff's Office,Henry County,JEM,2025-03-17
 Alabama,Henry County Sheriff's Office,Henry County,TFM,2025-12-11
 Alabama,Jackson Police Department,Clarke County,TFM,2026-01-07
@@ -84,7 +85,6 @@ Alabama,Sardis Police Department,Etowah County,TFM,2026-08-13
 Alabama,Silverhill Police Department,Baldwin County,TFM,2025-10-17
 Alabama,Southside Police Department,Etowah County,TFM,2026-01-08
 Alabama,Springville Police Department,St. Clair County,TFM,2026-08-01
-Alabama,"State Constable Office, Talladega County",Talladega County,TFM,2026-08-21
 Alabama,Summerdale Police Department,Baldwin County,TFM,2025-12-10
 Alabama,Tallassee Police Department,Elmore County,TFM,2026-08-20
 Alabama,Thomasville Police Department,Clarke County,TFM,2026-02-25
@@ -126,6 +126,7 @@ Arkansas,Bay Police Department,Craighead County,TFM,2026-04-22
 Arkansas,Benton County Sheriff's Office,Benton County,JEM,2020-06-30
 Arkansas,Benton County Sheriff's Office,Benton County,TFM,2026-06-12
 Arkansas,Black Rock Police Department,Lawrence County,TFM,2026-02-10
+Arkansas,Bonanza Police Department,Sebastian County,TFM,2026-09-18
 Arkansas,Bono Police Department,Craighead County,TFM,2026-05-21
 Arkansas,Boone County Sheriff's Office,Boone County,TFM,2026-04-05
 Arkansas,Boone County Sheriff's Office,Boone County,WSO,2026-04-05
@@ -237,6 +238,7 @@ Arkansas,Newton County Sheriff’s Office,Newton County,WSO,2026-08-12
 Arkansas,Osceola Police Department,Mississippi County,TFM,2025-08-28
 Arkansas,Ouachita County Sheriff's Office,Ouachita County,JEM,2026-03-31
 Arkansas,Ozark Police Department,Franklin County,TFM,2026-05-26
+Arkansas,Paris Police Department,Logan County,TFM,2026-09-21
 Arkansas,Perry County Sheriff's Office,Perry County,JEM,2026-03-28
 Arkansas,Pike County Sheriff's Office,Pike County,JEM,2026-04-15
 Arkansas,Poinsett County Sheriff's Office,Poinsett County,JEM,2026-03-23
@@ -651,6 +653,7 @@ Georgia,Canon Police Department,Franklin County,TFM,2026-09-08
 Georgia,Catoosa County Sheriff's Office,Catoosa County,JEM,2025-05-22
 Georgia,Catoosa County Sheriff's Office,Catoosa County,WSO,2025-05-22
 Georgia,Chattahoochee County Sheriff's Office,Chattahoochee County,TFM,2026-08-20
+Georgia,Claxton Police Department,Evans County,TFM,2026-09-16
 Georgia,Clay County Sheriff' Department,Clay County,TFM,2026-07-07
 Georgia,Clay County Sheriff' Department,Clay County,WSO,2026-07-07
 Georgia,City of Morrow Police Department,Clayton County,TFM,2025-09-22
@@ -688,6 +691,9 @@ Georgia,Harris County Sheriff's Office,Harris County,WSO,2025-05-22
 Georgia,Jasper County Sheriff's Office,Jasper County,JEM,2025-05-22
 Georgia,Jasper County Sheriff's Office,Jasper County,TFM,2026-08-05
 Georgia,Jasper County Sheriff's Office,Jasper County,WSO,2025-06-25
+Georgia,Jones County Sheriff's Department,Jones County,JEM,2026-09-17
+Georgia,Jones County Sheriff's Department,Jones County,TFM,2026-09-17
+Georgia,Jones County Sheriff's Department,Jones County,WSO,2026-09-17
 Georgia,Lakeland Police Department,Lanier County,TFM,2026-08-26
 Georgia,Lanier County Sheriff's Office,Lanier County,TFM,2025-11-04
 Georgia,Laurens County Sheriff's Office,Laurens County,JEM,2026-07-29
@@ -718,6 +724,7 @@ Georgia,Oglethorpe County Sheriff's Office,Oglethorpe County,TFM,2025-10-17
 Georgia,Pearson Police Department,Atkinson County,TFM,2026-02-10
 Georgia,Pelham Police Department,Mitchell County,TFM,2026-07-23
 Georgia,Pierce County Sheriff's Office,Pierce County,WSO,2025-02-27
+Georgia,Pike County Sheriff's Office,Pike County,TFM,2026-09-17
 Georgia,Pine Mountain Police Department,Harris County,TFM,2026-07-23
 Georgia,Polk County Sheriff's Office,Polk County,JEM,2020-07-02
 Georgia,Poulan Police Department,Worth County,TFM,2026-08-27
@@ -749,8 +756,10 @@ Georgia,Webster County Sheriff's Office,Webster County,TFM,2026-05-28
 Georgia,Whitfield County Sheriff's Office,Whitfield County,JEM,2020-06-09
 Georgia,Worth County Sheriff's Department,Worth County,TFM,2026-07-09
 Georgia,Worth County Sheriff's Department,Worth County,WSO,2026-07-09
+Georgia,Wrens Police Department,Jefferson County,TFM,2026-09-21
 Guam,Office Of The Attorney General,Kattan District,TFM,2025-09-22
 Idaho,Ada County Sheriff's Office,Ada County,WSO,2026-08-26
+Idaho,Adams County Sheriff's Office,Adams County,JEM,2026-09-16
 Idaho,Bingham County Sheriff's Office,Bingham County,WSO,2025-05-28
 Idaho,Bonneville County Sheriff's Office,Bonneville County,WSO,2025-07-11
 Idaho,Caribou County Sheriff's Office,Caribou County,WSO,2026-03-11
@@ -796,11 +805,13 @@ Indiana,Laurel Police Department,Franklin County,TFM,2026-04-15
 Indiana,Marengo Police Department,Crawford County,TFM,2026-04-13
 Indiana,Markle Police Department,Huntington County,TFM,2026-06-23
 Indiana,Moores Hill Police Department,Dearborn County,TFM,2026-04-15
+Indiana,New Point Police Department,Decatur County,TFM,2026-09-17
 Indiana,Noble County Sheriff's Office,Noble County,WSO,2025-03-26
 Indiana,North Salem Police Department,Hendricks County,TFM,2025-08-04
 Indiana,Oakland City Police Department,Gibson County,TFM,2026-07-20
 Indiana,Orestes Police Department,Madison County,TFM,2026-04-29
 Indiana,Rush County Sheriff's Office,Rush County,WSO,2025-08-07
+Indiana,Santa Claus Police Department,Spencer County,TFM,2026-09-18
 Indiana,Shirley Police Department,Hancock County,TFM,2026-04-19
 Indiana,Silver Lake Police Department,Kosciusko County,TFM,2026-05-21
 Indiana,Spencer County Sheriff's Office,Spencer County,TFM,2026-08-17
@@ -811,6 +822,8 @@ Indiana,West Harrison Police Department,Dearborn County,TFM,2026-04-13
 Indiana,Wolcott Police Department,White County,TFM,2026-03-24
 Indiana,Worthington Police Department,Greene County,TFM,2026-04-13
 Iowa,Clarion Police Department,Wright County,TFM,2026-09-02
+Iowa,Hamilton County Sheriff's Office,Hamilton County,TFM,2026-09-18
+Iowa,Hamilton County Sheriff's Office,Hamilton County,WSO,2026-09-18
 Iowa,Iowa Department of Public Safety,N/A,TFM,2025-03-26
 Iowa,Marion County Sheriff's Office,Marion County,TFM,2025-11-06
 Iowa,Wright County Sheriff's Office,Wright County,TFM,2026-08-28
@@ -913,6 +926,7 @@ Kentucky,McCracken County Sheriff's Office,McCracken County,TFM,2026-01-26
 Kentucky,Middlesboro Police Department,Bell County,TFM,2026-03-08
 Kentucky,Millersburg Police Department,Bourbon County,TFM,2026-08-05
 Kentucky,Montgomery County Sheriff's Office,Montgomery County,TFM,2025-12-08
+Kentucky,Monticello Police Department,Wayne County,TFM,2026-09-18
 Kentucky,Morganfield Police Department,Union County,TFM,2026-06-09
 Kentucky,Oldham County Detention Center,Oldham County,JEM,2025-03-10
 Kentucky,Oldham County Detention Center,Oldham County,WSO,2025-03-10
@@ -931,6 +945,7 @@ Kentucky,Whitley County Sheriff's Office,Whitley County,TFM,2026-07-03
 Kentucky,Williamsburg Police Department,Whitely County,TFM,2026-05-12
 Kentucky,Winchester Police Department,Clark County,TFM,2026-01-07
 Louisiana,Abbeville Police Department,Vermilion Parish,TFM,2026-08-14
+Louisiana,Albany Police Department,Livingston Parish,TFM,2026-09-17
 Louisiana,Arnaudville Police Department,Saint Landry County,TFM,2025-07-11
 Louisiana,Ball Police Department,Rapides Parish,TFM,2026-09-04
 Louisiana,Beauregard Parish Sheriff's Office,Beauregard Parish,TFM,2025-05-16
@@ -1023,6 +1038,7 @@ Louisiana,Urania Police Department,La Salle Parish,TFM,2026-07-07
 Louisiana,Vernon Parish Sheriff's Office,Vernon Parish,TFM,2026-06-15
 Louisiana,Vidalia Police Department,Concordia Parish,TFM,2026-07-27
 Louisiana,Ward 5 Marshal's Office,Allen Parish,TFM,2025-12-15
+Louisiana,Ward 6 Marshal's Office,St. Mary Parish,TFM,2026-09-16
 Louisiana,Westlake Police Department,Calcasieu Parish,TFM,2026-08-24
 Louisiana,Winn Parish Sheriff's Office,Winn Parish,TFM,2026-04-25
 Louisiana,Caldwell Parish Sheriff's Office,Caldwell Parish,TFM,2026-04-17
@@ -1091,6 +1107,7 @@ Mississippi,Panola County Sheriff's Office,Panola County,TFM,2026-04-29
 Mississippi,Pearl Police Department,Rankin County,TFM,2026-02-10
 Mississippi,Pearl River County Sheriff's Department,Pearl County,TFM,2026-06-02
 Mississippi,Pontotoc Police Department,Pontotoc County,TFM,2026-06-25
+Mississippi,Poplarville Police Department,Pearl River County,TFM,2026-09-16
 Mississippi,Prentiss County Constable Northern District,Prentiss Couty,TFM,2026-07-02
 Mississippi,Prentiss Police Department,Jefferson Davis County,TFM,2026-09-02
 Mississippi,Rankin County Sheriff's Department,Rankin County,JEM,2026-05-21
@@ -1113,6 +1130,7 @@ Mississippi,Wiggins Police Department,Stone County,TFM,2026-02-23
 Mississippi,Winston County Sheriff's Department,Winston County,TFM,2026-05-24
 Missouri,Ash Grove Police Department,Greene County,TFM,2025-11-19
 Missouri,Ava Police Department,Douglas County,TFM,2025-11-19
+Missouri,Barry County Sheriff's Office,Barry County,TFM,2026-09-16
 Missouri,Benton Police Department,Scott County,TFM,2026-08-14
 Missouri,Bernie Police Department,Stoddard County,TFM,2026-08-18
 Missouri,Billings Police Department,Christian County,TFM,2026-06-17
@@ -1135,6 +1153,7 @@ Missouri,Cedar County Sheriff's Office,Cedar County,WSO,2026-08-24
 Missouri,Chaffee Police Department,Scott County,TFM,2026-05-18
 Missouri,Christian County Sheriff's Office,Christian County,TFM,2025-07-07
 Missouri,Christian County Sheriff's Office,Christian County,WSO,2025-03-26
+Missouri,Clay County Sheriff's Office,Clay County,JEM,2026-09-16
 Missouri,Clinton County Sheriff's Office,Clinton County,TFM,2026-07-07
 Missouri,Clinton County Sheriff's Office,Clinton County,WSO,2026-07-07
 Missouri,Country Club Hills Police Department,St. Louis County,TFM,2026-03-02
@@ -1179,13 +1198,16 @@ Missouri,Jasper County Sheriff's Office,Jasper County,TFM,2026-08-26
 Missouri,Jefferson County Sheriff's Office,Jefferson County,TFM,2026-01-26
 Missouri,Kennett Police Department,Dunklin County,TFM,2026-05-17
 Missouri,Laclede County Sheriff's Office,Laclede County,TFM,2026-08-28
+Missouri,Lafayette County Sheriff's Office,Lafayette County,TFM,2026-09-15
 Missouri,Lawrence County Sheriff's Office,Lawrence County,TFM,2025-12-08
 Missouri,Leadington Police Department,St. Francois County,TFM,2026-06-25
 Missouri,Leadwood Police Department,St. Francois County,TFM,2026-05-05
 Missouri,Licking Police Department,Texas County,TFM,2026-04-21
 Missouri,Lincoln County Sheriff's Office,Lincoln County,TFM,2026-02-10
 Missouri,Linn County Sheriff’s Office,Linn County,TFM,2026-08-31
+Missouri,Linn Creek Police Department,Camden County,TFM,2026-09-20
 Missouri,Madison County Sheriff's Office,Madison County,TFM,2026-03-17
+Missouri,Malden Department of Public Safety,Dunklin County,TFM,2026-09-18
 Missouri,Mansfield Police Department,Wright County,TFM,2026-01-07
 Missouri,Maries County Sheriff's Office,Maries County,TFM,2026-08-18
 Missouri,Matthews Police Department,New Madrid County,TFM,2026-08-26
@@ -1264,6 +1286,7 @@ Montana,Carter County Sheriff's Office,Carter County,TFM,2026-04-09
 Montana,Flathead County Sheriff's Office,Flathead County,WSO,2020-02-12
 Montana,Gallatin County Sheriff's Office,Gallatin County,WSO,2020-01-22
 Montana,Garfield County Sheriff's Office,Garfield County,TFM,2025-08-28
+Montana,Golden Valley County Sheriff's Office,Golden Valley,TFM,2026-09-15
 Montana,Montana Department of Corrections,Lewis and Clark County,WSO,2026-08-25
 Montana,Montana Department of Justice,#N/A,TFM,2025-03-05
 Montana,Treasure County Sheriff's Office,Treasure County,TFM,2026-03-11
@@ -1289,6 +1312,7 @@ Nevada,Mineral County Sheriff's Office,Mineral County,WSO,2025-03-10
 Nevada,Nevada Department of Corrections,Ormsby County,WSO,2026-07-28
 New Hampshire,Auburn Police Department,Rockingham County,TFM,2026-01-07
 New Hampshire,Belknap County Sheriff's Office,Belknap County,TFM,2025-03-03
+New Hampshire,Brentwood Police Department,Rockingham County,TFM,2026-05-17
 New Hampshire,Candia Police Department,#N/A,TFM,2025-04-23
 New Hampshire,Carroll Police Department,#N/A,TFM,2025-07-02
 New Hampshire,Chester Police Department,Rockingham County,TFM,2026-05-01
@@ -1300,21 +1324,21 @@ New Hampshire,Gorham Police Department,#N/A,TFM,2025-02-26
 New Hampshire,Hillsboro Police Department,Hillsborough County,TFM,2026-05-31
 New Hampshire,Hillsborough County Sheriff's Office,Hillsborough County,TFM,2025-05-22
 New Hampshire,Kingston Police Department,Rockingham County,TFM,2026-05-09
+New Hampshire,Middleton Police Department,Strafford County,TFM,2026-09-16
+New Hampshire,Milton Police Department,Strafford County,TFM,2026-05-12
 New Hampshire,New Boston Police Department,Hillsborough County,TFM,2026-06-09
+New Hampshire,New Durham Police Department,Strafford County,TFM,2026-06-22
 New Hampshire,New Hampshire State Police Department,#N/A,TFM,2025-04-25
 New Hampshire,Newton Police Department,Rockingham County,TFM,2026-05-14
 New Hampshire,Ossipee Police Department,#N/A,TFM,2025-03-03
 New Hampshire,Pittsburgh Police Department,#N/A,TFM,2025-03-03
+New Hampshire,Pittsfield Police Department,Merrimack County,TFM,2026-05-12
 New Hampshire,Rindge Police Department,Cheshire County,TFM,2026-07-27
 New Hampshire,Rockingham County Sheriff's Office,Rockingham County,TFM,2025-04-24
+New Hampshire,South Hampton Police Department,Rockingham County,TFM,2026-06-22
 New Hampshire,Troy Police Department,#N/A,TFM,2025-03-17
 New Hampshire,Weare Police Department,Hillsborough County,TFM,2026-06-02
 New Hampshire,Whitefield Police Department,Coos County,TFM,2026-03-25
-New Hampshire,Brentwood Police Department,Rockingham County,TFM,2026-05-17
-New Hampshire,Milton Police Department,Strafford County,TFM,2026-05-12
-New Hampshire,Pittsfield Police Department,Merrimack County,TFM,2026-05-12
-New Hampshire,New Durham Police Department,Strafford County,TFM,2026-06-22
-New Hampshire,South Hampton Police Department,Rockingham County,TFM,2026-06-22
 New Mexico,Curry County Sheriff's Office,Curry County,WSO,2025-05-13
 New Mexico,Torrance County Sheriff's Office,Torrance County,WSO,2026-03-28
 New York,Rensselaer County Sheriff's Office,Rensselaer County,JEM,2020-06-10
@@ -1415,6 +1439,7 @@ Oklahoma,Canadian County Sheriff's Office,Canadian County,JEM,2020-03-13
 Oklahoma,Canadian County Sheriff's Office,Canadian County,TFM,2026-03-19
 Oklahoma,Canadian County Sheriff's Office,Canadian County,WSO,2025-08-28
 Oklahoma,Caney Police Department,Atoka County,TFM,2026-05-12
+Oklahoma,Carter County Sheriff's Office,Carter County,TFM,2026-09-17
 Oklahoma,Catoosa Police Department,Rogers County,TFM,2026-08-11
 Oklahoma,Checotah Police Department,McIntosh County,TFM,2026-04-17
 Oklahoma,Chelsea Police Department,Rogers County,TFM,2026-03-06
@@ -1534,13 +1559,14 @@ Pennsylvania,Center Township Police Department,Beaver County,TFM,2025-12-02
 Pennsylvania,Chippewa Township Police Department,Beaver County,TFM,2025-12-08
 Pennsylvania,Clarion Borough Police Department,Clarion County,TFM,2026-07-30
 Pennsylvania,Coal Township Police Department,Northumberland County,TFM,2026-06-30
-Pennsylvania,Constable Unity Township,Westmoreland County,TFM,2025-07-15
+Pennsylvania,Conneaut Lake Regional Police Department,Crawford County,TFM,2026-09-16
 Pennsylvania,Coolspring Township Constable's Office,Mercer County,TFM,2025-07-18
 Pennsylvania,Cornwall Borough Police Department,Lebanon County,TFM,2026-02-23
 Pennsylvania,County of Franklin / Franklin County Jail,Franklin County,WSO,2025-03-07
 Pennsylvania,Covington Township Police Department,Lackawanna County,TFM,2026-07-20
 Pennsylvania,Damascus Township Constable,#N/A,TFM,2025-04-29
 Pennsylvania,Danville Borough Police Department,Montour County,TFM,2026-05-13
+Pennsylvania,Duncansville Borough Police Department,Blair County,TFM,2026-09-18
 Pennsylvania,East Donegal Township Constables Office,#N/A,TFM,2025-07-15
 Pennsylvania,East Franklin Township Police Department,Armstrong County,TFM,2026-01-07
 Pennsylvania,East Pennsylvania Township Constable Office,Cumberland County,TFM,2025-08-28
@@ -1638,6 +1664,7 @@ Pennsylvania,Sunbury City Police Department,Northumberland County,TFM,2026-05-09
 Pennsylvania,Susquehanna Regional Police Department,Lancaster County,TFM,2025-09-09
 Pennsylvania,Troy Township PA State Constable,Bradford County,TFM,2025-09-09
 Pennsylvania,Union Township Police Department,Washington County,TFM,2025-11-04
+Pennsylvania,Unity Township Constable Office,Westmoreland County,TFM,2025-07-15
 Pennsylvania,Versailles Borough Police Department,Allegheny County,TFM,2026-09-04
 Pennsylvania,Washington County Sheriff's Office,Washington County,TFM,2025-06-18
 Pennsylvania,Weatherly Borough Police Department,Carbon County,TFM,2026-05-28
@@ -1712,6 +1739,7 @@ South Carolina,Yemassee Police Department,Hampton County,TFM,2026-06-12
 South Carolina,York County Sheriff's Office,York County,JEM,2020-06-09
 South Dakota,Centerville Police Department,Turner County,TFM,2026-01-26
 South Dakota,Corson County Sheriff's Office,Corson County,TFM,2026-09-04
+South Dakota,Edmunds County Sheriff's Office,Edmunds County,TFM,2026-09-17
 South Dakota,Grant County Sheriff's Office,Grant County,JEM,2026-07-20
 South Dakota,Grant County Sheriff's Office,Grant County,TFM,2026-07-20
 South Dakota,Hughes County Sheriff's Office,Hughes County,WSO,2025-03-07
@@ -1754,14 +1782,18 @@ Tennessee,Cumberland County Sheriff's Office,Cumberland County,WSO,2025-06-25
 Tennessee,Decatur County Sheriff's Office,Decatur County,WSO,2026-07-29
 Tennessee,Dekalb County Sheriff's Office,Dekalb County,WSO,2025-11-06
 Tennessee,Dickson County Sheriff's Office,Dickson County,WSO,2026-03-11
+Tennessee,Dyer County Sheriff's Office,Dyer County,TFM,2026-09-17
 Tennessee,Dyer County Sheriff's Office,Dyer County,WSO,2025-07-02
 Tennessee,Estill Springs Police Department,Franklin County,TFM,2026-01-07
+Tennessee,Fayette County Sheriff's Office,Fayette County,TFM,2026-09-18
 Tennessee,Fayette County Sheriff's Office,Fayette County,WSO,2026-08-01
 Tennessee,Fentress County Sheriff's Office,Fentress County,TFM,2026-06-09
 Tennessee,Fentress County Sheriff's Office,Fentress County,WSO,2026-06-09
 Tennessee,Franklin County Sheriff's Office,Franklin County,WSO,2025-10-17
 Tennessee,Gainesboro Police Department,Jackson County,TFM,2026-09-13
 Tennessee,Gallatin Police Department,Sumner County,TFM,2026-07-27
+Tennessee,Gibson County Sheriff's Office,Gibson County,TFM,2026-09-17
+Tennessee,Gibson County Sheriff's Office,Gibson County,WSO,2026-09-17
 Tennessee,Giles County Sheriff's Office,Giles County,WSO,2025-04-16
 Tennessee,Grainger County Sheriff's Office,Grainger County,WSO,2025-06-17
 Tennessee,Greenbrier Police Department,Robertson County,TFM,2026-05-04
@@ -1771,10 +1803,13 @@ Tennessee,Grundy County Sheriff's Office,Grundy County,WSO,2025-07-07
 Tennessee,Hamblen County Sheriff's Office,Hamblen County,WSO,2026-05-09
 Tennessee,Hamilton County Sheriff's Office,Hamilton County,JEM,2025-03-17
 Tennessee,Hancock County Sheriff's Office,Hancock County,WSO,2025-11-24
+Tennessee,Hardeman County Sheriff's Office,Hardeman County,WSO,2026-09-17
 Tennessee,Hardin County Sheriff's Office,Hardin County,WSO,2026-05-12
 Tennessee,Hawkins County Sheriff's Office,Hawkins County,TFM,2026-09-11
 Tennessee,Hawkins County Sheriff's Office,Hawkins County,WSO,2026-09-11
 Tennessee,Haywood County Sheriff's Office,Haywood County,WSO,2025-07-15
+Tennessee,Henderson County Sheriff's Office,Henderson County,TFM,2026-09-17
+Tennessee,Henderson County Sheriff's Office,Henderson County,WSO,2026-09-17
 Tennessee,Hendersonville Police Department,Sumner County,TFM,2026-04-23
 Tennessee,Henry County Sheriff's Office,Henry County,TFM,2026-08-05
 Tennessee,Henry County Sheriff's Office,Henry County,WSO,2026-08-05
@@ -1804,6 +1839,8 @@ Tennessee,Macon County Sheriff's Office,Macon County,WSO,2025-06-03
 Tennessee,Madison County Sheriff's Office,Madison County,TFM,2025-11-18
 Tennessee,Madison County Sheriff's Office,Madison County,WSO,2025-07-02
 Tennessee,Marion County Sheriff's Office,Marion County,WSO,2025-11-21
+Tennessee,Marshall County Sheriff's Office,Marshall County,WSO,2026-09-21
+Tennessee,Maury County Sheriff's Office,Maury County,WSO,2026-09-21
 Tennessee,McMinn County Sheriff's Office,McMinn County,WSO,2025-07-18
 Tennessee,McNairy County Sheriff's Office,McNairy County,WSO,2026-05-31
 Tennessee,Meigs County Sheriff's Office,Meigs County,WSO,2026-01-26
@@ -1831,6 +1868,7 @@ Tennessee,Rhea County Sheriff's Office,Rhea County,WSO,2026-09-11
 Tennessee,Roane County Sheriff's Office,Roane County,WSO,2026-09-10
 Tennessee,Robertson County Sheriff's Office,Robertson County,WSO,2025-07-07
 Tennessee,Rutherford County Sheriff's Office,Rutherford County,WSO,2025-08-28
+Tennessee,Scotts Hill Police Department,Henderson County,TFM,2026-09-21
 Tennessee,Sequatchie County Sheriff's Office,Sequatchie County,WSO,2026-01-26
 Tennessee,Sevier County Constable District 5,Sevier County,TFM,2026-03-06
 Tennessee,Sevier County Sheriff's Office,Sevier County,TFM,2025-11-06
@@ -1879,6 +1917,9 @@ Texas,Azle Police Department,Tarrant County,TFM,2026-04-22
 Texas,Bailey County Sheriff's Office,Bailey County,WSO,2025-07-31
 Texas,Balcones Heights Police Department,Bexar County,TFM,2026-01-07
 Texas,Ballinger Police Department,Runnels County,TFM,2026-03-21
+Texas,Bandera County Sheriff's Office,Bandera County,JEM,2026-09-20
+Texas,Bandera County Sheriff's Office,Bandera County,TFM,2026-09-20
+Texas,Bandera County Sheriff's Office,Bandera County,WSO,2026-09-20
 Texas,Bartonville Police Department,Denton County,TFM,2026-06-22
 Texas,Bastrop County Sheriff's Office,Bastrop County,TFM,2025-12-08
 Texas,Bastrop County Sheriff's Office,Bastrop County,WSO,2025-09-22
@@ -1903,6 +1944,7 @@ Texas,Bowie County Sheriff's Office,Bowie County,TFM,2026-07-29
 Texas,Bowie County Sheriff's Office,Bowie County,WSO,2025-10-17
 Texas,Brazoria County Sheriff's Office,Brazoria County,WSO,2025-08-07
 Texas,Brazos County Sheriff's Office,Brazos County,WSO,2026-03-11
+Texas,Brewster County Sheriff's Office,Brewster County,JEM,2026-09-17
 Texas,Brewster County Sheriff's Office,Brewster County,WSO,2026-01-26
 Texas,Briscoe County Sheriff's Office,Briscoe County,TFM,2026-09-02
 Texas,Brooks County Sheriff's Office,Brooks County,JEM,2025-06-11
@@ -2174,6 +2216,8 @@ Texas,Milam County Sheriff's Office,Milam County,TFM,2025-09-09
 Texas,Milam County Sheriff's Office,Milam County,WSO,2025-06-11
 Texas,Milford Police Department,Ellis County,TFM,2026-06-09
 Texas,Mills County Sheriff's Office,Mills County,WSO,2025-11-04
+Texas,Mitchell County Sheriff's Office,Mitchell County,JEM,2026-09-17
+Texas,Mitchell County Sheriff's Office,Mitchell County,WSO,2026-09-17
 Texas,Montague County Sheriff's Office,Montague County,WSO,2026-02-14
 Texas,Montgomery County Sheriff’s Office,Montgomery County,JEM,2020-06-09
 Texas,Moore County Sheriff's Office,Moore County,WSO,2025-08-28
@@ -2186,6 +2230,7 @@ Texas,Nacogdoches County Sheriff's Office,Nacogdoches County,TFM,2026-02-23
 Texas,Nacogdoches County Sheriff's Office,Nacogdoches County,WSO,2025-08-04
 Texas,Naples Police Department,Morris,TFM,2026-07-22
 Texas,Navasota Police Department,Grimes County,TFM,2026-06-22
+Texas,Hawk Cove Police Department,Hunt County,TFM,2026-09-20
 Texas,Nederland Police Department,Jefferson County,TFM,2026-08-17
 Texas,New Berlin Marshal's Office,Guadalupe Conty,TFM,2025-11-20
 Texas,New Deal Police Department,Lubbock County,TFM,2026-06-30
@@ -2277,6 +2322,7 @@ Texas,Schleicher County Sheriff's Office,Schleicher County,WSO,2025-04-02
 Texas,Schulenburg Police Department,Fayette County,TFM,2026-08-05
 Texas,Scurry County Sheriff's Office,Scurry County,WSO,2025-06-25
 Texas,Seadrift Police Department,Calhoun County,TFM,2026-07-30
+Texas,Sealy Police Department,Austin County,TFM,2026-09-17
 Texas,Seminole Police Department,Gaines County,TFM,2026-06-30
 Texas,Seymour Police Department,Baylor County,TFM,2026-09-04
 Texas,Shackelford County Sheriff's Office,Shackelford County,WSO,2025-07-24
@@ -2301,12 +2347,14 @@ Texas,Stephens County Sheriff's Office,Stephens County,WSO,2025-10-17
 Texas,Stephenville Police Department,Erath County,TFM,2026-04-25
 Texas,Sterling County Sheriff's Office,Sterling County,TFM,2025-07-23
 Texas,Stockdale Marshal's Office,Wilson County,TFM,2025-12-11
+Texas,Sudan Police Department,Lamb County,TFM,2026-09-20
 Texas,Sulphur Springs Police Department,Hopkins County,TFM,2026-03-24
 Texas,Sutton County Sheriff's Office,Sutton County,TFM,2025-03-10
 Texas,Sutton County Sheriff's Office,Sutton County,WSO,2025-03-10
 Texas,Swisher County Sheriff's Office,Swisher County,WSO,2025-08-28
 Texas,Tarrant County Sheriff’s Office,Tarrant County,JEM,2020-06-16
 Texas,Taylor County Sheriff's Office,Taylor County,WSO,2025-12-02
+Texas,Teague Police Department,Freestone County,TFM,2026-09-17
 Texas,Tenaha Police Department,Shelby County,TFM,2026-01-07
 Texas,Terrell County Sheriff's Office,Terrell County,JEM,2020-06-09
 Texas,Terrell County Sheriff's Office,Terrell County,TFM,2025-07-02
@@ -2492,6 +2540,7 @@ Wisconsin,Winnebago County Sheriff's Office,Winnebago County,WSO,2025-03-03
 Wisconsin,Wood County Sheriff's Office,Wood County,WSO,2025-03-17
 Wyoming,Campbell County Sheriff's Office,Campbell County,WSO,2025-02-26
 Wyoming,Carbon County Sheriff's Office,Carbon County,WSO,2025-06-11
+Wyoming,Cokeville Police Department,Lincoln County,TFM,2026-09-16
 Wyoming,Crook County Sheriff's Office,Crook County,TFM,2026-01-07
 Wyoming,Crook County Sheriff's Office,Crook County,WSO,2026-01-07
 Wyoming,Hot Springs County Sheriff's Office,Hot Springs County,TFM,2026-05-12

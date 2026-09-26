@@ -1,32 +1,32 @@
 ﻿state,abbr,courts,judges,recognized_orgs,orgs_per_court,orgs_per_judge
 Northern Mariana Islands,MP,1,1,0,0.0,0.0
 Puerto Rico,PR,1,5,0,0.0,0.0
-Louisiana,LA,4,27,6,1.5,0.22
-Arizona,AZ,4,26,19,4.8,0.73
+Louisiana,LA,4,25,6,1.5,0.24
+Arizona,AZ,4,22,19,4.8,0.86
 Hawaii,HI,1,4,5,5.0,1.25
-Georgia,GA,3,28,21,7.0,0.75
-Tennessee,TN,2,25,15,7.5,0.6
-Texas,TX,12,144,108,9.0,0.75
-Utah,UT,1,5,10,10.0,2.0
+Georgia,GA,3,27,21,7.0,0.78
+Tennessee,TN,2,23,15,7.5,0.65
+Texas,TX,12,140,108,9.0,0.77
+Utah,UT,1,7,10,10.0,1.43
 Nevada,NV,1,6,11,11.0,1.83
-Missouri,MO,1,7,12,12.0,1.71
-Colorado,CO,2,14,26,13.0,1.86
+Missouri,MO,1,6,12,12.0,2.0
+Colorado,CO,2,12,26,13.0,2.17
 New Mexico,NM,1,7,13,13.0,1.86
-Virginia,VA,2,39,27,13.5,0.69
-Maryland,MD,2,24,31,15.5,1.29
+Virginia,VA,2,41,27,13.5,0.66
+Maryland,MD,2,22,31,15.5,1.41
 Connecticut,CT,1,5,17,17.0,3.4
-New Jersey,NJ,2,17,34,17.0,2.0
-Indiana,IN,1,8,18,18.0,2.25
-Ohio,OH,1,17,21,21.0,1.24
-Minnesota,MN,1,8,22,22.0,2.75
-Oregon,OR,1,6,22,22.0,3.67
+New Jersey,NJ,2,18,34,17.0,1.89
+Indiana,IN,1,11,18,18.0,1.64
+Ohio,OH,1,16,21,21.0,1.31
+Minnesota,MN,1,6,22,22.0,3.67
+Oregon,OR,1,5,22,22.0,4.4
 Nebraska,NE,1,7,24,24.0,3.43
-New York,NY,5,85,151,30.2,1.78
-Florida,FL,3,75,79,26.3,1.05
-Washington,WA,2,15,55,27.5,3.67
-California,CA,11,99,305,27.7,3.08
-Massachusetts,MA,2,28,59,29.5,2.11
-Michigan,MI,1,9,32,32.0,3.56
-Pennsylvania,PA,1,15,36,36.0,2.4
-North Carolina,NC,1,8,54,54.0,6.75
-Illinois,IL,1,18,76,76.0,4.22
+Florida,FL,3,76,79,26.3,1.04
+Washington,WA,2,13,55,27.5,4.23
+Massachusetts,MA,2,31,59,29.5,1.9
+New York,NY,5,90,151,30.2,1.68
+California,CA,10,105,305,30.5,2.9
+Michigan,MI,1,11,32,32.0,2.91
+Pennsylvania,PA,1,14,36,36.0,2.57
+North Carolina,NC,1,7,54,54.0,7.71
+Illinois,IL,1,21,76,76.0,3.62

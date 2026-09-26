@@ -18,7 +18,7 @@
   "busiest_month_events": 41,
   "busiest_month_cases": 26,
   "quantified_case_count": 6,
-  "people_affected_total": 3205228,
+  "people_affected_total": 3229724,
   "status_counts": {
    "awaiting_decision": 6,
    "partially_blocked": 9,
@@ -47,7 +47,7 @@
    "timeline_events": 7,
    "first_event": "2024",
    "latest_event": "2026-10-13",
-   "last_checked": "2026-09-23",
+   "last_checked": "2026-09-24",
    "topics": [
     "detention",
     "kyr"
@@ -247,7 +247,7 @@
    "timeline_events": 9,
    "first_event": "2025-01-20",
    "latest_event": "2026-09-09",
-   "last_checked": "2026-09-23",
+   "last_checked": "2026-09-24",
    "topics": [
     "citizenship",
     "kyr"
@@ -343,11 +343,11 @@
    "status_label_es": "Política en vigor",
    "what_it_affects_en": "Holders of Temporary Protected Status from countries whose 2025 termination notices were challenged in court — chiefly Venezuela, Haiti, Syria, Honduras, Nicaragua and Nepal — and their U.S. employers and U.S.-citizen children. After the June 25, 2026 ruling these terminations are in effect.",
    "what_it_affects_es": "Titulares del Estatus de Protección Temporal de países cuyos avisos de terminación de 2025 fueron impugnados en los tribunales — principalmente Venezuela, Haití, Siria, Honduras, Nicaragua y Nepal — y sus empleadores e hijos ciudadanos estadounidenses. Tras el fallo del 25 de junio de 2026, estas terminaciones están en vigor.",
-   "people_affected": 334595,
+   "people_affected": 359091,
    "timeline_events": 20,
    "first_event": "2025-05-19",
    "latest_event": "2026-08-25",
-   "last_checked": "2026-09-23",
+   "last_checked": "2026-09-24",
    "topics": [
     "tps",
     "work-permit"
@@ -545,7 +545,7 @@
    "timeline_events": 3,
    "first_event": "2026-02-23",
    "latest_event": "2026-07-21",
-   "last_checked": "2026-09-23",
+   "last_checked": "2026-09-24",
    "topics": [
     "asylum",
     "work-permit"
@@ -994,7 +994,7 @@
    "timeline_events": 5,
    "first_event": "2025-04-14",
    "latest_event": "2026-04-10",
-   "last_checked": "2026-09-23",
+   "last_checked": "2026-09-24",
    "topics": [
     "enforcement",
     "asylum"

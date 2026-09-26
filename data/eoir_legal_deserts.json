@@ -8,20 +8,20 @@
   "orgs_source_url": "https://www.justice.gov/eoir/recognition-accreditation-roster-reports",
   "courts_as_of": "2026-05-26",
   "orgs_as_of": "2026-09-06",
-  "method": "For each state that hosts at least one EOIR immigration court, the count of DOJ-recognized nonprofit legal-aid organisations located in that state (from EOIR's own by-state roster index) is divided by the number of immigration courts in the state. Judges are counted from the named judge rows in each court's hearing-access table. 'Recognized organization' is a narrow EOIR program -- nonprofits authorized to employ accredited non-attorney representatives -- and does NOT include private attorneys, law-school clinics, or bar pro-bono panels; a low count means few of this specific free/low-cost channel, not an absence of all legal help. Representation is not bound by state line (hearings are often by Webex), so the ratio is a local-access signal, not a capacity verdict. The District of Columbia is excluded because it hosts no immigration court, not for want of recognized organizations -- it has 14. summary.total_recognized_orgs counts the court-hosting jurisdictions in this table; summary.total_recognized_orgs_nationwide is the whole roster."
+  "method": "For each state that hosts at least one EOIR immigration court, the count of DOJ-recognized nonprofit legal-aid organisations located in that state (from EOIR's own by-state roster index) is divided by the number of immigration courts in the state. Judges are distinct named judges in the courts' hearing-access tables, each person counted once (a judge listed at several courts is not counted twice). 'Recognized organization' is a narrow EOIR program -- nonprofits authorized to employ accredited non-attorney representatives -- and does NOT include private attorneys, law-school clinics, or bar pro-bono panels; a low count means few of this specific free/low-cost channel, not an absence of all legal help. Representation is not bound by state line (hearings are often by Webex), so the ratio is a local-access signal, not a capacity verdict. The District of Columbia is excluded because it hosts no immigration court, not for want of recognized organizations -- it has 14. summary.total_recognized_orgs counts the court-hosting jurisdictions in this table; summary.total_recognized_orgs_nationwide is the whole roster."
  },
  "summary": {
-  "total_courts": 73,
-  "total_judges": 782,
+  "total_courts": 72,
+  "total_judges": 765,
   "total_recognized_orgs": 1309,
   "total_recognized_orgs_nationwide": 1450,
   "states_with_court": 31,
-  "national_orgs_per_court": 17.9,
+  "national_orgs_per_court": 18.2,
   "worst": {
    "state": "Louisiana",
    "abbr": "LA",
    "courts": 4,
-   "judges": 27,
+   "judges": 25,
    "recognized_orgs": 6,
    "orgs_per_court": 1.5
   },
@@ -29,7 +29,7 @@
    "state": "Illinois",
    "abbr": "IL",
    "courts": 1,
-   "judges": 18,
+   "judges": 21,
    "recognized_orgs": 76,
    "orgs_per_court": 76.0
   },
@@ -53,7 +53,7 @@
     "state": "Louisiana",
     "abbr": "LA",
     "courts": 4,
-    "judges": 27,
+    "judges": 25,
     "recognized_orgs": 6,
     "orgs_per_court": 1.5
    },
@@ -61,7 +61,7 @@
     "state": "Arizona",
     "abbr": "AZ",
     "courts": 4,
-    "judges": 26,
+    "judges": 22,
     "recognized_orgs": 19,
     "orgs_per_court": 4.8
    },
@@ -77,7 +77,7 @@
     "state": "Georgia",
     "abbr": "GA",
     "courts": 3,
-    "judges": 28,
+    "judges": 27,
     "recognized_orgs": 21,
     "orgs_per_court": 7.0
    },
@@ -85,7 +85,7 @@
     "state": "Tennessee",
     "abbr": "TN",
     "courts": 2,
-    "judges": 25,
+    "judges": 23,
     "recognized_orgs": 15,
     "orgs_per_court": 7.5
    }
@@ -95,7 +95,7 @@
     "state": "Illinois",
     "abbr": "IL",
     "courts": 1,
-    "judges": 18,
+    "judges": 21,
     "recognized_orgs": 76,
     "orgs_per_court": 76.0
    },
@@ -103,7 +103,7 @@
     "state": "North Carolina",
     "abbr": "NC",
     "courts": 1,
-    "judges": 8,
+    "judges": 7,
     "recognized_orgs": 54,
     "orgs_per_court": 54.0
    },
@@ -111,7 +111,7 @@
     "state": "Pennsylvania",
     "abbr": "PA",
     "courts": 1,
-    "judges": 15,
+    "judges": 14,
     "recognized_orgs": 36,
     "orgs_per_court": 36.0
    },
@@ -119,17 +119,17 @@
     "state": "Michigan",
     "abbr": "MI",
     "courts": 1,
-    "judges": 9,
+    "judges": 11,
     "recognized_orgs": 32,
     "orgs_per_court": 32.0
    },
    {
-    "state": "Massachusetts",
-    "abbr": "MA",
-    "courts": 2,
-    "judges": 28,
-    "recognized_orgs": 59,
-    "orgs_per_court": 29.5
+    "state": "California",
+    "abbr": "CA",
+    "courts": 10,
+    "judges": 105,
+    "recognized_orgs": 305,
+    "orgs_per_court": 30.5
    }
   ]
  },
@@ -156,19 +156,19 @@
    "state": "Louisiana",
    "abbr": "LA",
    "courts": 4,
-   "judges": 27,
+   "judges": 25,
    "recognized_orgs": 6,
    "orgs_per_court": 1.5,
-   "orgs_per_judge": 0.22
+   "orgs_per_judge": 0.24
   },
   {
    "state": "Arizona",
    "abbr": "AZ",
    "courts": 4,
-   "judges": 26,
+   "judges": 22,
    "recognized_orgs": 19,
    "orgs_per_court": 4.8,
-   "orgs_per_judge": 0.73
+   "orgs_per_judge": 0.86
   },
   {
    "state": "Hawaii",
@@ -183,37 +183,37 @@
    "state": "Georgia",
    "abbr": "GA",
    "courts": 3,
-   "judges": 28,
+   "judges": 27,
    "recognized_orgs": 21,
    "orgs_per_court": 7.0,
-   "orgs_per_judge": 0.75
+   "orgs_per_judge": 0.78
   },
   {
    "state": "Tennessee",
    "abbr": "TN",
    "courts": 2,
-   "judges": 25,
+   "judges": 23,
    "recognized_orgs": 15,
    "orgs_per_court": 7.5,
-   "orgs_per_judge": 0.6
+   "orgs_per_judge": 0.65
   },
   {
    "state": "Texas",
    "abbr": "TX",
    "courts": 12,
-   "judges": 144,
+   "judges": 140,
    "recognized_orgs": 108,
    "orgs_per_court": 9.0,
-   "orgs_per_judge": 0.75
+   "orgs_per_judge": 0.77
   },
   {
    "state": "Utah",
    "abbr": "UT",
    "courts": 1,
-   "judges": 5,
+   "judges": 7,
    "recognized_orgs": 10,
    "orgs_per_court": 10.0,
-   "orgs_per_judge": 2.0
+   "orgs_per_judge": 1.43
   },
   {
    "state": "Nevada",
@@ -228,19 +228,19 @@
    "state": "Missouri",
    "abbr": "MO",
    "courts": 1,
-   "judges": 7,
+   "judges": 6,
    "recognized_orgs": 12,
    "orgs_per_court": 12.0,
-   "orgs_per_judge": 1.71
+   "orgs_per_judge": 2.0
   },
   {
    "state": "Colorado",
    "abbr": "CO",
    "courts": 2,
-   "judges": 14,
+   "judges": 12,
    "recognized_orgs": 26,
    "orgs_per_court": 13.0,
-   "orgs_per_judge": 1.86
+   "orgs_per_judge": 2.17
   },
   {
    "state": "New Mexico",
@@ -255,19 +255,19 @@
    "state": "Virginia",
    "abbr": "VA",
    "courts": 2,
-   "judges": 39,
+   "judges": 41,
    "recognized_orgs": 27,
    "orgs_per_court": 13.5,
-   "orgs_per_judge": 0.69
+   "orgs_per_judge": 0.66
   },
   {
    "state": "Maryland",
    "abbr": "MD",
    "courts": 2,
-   "judges": 24,
+   "judges": 22,
    "recognized_orgs": 31,
    "orgs_per_court": 15.5,
-   "orgs_per_judge": 1.29
+   "orgs_per_judge": 1.41
   },
   {
    "state": "Connecticut",
@@ -282,46 +282,46 @@
    "state": "New Jersey",
    "abbr": "NJ",
    "courts": 2,
-   "judges": 17,
+   "judges": 18,
    "recognized_orgs": 34,
    "orgs_per_court": 17.0,
-   "orgs_per_judge": 2.0
+   "orgs_per_judge": 1.89
   },
   {
    "state": "Indiana",
    "abbr": "IN",
    "courts": 1,
-   "judges": 8,
+   "judges": 11,
    "recognized_orgs": 18,
    "orgs_per_court": 18.0,
-   "orgs_per_judge": 2.25
+   "orgs_per_judge": 1.64
   },
   {
    "state": "Ohio",
    "abbr": "OH",
    "courts": 1,
-   "judges": 17,
+   "judges": 16,
    "recognized_orgs": 21,
    "orgs_per_court": 21.0,
-   "orgs_per_judge": 1.24
+   "orgs_per_judge": 1.31
   },
   {
    "state": "Minnesota",
    "abbr": "MN",
    "courts": 1,
-   "judges": 8,
+   "judges": 6,
    "recognized_orgs": 22,
    "orgs_per_court": 22.0,
-   "orgs_per_judge": 2.75
+   "orgs_per_judge": 3.67
   },
   {
    "state": "Oregon",
    "abbr": "OR",
    "courts": 1,
-   "judges": 6,
+   "judges": 5,
    "recognized_orgs": 22,
    "orgs_per_court": 22.0,
-   "orgs_per_judge": 3.67
+   "orgs_per_judge": 4.4
   },
   {
    "state": "Nebraska",
@@ -333,85 +333,85 @@
    "orgs_per_judge": 3.43
   },
   {
-   "state": "New York",
-   "abbr": "NY",
-   "courts": 5,
-   "judges": 85,
-   "recognized_orgs": 151,
-   "orgs_per_court": 30.2,
-   "orgs_per_judge": 1.78
-  },
-  {
    "state": "Florida",
    "abbr": "FL",
    "courts": 3,
-   "judges": 75,
+   "judges": 76,
    "recognized_orgs": 79,
    "orgs_per_court": 26.3,
-   "orgs_per_judge": 1.05
+   "orgs_per_judge": 1.04
   },
   {
    "state": "Washington",
    "abbr": "WA",
    "courts": 2,
-   "judges": 15,
+   "judges": 13,
    "recognized_orgs": 55,
    "orgs_per_court": 27.5,
-   "orgs_per_judge": 3.67
-  },
-  {
-   "state": "California",
-   "abbr": "CA",
-   "courts": 11,
-   "judges": 99,
-   "recognized_orgs": 305,
-   "orgs_per_court": 27.7,
-   "orgs_per_judge": 3.08
+   "orgs_per_judge": 4.23
   },
   {
    "state": "Massachusetts",
    "abbr": "MA",
    "courts": 2,
-   "judges": 28,
+   "judges": 31,
    "recognized_orgs": 59,
    "orgs_per_court": 29.5,
-   "orgs_per_judge": 2.11
+   "orgs_per_judge": 1.9
+  },
+  {
+   "state": "New York",
+   "abbr": "NY",
+   "courts": 5,
+   "judges": 90,
+   "recognized_orgs": 151,
+   "orgs_per_court": 30.2,
+   "orgs_per_judge": 1.68
+  },
+  {
+   "state": "California",
+   "abbr": "CA",
+   "courts": 10,
+   "judges": 105,
+   "recognized_orgs": 305,
+   "orgs_per_court": 30.5,
+   "orgs_per_judge": 2.9
   },
   {
    "state": "Michigan",
    "abbr": "MI",
    "courts": 1,
-   "judges": 9,
+   "judges": 11,
    "recognized_orgs": 32,
    "orgs_per_court": 32.0,
-   "orgs_per_judge": 3.56
+   "orgs_per_judge": 2.91
   },
   {
    "state": "Pennsylvania",
    "abbr": "PA",
    "courts": 1,
-   "judges": 15,
+   "judges": 14,
    "recognized_orgs": 36,
    "orgs_per_court": 36.0,
-   "orgs_per_judge": 2.4
+   "orgs_per_judge": 2.57
   },
   {
    "state": "North Carolina",
    "abbr": "NC",
    "courts": 1,
-   "judges": 8,
+   "judges": 7,
    "recognized_orgs": 54,
    "orgs_per_court": 54.0,
-   "orgs_per_judge": 6.75
+   "orgs_per_judge": 7.71
   },
   {
    "state": "Illinois",
    "abbr": "IL",
    "courts": 1,
-   "judges": 18,
+   "judges": 21,
    "recognized_orgs": 76,
    "orgs_per_court": 76.0,
-   "orgs_per_judge": 4.22
+   "orgs_per_judge": 3.62
   }
  ]
 }

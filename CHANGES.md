@@ -9,9 +9,57 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 196 recorded changes. Source data as of 2026-09-24.
+Showing the 40 most recent of 202 recorded changes. Source data as of 2026-09-29.
 
 ---
+
+### 2026-09-29 · CORRECTION
+
+**Correction: property-tax pages carried a generic March deadline, a 1-5% late surcharge and, for Texas, an outdated $100,000 exemption**
+
+All 52 state property-tax pages (EN + ES) said homestead applications must generally be filed before March and that late payment costs a 1-5% surcharge in the first month; neither figure came from any state source. Those lines now point readers to the sourced table on each page and to the county assessor or tax collector. Texas is corrected to the Comptroller's figures: a $140,000 school-district homestead exemption (plus $60,000 at 65+ or disabled), a general application deadline before May 1, and, for taxes unpaid on Feb. 1, a 6% penalty plus 1% interest that reaches 12% on July 1.
+
+Primary source: <https://comptroller.texas.gov/taxes/property-tax/pay/>
+
+### 2026-09-29 · CORRECTION
+
+**Correction: hospital financial-assistance refund rule now includes its under-$5 exception**
+
+The 52 state free-hospital-care pages (EN + ES) said federal 501(r) rules require a nonprofit hospital to refund what an eligible patient paid above the discounted amount. The regulation, 26 CFR 1.501(r)-6(c)(6)(i)(C)(2), excepts an excess of less than $5 (or another amount the IRS sets in published guidance); the pages now say so.
+
+Primary source: <https://www.ecfr.gov/current/title-26/section-1.501(r)-6>
+
+### 2026-09-29 · CORRECTION
+
+**Correction: Medicaid five-year wait outside CHIPRA 214 states keeps its other exceptions**
+
+The Medicaid guide said that in states without the CHIPRA 214 option the five-year wait applies to children and pregnant women too. CMS letter SHO #26-001 (April 8, 2026) keeps the other exceptions in 8 U.S.C. 1613(b), including Cuban/Haitian entrants, COFA migrants and LPR veterans or active-duty service members and certain family members; the sentence now names them.
+
+Primary source: <https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf>
+
+### 2026-09-29 · CORRECTION
+
+**Correction: skipping Selective Service registration no longer affects federal student aid**
+
+Two passages of the Selective Service guide (EN + ES) still listed federal student aid among the things failure to register can cost you, contradicting the FAQ below them. The FAFSA Simplification Act removed that requirement; Federal Student Aid's Dear Colleague Letter GEN-21-04 (June 11, 2021) says failing to register no longer affects Title IV aid eligibility. Both passages are corrected.
+
+Primary source: <https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2021-06-11/early-implementation-fafsa-simplification-acts-removal-selective-service-and-drug-conviction-requirements-title-iv-eligibility>
+
+### 2026-09-29 · FEES
+
+**EOIR sets FY2027 fees for DHS forms filed in immigration court, including a $105 Annual Asylum Fee**
+
+A notice published September 29, 2026 (FR 2026-19841, 91 FR 61447) sets the fiscal year 2027 OBBBA amounts for four DHS forms when filed with the immigration courts or the Board of Immigration Appeals on or after October 1, 2026: Annual Asylum Fee $105 (from $102), I-485 $1,590 (from $1,540), I-601 $1,100 (from $1,070) and I-821 $520 (from $510); the $100 initial I-589 fee is unchanged. The notice does not change the DHS base fees for these forms, and EOIR's Payment Portal shows the combined amount. It covers EOIR filings only: USCIS had not published its own fiscal year 2027 adjustment in the Federal Register as of September 29, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/09/29/2026-19841/inflation-adjustment-for-eoir-obbba-fees-for-certain-dhs-forms-fiscal-year-2027>
+
+### 2026-09-29 · BENEFITS
+
+**SNAP FY2027 amounts take effect October 1, 2026: the maximum benefit for a family of four in the 48 states and DC rises to $1,023**
+
+USDA's FY2027 cost-of-living memo (dated August 21, 2026) sets SNAP amounts for October 1, 2026 through September 30, 2027. In the 48 states and DC the maximum monthly benefit for a household of four rises from $994 to $1,023 (one person $306), the gross income limit (130% of the poverty level) for one person rises to $1,729/month, and the asset limit for households with a member age 60+ or disabled rises to $4,750 (other households stay at $3,000). Alaska, Guam and the U.S. Virgin Islands also rise; Hawaii's maximums go DOWN (family of four $1,655, from $1,689), as the memo states. Our 104 state SNAP pages and both SNAP guides now show the new amounts, each labeled with the dates it applies.
+
+Primary source: <https://www.usda.gov/sites/default/files/guidance-documents/fna.snap-cola2027.pdf>
 
 ### 2026-09-25 · CORRECTION
 
@@ -284,54 +332,6 @@ Primary source: <https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm>
 Fifty English and fifty Spanish SNAP state pages answered "how much do I get" with a flat "Max gross income: 130% FPL." Under 7 CFR 273.9(a) a household containing a member age 60 or older or with a disability "shall meet the net income eligibility standards" only — it is exempt from the gross-income test entirely — and categorically eligible households meet neither test. A household that would have read itself out of SNAP now sees the exception. Separately, across the Medicaid and SNAP state pages, the hubs and the public-charge guide, the site told readers that benefits used by their US-citizen children "never count against you." USCIS policy alert PA-2026-09, effective 18 September 2026, does say USCIS "does not attribute to the alien the receipt of means-tested public benefits if the benefit is received by the applicant's relatives, including children" — but it adds that where a relative the applicant is legally obliged to support qualifies "based on the alien's income or assets falling below a certain level, then officers should consider the alien's income or assets falling below the threshold as part of the assets, resources, and financial status factor." That caveat is now on every page that made the promise. The Spanish SNAP hub also still answered the public-charge question with a bare "No" eight days before the 2022 rule's rescission takes effect (91 FR 45324); it now carries the date.
 
 Primary source: <https://www.ecfr.gov/current/title-7/section-273.9>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: three know-your-rights errors — a regulation that never says "judicial", ICE's first courthouse directive described as a narrowing, and one E-Verify clock where there are two**
-
-On the page whose whole thesis is the difference between a judge's warrant and an administrative one, we attributed the judicial qualifier to the regulation itself: "federal regulation instructs that immigration officers may not enter non-public areas without consent or a judicial warrant (8 CFR 287.8(f)(2))." The regulation says "either a warrant or the consent of the owner or other person in control of the site to be inspected" — the judge-signed requirement for a home comes from the Fourth Amendment, not from that text. The sensitive-locations timeline listed "2018 — internal narrowing — reduced courthouse limitations", preceded by a 2013 courthouse guidance we cannot source; ICE Directive 11072.1 (issued and effective 10 January 2018) records "Superseded: None" on its own header, which makes it ICE's first courthouse directive rather than a narrowing of anything. And the workplace page gave a single deadline after an E-Verify mismatch: "contest within 8 federal working days." E-Verify runs two clocks — 10 federal government working days from issuance of the mismatch to tell your employer you will act, then eight federal government working days from receiving the Referral Date Confirmation to contact DHS or SSA. A worker counting eight days from the mismatch was counting the wrong clock.
-
-Primary source: <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: childcare pages sent parents to a "[State] Department of Human Services" that most states do not have**
-
-The childcare-by-state generator ended its "immigrant-friendly states" section with "Verify with [State] Department of Human Services" on all 52 English and 52 Spanish state pages. Most states have no agency by that name — North Carolina runs SNAP and childcare through the Department of Health and Human Services, Arizona through the Department of Economic Security, and so on — so the sentence sent a reader searching for an office that does not exist, on a page that already renders the state's real portal, its CCDF programme name and its application methods a few lines above. Each page now points at those official contacts and at the state's childcare.gov page, which names the agency; the generator was corrected so a rebuild cannot restore the invented name.
-
-Primary source: <https://childcare.gov/state-resources>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: our Cuba and Nicaragua “voting from the US” pages described a procedure that does not exist — neither country lets citizens abroad vote**
-
-Four pages (Cuba and Nicaragua, English and Spanish) told readers their country had “established consular voting… and/or postal voting” for citizens abroad, listed presidential, legislative and referendum ballots as available, and gave a registration deadline of “30-90 days before election day.” None of that is true for either country. Cuba's Ley No. 127, “Ley Electoral” (Gaceta Oficial No. 60 Ordinaria, 19 August 2019), art. 7 c) requires “residencia efectiva en el país por un período no menor de dos (2) años antes de las elecciones”, and art. 8 c) withholds the vote from anyone who does not meet that residence requirement — living in the US removes the right itself, and Cuba's President is elected by the deputies of the National Assembly (arts. 220-224), not by voters. Nicaragua's Ley No. 331 (reforms incorporated, La Gaceta – Diario Oficial No. 92, 20 May 2022), art. 109 makes an overseas vote conditional on the Consejo Supremo Electoral deciding, six months before the electoral process begins, that four operating conditions can be met, including an overseas voter registry it has never built; the decision has never been taken. The four pages were rewritten to quote the statutes, explain why no procedure exists, and say what a citizen can actually do; the same fabricated “30-90 day” deadline was removed from the other 20 voting-from-abroad pages, Mexico's real window was published (LGIPE art. 334: 1 September to 15 December of the year before the election) along with the internet-voting channel that 67.86% of the 2024 overseas roll used, and the generator template was corrected so a rebuild cannot restore the falsehoods.
-
-Primary source: <https://www.gacetaoficial.gob.cu/sites/default/files/goc-2019-o60_0.pdf>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: closed Nicaraguan consulates listed as open, two moved Mexican consulates, and a UN mission published as a consulate**
-
-A sweep of the consulate directory found addresses that would send a reader to the wrong building or to no building at all. Nicaragua closed its consulates in Los Angeles and Houston on 19 January 2024 and in New Orleans on 20 January 2024 — in Los Angeles by a notice on the door reading “el Consulado de la Ciudad de Los Ángeles cesa funciones a partir de hoy 19 de enero de 2024” — and the San Francisco office stopped serving the public; only Miami, New York and Washington, D.C. still operate, yet our hub said “7 consular offices” and every city page read as open. Mexico's consulates in Oklahoma City and Fresno have moved: SRE's directory (last updated 6 August 2026) gives 1131 W Sheridan Ave., Oklahoma City, OK 73106, tel. (405) 753-5622 — our page had the old 401 Northwest 16th Street and a number that no longer reaches the office — and 7435 N Ingram Ave., Fresno, CA 93711 in place of 2409 Merced Street. The Honduras and Ecuador New York pages printed 866 United Nations Plaza with a green “verified” badge: that is each country's Permanent Mission to the United Nations, which issues no passports or civil-registry documents, and the actual consulate address sat further down the same page. The Argentine consulate in Atlanta is at 53 Perimeter Center East, Suite #500, Atlanta, GA 30346 (its own site, contact page updated 19/03/2025), not 245 Peachtree Center Avenue, its email is catla@mrecic.gov.ar, and its jurisdiction is Alabama, Georgia, Kentucky, Mississippi, South Carolina and Tennessee — North Carolina belongs to the Embassy in Washington and Florida to Miami, and Argentine consulates are fixed-jurisdiction, so the old list cost readers the appointment.
-
-Primary source: <https://www.vozdeamerica.com/a/cierre-de-varios-consulados-de-nicaragua-en-eeuu-mexico-y-guatemala-impacta-a-la-diaspora-del-pais-centroamericano/7485761.html>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: a geocoding bug pinned 104 consulates to the wrong city, and our sourcing lines claimed verifications that never happened**
-
-Three sourcing defects, all fixed. First, the script that enriched our consulate dataset from OpenStreetMap matched a POI to a city with a containment test; when an OSM node carries no addr:city tag its city normalizes to the empty string, and an empty string is a substring of every city name, so the first tagless diplomatic POI in a country matched every city in it. That put 47 Mexican consulates on a node in Brownsville, Texas, 29 Guatemalan on a Miami node, 17 Honduran and 15 Dominican on Washington, D.C. nodes — published as each page's geographic source and used as its map pin. The false enrichment was stripped from 104 records and the matcher now requires a real city. Second, 32 Mexican consulate pages said their addresses were “cross-referenced against the U.S. State Department's foreign consular office directory”; that check was never run, and the Department no longer publishes such a directory — its page now renders one link and no list (read 2026-09-10) — so the sentence and the 52 pages that linked the directory were corrected. Third, 149 pages credited “datos del Ministerio de Relaciones Exteriores” for data whose own source field is the English Wikipedia list of that country's diplomatic missions; those lines now say what the data is. Separately, the by-state pages sent readers in a consulate-less state to neighbouring states chosen by geography rather than by whether they host a consulate — South Dakota's page named Iowa, Wyoming, Montana and North Dakota, all of which our own pages say host none, and the lists were circular — so all of them are now built from the consulate data and name the actual offices.
-
-Primary source: <https://api.openstreetmap.org/api/0.6/node/9384986783.json>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: our green-card-to-citizenship pages still described the 2008 civics test — USCIS has given the 2025 test since October 20, 2025**
-
-108 pages (54 English + 54 Spanish) told readers the naturalization civics test is 10 questions drawn from a 100-question list with 6 correct to pass, and pointed them at the 100-question study list. USCIS's own Study for the Test page says: "We will administer the 2025 naturalization civics test to aliens who file Form N-400, Application for Naturalization on or after Oct. 20, 2025. The 2025 naturalization civics test is an oral test consisting of 20 questions from the list of 128 civics test questions. You must answer 12 questions correctly to pass the 2025 test." Applicants who filed before October 20, 2025 still take the 2008 test, and applicants 65 or older with 20+ years as a permanent resident answer 10 questions from a specially selected bank of 20. Every page now states which test applies by filing date, and the generator templates that produced them were corrected too.
-
-Primary source: <https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test>
 
 ---
 

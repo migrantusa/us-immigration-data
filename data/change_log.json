@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-09-25",
+  "verified_on": "2026-09-29",
   "categories": [
    "tps",
    "visas",
@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-09-29"
  },
  "upcoming": [
   {
@@ -26,11 +26,21 @@
    "source_url": "https://service.berlin.de/dienstleistung/328332/en/"
   },
   {
+   "date": "2026-09-30",
+   "title_en": "HHS may disclose TANF records to DHS for program-integrity reviews, including immigration-status checks",
+   "title_es": "El HHS podrá divulgar registros de TANF al DHS para revisiones de integridad del programa, incluida la verificación del estatus migratorio",
+   "summary_en": "HHS's Administration for Children and Families says in its notice for the TANF Data system of records (System No. 09-80-0375, 91 FR 37406, June 23, 2026) that a new routine use permits disclosure of TANF records to another federal or grantee agency or entity it engages, such as DHS, to assist with program-integrity reviews that check whether TANF agencies comply with program requirements, including verifying citizenship or immigration status. An August 20, 2026 notice (91 FR 53876) set that routine use's effective date at September 30, 2026.",
+   "summary_es": "La Administración para Niños y Familias del HHS dice en su aviso sobre el sistema de registros TANF Data (Sistema No. 09-80-0375, 91 FR 37406, 23 de junio de 2026) que un nuevo uso rutinario permite divulgar registros de TANF a otra agencia federal o beneficiaria, o a una entidad, que contrate, como el DHS, para ayudar en revisiones de integridad del programa que comprueban si las agencias de TANF cumplen los requisitos del programa, incluida la verificación de la ciudadanía o el estatus migratorio. Un aviso del 20 de agosto de 2026 (91 FR 53876) fijó la fecha de vigencia de ese uso rutinario en el 30 de septiembre de 2026.",
+   "link_en": "/benefits/",
+   "link_es": "/es/beneficios/",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16933/privacy-act-of-1974-system-of-records"
+  },
+  {
    "date": "2026-10-01",
    "title_en": "EOIR filing fees rise for FY2027 (immigration-court appeals, motions, cancellation)",
    "title_es": "Suben las cuotas de EOIR para el año fiscal 2027 (apelaciones, mociones y cancelación en corte de inmigración)",
-   "summary_en": "A final rule published August 21, 2026 (91 FR 54211) applies OBBBA's annual inflation adjustment (CPI-U +3.4%) to EOIR fees for filings on or after October 1, 2026: EOIR-26 and EOIR-29 appeals $1,060; motions to reopen/reconsider before an Immigration Judge $1,095 and before the Board $1,060 ($950 when based on a fee-free relief application); EOIR-40 and EOIR-42A $730; EOIR-42B $1,690. DHS-form fees collected by EOIR are updated separately on EOIR's website.",
-   "summary_es": "Una regla final publicada el 21 de agosto de 2026 (91 FR 54211) aplica el ajuste anual por inflación de la OBBBA (CPI-U +3.4%) a las cuotas de EOIR para presentaciones a partir del 1 de octubre de 2026: apelaciones EOIR-26 y EOIR-29 $1,060; mociones para reabrir/reconsiderar ante el juez de inmigración $1,095 y ante la Junta $1,060 ($950 cuando se basan en una solicitud de alivio sin cuota); EOIR-40 y EOIR-42A $730; EOIR-42B $1,690. Las cuotas de formularios del DHS cobradas por EOIR se actualizan aparte en el sitio de EOIR.",
+   "summary_en": "A final rule published August 21, 2026 (91 FR 54211) applies OBBBA's annual inflation adjustment (CPI-U +3.4%) to EOIR fees for filings on or after October 1, 2026: EOIR-26 and EOIR-29 appeals $1,060; motions to reopen/reconsider before an Immigration Judge $1,095 and before the Board $1,060 ($950 when based on a fee-free relief application); EOIR-40 and EOIR-42A $730; EOIR-42B $1,690. A separate EOIR notice of September 29, 2026 (FR 2026-19841) sets the OBBBA portion of DHS forms filed with EOIR from the same date: Annual Asylum Fee $105, I-485 $1,590, I-601 $1,100, I-821 $520 (I-589 initial fee unchanged at $100).",
+   "summary_es": "Una regla final publicada el 21 de agosto de 2026 (91 FR 54211) aplica el ajuste anual por inflación de la OBBBA (CPI-U +3.4%) a las cuotas de EOIR para presentaciones a partir del 1 de octubre de 2026: apelaciones EOIR-26 y EOIR-29 $1,060; mociones para reabrir/reconsiderar ante el juez de inmigración $1,095 y ante la Junta $1,060 ($950 cuando se basan en una solicitud de alivio sin cuota); EOIR-40 y EOIR-42A $730; EOIR-42B $1,690. Un aviso aparte de la EOIR del 29 de septiembre de 2026 (FR 2026-19841) fija desde esa misma fecha la porción OBBBA de los formularios del DHS presentados ante la EOIR: Tarifa Anual de Asilo $105, I-485 $1,590, I-601 $1,100, I-821 $520 (la tarifa inicial del I-589 sigue en $100).",
    "link_en": "/know-your-rights/if-immigration-bond-is-denied/",
    "link_es": "/es/conoce-tus-derechos/si-le-niegan-la-fianza/",
    "source_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027"
@@ -46,6 +56,78 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-09-29",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: property-tax pages carried a generic March deadline, a 1-5% late surcharge and, for Texas, an outdated $100,000 exemption",
+   "title_es": "Corrección: las páginas de impuesto a la propiedad traían una fecha límite genérica en marzo, un recargo de 1-5% y, para Texas, una exención desactualizada de $100,000",
+   "summary_en": "All 52 state property-tax pages (EN + ES) said homestead applications must generally be filed before March and that late payment costs a 1-5% surcharge in the first month; neither figure came from any state source. Those lines now point readers to the sourced table on each page and to the county assessor or tax collector. Texas is corrected to the Comptroller's figures: a $140,000 school-district homestead exemption (plus $60,000 at 65+ or disabled), a general application deadline before May 1, and, for taxes unpaid on Feb. 1, a 6% penalty plus 1% interest that reaches 12% on July 1.",
+   "summary_es": "Las 52 páginas estatales de impuesto a la propiedad (EN + ES) decían que la solicitud homestead se presenta en general antes de marzo y que el pago tardío cuesta un recargo de 1-5% el primer mes; ninguna de las dos cifras venía de una fuente estatal. Esas líneas ahora remiten a la tabla con fuentes de cada página y al tasador o recaudador del condado. Texas se corrigió con las cifras del Contralor: exención homestead escolar de $140,000 (más $60,000 a los 65+ o con discapacidad), fecha límite general antes del 1 de mayo y, para impuestos sin pagar el 1 de febrero, un recargo del 6% más 1% de interés que llega al 12% el 1 de julio.",
+   "source_url": "https://comptroller.texas.gov/taxes/property-tax/pay/",
+   "link_en": "/business/property-tax-homestead-by-state/texas/",
+   "link_es": "/es/negocios/impuesto-propiedad-homestead-por-estado/texas/"
+  },
+  {
+   "date": "2026-09-29",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: hospital financial-assistance refund rule now includes its under-$5 exception",
+   "title_es": "Corrección: la regla de reembolso de la asistencia financiera hospitalaria ahora incluye su excepción de menos de $5",
+   "summary_en": "The 52 state free-hospital-care pages (EN + ES) said federal 501(r) rules require a nonprofit hospital to refund what an eligible patient paid above the discounted amount. The regulation, 26 CFR 1.501(r)-6(c)(6)(i)(C)(2), excepts an excess of less than $5 (or another amount the IRS sets in published guidance); the pages now say so.",
+   "summary_es": "Las 52 páginas estatales de atención hospitalaria gratis (EN + ES) decían que las reglas federales 501(r) exigen a un hospital sin fines de lucro reembolsar lo que un paciente elegible pagó por encima del monto con descuento. El reglamento, 26 CFR 1.501(r)-6(c)(6)(i)(C)(2), exceptúa un excedente menor de $5 (u otro monto que el IRS fije en guía publicada); las páginas ahora lo dicen.",
+   "source_url": "https://www.ecfr.gov/current/title-26/section-1.501(r)-6",
+   "link_en": "/benefits/free-hospital-care-by-state/",
+   "link_es": "/es/beneficios/atencion-hospitalaria-gratis-por-estado/"
+  },
+  {
+   "date": "2026-09-29",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: Medicaid five-year wait outside CHIPRA 214 states keeps its other exceptions",
+   "title_es": "Corrección: el período de espera de cinco años de Medicaid fuera de los estados CHIPRA 214 conserva sus otras excepciones",
+   "summary_en": "The Medicaid guide said that in states without the CHIPRA 214 option the five-year wait applies to children and pregnant women too. CMS letter SHO #26-001 (April 8, 2026) keeps the other exceptions in 8 U.S.C. 1613(b), including Cuban/Haitian entrants, COFA migrants and LPR veterans or active-duty service members and certain family members; the sentence now names them.",
+   "summary_es": "La guía de Medicaid decía que en los estados sin la opción CHIPRA 214 el período de espera de cinco años también aplica a niños y mujeres embarazadas. La carta de CMS SHO #26-001 (8 de abril de 2026) mantiene las otras excepciones de 8 U.S.C. 1613(b), entre ellas entrantes cubanos/haitianos, migrantes COFA y residentes permanentes veteranos o en servicio militar activo y ciertos familiares; la oración ahora las nombra.",
+   "source_url": "https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf",
+   "link_en": "/benefits/medicaid/",
+   "link_es": "/es/beneficios/medicaid/"
+  },
+  {
+   "date": "2026-09-29",
+   "precision": "day",
+   "category": "correction",
+   "title_en": "Correction: skipping Selective Service registration no longer affects federal student aid",
+   "title_es": "Corrección: no registrarse en el Servicio Selectivo ya no afecta la ayuda federal estudiantil",
+   "summary_en": "Two passages of the Selective Service guide (EN + ES) still listed federal student aid among the things failure to register can cost you, contradicting the FAQ below them. The FAFSA Simplification Act removed that requirement; Federal Student Aid's Dear Colleague Letter GEN-21-04 (June 11, 2021) says failing to register no longer affects Title IV aid eligibility. Both passages are corrected.",
+   "summary_es": "Dos pasajes de la guía del Servicio Selectivo (EN + ES) aún incluían la ayuda federal estudiantil entre lo que se puede perder por no registrarse, en contradicción con la pregunta frecuente que sigue. La Ley de Simplificación de la FAFSA eliminó ese requisito; la carta GEN-21-04 de Federal Student Aid (11 de junio de 2021) dice que no registrarse ya no afecta la elegibilidad para la ayuda del Título IV. Ambos pasajes se corrigieron.",
+   "source_url": "https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2021-06-11/early-implementation-fafsa-simplification-acts-removal-selective-service-and-drug-conviction-requirements-title-iv-eligibility",
+   "link_en": "/procedures/selective-service-registration/",
+   "link_es": "/es/tramites/registro-servicio-selectivo/"
+  },
+  {
+   "date": "2026-09-29",
+   "precision": "day",
+   "category": "fees",
+   "title_en": "EOIR sets FY2027 fees for DHS forms filed in immigration court, including a $105 Annual Asylum Fee",
+   "title_es": "La EOIR fija las tarifas del año fiscal 2027 para formularios del DHS presentados en la corte de inmigración, incluida una Tarifa Anual de Asilo de $105",
+   "summary_en": "A notice published September 29, 2026 (FR 2026-19841, 91 FR 61447) sets the fiscal year 2027 OBBBA amounts for four DHS forms when filed with the immigration courts or the Board of Immigration Appeals on or after October 1, 2026: Annual Asylum Fee $105 (from $102), I-485 $1,590 (from $1,540), I-601 $1,100 (from $1,070) and I-821 $520 (from $510); the $100 initial I-589 fee is unchanged. The notice does not change the DHS base fees for these forms, and EOIR's Payment Portal shows the combined amount. It covers EOIR filings only: USCIS had not published its own fiscal year 2027 adjustment in the Federal Register as of September 29, 2026.",
+   "summary_es": "Un aviso publicado el 29 de septiembre de 2026 (FR 2026-19841, 91 FR 61447) fija los montos OBBBA del año fiscal 2027 para cuatro formularios del DHS presentados ante las cortes de inmigración o la Junta de Apelaciones de Inmigración a partir del 1 de octubre de 2026: Tarifa Anual de Asilo $105 (antes $102), I-485 $1,590 (antes $1,540), I-601 $1,100 (antes $1,070) e I-821 $520 (antes $510); la tarifa inicial de $100 del I-589 no cambia. El aviso no cambia las tarifas base del DHS para estos formularios, y el Portal de Pagos de la EOIR muestra el monto combinado. Cubre solo las presentaciones ante la EOIR: al 29 de septiembre de 2026, USCIS no había publicado en el Federal Register su propio ajuste del año fiscal 2027.",
+   "source_url": "https://www.federalregister.gov/documents/2026/09/29/2026-19841/inflation-adjustment-for-eoir-obbba-fees-for-certain-dhs-forms-fiscal-year-2027",
+   "link_en": "/procedures/asylum-annual-fee/",
+   "link_es": "/es/tramites/cuota-anual-de-asilo/"
+  },
+  {
+   "date": "2026-09-29",
+   "precision": "day",
+   "category": "benefits",
+   "title_en": "SNAP FY2027 amounts take effect October 1, 2026: the maximum benefit for a family of four in the 48 states and DC rises to $1,023",
+   "title_es": "Los montos de SNAP del año fiscal 2027 rigen desde el 1 de octubre de 2026: el beneficio máximo para una familia de cuatro en los 48 estados y DC sube a $1,023",
+   "summary_en": "USDA's FY2027 cost-of-living memo (dated August 21, 2026) sets SNAP amounts for October 1, 2026 through September 30, 2027. In the 48 states and DC the maximum monthly benefit for a household of four rises from $994 to $1,023 (one person $306), the gross income limit (130% of the poverty level) for one person rises to $1,729/month, and the asset limit for households with a member age 60+ or disabled rises to $4,750 (other households stay at $3,000). Alaska, Guam and the U.S. Virgin Islands also rise; Hawaii's maximums go DOWN (family of four $1,655, from $1,689), as the memo states. Our 104 state SNAP pages and both SNAP guides now show the new amounts, each labeled with the dates it applies.",
+   "summary_es": "El memorando de ajuste por costo de vida del año fiscal 2027 del USDA (fechado el 21 de agosto de 2026) fija los montos de SNAP del 1 de octubre de 2026 al 30 de septiembre de 2027. En los 48 estados y DC el beneficio mensual máximo para un hogar de cuatro sube de $994 a $1,023 (una persona $306), el límite de ingreso bruto (130% del nivel de pobreza) para una persona sube a $1,729/mes, y el límite de recursos para hogares con un miembro de 60 años o más o con discapacidad sube a $4,750 (los demás hogares siguen en $3,000). Alaska, Guam y las Islas Vírgenes de EE.UU. también suben; los máximos de Hawái BAJAN (familia de cuatro $1,655, antes $1,689), como dice el memorando. Nuestras 104 páginas estatales de SNAP y las dos guías de SNAP muestran ahora los nuevos montos, cada uno con las fechas en que rige.",
+   "source_url": "https://www.usda.gov/sites/default/files/guidance-documents/fna.snap-cola2027.pdf",
+   "link_en": "/benefits/snap/",
+   "link_es": "/es/beneficios/snap/"
+  },
   {
    "date": "2026-09-25",
    "precision": "day",

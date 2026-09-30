@@ -1,12 +1,12 @@
 {
  "_meta": {
-  "computed_on": "2026-09-16",
+  "computed_on": "2026-09-29",
   "source": "U.S. Department of State Visa Bulletin",
-  "source_url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+  "source_url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html",
   "first_month": "2026-01",
-  "last_month": "2026-09",
+  "last_month": "2026-10",
   "first_label": "January 2026",
-  "last_label": "September 2026",
+  "last_label": "October 2026",
   "months": [
    "2026-01",
    "2026-02",
@@ -16,7 +16,8 @@
    "2026-06",
    "2026-07",
    "2026-08",
-   "2026-09"
+   "2026-09",
+   "2026-10"
   ],
   "month_labels": {
    "2026-01": "January 2026",
@@ -27,50 +28,29 @@
    "2026-06": "June 2026",
    "2026-07": "July 2026",
    "2026-08": "August 2026",
-   "2026-09": "September 2026"
+   "2026-09": "September 2026",
+   "2026-10": "October 2026"
   },
-  "transitions": 8,
+  "transitions": 9,
   "method": "Each monthly bulletin is banked as published, then every category x country cell is differenced against the prior month. 'Days' is the calendar distance the cut-off date moved; a cell listed as C (current) or U (unavailable) has no date to difference and is counted separately, never as zero movement."
  },
  "summary": {
-  "months_banked": 9,
-  "transitions": 8,
+  "months_banked": 10,
+  "transitions": 9,
   "lines_tracked": 150,
   "final_action_lines": 75,
-  "final_action_lines_moved": 50,
-  "final_action_lines_frozen": 3,
-  "final_action_frozen_lines": [
-   {
-    "table": "family_final_action",
-    "cat": "F4",
-    "country": "INDIA",
-    "code": "01NOV06",
-    "months_held": 8
-   },
-   {
-    "table": "family_final_action",
-    "cat": "F4",
-    "country": "MEXICO",
-    "code": "08APR01",
-    "months_held": 8
-   },
-   {
-    "table": "employment_final_action",
-    "cat": "2nd",
-    "country": "CHINA",
-    "code": "01SEP21",
-    "months_held": 8
-   }
-  ],
+  "final_action_lines_moved": 52,
+  "final_action_lines_frozen": 0,
+  "final_action_frozen_lines": [],
   "final_action_lines_current_all_window": 21,
   "biggest_single_month_move": {
-   "table": "family_final_action",
-   "cat": "F3",
-   "country": "ALL",
-   "days": 890,
-   "from": "2026-08",
-   "to": "2026-09",
-   "label": "August 2026 to September 2026"
+   "table": "employment_dates_for_filing",
+   "cat": "5th Unreserved (including C5, T5, I5, R5)",
+   "country": "CHINA",
+   "days": 1461,
+   "from": "2026-09",
+   "to": "2026-10",
+   "label": "September 2026 to October 2026"
   },
   "by_month": [
    {
@@ -152,9 +132,20 @@
     "retrogressed": 0,
     "days_total": 12298,
     "biggest_days": 890
+   },
+   {
+    "from": "2026-09",
+    "to": "2026-10",
+    "label": "September 2026 to October 2026",
+    "advanced": 41,
+    "held": 45,
+    "retrogressed": 7,
+    "days_total": 13995,
+    "biggest_days": 1461
    }
   ],
   "months_ranked_by_days": [
+   "September 2026 to October 2026",
    "August 2026 to September 2026",
    "March 2026 to April 2026",
    "February 2026 to March 2026",
@@ -166,84 +157,35 @@
   ],
   "frozen_lines": [
    {
-    "table": "family_final_action",
-    "cat": "F4",
-    "country": "INDIA",
-    "code": "01NOV06",
-    "months_held": 8
-   },
-   {
-    "table": "family_final_action",
-    "cat": "F4",
-    "country": "MEXICO",
-    "code": "08APR01",
-    "months_held": 8
-   },
-   {
-    "table": "employment_final_action",
-    "cat": "2nd",
-    "country": "CHINA",
-    "code": "01SEP21",
-    "months_held": 8
-   },
-   {
     "table": "family_dates_for_filing",
     "cat": "F1",
     "country": "PHILIPPINES",
     "code": "22APR15",
-    "months_held": 8
-   },
-   {
-    "table": "family_dates_for_filing",
-    "cat": "F2B",
-    "country": "PHILIPPINES",
-    "code": "01OCT13",
-    "months_held": 8
-   },
-   {
-    "table": "family_dates_for_filing",
-    "cat": "F4",
-    "country": "INDIA",
-    "code": "15DEC06",
-    "months_held": 8
+    "months_held": 9
    },
    {
     "table": "family_dates_for_filing",
     "cat": "F4",
     "country": "MEXICO",
     "code": "30APR01",
-    "months_held": 8
-   },
-   {
-    "table": "employment_dates_for_filing",
-    "cat": "2nd",
-    "country": "CHINA",
-    "code": "01JAN22",
-    "months_held": 8
-   },
-   {
-    "table": "employment_dates_for_filing",
-    "cat": "Other Workers",
-    "country": "CHINA",
-    "code": "01OCT19",
-    "months_held": 8
+    "months_held": 9
    },
    {
     "table": "employment_dates_for_filing",
     "cat": "5th Unreserved (including C5, T5, I5, R5)",
     "country": "INDIA",
     "code": "01MAY24",
-    "months_held": 8
+    "months_held": 9
    }
   ],
-  "frozen_line_count": 10,
+  "frozen_line_count": 3,
   "lines_gone_unavailable": [
    {
     "table": "employment_final_action",
     "cat": "2nd",
     "country": "INDIA",
     "first_code": "15JUL13",
-    "last_code": "U"
+    "last_code": "01NOV13"
    },
    {
     "table": "employment_final_action",
@@ -285,54 +227,45 @@
     "cat": "5th Unreserved (including C5, T5, I5, R5, NU, RU)",
     "country": "INDIA",
     "first_code": "01MAY22",
-    "last_code": "U"
+    "last_code": "01DEC23"
    },
    {
     "table": "employment_dates_for_filing",
     "cat": "Certain Religious Workers",
     "country": "ALL",
     "first_code": "15MAR21",
-    "last_code": "01JAN23"
+    "last_code": "01JAN25"
    },
    {
     "table": "employment_dates_for_filing",
     "cat": "Certain Religious Workers",
     "country": "CHINA",
     "first_code": "15MAR21",
-    "last_code": "01JAN23"
+    "last_code": "01JAN25"
    },
    {
     "table": "employment_dates_for_filing",
     "cat": "Certain Religious Workers",
     "country": "INDIA",
     "first_code": "15MAR21",
-    "last_code": "01JAN23"
+    "last_code": "01JAN25"
    },
    {
     "table": "employment_dates_for_filing",
     "cat": "Certain Religious Workers",
     "country": "MEXICO",
     "first_code": "15MAR21",
-    "last_code": "01JAN23"
+    "last_code": "01JAN25"
    },
    {
     "table": "employment_dates_for_filing",
     "cat": "Certain Religious Workers",
     "country": "PHILIPPINES",
     "first_code": "15MAR21",
-    "last_code": "01JAN23"
+    "last_code": "01JAN25"
    }
   ],
-  "lines_net_backward": [
-   {
-    "table": "employment_final_action",
-    "cat": "1st",
-    "country": "INDIA",
-    "first_code": "01FEB23",
-    "last_code": "15OCT22",
-    "net_days": -109
-   }
-  ]
+  "lines_net_backward": []
  },
  "table_labels": {
   "family_final_action": {
@@ -363,7 +296,7 @@
     "last_code": "22JAN20",
     "total_days": 1170,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -375,7 +308,8 @@
      "2026-06": "01SEP17",
      "2026-07": "01FEB18",
      "2026-08": "15DEC18",
-     "2026-09": "22JAN20"
+     "2026-09": "22JAN20",
+     "2026-10": "22JAN20"
     },
     "steps": [
      {
@@ -425,6 +359,12 @@
       "to": "2026-09",
       "days": 403,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -437,7 +377,7 @@
     "last_code": "22JAN20",
     "total_days": 1170,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -449,7 +389,8 @@
      "2026-06": "01SEP17",
      "2026-07": "01FEB18",
      "2026-08": "15DEC18",
-     "2026-09": "22JAN20"
+     "2026-09": "22JAN20",
+     "2026-10": "22JAN20"
     },
     "steps": [
      {
@@ -499,6 +440,12 @@
       "to": "2026-09",
       "days": 403,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -511,7 +458,7 @@
     "last_code": "22JAN20",
     "total_days": 1170,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -523,7 +470,8 @@
      "2026-06": "01SEP17",
      "2026-07": "01FEB18",
      "2026-08": "15DEC18",
-     "2026-09": "22JAN20"
+     "2026-09": "22JAN20",
+     "2026-10": "22JAN20"
     },
     "steps": [
      {
@@ -573,6 +521,12 @@
       "to": "2026-09",
       "days": 403,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -582,9 +536,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01SEP06",
-    "last_code": "01JAN08",
-    "total_days": 487,
-    "months_advanced": 6,
+    "last_code": "08SEP08",
+    "total_days": 738,
+    "months_advanced": 7,
     "months_held": 2,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -597,7 +551,8 @@
      "2026-06": "08NOV07",
      "2026-07": "08NOV07",
      "2026-08": "01DEC07",
-     "2026-09": "01JAN08"
+     "2026-09": "01JAN08",
+     "2026-10": "08SEP08"
     },
     "steps": [
      {
@@ -647,6 +602,12 @@
       "to": "2026-09",
       "days": 31,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 251,
+      "status": "advanced"
      }
     ]
    },
@@ -656,9 +617,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01MAR13",
-    "last_code": "01MAY13",
-    "total_days": 61,
-    "months_advanced": 1,
+    "last_code": "01NOV13",
+    "total_days": 245,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -671,7 +632,8 @@
      "2026-06": "01MAY13",
      "2026-07": "01MAY13",
      "2026-08": "01MAY13",
-     "2026-09": "01MAY13"
+     "2026-09": "01MAY13",
+     "2026-10": "01NOV13"
     },
     "steps": [
      {
@@ -721,6 +683,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 184,
+      "status": "advanced"
      }
     ]
    },
@@ -730,9 +698,9 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "01FEB24",
-    "last_code": "22AUG26",
-    "total_days": 933,
-    "months_advanced": 4,
+    "last_code": "22SEP26",
+    "total_days": 964,
+    "months_advanced": 5,
     "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -745,7 +713,8 @@
      "2026-06": "01JAN25",
      "2026-07": "01JAN25",
      "2026-08": "22JUL26",
-     "2026-09": "22AUG26"
+     "2026-09": "22AUG26",
+     "2026-10": "22SEP26"
     },
     "steps": [
      {
@@ -793,6 +762,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": 31,
+      "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": 31,
       "status": "advanced"
      }
@@ -804,9 +779,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01FEB24",
-    "last_code": "22AUG26",
-    "total_days": 933,
-    "months_advanced": 4,
+    "last_code": "22SEP26",
+    "total_days": 964,
+    "months_advanced": 5,
     "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -819,7 +794,8 @@
      "2026-06": "01JAN25",
      "2026-07": "01JAN25",
      "2026-08": "22JUL26",
-     "2026-09": "22AUG26"
+     "2026-09": "22AUG26",
+     "2026-10": "22SEP26"
     },
     "steps": [
      {
@@ -867,6 +843,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": 31,
+      "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": 31,
       "status": "advanced"
      }
@@ -878,9 +860,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "01FEB24",
-    "last_code": "22AUG26",
-    "total_days": 933,
-    "months_advanced": 4,
+    "last_code": "22SEP26",
+    "total_days": 964,
+    "months_advanced": 5,
     "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -893,7 +875,8 @@
      "2026-06": "01JAN25",
      "2026-07": "01JAN25",
      "2026-08": "22JUL26",
-     "2026-09": "22AUG26"
+     "2026-09": "22AUG26",
+     "2026-10": "22SEP26"
     },
     "steps": [
      {
@@ -943,6 +926,12 @@
       "to": "2026-09",
       "days": 31,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 31,
+      "status": "advanced"
      }
     ]
    },
@@ -952,9 +941,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01FEB23",
-    "last_code": "22AUG25",
-    "total_days": 933,
-    "months_advanced": 4,
+    "last_code": "22MAR26",
+    "total_days": 1145,
+    "months_advanced": 5,
     "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -967,7 +956,8 @@
      "2026-06": "01JAN24",
      "2026-07": "01JAN24",
      "2026-08": "22JUL25",
-     "2026-09": "22AUG25"
+     "2026-09": "22AUG25",
+     "2026-10": "22MAR26"
     },
     "steps": [
      {
@@ -1017,6 +1007,12 @@
       "to": "2026-09",
       "days": 31,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 212,
+      "status": "advanced"
      }
     ]
    },
@@ -1026,9 +1022,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01FEB24",
-    "last_code": "22AUG26",
-    "total_days": 933,
-    "months_advanced": 4,
+    "last_code": "22SEP26",
+    "total_days": 964,
+    "months_advanced": 5,
     "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -1041,7 +1037,8 @@
      "2026-06": "01JAN25",
      "2026-07": "01JAN25",
      "2026-08": "22JUL26",
-     "2026-09": "22AUG26"
+     "2026-09": "22AUG26",
+     "2026-10": "22SEP26"
     },
     "steps": [
      {
@@ -1091,6 +1088,12 @@
       "to": "2026-09",
       "days": 31,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 31,
+      "status": "advanced"
      }
     ]
    },
@@ -1103,7 +1106,7 @@
     "last_code": "22AUG19",
     "total_days": 994,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1115,7 +1118,8 @@
      "2026-06": "22SEP17",
      "2026-07": "22NOV17",
      "2026-08": "01JAN18",
-     "2026-09": "22AUG19"
+     "2026-09": "22AUG19",
+     "2026-10": "22AUG19"
     },
     "steps": [
      {
@@ -1165,6 +1169,12 @@
       "to": "2026-09",
       "days": 598,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1177,7 +1187,7 @@
     "last_code": "22AUG19",
     "total_days": 994,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1189,7 +1199,8 @@
      "2026-06": "22SEP17",
      "2026-07": "22NOV17",
      "2026-08": "01JAN18",
-     "2026-09": "22AUG19"
+     "2026-09": "22AUG19",
+     "2026-10": "22AUG19"
     },
     "steps": [
      {
@@ -1239,6 +1250,12 @@
       "to": "2026-09",
       "days": 598,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1251,7 +1268,7 @@
     "last_code": "22AUG19",
     "total_days": 994,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1263,7 +1280,8 @@
      "2026-06": "22SEP17",
      "2026-07": "22NOV17",
      "2026-08": "01JAN18",
-     "2026-09": "22AUG19"
+     "2026-09": "22AUG19",
+     "2026-10": "22AUG19"
     },
     "steps": [
      {
@@ -1313,6 +1331,12 @@
       "to": "2026-09",
       "days": 598,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1322,9 +1346,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "15NOV08",
-    "last_code": "15FEB09",
-    "total_days": 92,
-    "months_advanced": 1,
+    "last_code": "15MAY10",
+    "total_days": 546,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -1337,7 +1361,8 @@
      "2026-06": "15FEB09",
      "2026-07": "15FEB09",
      "2026-08": "15FEB09",
-     "2026-09": "15FEB09"
+     "2026-09": "15FEB09",
+     "2026-10": "15MAY10"
     },
     "steps": [
      {
@@ -1387,6 +1412,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 454,
+      "status": "advanced"
      }
     ]
    },
@@ -1396,9 +1427,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "22DEC12",
-    "last_code": "01JUN13",
-    "total_days": 161,
-    "months_advanced": 3,
+    "last_code": "01OCT13",
+    "total_days": 283,
+    "months_advanced": 4,
     "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -1411,7 +1442,8 @@
      "2026-06": "08APR13",
      "2026-07": "15MAY13",
      "2026-08": "01JUN13",
-     "2026-09": "01JUN13"
+     "2026-09": "01JUN13",
+     "2026-10": "01OCT13"
     },
     "steps": [
      {
@@ -1461,6 +1493,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 122,
+      "status": "advanced"
      }
     ]
    },
@@ -1473,7 +1511,7 @@
     "last_code": "22OCT14",
     "total_days": 1140,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1485,7 +1523,8 @@
      "2026-06": "15FEB12",
      "2026-07": "15APR12",
      "2026-08": "15MAY12",
-     "2026-09": "22OCT14"
+     "2026-09": "22OCT14",
+     "2026-10": "22OCT14"
     },
     "steps": [
      {
@@ -1535,6 +1574,12 @@
       "to": "2026-09",
       "days": 890,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1547,7 +1592,7 @@
     "last_code": "22OCT14",
     "total_days": 1140,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1559,7 +1604,8 @@
      "2026-06": "15FEB12",
      "2026-07": "15APR12",
      "2026-08": "15MAY12",
-     "2026-09": "22OCT14"
+     "2026-09": "22OCT14",
+     "2026-10": "22OCT14"
     },
     "steps": [
      {
@@ -1609,6 +1655,12 @@
       "to": "2026-09",
       "days": 890,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1621,7 +1673,7 @@
     "last_code": "22OCT14",
     "total_days": 1140,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1633,7 +1685,8 @@
      "2026-06": "15FEB12",
      "2026-07": "15APR12",
      "2026-08": "15MAY12",
-     "2026-09": "22OCT14"
+     "2026-09": "22OCT14",
+     "2026-10": "22OCT14"
     },
     "steps": [
      {
@@ -1683,6 +1736,12 @@
       "to": "2026-09",
       "days": 890,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1695,7 +1754,7 @@
     "last_code": "01JUL01",
     "total_days": 61,
     "months_advanced": 2,
-    "months_held": 6,
+    "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1707,7 +1766,8 @@
      "2026-06": "01MAY01",
      "2026-07": "01JUN01",
      "2026-08": "01JUL01",
-     "2026-09": "01JUL01"
+     "2026-09": "01JUL01",
+     "2026-10": "01JUL01"
     },
     "steps": [
      {
@@ -1757,6 +1817,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1766,9 +1832,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01MAR05",
-    "last_code": "22FEB06",
-    "total_days": 358,
-    "months_advanced": 3,
+    "last_code": "22JUL06",
+    "total_days": 508,
+    "months_advanced": 4,
     "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -1781,7 +1847,8 @@
      "2026-06": "22NOV05",
      "2026-07": "22FEB06",
      "2026-08": "22FEB06",
-     "2026-09": "22FEB06"
+     "2026-09": "22FEB06",
+     "2026-10": "22JUL06"
     },
     "steps": [
      {
@@ -1831,6 +1898,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 150,
+      "status": "advanced"
      }
     ]
    },
@@ -1843,7 +1916,7 @@
     "last_code": "22OCT11",
     "total_days": 1383,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1855,7 +1928,8 @@
      "2026-06": "08NOV08",
      "2026-07": "01JAN09",
      "2026-08": "01SEP09",
-     "2026-09": "22OCT11"
+     "2026-09": "22OCT11",
+     "2026-10": "22OCT11"
     },
     "steps": [
      {
@@ -1905,6 +1979,12 @@
       "to": "2026-09",
       "days": 781,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1917,7 +1997,7 @@
     "last_code": "22OCT11",
     "total_days": 1383,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -1929,7 +2009,8 @@
      "2026-06": "08NOV08",
      "2026-07": "01JAN09",
      "2026-08": "01SEP09",
-     "2026-09": "22OCT11"
+     "2026-09": "22OCT11",
+     "2026-10": "22OCT11"
     },
     "steps": [
      {
@@ -1979,6 +2060,12 @@
       "to": "2026-09",
       "days": 781,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -1988,9 +2075,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "01NOV06",
-    "last_code": "01NOV06",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "15DEC06",
+    "total_days": 44,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -2003,7 +2090,8 @@
      "2026-06": "01NOV06",
      "2026-07": "01NOV06",
      "2026-08": "01NOV06",
-     "2026-09": "01NOV06"
+     "2026-09": "01NOV06",
+     "2026-10": "15DEC06"
     },
     "steps": [
      {
@@ -2053,6 +2141,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 44,
+      "status": "advanced"
      }
     ]
    },
@@ -2062,9 +2156,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "08APR01",
-    "last_code": "08APR01",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "22APR01",
+    "total_days": 14,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -2077,7 +2171,8 @@
      "2026-06": "08APR01",
      "2026-07": "08APR01",
      "2026-08": "08APR01",
-     "2026-09": "08APR01"
+     "2026-09": "08APR01",
+     "2026-10": "22APR01"
     },
     "steps": [
      {
@@ -2127,6 +2222,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 14,
+      "status": "advanced"
      }
     ]
    },
@@ -2136,9 +2237,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "22JUL06",
-    "last_code": "22AUG07",
-    "total_days": 396,
-    "months_advanced": 5,
+    "last_code": "15MAY08",
+    "total_days": 663,
+    "months_advanced": 6,
     "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -2151,7 +2252,8 @@
      "2026-06": "15JUL07",
      "2026-07": "01AUG07",
      "2026-08": "01AUG07",
-     "2026-09": "22AUG07"
+     "2026-09": "22AUG07",
+     "2026-10": "15MAY08"
     },
     "steps": [
      {
@@ -2201,6 +2303,12 @@
       "to": "2026-09",
       "days": 21,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 267,
+      "status": "advanced"
      }
     ]
    }
@@ -2217,7 +2325,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -2227,7 +2335,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -2277,6 +2386,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "current"
      }
     ]
    },
@@ -2289,7 +2404,7 @@
     "last_code": "01JUL23",
     "total_days": 150,
     "months_advanced": 4,
-    "months_held": 4,
+    "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -2301,7 +2416,8 @@
      "2026-06": "01APR23",
      "2026-07": "01JUN23",
      "2026-08": "01JUL23",
-     "2026-09": "01JUL23"
+     "2026-09": "01JUL23",
+     "2026-10": "01JUL23"
     },
     "steps": [
      {
@@ -2351,6 +2467,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -2360,9 +2482,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "01FEB23",
-    "last_code": "15OCT22",
-    "total_days": -109,
-    "months_advanced": 2,
+    "last_code": "01FEB23",
+    "total_days": 0,
+    "months_advanced": 3,
     "months_held": 4,
     "months_retrogressed": 2,
     "months_current": 0,
@@ -2375,7 +2497,8 @@
      "2026-06": "15DEC22",
      "2026-07": "15OCT22",
      "2026-08": "15OCT22",
-     "2026-09": "15OCT22"
+     "2026-09": "15OCT22",
+     "2026-10": "01FEB23"
     },
     "steps": [
      {
@@ -2425,6 +2548,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 109,
+      "status": "advanced"
      }
     ]
    },
@@ -2439,7 +2568,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -2449,7 +2578,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -2497,6 +2627,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -2513,7 +2649,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -2523,7 +2659,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -2573,6 +2710,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "current"
      }
     ]
    },
@@ -2582,7 +2725,7 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "01APR24",
-    "last_code": "C",
+    "last_code": "01JAN25",
     "total_days": 197,
     "months_advanced": 1,
     "months_held": 1,
@@ -2597,7 +2740,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -2647,6 +2791,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -2656,9 +2806,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01SEP21",
-    "last_code": "01SEP21",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01OCT21",
+    "total_days": 30,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -2671,7 +2821,8 @@
      "2026-06": "01SEP21",
      "2026-07": "01SEP21",
      "2026-08": "01SEP21",
-     "2026-09": "01SEP21"
+     "2026-09": "01SEP21",
+     "2026-10": "01OCT21"
     },
     "steps": [
      {
@@ -2721,6 +2872,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 30,
+      "status": "advanced"
      }
     ]
    },
@@ -2730,7 +2887,7 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "15JUL13",
-    "last_code": "U",
+    "last_code": "01NOV13",
     "total_days": 48,
     "months_advanced": 2,
     "months_held": 2,
@@ -2745,7 +2902,8 @@
      "2026-06": "01SEP13",
      "2026-07": "U",
      "2026-08": "U",
-     "2026-09": "U"
+     "2026-09": "U",
+     "2026-10": "01NOV13"
     },
     "steps": [
      {
@@ -2795,6 +2953,12 @@
       "to": "2026-09",
       "days": null,
       "status": "unavailable"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "unavailable"
      }
     ]
    },
@@ -2804,7 +2968,7 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01APR24",
-    "last_code": "C",
+    "last_code": "01JAN25",
     "total_days": 197,
     "months_advanced": 1,
     "months_held": 1,
@@ -2819,7 +2983,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -2869,6 +3034,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -2878,7 +3049,7 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01APR24",
-    "last_code": "C",
+    "last_code": "01JAN25",
     "total_days": 197,
     "months_advanced": 1,
     "months_held": 1,
@@ -2893,7 +3064,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -2943,6 +3115,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -2952,11 +3130,11 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "22APR23",
-    "last_code": "01SEP24",
-    "total_days": 498,
+    "last_code": "15MAY24",
+    "total_days": 389,
     "months_advanced": 5,
     "months_held": 3,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "22APR23",
@@ -2967,7 +3145,8 @@
      "2026-06": "01JUN24",
      "2026-07": "01AUG24",
      "2026-08": "01SEP24",
-     "2026-09": "01SEP24"
+     "2026-09": "01SEP24",
+     "2026-10": "15MAY24"
     },
     "steps": [
      {
@@ -3017,6 +3196,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -109,
+      "status": "retrogressed"
      }
     ]
    },
@@ -3026,9 +3211,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01MAY21",
-    "last_code": "01JAN22",
-    "total_days": 245,
-    "months_advanced": 4,
+    "last_code": "08JAN22",
+    "total_days": 252,
+    "months_advanced": 5,
     "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -3041,7 +3226,8 @@
      "2026-06": "01AUG21",
      "2026-07": "22DEC21",
      "2026-08": "01JAN22",
-     "2026-09": "01JAN22"
+     "2026-09": "01JAN22",
+     "2026-10": "08JAN22"
     },
     "steps": [
      {
@@ -3091,6 +3277,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 7,
+      "status": "advanced"
      }
     ]
    },
@@ -3103,7 +3295,7 @@
     "last_code": "01JAN14",
     "total_days": 47,
     "months_advanced": 2,
-    "months_held": 6,
+    "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -3115,7 +3307,8 @@
      "2026-06": "15DEC13",
      "2026-07": "01JAN14",
      "2026-08": "01JAN14",
-     "2026-09": "01JAN14"
+     "2026-09": "01JAN14",
+     "2026-10": "01JAN14"
     },
     "steps": [
      {
@@ -3165,6 +3358,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -3174,11 +3373,11 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "22APR23",
-    "last_code": "01SEP24",
-    "total_days": 498,
+    "last_code": "15MAY24",
+    "total_days": 389,
     "months_advanced": 5,
     "months_held": 3,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "22APR23",
@@ -3189,7 +3388,8 @@
      "2026-06": "01JUN24",
      "2026-07": "01AUG24",
      "2026-08": "01SEP24",
-     "2026-09": "01SEP24"
+     "2026-09": "01SEP24",
+     "2026-10": "15MAY24"
     },
     "steps": [
      {
@@ -3239,6 +3439,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -109,
+      "status": "retrogressed"
      }
     ]
    },
@@ -3248,9 +3454,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "22APR23",
-    "last_code": "01AUG23",
-    "total_days": 101,
-    "months_advanced": 2,
+    "last_code": "15AUG23",
+    "total_days": 115,
+    "months_advanced": 3,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -3263,7 +3469,8 @@
      "2026-06": "01AUG23",
      "2026-07": "01AUG23",
      "2026-08": "01AUG23",
-     "2026-09": "01AUG23"
+     "2026-09": "01AUG23",
+     "2026-10": "15AUG23"
     },
     "steps": [
      {
@@ -3313,6 +3520,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 14,
+      "status": "advanced"
      }
     ]
    },
@@ -3322,11 +3535,11 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "01SEP21",
-    "last_code": "01APR22",
-    "total_days": 212,
+    "last_code": "01JAN22",
+    "total_days": 122,
     "months_advanced": 4,
     "months_held": 4,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "01SEP21",
@@ -3337,7 +3550,8 @@
      "2026-06": "01FEB22",
      "2026-07": "01MAR22",
      "2026-08": "01APR22",
-     "2026-09": "01APR22"
+     "2026-09": "01APR22",
+     "2026-10": "01JAN22"
     },
     "steps": [
      {
@@ -3387,6 +3601,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -90,
+      "status": "retrogressed"
      }
     ]
    },
@@ -3396,9 +3616,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "08DEC18",
-    "last_code": "01MAY19",
-    "total_days": 144,
-    "months_advanced": 3,
+    "last_code": "01OCT19",
+    "total_days": 297,
+    "months_advanced": 4,
     "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -3411,7 +3631,8 @@
      "2026-06": "01APR19",
      "2026-07": "01APR19",
      "2026-08": "01MAY19",
-     "2026-09": "01MAY19"
+     "2026-09": "01MAY19",
+     "2026-10": "01OCT19"
     },
     "steps": [
      {
@@ -3461,6 +3682,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 153,
+      "status": "advanced"
      }
     ]
    },
@@ -3473,7 +3700,7 @@
     "last_code": "01JAN14",
     "total_days": 47,
     "months_advanced": 2,
-    "months_held": 6,
+    "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -3485,7 +3712,8 @@
      "2026-06": "15DEC13",
      "2026-07": "01JAN14",
      "2026-08": "01JAN14",
-     "2026-09": "01JAN14"
+     "2026-09": "01JAN14",
+     "2026-10": "01JAN14"
     },
     "steps": [
      {
@@ -3535,6 +3763,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -3544,11 +3778,11 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01SEP21",
-    "last_code": "01APR22",
-    "total_days": 212,
+    "last_code": "01JAN22",
+    "total_days": 122,
     "months_advanced": 4,
     "months_held": 4,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "01SEP21",
@@ -3559,7 +3793,8 @@
      "2026-06": "01FEB22",
      "2026-07": "01MAR22",
      "2026-08": "01APR22",
-     "2026-09": "01APR22"
+     "2026-09": "01APR22",
+     "2026-10": "01JAN22"
     },
     "steps": [
      {
@@ -3609,6 +3844,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -90,
+      "status": "retrogressed"
      }
     ]
    },
@@ -3618,9 +3859,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01SEP21",
-    "last_code": "01DEC21",
-    "total_days": 91,
-    "months_advanced": 2,
+    "last_code": "01JAN22",
+    "total_days": 122,
+    "months_advanced": 3,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -3633,7 +3874,8 @@
      "2026-06": "01NOV21",
      "2026-07": "01DEC21",
      "2026-08": "01DEC21",
-     "2026-09": "01DEC21"
+     "2026-09": "01DEC21",
+     "2026-10": "01JAN22"
     },
     "steps": [
      {
@@ -3683,6 +3925,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 31,
+      "status": "advanced"
      }
     ]
    },
@@ -3695,7 +3943,7 @@
     "last_code": "15DEC22",
     "total_days": 713,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -3707,7 +3955,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -3757,6 +4006,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -3769,7 +4024,7 @@
     "last_code": "15DEC22",
     "total_days": 713,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -3781,7 +4036,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -3831,6 +4087,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -3843,7 +4105,7 @@
     "last_code": "15DEC22",
     "total_days": 713,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -3855,7 +4117,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -3905,6 +4168,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -3917,7 +4186,7 @@
     "last_code": "15DEC22",
     "total_days": 713,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -3929,7 +4198,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -3979,6 +4249,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -3991,7 +4267,7 @@
     "last_code": "15DEC22",
     "total_days": 713,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4003,7 +4279,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -4053,6 +4330,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4065,7 +4348,7 @@
     "last_code": "15DEC22",
     "total_days": 518,
     "months_advanced": 4,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4077,7 +4360,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -4127,6 +4411,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4139,7 +4429,7 @@
     "last_code": "15DEC22",
     "total_days": 518,
     "months_advanced": 4,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4151,7 +4441,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -4201,6 +4492,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4213,7 +4510,7 @@
     "last_code": "15DEC22",
     "total_days": 518,
     "months_advanced": 4,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4225,7 +4522,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -4275,6 +4573,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4287,7 +4591,7 @@
     "last_code": "15DEC22",
     "total_days": 518,
     "months_advanced": 4,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4299,7 +4603,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -4349,6 +4654,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4361,7 +4672,7 @@
     "last_code": "15DEC22",
     "total_days": 518,
     "months_advanced": 4,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4373,7 +4684,8 @@
      "2026-06": "15JUL22",
      "2026-07": "15SEP22",
      "2026-08": "15OCT22",
-     "2026-09": "15DEC22"
+     "2026-09": "15DEC22",
+     "2026-10": "15DEC22"
     },
     "steps": [
      {
@@ -4423,6 +4735,12 @@
       "to": "2026-09",
       "days": 61,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4437,7 +4755,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -4447,7 +4765,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -4497,6 +4816,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "current"
      }
     ]
    },
@@ -4509,7 +4834,7 @@
     "last_code": "01DEC16",
     "total_days": 108,
     "months_advanced": 3,
-    "months_held": 5,
+    "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -4521,7 +4846,8 @@
      "2026-06": "22SEP16",
      "2026-07": "01DEC16",
      "2026-08": "01DEC16",
-     "2026-09": "01DEC16"
+     "2026-09": "01DEC16",
+     "2026-10": "01DEC16"
     },
     "steps": [
      {
@@ -4571,6 +4897,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -4580,7 +4912,7 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "01MAY22",
-    "last_code": "U",
+    "last_code": "01DEC23",
     "total_days": 0,
     "months_advanced": 0,
     "months_held": 5,
@@ -4595,7 +4927,8 @@
      "2026-06": "01MAY22",
      "2026-07": "U",
      "2026-08": "U",
-     "2026-09": "U"
+     "2026-09": "U",
+     "2026-10": "01DEC23"
     },
     "steps": [
      {
@@ -4643,6 +4976,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "unavailable"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "unavailable"
      }
@@ -4659,7 +4998,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -4669,7 +5008,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -4717,6 +5057,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -4733,7 +5079,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -4743,7 +5089,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -4791,6 +5138,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -4807,7 +5160,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -4817,7 +5170,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -4865,6 +5219,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -4881,7 +5241,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -4891,7 +5251,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -4939,6 +5300,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -4955,7 +5322,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -4965,7 +5332,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5013,6 +5381,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5029,7 +5403,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5039,7 +5413,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5087,6 +5462,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5103,7 +5484,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5113,7 +5494,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5161,6 +5543,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5177,7 +5565,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5187,7 +5575,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5235,6 +5624,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5251,7 +5646,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5261,7 +5656,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5309,6 +5705,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5325,7 +5727,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5335,7 +5737,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5383,6 +5786,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5399,7 +5808,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5409,7 +5818,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5457,6 +5867,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5473,7 +5889,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5483,7 +5899,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5531,6 +5948,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5547,7 +5970,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5557,7 +5980,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5605,6 +6029,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5621,7 +6051,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5631,7 +6061,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5679,6 +6110,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5695,7 +6132,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5705,7 +6142,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5753,6 +6191,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5769,7 +6213,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5779,7 +6223,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5827,6 +6272,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5843,7 +6294,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -5853,7 +6304,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -5901,6 +6353,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -5917,7 +6375,7 @@
     "last_code": "01FEB20",
     "total_days": 883,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -5929,7 +6387,8 @@
      "2026-06": "01OCT18",
      "2026-07": "01JAN19",
      "2026-08": "15JUN19",
-     "2026-09": "01FEB20"
+     "2026-09": "01FEB20",
+     "2026-10": "01FEB20"
     },
     "steps": [
      {
@@ -5979,6 +6438,12 @@
       "to": "2026-09",
       "days": 231,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -5991,7 +6456,7 @@
     "last_code": "01FEB20",
     "total_days": 883,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6003,7 +6468,8 @@
      "2026-06": "01OCT18",
      "2026-07": "01JAN19",
      "2026-08": "15JUN19",
-     "2026-09": "01FEB20"
+     "2026-09": "01FEB20",
+     "2026-10": "01FEB20"
     },
     "steps": [
      {
@@ -6053,6 +6519,12 @@
       "to": "2026-09",
       "days": 231,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -6065,7 +6537,7 @@
     "last_code": "01FEB20",
     "total_days": 883,
     "months_advanced": 5,
-    "months_held": 3,
+    "months_held": 4,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6077,7 +6549,8 @@
      "2026-06": "01OCT18",
      "2026-07": "01JAN19",
      "2026-08": "15JUN19",
-     "2026-09": "01FEB20"
+     "2026-09": "01FEB20",
+     "2026-10": "01FEB20"
     },
     "steps": [
      {
@@ -6127,6 +6600,12 @@
       "to": "2026-09",
       "days": 231,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -6139,7 +6618,7 @@
     "last_code": "01DEC08",
     "total_days": 457,
     "months_advanced": 4,
-    "months_held": 4,
+    "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6151,7 +6630,8 @@
      "2026-06": "01OCT08",
      "2026-07": "01OCT08",
      "2026-08": "01DEC08",
-     "2026-09": "01DEC08"
+     "2026-09": "01DEC08",
+     "2026-10": "01DEC08"
     },
     "steps": [
      {
@@ -6201,6 +6681,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -6213,7 +6699,7 @@
     "last_code": "22APR15",
     "total_days": 0,
     "months_advanced": 0,
-    "months_held": 8,
+    "months_held": 9,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6225,7 +6711,8 @@
      "2026-06": "22APR15",
      "2026-07": "22APR15",
      "2026-08": "22APR15",
-     "2026-09": "22APR15"
+     "2026-09": "22APR15",
+     "2026-10": "22APR15"
     },
     "steps": [
      {
@@ -6273,6 +6760,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": 0,
+      "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": 0,
       "status": "held"
      }
@@ -6289,7 +6782,7 @@
     "months_advanced": 2,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 5,
+    "months_current": 6,
     "codes": {
      "2026-01": "22DEC25",
      "2026-02": "22JAN26",
@@ -6299,7 +6792,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -6347,6 +6841,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -6363,7 +6863,7 @@
     "months_advanced": 2,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 5,
+    "months_current": 6,
     "codes": {
      "2026-01": "22DEC25",
      "2026-02": "22JAN26",
@@ -6373,7 +6873,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -6421,6 +6922,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -6437,7 +6944,7 @@
     "months_advanced": 2,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 5,
+    "months_current": 6,
     "codes": {
      "2026-01": "22DEC25",
      "2026-02": "22JAN26",
@@ -6447,7 +6954,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -6495,6 +7003,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -6511,7 +7025,7 @@
     "months_advanced": 2,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 5,
+    "months_current": 6,
     "codes": {
      "2026-01": "22DEC25",
      "2026-02": "22JAN26",
@@ -6521,7 +7035,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -6569,6 +7084,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -6585,7 +7106,7 @@
     "months_advanced": 2,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 5,
+    "months_current": 6,
     "codes": {
      "2026-01": "22DEC25",
      "2026-02": "22JAN26",
@@ -6595,7 +7116,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -6645,6 +7167,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "current"
      }
     ]
    },
@@ -6657,7 +7185,7 @@
     "last_code": "01SEP19",
     "total_days": 900,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6669,7 +7197,8 @@
      "2026-06": "22MAR18",
      "2026-07": "08JUN18",
      "2026-08": "01JAN19",
-     "2026-09": "01SEP19"
+     "2026-09": "01SEP19",
+     "2026-10": "01SEP19"
     },
     "steps": [
      {
@@ -6719,6 +7248,12 @@
       "to": "2026-09",
       "days": 243,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -6731,7 +7266,7 @@
     "last_code": "01SEP19",
     "total_days": 900,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6743,7 +7278,8 @@
      "2026-06": "22MAR18",
      "2026-07": "08JUN18",
      "2026-08": "01JAN19",
-     "2026-09": "01SEP19"
+     "2026-09": "01SEP19",
+     "2026-10": "01SEP19"
     },
     "steps": [
      {
@@ -6793,6 +7329,12 @@
       "to": "2026-09",
       "days": 243,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -6805,7 +7347,7 @@
     "last_code": "01SEP19",
     "total_days": 900,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -6817,7 +7359,8 @@
      "2026-06": "22MAR18",
      "2026-07": "08JUN18",
      "2026-08": "01JAN19",
-     "2026-09": "01SEP19"
+     "2026-09": "01SEP19",
+     "2026-10": "01SEP19"
     },
     "steps": [
      {
@@ -6867,6 +7410,12 @@
       "to": "2026-09",
       "days": 243,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -6876,9 +7425,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "15NOV09",
-    "last_code": "15MAY10",
-    "total_days": 181,
-    "months_advanced": 2,
+    "last_code": "22MAR11",
+    "total_days": 492,
+    "months_advanced": 3,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -6891,7 +7440,8 @@
      "2026-06": "15MAY10",
      "2026-07": "15MAY10",
      "2026-08": "15MAY10",
-     "2026-09": "15MAY10"
+     "2026-09": "15MAY10",
+     "2026-10": "22MAR11"
     },
     "steps": [
      {
@@ -6941,6 +7491,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 311,
+      "status": "advanced"
      }
     ]
    },
@@ -6950,9 +7506,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01OCT13",
-    "last_code": "01OCT13",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01OCT14",
+    "total_days": 365,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -6965,7 +7521,8 @@
      "2026-06": "01OCT13",
      "2026-07": "01OCT13",
      "2026-08": "01OCT13",
-     "2026-09": "01OCT13"
+     "2026-09": "01OCT13",
+     "2026-10": "01OCT14"
     },
     "steps": [
      {
@@ -7015,6 +7572,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 365,
+      "status": "advanced"
      }
     ]
    },
@@ -7027,7 +7590,7 @@
     "last_code": "01NOV14",
     "total_days": 832,
     "months_advanced": 4,
-    "months_held": 4,
+    "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -7039,7 +7602,8 @@
      "2026-06": "08DEC12",
      "2026-07": "08DEC12",
      "2026-08": "01MAR13",
-     "2026-09": "01NOV14"
+     "2026-09": "01NOV14",
+     "2026-10": "01NOV14"
     },
     "steps": [
      {
@@ -7089,6 +7653,12 @@
       "to": "2026-09",
       "days": 610,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -7101,7 +7671,7 @@
     "last_code": "01NOV14",
     "total_days": 832,
     "months_advanced": 4,
-    "months_held": 4,
+    "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -7113,7 +7683,8 @@
      "2026-06": "08DEC12",
      "2026-07": "08DEC12",
      "2026-08": "01MAR13",
-     "2026-09": "01NOV14"
+     "2026-09": "01NOV14",
+     "2026-10": "01NOV14"
     },
     "steps": [
      {
@@ -7163,6 +7734,12 @@
       "to": "2026-09",
       "days": 610,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -7175,7 +7752,7 @@
     "last_code": "01NOV14",
     "total_days": 832,
     "months_advanced": 4,
-    "months_held": 4,
+    "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -7187,7 +7764,8 @@
      "2026-06": "08DEC12",
      "2026-07": "08DEC12",
      "2026-08": "01MAR13",
-     "2026-09": "01NOV14"
+     "2026-09": "01NOV14",
+     "2026-10": "01NOV14"
     },
     "steps": [
      {
@@ -7237,6 +7815,12 @@
       "to": "2026-09",
       "days": 610,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -7246,9 +7830,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01JUL01",
-    "last_code": "15JUL01",
-    "total_days": 14,
-    "months_advanced": 1,
+    "last_code": "01DEC02",
+    "total_days": 518,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -7261,7 +7845,8 @@
      "2026-06": "15JUL01",
      "2026-07": "15JUL01",
      "2026-08": "15JUL01",
-     "2026-09": "15JUL01"
+     "2026-09": "15JUL01",
+     "2026-10": "01DEC02"
     },
     "steps": [
      {
@@ -7311,6 +7896,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 504,
+      "status": "advanced"
      }
     ]
    },
@@ -7320,9 +7911,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01FEB06",
-    "last_code": "08AUG06",
-    "total_days": 188,
-    "months_advanced": 3,
+    "last_code": "22OCT06",
+    "total_days": 263,
+    "months_advanced": 4,
     "months_held": 5,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -7335,7 +7926,8 @@
      "2026-06": "08AUG06",
      "2026-07": "08AUG06",
      "2026-08": "08AUG06",
-     "2026-09": "08AUG06"
+     "2026-09": "08AUG06",
+     "2026-10": "22OCT06"
     },
     "steps": [
      {
@@ -7385,6 +7977,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 75,
+      "status": "advanced"
      }
     ]
    },
@@ -7397,7 +7995,7 @@
     "last_code": "01NOV11",
     "total_days": 975,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -7409,7 +8007,8 @@
      "2026-06": "22DEC09",
      "2026-07": "01MAR10",
      "2026-08": "22JUN10",
-     "2026-09": "01NOV11"
+     "2026-09": "01NOV11",
+     "2026-10": "01NOV11"
     },
     "steps": [
      {
@@ -7459,6 +8058,12 @@
       "to": "2026-09",
       "days": 497,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -7471,7 +8076,7 @@
     "last_code": "01NOV11",
     "total_days": 975,
     "months_advanced": 6,
-    "months_held": 2,
+    "months_held": 3,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -7483,7 +8088,8 @@
      "2026-06": "22DEC09",
      "2026-07": "01MAR10",
      "2026-08": "22JUN10",
-     "2026-09": "01NOV11"
+     "2026-09": "01NOV11",
+     "2026-10": "01NOV11"
     },
     "steps": [
      {
@@ -7533,6 +8139,12 @@
       "to": "2026-09",
       "days": 497,
       "status": "advanced"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -7542,9 +8154,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "15DEC06",
-    "last_code": "15DEC06",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01FEB07",
+    "total_days": 48,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -7557,7 +8169,8 @@
      "2026-06": "15DEC06",
      "2026-07": "15DEC06",
      "2026-08": "15DEC06",
-     "2026-09": "15DEC06"
+     "2026-09": "15DEC06",
+     "2026-10": "01FEB07"
     },
     "steps": [
      {
@@ -7607,6 +8220,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 48,
+      "status": "advanced"
      }
     ]
    },
@@ -7619,7 +8238,7 @@
     "last_code": "30APR01",
     "total_days": 0,
     "months_advanced": 0,
-    "months_held": 8,
+    "months_held": 9,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -7631,7 +8250,8 @@
      "2026-06": "30APR01",
      "2026-07": "30APR01",
      "2026-08": "30APR01",
-     "2026-09": "30APR01"
+     "2026-09": "30APR01",
+     "2026-10": "30APR01"
     },
     "steps": [
      {
@@ -7681,6 +8301,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -7690,9 +8316,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "15JAN08",
-    "last_code": "22MAR08",
-    "total_days": 67,
-    "months_advanced": 1,
+    "last_code": "22MAR09",
+    "total_days": 432,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -7705,7 +8331,8 @@
      "2026-06": "22MAR08",
      "2026-07": "22MAR08",
      "2026-08": "22MAR08",
-     "2026-09": "22MAR08"
+     "2026-09": "22MAR08",
+     "2026-10": "22MAR09"
     },
     "steps": [
      {
@@ -7755,6 +8382,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 365,
+      "status": "advanced"
      }
     ]
    }
@@ -7771,7 +8404,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -7781,7 +8414,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -7829,6 +8463,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -7840,9 +8480,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01AUG23",
-    "last_code": "01DEC23",
-    "total_days": 122,
-    "months_advanced": 1,
+    "last_code": "01JUL24",
+    "total_days": 335,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -7855,7 +8495,8 @@
      "2026-06": "01DEC23",
      "2026-07": "01DEC23",
      "2026-08": "01DEC23",
-     "2026-09": "01DEC23"
+     "2026-09": "01DEC23",
+     "2026-10": "01JUL24"
     },
     "steps": [
      {
@@ -7905,6 +8546,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 213,
+      "status": "advanced"
      }
     ]
    },
@@ -7914,9 +8561,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "01AUG23",
-    "last_code": "01DEC23",
-    "total_days": 122,
-    "months_advanced": 1,
+    "last_code": "01JUL24",
+    "total_days": 335,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -7929,7 +8576,8 @@
      "2026-06": "01DEC23",
      "2026-07": "01DEC23",
      "2026-08": "01DEC23",
-     "2026-09": "01DEC23"
+     "2026-09": "01DEC23",
+     "2026-10": "01JUL24"
     },
     "steps": [
      {
@@ -7979,6 +8627,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 213,
+      "status": "advanced"
      }
     ]
    },
@@ -7993,7 +8647,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -8003,7 +8657,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -8051,6 +8706,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -8067,7 +8728,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -8077,7 +8738,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -8127,6 +8789,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "current"
      }
     ]
    },
@@ -8136,7 +8804,7 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "15OCT24",
-    "last_code": "C",
+    "last_code": "15MAR26",
     "total_days": 0,
     "months_advanced": 0,
     "months_held": 1,
@@ -8151,7 +8819,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "15MAR26"
     },
     "steps": [
      {
@@ -8201,6 +8870,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -8210,9 +8885,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01JAN22",
-    "last_code": "01JAN22",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01JAN23",
+    "total_days": 365,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -8225,7 +8900,8 @@
      "2026-06": "01JAN22",
      "2026-07": "01JAN22",
      "2026-08": "01JAN22",
-     "2026-09": "01JAN22"
+     "2026-09": "01JAN22",
+     "2026-10": "01JAN23"
     },
     "steps": [
      {
@@ -8275,6 +8951,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 365,
+      "status": "advanced"
      }
     ]
    },
@@ -8287,7 +8969,7 @@
     "last_code": "15JAN15",
     "total_days": 410,
     "months_advanced": 2,
-    "months_held": 6,
+    "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -8299,7 +8981,8 @@
      "2026-06": "15JAN15",
      "2026-07": "15JAN15",
      "2026-08": "15JAN15",
-     "2026-09": "15JAN15"
+     "2026-09": "15JAN15",
+     "2026-10": "15JAN15"
     },
     "steps": [
      {
@@ -8349,6 +9032,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -8358,7 +9047,7 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "15OCT24",
-    "last_code": "C",
+    "last_code": "15MAR26",
     "total_days": 0,
     "months_advanced": 0,
     "months_held": 1,
@@ -8373,7 +9062,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "15MAR26"
     },
     "steps": [
      {
@@ -8423,6 +9113,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -8432,7 +9128,7 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "15OCT24",
-    "last_code": "C",
+    "last_code": "15MAR26",
     "total_days": 0,
     "months_advanced": 0,
     "months_held": 1,
@@ -8447,7 +9143,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "15MAR26"
     },
     "steps": [
      {
@@ -8497,6 +9194,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -8506,7 +9209,7 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "01JUL23",
-    "last_code": "C",
+    "last_code": "01AUG24",
     "total_days": 198,
     "months_advanced": 2,
     "months_held": 0,
@@ -8521,7 +9224,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "01AUG24"
     },
     "steps": [
      {
@@ -8571,6 +9275,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -8580,9 +9290,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01JAN22",
-    "last_code": "08JAN22",
-    "total_days": 7,
-    "months_advanced": 1,
+    "last_code": "01APR24",
+    "total_days": 821,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -8595,7 +9305,8 @@
      "2026-06": "01JAN22",
      "2026-07": "01JAN22",
      "2026-08": "08JAN22",
-     "2026-09": "08JAN22"
+     "2026-09": "08JAN22",
+     "2026-10": "01APR24"
     },
     "steps": [
      {
@@ -8645,6 +9356,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 814,
+      "status": "advanced"
      }
     ]
    },
@@ -8657,7 +9374,7 @@
     "last_code": "15JAN15",
     "total_days": 153,
     "months_advanced": 1,
-    "months_held": 7,
+    "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -8669,7 +9386,8 @@
      "2026-06": "15JAN15",
      "2026-07": "15JAN15",
      "2026-08": "15JAN15",
-     "2026-09": "15JAN15"
+     "2026-09": "15JAN15",
+     "2026-10": "15JAN15"
     },
     "steps": [
      {
@@ -8719,6 +9437,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -8728,7 +9452,7 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01JUL23",
-    "last_code": "C",
+    "last_code": "01AUG24",
     "total_days": 198,
     "months_advanced": 2,
     "months_held": 0,
@@ -8743,7 +9467,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "01AUG24"
     },
     "steps": [
      {
@@ -8793,6 +9518,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "retrogressed_from_current"
      }
     ]
    },
@@ -8805,7 +9536,7 @@
     "last_code": "01JAN24",
     "total_days": 184,
     "months_advanced": 2,
-    "months_held": 6,
+    "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -8817,7 +9548,8 @@
      "2026-06": "01JAN24",
      "2026-07": "01JAN24",
      "2026-08": "01JAN24",
-     "2026-09": "01JAN24"
+     "2026-09": "01JAN24",
+     "2026-10": "01JAN24"
     },
     "steps": [
      {
@@ -8867,6 +9599,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -8876,11 +9614,11 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "01DEC21",
-    "last_code": "01AUG22",
-    "total_days": 243,
+    "last_code": "01JUN22",
+    "total_days": 182,
     "months_advanced": 2,
     "months_held": 6,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "01DEC21",
@@ -8891,7 +9629,8 @@
      "2026-06": "01AUG22",
      "2026-07": "01AUG22",
      "2026-08": "01AUG22",
-     "2026-09": "01AUG22"
+     "2026-09": "01AUG22",
+     "2026-10": "01JUN22"
     },
     "steps": [
      {
@@ -8941,6 +9680,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -61,
+      "status": "retrogressed"
      }
     ]
    },
@@ -8950,9 +9695,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "01OCT19",
-    "last_code": "01OCT19",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01OCT20",
+    "total_days": 366,
+    "months_advanced": 1,
     "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -8965,7 +9710,8 @@
      "2026-06": "01OCT19",
      "2026-07": "01OCT19",
      "2026-08": "01OCT19",
-     "2026-09": "01OCT19"
+     "2026-09": "01OCT19",
+     "2026-10": "01OCT20"
     },
     "steps": [
      {
@@ -9015,6 +9761,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 366,
+      "status": "advanced"
      }
     ]
    },
@@ -9027,7 +9779,7 @@
     "last_code": "15JAN15",
     "total_days": 153,
     "months_advanced": 1,
-    "months_held": 7,
+    "months_held": 8,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -9039,7 +9791,8 @@
      "2026-06": "15JAN15",
      "2026-07": "15JAN15",
      "2026-08": "15JAN15",
-     "2026-09": "15JAN15"
+     "2026-09": "15JAN15",
+     "2026-10": "15JAN15"
     },
     "steps": [
      {
@@ -9089,6 +9842,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 0,
+      "status": "held"
      }
     ]
    },
@@ -9098,11 +9857,11 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "01DEC21",
-    "last_code": "01AUG22",
-    "total_days": 243,
+    "last_code": "01JUN22",
+    "total_days": 182,
     "months_advanced": 2,
     "months_held": 6,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "01DEC21",
@@ -9113,7 +9872,8 @@
      "2026-06": "01AUG22",
      "2026-07": "01AUG22",
      "2026-08": "01AUG22",
-     "2026-09": "01AUG22"
+     "2026-09": "01AUG22",
+     "2026-10": "01JUN22"
     },
     "steps": [
      {
@@ -9163,6 +9923,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -61,
+      "status": "retrogressed"
      }
     ]
    },
@@ -9172,11 +9938,11 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "01DEC21",
-    "last_code": "01AUG22",
-    "total_days": 243,
+    "last_code": "01JUN22",
+    "total_days": 182,
     "months_advanced": 2,
     "months_held": 6,
-    "months_retrogressed": 0,
+    "months_retrogressed": 1,
     "months_current": 0,
     "codes": {
      "2026-01": "01DEC21",
@@ -9187,7 +9953,8 @@
      "2026-06": "01AUG22",
      "2026-07": "01AUG22",
      "2026-08": "01AUG22",
-     "2026-09": "01AUG22"
+     "2026-09": "01AUG22",
+     "2026-10": "01JUN22"
     },
     "steps": [
      {
@@ -9237,6 +10004,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": -61,
+      "status": "retrogressed"
      }
     ]
    },
@@ -9246,9 +10019,9 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 657,
-    "months_advanced": 1,
+    "last_code": "01JAN25",
+    "total_days": 1388,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9261,7 +10034,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9311,6 +10085,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9320,9 +10100,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 657,
-    "months_advanced": 1,
+    "last_code": "01JAN25",
+    "total_days": 1388,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9335,7 +10115,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9385,6 +10166,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9394,9 +10181,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 657,
-    "months_advanced": 1,
+    "last_code": "01JAN25",
+    "total_days": 1388,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9409,7 +10196,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9459,6 +10247,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9468,9 +10262,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 657,
-    "months_advanced": 1,
+    "last_code": "01JAN25",
+    "total_days": 1388,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9483,7 +10277,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9533,6 +10328,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9542,9 +10343,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 657,
-    "months_advanced": 1,
+    "last_code": "01JAN25",
+    "total_days": 1388,
+    "months_advanced": 2,
     "months_held": 7,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9557,7 +10358,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9607,6 +10409,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9616,9 +10424,9 @@
     "country_en": "All other countries",
     "country_es": "Todos los demás países",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01JAN25",
+    "total_days": 731,
+    "months_advanced": 1,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9631,7 +10439,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9681,6 +10490,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9690,9 +10505,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01JAN25",
+    "total_days": 731,
+    "months_advanced": 1,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9705,7 +10520,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9755,6 +10571,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9764,9 +10586,9 @@
     "country_en": "India",
     "country_es": "India",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01JAN25",
+    "total_days": 731,
+    "months_advanced": 1,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9779,7 +10601,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9829,6 +10652,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9838,9 +10667,9 @@
     "country_en": "Mexico",
     "country_es": "México",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01JAN25",
+    "total_days": 731,
+    "months_advanced": 1,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9853,7 +10682,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9903,6 +10733,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9912,9 +10748,9 @@
     "country_en": "Philippines",
     "country_es": "Filipinas",
     "first_code": "15MAR21",
-    "last_code": "01JAN23",
-    "total_days": 0,
-    "months_advanced": 0,
+    "last_code": "01JAN25",
+    "total_days": 731,
+    "months_advanced": 1,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -9927,7 +10763,8 @@
      "2026-06": "01JAN23",
      "2026-07": "01JAN23",
      "2026-08": "01JAN23",
-     "2026-09": "01JAN23"
+     "2026-09": "01JAN23",
+     "2026-10": "01JAN25"
     },
     "steps": [
      {
@@ -9977,6 +10814,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 731,
+      "status": "advanced"
      }
     ]
    },
@@ -9991,7 +10834,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10001,7 +10844,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10051,6 +10895,12 @@
       "to": "2026-09",
       "days": null,
       "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": null,
+      "status": "current"
      }
     ]
    },
@@ -10060,9 +10910,9 @@
     "country_en": "China (mainland-born)",
     "country_es": "China (continental)",
     "first_code": "22AUG16",
-    "last_code": "01MAR17",
-    "total_days": 191,
-    "months_advanced": 2,
+    "last_code": "01MAR21",
+    "total_days": 1652,
+    "months_advanced": 3,
     "months_held": 6,
     "months_retrogressed": 0,
     "months_current": 0,
@@ -10075,7 +10925,8 @@
      "2026-06": "01MAR17",
      "2026-07": "01MAR17",
      "2026-08": "01MAR17",
-     "2026-09": "01MAR17"
+     "2026-09": "01MAR17",
+     "2026-10": "01MAR21"
     },
     "steps": [
      {
@@ -10125,6 +10976,12 @@
       "to": "2026-09",
       "days": 0,
       "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
+      "days": 1461,
+      "status": "advanced"
      }
     ]
    },
@@ -10137,7 +10994,7 @@
     "last_code": "01MAY24",
     "total_days": 0,
     "months_advanced": 0,
-    "months_held": 8,
+    "months_held": 9,
     "months_retrogressed": 0,
     "months_current": 0,
     "codes": {
@@ -10149,7 +11006,8 @@
      "2026-06": "01MAY24",
      "2026-07": "01MAY24",
      "2026-08": "01MAY24",
-     "2026-09": "01MAY24"
+     "2026-09": "01MAY24",
+     "2026-10": "01MAY24"
     },
     "steps": [
      {
@@ -10197,6 +11055,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": 0,
+      "status": "held"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": 0,
       "status": "held"
      }
@@ -10213,7 +11077,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10223,7 +11087,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10271,6 +11136,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10287,7 +11158,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10297,7 +11168,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10345,6 +11217,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10361,7 +11239,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10371,7 +11249,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10419,6 +11298,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10435,7 +11320,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10445,7 +11330,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10493,6 +11379,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10509,7 +11401,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10519,7 +11411,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10567,6 +11460,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10583,7 +11482,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10593,7 +11492,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10641,6 +11541,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10657,7 +11563,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10667,7 +11573,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10715,6 +11622,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10731,7 +11644,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10741,7 +11654,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10789,6 +11703,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10805,7 +11725,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10815,7 +11735,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10863,6 +11784,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10879,7 +11806,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10889,7 +11816,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -10937,6 +11865,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -10953,7 +11887,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -10963,7 +11897,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11011,6 +11946,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -11027,7 +11968,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -11037,7 +11978,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11085,6 +12027,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -11101,7 +12049,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -11111,7 +12059,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11159,6 +12108,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -11175,7 +12130,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -11185,7 +12140,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11233,6 +12189,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -11249,7 +12211,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -11259,7 +12221,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11307,6 +12270,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -11323,7 +12292,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -11333,7 +12302,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11381,6 +12351,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }
@@ -11397,7 +12373,7 @@
     "months_advanced": 0,
     "months_held": 0,
     "months_retrogressed": 0,
-    "months_current": 8,
+    "months_current": 9,
     "codes": {
      "2026-01": "C",
      "2026-02": "C",
@@ -11407,7 +12383,8 @@
      "2026-06": "C",
      "2026-07": "C",
      "2026-08": "C",
-     "2026-09": "C"
+     "2026-09": "C",
+     "2026-10": "C"
     },
     "steps": [
      {
@@ -11455,6 +12432,12 @@
      {
       "from": "2026-08",
       "to": "2026-09",
+      "days": null,
+      "status": "current"
+     },
+     {
+      "from": "2026-09",
+      "to": "2026-10",
       "days": null,
       "status": "current"
      }

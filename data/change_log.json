@@ -57,6 +57,42 @@
  ],
  "changes": [
   {
+   "date": "2026-09-30",
+   "precision": "day",
+   "category": "fees",
+   "title_en": "H.R. 1 immigration fees rise for fiscal year 2027 — Annual Asylum Fee $105, initial work permit $570, TPS registration $520, parole $1,050, in-absentia and apprehension fees $5,300 — 15 days after the October 1 publication",
+   "title_es": "Las tarifas migratorias de la ley H.R. 1 suben para el año fiscal 2027: Tarifa Anual de Asilo $105, permiso de trabajo inicial $570, registro de TPS $520, parole $1,050, tarifas por ausencia y arresto $5,300 — 15 días después de la publicación del 1 de octubre",
+   "summary_en": "On September 30, 2026 DHS filed three Federal Register notices (CBP 2026-20185, ICE 2026-20186, DHS/USCIS 2026-20187) setting the fiscal year 2027 inflation adjustment for the fees created by H.R. 1 (CPI-U July 2025 to July 2026: +3.36%, rounded down to the next $10, the Annual Asylum Fee to the dollar). Scheduled publication is October 1, 2026; the new amounts apply 15 days after publication (October 16, 2026 if on schedule) to requests postmarked on or after that date. Changes: Annual Asylum Fee $102 to $105; initial I-765 work permit for asylum, parole and TPS $560 to $570; TPS registration (I-821) $510 to $520; parole fee $1,020 to $1,050; the in-absentia removal fee and the between-ports apprehension fee $5,130 to $5,300. Unchanged: I-589 filing fee $100, I-765 renewals $280 (asylum-category renewal $275), SIJ petition $250, I-94 $24. Every page on this site that quotes one of these fees now carries a dated notice; the page amounts flip on the effective date.",
+   "summary_es": "El 30 de septiembre de 2026 el DHS presentó tres avisos en el Federal Register (CBP 2026-20185, ICE 2026-20186, DHS/USCIS 2026-20187) con el ajuste por inflación del año fiscal 2027 de las tarifas creadas por la ley H.R. 1 (IPC de julio 2025 a julio 2026: +3.36 %, redondeado hacia abajo a los $10, y al dólar en la Tarifa Anual de Asilo). La publicación está programada para el 1 de octubre de 2026; los montos nuevos aplican 15 días después de la publicación (16 de octubre de 2026 si se publica según lo previsto) a las solicitudes con matasellos de esa fecha en adelante. Cambios: Tarifa Anual de Asilo de $102 a $105; permiso de trabajo inicial I-765 por asilo, parole y TPS de $560 a $570; registro de TPS (I-821) de $510 a $520; tarifa de parole de $1,020 a $1,050; tarifa por orden de deportación en ausencia y tarifa por arresto entre puertos de entrada de $5,130 a $5,300. Sin cambio: tarifa del I-589 $100, renovaciones del I-765 $280 (renovación por asilo $275), petición SIJ $250, I-94 $24. Cada página de este sitio que cita una de estas tarifas ahora lleva un aviso fechado; los montos de las páginas cambian en la fecha de vigencia.",
+   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/",
+   "source_url": "https://public-inspection.federalregister.gov/2026-20187.pdf"
+  },
+  {
+   "date": "2026-09-30",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "ICE's online detainee locator no longer shows people with a final order of removal (since Sep 15, 2026)",
+   "title_es": "El localizador en línea de ICE ya no muestra a personas con orden final de deportación (desde el 15 de sep. de 2026)",
+   "summary_en": "According to the Associated Press and the American Immigration Council, since September 15, 2026 ICE's Online Detainee Locator omits people held with a final order of removal (more than 16,000 of nearly 69,000 detainees, per AP), and ICE staff have reportedly been told not to share their location with family or lawyers. ICE has not announced or confirmed the change. Every page on this site that points to the locator now carries a dated notice: an empty locator result does not mean a person was released.",
+   "summary_es": "Según la Associated Press y el American Immigration Council, desde el 15 de septiembre de 2026 el localizador en línea de ICE omite a las personas detenidas con una orden final de deportación (más de 16,000 de casi 69,000 detenidos, según AP), y al personal de ICE se le habría indicado no compartir su ubicación con familiares ni abogados. ICE no ha anunciado ni confirmado el cambio. Todas las páginas de este sitio que remiten al localizador llevan ahora un aviso fechado: que el localizador no muestre a alguien no significa que haya sido liberado.",
+   "link_en": "/ice-detention/",
+   "link_es": "/es/detencion-ice/",
+   "source_url": "https://www.americanimmigrationcouncil.org/blog/ice-electronically-disappears-detainee-locator/"
+  },
+  {
+   "date": "2026-09-30",
+   "precision": "day",
+   "category": "fees",
+   "title_en": "EB-5 investor fees rise on November 30, 2026: Form I-526E to $7,850, Integrity Fund fee to $1,100, Form I-829 to $5,000",
+   "title_es": "Las tarifas EB-5 suben el 30 de noviembre de 2026: Formulario I-526E a $7,850, Fondo de Integridad a $1,100, Formulario I-829 a $5,000",
+   "summary_en": "USCIS's EB-5 fee final rule (Federal Register 2026-20016, published September 30, 2026) takes effect November 30, 2026. Filings postmarked on or after that date pay $7,850 for an initial Form I-526E and $7,615 for a standalone Form I-526 (both include a $75 technology fee), a $1,100 EB-5 Integrity Fund petition fee (was $1,000), and $5,000 for Form I-829 (was $3,750). Filings postmarked through November 29, 2026 keep the current fees.",
+   "summary_es": "La regla final de tarifas EB-5 de USCIS (Federal Register 2026-20016, publicada el 30 de septiembre de 2026) entra en vigor el 30 de noviembre de 2026. Las solicitudes con matasellos de esa fecha o posterior pagan $7,850 por un Formulario I-526E inicial y $7,615 por un Formulario I-526 independiente (ambos incluyen una tarifa de tecnología de $75), una tarifa de petición del Fondo de Integridad EB-5 de $1,100 (antes $1,000) y $5,000 por el Formulario I-829 (antes $3,750). Las solicitudes con matasellos hasta el 29 de noviembre de 2026 mantienen las tarifas actuales.",
+   "link_en": "/procedures/path-to-legal-status/eb-5-investor-visa/",
+   "link_es": "/es/tramites/camino-a-estatus-legal/eb-5-visa-de-inversionista/",
+   "source_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee"
+  },
+  {
    "date": "2026-09-29",
    "precision": "day",
    "category": "correction",

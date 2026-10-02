@@ -9,9 +9,33 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 202 recorded changes. Source data as of 2026-09-29.
+Showing the 40 most recent of 205 recorded changes. Source data as of 2026-09-29.
 
 ---
+
+### 2026-09-30 · FEES
+
+**H.R. 1 immigration fees rise for fiscal year 2027 — Annual Asylum Fee $105, initial work permit $570, TPS registration $520, parole $1,050, in-absentia and apprehension fees $5,300 — 15 days after the October 1 publication**
+
+On September 30, 2026 DHS filed three Federal Register notices (CBP 2026-20185, ICE 2026-20186, DHS/USCIS 2026-20187) setting the fiscal year 2027 inflation adjustment for the fees created by H.R. 1 (CPI-U July 2025 to July 2026: +3.36%, rounded down to the next $10, the Annual Asylum Fee to the dollar). Scheduled publication is October 1, 2026; the new amounts apply 15 days after publication (October 16, 2026 if on schedule) to requests postmarked on or after that date. Changes: Annual Asylum Fee $102 to $105; initial I-765 work permit for asylum, parole and TPS $560 to $570; TPS registration (I-821) $510 to $520; parole fee $1,020 to $1,050; the in-absentia removal fee and the between-ports apprehension fee $5,130 to $5,300. Unchanged: I-589 filing fee $100, I-765 renewals $280 (asylum-category renewal $275), SIJ petition $250, I-94 $24. Every page on this site that quotes one of these fees now carries a dated notice; the page amounts flip on the effective date.
+
+Primary source: <https://public-inspection.federalregister.gov/2026-20187.pdf>
+
+### 2026-09-30 · ENFORCEMENT
+
+**ICE's online detainee locator no longer shows people with a final order of removal (since Sep 15, 2026)**
+
+According to the Associated Press and the American Immigration Council, since September 15, 2026 ICE's Online Detainee Locator omits people held with a final order of removal (more than 16,000 of nearly 69,000 detainees, per AP), and ICE staff have reportedly been told not to share their location with family or lawyers. ICE has not announced or confirmed the change. Every page on this site that points to the locator now carries a dated notice: an empty locator result does not mean a person was released.
+
+Primary source: <https://www.americanimmigrationcouncil.org/blog/ice-electronically-disappears-detainee-locator/>
+
+### 2026-09-30 · FEES
+
+**EB-5 investor fees rise on November 30, 2026: Form I-526E to $7,850, Integrity Fund fee to $1,100, Form I-829 to $5,000**
+
+USCIS's EB-5 fee final rule (Federal Register 2026-20016, published September 30, 2026) takes effect November 30, 2026. Filings postmarked on or after that date pay $7,850 for an initial Form I-526E and $7,615 for a standalone Form I-526 (both include a $75 technology fee), a $1,100 EB-5 Integrity Fund petition fee (was $1,000), and $5,000 for Form I-829 (was $3,750). Filings postmarked through November 29, 2026 keep the current fees.
+
+Primary source: <https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee>
 
 ### 2026-09-29 · CORRECTION
 
@@ -308,30 +332,6 @@ Primary source: <https://www.uscis.gov/i-539>
 Fourteen verified defects across the procedures, datasets and tools trees, fixed in English and Spanish together. The most consequential: the Affidavit of Support pages published the 2024 Form I-864P income table — a sponsor for a household of four was told $38,750 when USCIS's chart, "effective beginning Mar. 1, 2026," requires $41,250 at 125% of the poverty guidelines; the table now renders live from our own HHS dataset with both the 125% and the active-duty 100% columns. The same pages said the sponsor's promise "lasts 10 years": 8 U.S.C. 1183a(a)(2)-(3) sets no term at all — the affidavit is enforceable until naturalization or 40 qualifying quarters, and the page's own list of ending events already said so. On the U visa, the site listed derivative siblings as "unmarried siblings under 21"; the statute says unmarried siblings under 18 on the date the principal applied, and only when the principal is under 21 — a principal 21 or older can include only a spouse and children. On the Diversity Visa pages, NACARA was described as adding 5,000 visas to a 60,000 cap: 8 U.S.C. 1151(e) sets the level at 55,000 and Pub. L. 105-100 subtracts up to 5,000 from it, so about 50,000 are available and no 60,000 cap exists. Those pages also called any pre-selection charge a scam. State's own fee table now lists a "Diversity Visa Registration Fee (paid at time of registration only by the principal applicant) $1.00" while State's DV entry page still says "There is no cost to register for the DV Program" — both are quoted and neither is declared the winner. The DV pages also promised a DV-2027 registration window in October-November 2025; State has published no DV-2027 instructions at all, and its instructions page still reads "The processing requirements below are for the DV-2026 program." On tax pages: an ITIN filer was told the American Opportunity and Lifetime Learning credits were available, but P.L. 119-21 § 70606 rewrote 26 U.S.C. 25A(g)(1) to require the taxpayer's own Social Security number "to taxable years beginning after December 31, 2025," so both close from tax year 2026 (a 2025 return is unaffected); the non-resident page said a 30% rate applies to US-source income generally, when the IRS says effectively connected income — wages included — is taxed "at graduated rates … the same rates that apply to U.S. citizens and residents" and the flat 30% reaches only unconnected FDAP income; the treaty page dated Hungary's termination for non-withholding taxes to January 1, 2025 when Treasury's own notice says January 1, 2024, and counted 68 treaties in force when the IRS flags Hungary "Treaty Terminated" (Belarus and Russia are flagged "Partially Suspended"). Also fixed: the naturalization pages said an absence of more than a year "automatically" breaks continuous residence without noting that 6-to-12-month absences are presumed to break it too (8 CFR 316.5(c)(1)), and described the 65/20 civics exception as a 20-question test needing 6 correct when the officer asks 10 from a designated bank of 20; the border-wait dataset claimed 82 land ports when the file holds 85 crossings at 53 ports; the TPS work-permit dataset headline said "seven terminations" when its own data shows 11 of 15 designations terminated; the asylum annual-fee pages still said the rule was "open for public comment" 73 days after comments closed on June 29, 2026; and Self was listed as an ITIN-friendly bank on six pages when it sells a Credit Builder Loan and a secured credit card, not a deposit account with a debit card.
 
 Primary source: <https://www.uscis.gov/i-864p>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: every state DMV page carried invented teen-driver ages, and told readers a driving-privilege card counts as an I-9 identity document**
-
-A single template row was repeated across 52 English and 52 Spanish state DMV pages: "Learner's permit — typically 15-15.5 years old", "Provisional/junior license — typically 16-17 years old", and "Auto-converts to full license at 18." None of those figures came from any state. Delaware, the page that exposed it, sets the Level One Learner's Permit at "at least 16 years old and less than 18 years old" and its full-licence minimum at 17 — the page's own key-facts table already said 17, so the row contradicted the page it sat on. Every row now renders the value our own dataset holds for that state (website/data/dmv/state_general.json), and the generator reads the dataset instead of a guess. A second bullet on 53 English and 53 Spanish pages told readers a "standard or undocumented license" counts as an I-9 List B identity document; Delaware's DMV says its Driving Privilege Card "will NOT be considered a valid form of identification" and the card is printed "Not Valid for Identification" on its face, so the bullet was split and the caveat added. Delaware's own card row also said the card requires "DE residency for 6+ months + payment of DE income tax for 2+ years" — the DMV requires a Certification of Filing Compliance showing Delaware taxes were FILED for the previous two years, and publishes no months-of-residency test.
-
-Primary source: <https://services.dmv.de.gov/DriverServices/drivers_license/DPC/index.shtml>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: state DMV pages hinted a matrícula consular "may" be accepted — in the states whose own rules require US-agency proof of lawful presence**
-
-"Depends on the state. [State] may accept matrícula consular under certain circumstances" appeared on the English and Spanish page of every jurisdiction that does NOT issue a licence or ID without regard to immigration status — precisely the states where a consular ID cannot carry an applicant. Texas puts the requirement in statute: an applicant who is not a US citizen "must present to the department documentation issued by the appropriate United States agency that authorizes the applicant to be in the United States" (Tex. Transp. Code § 521.142(a)). Kentucky tells non-US citizens they "must provide proof of identity and lawful status"; North Dakota requires "proof of identity, date of birth, and legal presence in the United States" from every applicant; Tennessee requires "Citizenship or Legal Presence"; Michigan accepts only "a Canadian driver's license or a valid foreign passport" among foreign identity documents. Each page now says a matrícula consular, issued by a foreign consulate rather than a US agency, cannot meet that requirement, and points at the agency's own current document list. Puerto Rico was written separately: it issues a provisional licence under Ley 97-2013, so its page distinguishes the two credentials instead of asserting a flat no.
-
-Primary source: <https://statutes.capitol.texas.gov/Docs/TN/htm/TN.521.htm>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: the SNAP gross-income limit had no elderly or disability exception, and benefit pages promised a child's benefits "never count against you"**
-
-Fifty English and fifty Spanish SNAP state pages answered "how much do I get" with a flat "Max gross income: 130% FPL." Under 7 CFR 273.9(a) a household containing a member age 60 or older or with a disability "shall meet the net income eligibility standards" only — it is exempt from the gross-income test entirely — and categorically eligible households meet neither test. A household that would have read itself out of SNAP now sees the exception. Separately, across the Medicaid and SNAP state pages, the hubs and the public-charge guide, the site told readers that benefits used by their US-citizen children "never count against you." USCIS policy alert PA-2026-09, effective 18 September 2026, does say USCIS "does not attribute to the alien the receipt of means-tested public benefits if the benefit is received by the applicant's relatives, including children" — but it adds that where a relative the applicant is legally obliged to support qualifies "based on the alien's income or assets falling below a certain level, then officers should consider the alien's income or assets falling below the threshold as part of the assets, resources, and financial status factor." That caveat is now on every page that made the promise. The Spanish SNAP hub also still answered the public-charge question with a bare "No" eight days before the 2022 rule's rescission takes effect (91 FR 45324); it now carries the date.
-
-Primary source: <https://www.ecfr.gov/current/title-7/section-273.9>
 
 ---
 

@@ -1,7 +1,7 @@
 {
  "_meta": {
   "source": "Curated from official sources verified during MigrantUSA fact-verification sessions",
-  "verified_on": "2026-09-29",
+  "verified_on": "2026-10-05",
   "categories": [
    "tps",
    "visas",
@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-09-29"
+  "last_updated": "2026-10-05"
  },
  "upcoming": [
   {
@@ -56,6 +56,30 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-10-05",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "ICE's May 2025 memo claiming a Form I-205 alone allows home entry for people with final removal orders: paused by DHS (confirmed May 8, 2026) and challenged in court (no ruling as of Oct 5, 2026)",
+   "title_es": "El memorando de ICE de mayo de 2025 que afirma que un Formulario I-205 basta para entrar a la vivienda de personas con orden final de deportación: en pausa por el DHS (confirmado el 8 de mayo de 2026) e impugnado en la corte (sin fallo al 5 de oct. de 2026)",
+   "summary_en": "A May 12, 2025 memo signed by Acting ICE Director Todd M. Lyons ('Utilizing Form I-205, Warrant of Removal'), made public in January 2026 through a whistleblower disclosure reported by the Associated Press, says ICE may rely on a Form I-205 alone, without a judicial warrant or consent, to enter the home of a person with a final order of removal, after knocking and announcing and using 'a necessary and reasonable amount of force' if refused. On May 8, 2026 DHS Secretary Markwayne Mullin wrote that ICE 'has not rescinded the memorandum' but that he had 'paused the practice' while he assesses the policy; in a June 23, 2026 filing the government told the court the pause 'remains in effect.' The memo is challenged in Gibson Brown v. Mullin, No. 1:26-cv-01131 (D.D.C.), filed April 2, 2026; the government's motion to dismiss is pending and the court had not ruled as of October 5, 2026. Our know-your-rights and myth pages that said an administrative warrant never allows home entry now carry a dated update; the myth verdict changed from FALSE to MOSTLY FALSE with one disputed exception.",
+   "summary_es": "Un memorando del 12 de mayo de 2025 firmado por el director interino de ICE Todd M. Lyons ('Utilizing Form I-205, Warrant of Removal'), que se hizo público en enero de 2026 por una denuncia de informantes reportada por la Associated Press, dice que ICE puede basarse solo en un Formulario I-205, sin orden judicial ni consentimiento, para entrar a la vivienda de una persona con una orden final de deportación, después de tocar e identificarse y usando una cantidad de fuerza 'necesaria y razonable' si no les abren. El 8 de mayo de 2026 el secretario del DHS Markwayne Mullin escribió que ICE no ha rescindido el memorando, pero que él pausó la práctica mientras evalúa la política; en un escrito del 23 de junio de 2026 el gobierno dijo a la corte que la pausa sigue vigente. El memorando está impugnado en Gibson Brown v. Mullin, No. 1:26-cv-01131 (D.D.C.), presentada el 2 de abril de 2026; la moción del gobierno para desestimar el caso sigue pendiente y la corte no había emitido un fallo al 5 de octubre de 2026. Nuestras páginas de derechos y de mitos que decían que una orden administrativa nunca permite entrar a un hogar llevan ahora una actualización fechada; el veredicto del mito cambió de FALSO a MAYORMENTE FALSO con una excepción en disputa.",
+   "source_url": "https://www.courtlistener.com/docket/73134602/gibson-brown-v-mullin/",
+   "link_en": "/know-your-rights/judicial-vs-administrative-warrants/",
+   "link_es": "/es/conoce-tus-derechos/orden-judicial-vs-administrativa/"
+  },
+  {
+   "date": "2026-10-02",
+   "precision": "day",
+   "category": "tps",
+   "title_en": "Venezuela 2023-designation TPS work permits reached their October 2, 2026 end date",
+   "title_es": "Los permisos de trabajo del TPS de Venezuela (designación de 2023) llegaron a su fecha final del 2 de octubre de 2026",
+   "summary_en": "EADs issued on or before February 5, 2025 with a 'Card Expires' date of October 2, 2026 were valid until that date. As of October 5, 2026 USCIS had announced no further extension. USCIS still lists a separate court-ordered automatic extension of up to 540 days for certain pending renewals received before February 6, 2025.",
+   "summary_es": "Los EAD emitidos el 5 de febrero de 2025 o antes con fecha 'Card Expires' del 2 de octubre de 2026 fueron válidos hasta esa fecha. Al 5 de octubre de 2026 USCIS no había anunciado otra extensión. USCIS todavía menciona una extensión automática aparte, por orden judicial, de hasta 540 días para ciertas renovaciones pendientes recibidas antes del 6 de febrero de 2025.",
+   "link_en": "/procedures/tps-by-country/venezuela/",
+   "link_es": "/es/tramites/tps-por-pais/venezuela/",
+   "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela"
+  },
   {
    "date": "2026-09-30",
    "precision": "day",

@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 205 recorded changes. Source data as of 2026-09-29.
+Showing the 40 most recent of 207 recorded changes. Source data as of 2026-10-05.
 
 ---
+
+### 2026-10-05 · ENFORCEMENT
+
+**ICE's May 2025 memo claiming a Form I-205 alone allows home entry for people with final removal orders: paused by DHS (confirmed May 8, 2026) and challenged in court (no ruling as of Oct 5, 2026)**
+
+A May 12, 2025 memo signed by Acting ICE Director Todd M. Lyons ('Utilizing Form I-205, Warrant of Removal'), made public in January 2026 through a whistleblower disclosure reported by the Associated Press, says ICE may rely on a Form I-205 alone, without a judicial warrant or consent, to enter the home of a person with a final order of removal, after knocking and announcing and using 'a necessary and reasonable amount of force' if refused. On May 8, 2026 DHS Secretary Markwayne Mullin wrote that ICE 'has not rescinded the memorandum' but that he had 'paused the practice' while he assesses the policy; in a June 23, 2026 filing the government told the court the pause 'remains in effect.' The memo is challenged in Gibson Brown v. Mullin, No. 1:26-cv-01131 (D.D.C.), filed April 2, 2026; the government's motion to dismiss is pending and the court had not ruled as of October 5, 2026. Our know-your-rights and myth pages that said an administrative warrant never allows home entry now carry a dated update; the myth verdict changed from FALSE to MOSTLY FALSE with one disputed exception.
+
+Primary source: <https://www.courtlistener.com/docket/73134602/gibson-brown-v-mullin/>
+
+### 2026-10-02 · TPS
+
+**Venezuela 2023-designation TPS work permits reached their October 2, 2026 end date**
+
+EADs issued on or before February 5, 2025 with a 'Card Expires' date of October 2, 2026 were valid until that date. As of October 5, 2026 USCIS had announced no further extension. USCIS still lists a separate court-ordered automatic extension of up to 540 days for certain pending renewals received before February 6, 2025.
+
+Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela>
 
 ### 2026-09-30 · FEES
 
@@ -316,22 +332,6 @@ Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.cacd.10019
 On September 16, 2026 Judge Eli Richardson of the Middle District of Tennessee denied a preliminary injunction against Section 1 of HB 1704 (Public Chapter 771), the state crime for a noncitizen with certain final removal orders who intentionally fails to leave Tennessee within 90 days (Lucy v. Skrmetti, No. 3:26-cv-00998). The court found that neither named plaintiff had shown standing for a preliminary injunction; it did not decide whether the law is preempted by federal immigration law, and it deferred its decision on class certification. Section 1 stays in effect. The defendants' motion to dismiss is still pending. The plaintiffs' appeal of the first, dismissed suit (No. 3:26-cv-00763) is pending in the Sixth Circuit as No. 26-5660, where they filed their opening brief on September 11, 2026. This corrects our earlier statement that no appeal had been filed in the first case: the plaintiffs filed a notice of appeal on July 24, 2026.
 
 Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.tnmd.110442/gov.uscourts.tnmd.110442.48.0.pdf>
-
-### 2026-09-14 · PROCEDURES
-
-**A court postponed the end of "duration of status" one day before it was due to start — and the new I-539 and I-765 editions are not being accepted**
-
-On September 14, 2026 the U.S. District Court for the District of Massachusetts postponed the effective date of DHS's final rule replacing "duration of status" with a fixed admission period for F, J and I nonimmigrants (91 Fed. Reg. 44976, July 17, 2026), and preliminarily enjoined DHS from taking any further action to implement it, pending further order or resolution on the merits (Presidents' Alliance on Higher Education and Immigration, et al. v. DHS, 26-cv-13799, D. Mass.). The rule had been due to take effect September 15. Two things follow for filers. First, duration of status still applies — USCIS says it "will proceed under the previous regulatory provisions." Second, the form-edition change that USCIS announced on August 14 did not happen: USCIS "continues to accept the 08/28/24 edition of Form I-539 and 08/21/25 edition of Form I-765 and is not accepting the 09/15/26 edition of Forms I-539 and I-765." That reverses the warning we and others published, and it matters most to anyone filing an I-765 — DACA, TPS, asylum and adjustment applicants included — who was told to switch to the new edition. DHS says it disagrees with the order and will implement the rule if the order is lifted, so this is a postponement, not a cancellation: check the edition date on uscis.gov the day you file. Separately and unaffected by this order, Form I-485 does get a 09/18/26 edition on September 18, 2026 with no grace period.
-
-Primary source: <https://www.uscis.gov/i-539>
-
-### 2026-09-10 · CORRECTION
-
-**Correction: the Affidavit of Support income table was two years stale, the U visa's sibling rule was wrong, and two official State Department pages disagree on whether entering the visa lottery costs $1.00 or nothing**
-
-Fourteen verified defects across the procedures, datasets and tools trees, fixed in English and Spanish together. The most consequential: the Affidavit of Support pages published the 2024 Form I-864P income table — a sponsor for a household of four was told $38,750 when USCIS's chart, "effective beginning Mar. 1, 2026," requires $41,250 at 125% of the poverty guidelines; the table now renders live from our own HHS dataset with both the 125% and the active-duty 100% columns. The same pages said the sponsor's promise "lasts 10 years": 8 U.S.C. 1183a(a)(2)-(3) sets no term at all — the affidavit is enforceable until naturalization or 40 qualifying quarters, and the page's own list of ending events already said so. On the U visa, the site listed derivative siblings as "unmarried siblings under 21"; the statute says unmarried siblings under 18 on the date the principal applied, and only when the principal is under 21 — a principal 21 or older can include only a spouse and children. On the Diversity Visa pages, NACARA was described as adding 5,000 visas to a 60,000 cap: 8 U.S.C. 1151(e) sets the level at 55,000 and Pub. L. 105-100 subtracts up to 5,000 from it, so about 50,000 are available and no 60,000 cap exists. Those pages also called any pre-selection charge a scam. State's own fee table now lists a "Diversity Visa Registration Fee (paid at time of registration only by the principal applicant) $1.00" while State's DV entry page still says "There is no cost to register for the DV Program" — both are quoted and neither is declared the winner. The DV pages also promised a DV-2027 registration window in October-November 2025; State has published no DV-2027 instructions at all, and its instructions page still reads "The processing requirements below are for the DV-2026 program." On tax pages: an ITIN filer was told the American Opportunity and Lifetime Learning credits were available, but P.L. 119-21 § 70606 rewrote 26 U.S.C. 25A(g)(1) to require the taxpayer's own Social Security number "to taxable years beginning after December 31, 2025," so both close from tax year 2026 (a 2025 return is unaffected); the non-resident page said a 30% rate applies to US-source income generally, when the IRS says effectively connected income — wages included — is taxed "at graduated rates … the same rates that apply to U.S. citizens and residents" and the flat 30% reaches only unconnected FDAP income; the treaty page dated Hungary's termination for non-withholding taxes to January 1, 2025 when Treasury's own notice says January 1, 2024, and counted 68 treaties in force when the IRS flags Hungary "Treaty Terminated" (Belarus and Russia are flagged "Partially Suspended"). Also fixed: the naturalization pages said an absence of more than a year "automatically" breaks continuous residence without noting that 6-to-12-month absences are presumed to break it too (8 CFR 316.5(c)(1)), and described the 65/20 civics exception as a 20-question test needing 6 correct when the officer asks 10 from a designated bank of 20; the border-wait dataset claimed 82 land ports when the file holds 85 crossings at 53 ports; the TPS work-permit dataset headline said "seven terminations" when its own data shows 11 of 15 designations terminated; the asylum annual-fee pages still said the rule was "open for public comment" 73 days after comments closed on June 29, 2026; and Self was listed as an ITIN-friendly bank on six pages when it sells a Credit Builder Loan and a secured credit card, not a deposit account with a debit card.
-
-Primary source: <https://www.uscis.gov/i-864p>
 
 ---
 

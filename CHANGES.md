@@ -9,9 +9,81 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 207 recorded changes. Source data as of 2026-10-05.
+Showing the 40 most recent of 220 recorded changes. Source data as of 2026-10-07.
 
 ---
+
+### 2026-10-08 · ASYLUM
+
+**Fiscal Year 2027 refugee ceiling set at up to 17,500, mainly Afrikaners**
+
+Presidential Determination No. 2026-24 of September 25, 2026 (published October 2, 2026) authorizes the admission of up to 17,500 refugees in Fiscal Year 2027, allocated primarily to Afrikaners from South Africa under Executive Order 14204. It is the same number at which Fiscal Year 2026 ended. A ceiling is not a count, and the determination keeps refugee admissions subject to Executive Order 14163, which suspends refugee entry except case by case.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027>
+
+### 2026-10-08 · ENFORCEMENT
+
+**ICE cash-bond interest rate: 3% a year through January 31, 2027**
+
+A Treasury notice published October 5, 2026 sets the interest paid on cash deposited for ICE immigration bonds at 3% a year for October 1, 2026 through January 31, 2027. That is the legal maximum under 8 U.S.C. 1363(a). ICE pays the interest to the obligor after the bond is cancelled or breached.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/05/2026-20375/interest-rate-paid-on-cash-deposited-to-secure-us-immigration-and-customs-enforcement-immigration>
+
+### 2026-10-08 · CORRECTION
+
+**Correction: Form I-485 can be filed online in family, employment and VAWA cases**
+
+Our Form I-485 guide said the green-card application did not accept online filing for most categories. USCIS's online-filing page (last reviewed October 7, 2026) lists standalone online filing for family-based, employment-based and VAWA applicants whose petition is already filed, and Form G-1055 (edition 10/07/26) lists an online fee of $1,390 against $1,440 on paper.
+
+Primary source: <https://www.uscis.gov/file-online/forms-available-to-file-online>
+
+### 2026-10-08 · RULE-CHANGE
+
+**Proposed: $70,000 school-paid fee per F-1 student for OPT (not in effect)**
+
+DHS published a proposed rule (91 FR 64566, Docket ICEB-2026-0100) on October 8, 2026 that would require SEVP-certified schools to pay $70,000 per F-1 student before a first OPT recommendation and $30,000 for each later OPT recommendation. It is only a proposal; comments are due November 9, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees>
+
+### 2026-10-08 · CORRECTION
+
+**Correction: removed unsupported claims that DMVs, schools, hospitals, vital-records offices, banks and consulates do not share data with ICE**
+
+Several page families stated as fact that state and local offices, hospitals, vital-records offices, banks and consulates do not share information with USCIS or ICE. No primary source supports a blanket rule, and data sharing with ICE is in active litigation. We removed the claims on 230 pages (EN+ES) and now point readers to our IRS, Medicaid and New York DMV data-sharing case pages; the hospital-care pages now quote HIPAA's actual limits and its law-enforcement disclosure path (45 CFR 164.502(a), 164.512(f)).
+
+Primary source: <https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512>
+
+### 2026-10-07 · COURTS
+
+**Birthright citizenship: Casa motion to dissolve still pending; plaintiffs opposed Sep 22; DHS comment period closed Oct 5**
+
+In Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md.), the government moved on September 8, 2026 to dissolve or stay the September 2 preliminary injunction (ECF 183); the plaintiffs filed their opposition on September 22, 2026 (ECF 188), and as of October 7, 2026 the public docket shows no ruling. The comment period on DHS's interim final rule (Docket USCIS-2026-0496) closed October 5, 2026; the rule stays in force, and as of October 7, 2026 DHS had published no final rule. A September 16, 2026 correction (FR doc 2026-18949) restored evidence rules in 8 CFR 264.2(c)(2).
+
+Primary source: <https://www.courtlistener.com/docket/69563661/casa-inc-v-trump/>
+
+### 2026-10-07 · CORRECTION
+
+**Correction: the Supreme Court dismissed Genalo v. Black on September 11, 2026 — the October 13 argument on prolonged detention will not happen**
+
+Our case page said the Supreme Court would hear argument on October 13, 2026 on whether prolonged mandatory detention under 8 U.S.C. 1226(c) requires a bond hearing. The case was dismissed on September 11, 2026 after the parties jointly stipulated to dismissal (the government said a New York pardon made respondent G.M.'s case moot and it would not seek vacatur of the decisions below). The same question returns in a new petition, Genalo v. D.C., No. 26-379, filed September 21, 2026.
+
+Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-886.html>
+
+### 2026-10-05 · COURTS
+
+**Lawsuit filed against the USCIS adjustment-of-status memo (AAUP v. Mullin)**
+
+On October 5, 2026, unions, Americans for Immigrant Justice and six immigrants sued in the District of Massachusetts (No. 1:26-cv-14527) to block and vacate USCIS memo PM-602-0199 (May 21, 2026) and USCIS's August 5, 2026 policy on evidence requests and notices of intent to deny. The memo stays in effect unless a court blocks it. Our page said no court challenge was docketed; it is now corrected.
+
+Primary source: <https://www.courtlistener.com/docket/74919678/american-association-of-university-professors-v-mullin/>
+
+### 2026-10-05 · CITIZENSHIP
+
+**Civil denaturalization: DOJ announces 40 more cases filed Aug. 21–Oct. 2, 2026; no FY2026 total published yet**
+
+On Oct. 5, 2026, the Justice Department announced denaturalization actions against 40 individuals, filed between Aug. 21 and Oct. 2, 2026, which it called the largest volume of complaints submitted in a single period under the Trump administration. The release gave no cumulative or fiscal-year total; as of Oct. 7, 2026 neither DOJ nor USCIS had published an FY2026 filing total, so official sources do not yet show whether the 250 goal was met.
+
+Primary source: <https://www.justice.gov/opa/pr/justice-department-moves-strip-citizenship-40-criminals-largest-single-period>
 
 ### 2026-10-05 · ENFORCEMENT
 
@@ -29,13 +101,29 @@ EADs issued on or before February 5, 2025 with a 'Card Expires' date of October 
 
 Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela>
 
+### 2026-10-01 · BUSINESS
+
+**Louisiana LLC filing fees rise: Articles of Organization $125 (from $100), annual report $35 (from $30)**
+
+Effective October 1, 2026, the Louisiana Secretary of State's Commercial Division fees increased under Act 921 of the 2026 Regular Legislative Session. The SOS fee schedule lists Articles of Organization for a Louisiana limited liability company at $125 (was $100) and annual reports at $35 (was $30).
+
+Primary source: <https://static.sos.la.gov/shared/fee_changes_2026.pdf>
+
+### 2026-10-01 · COURTS
+
+**Supreme Court agrees to decide whether people who entered without inspection and are arrested inside the U.S. must be detained without a bond hearing**
+
+On October 1, 2026 the Supreme Court granted certiorari in Rhoney v. Barbosa da Cunha, No. 26-104, on whether 8 U.S.C. 1225(b)(2)(A) mandates detention during removal proceedings of people present without admission. Granting review changes no detention rule: until the Court rules, whether a bond hearing is available still depends on the circuit where the person is detained.
+
+Primary source: <https://www.supremecourt.gov/orders/courtorders/100126zr_6j37.pdf>
+
 ### 2026-09-30 · FEES
 
 **H.R. 1 immigration fees rise for fiscal year 2027 — Annual Asylum Fee $105, initial work permit $570, TPS registration $520, parole $1,050, in-absentia and apprehension fees $5,300 — 15 days after the October 1 publication**
 
-On September 30, 2026 DHS filed three Federal Register notices (CBP 2026-20185, ICE 2026-20186, DHS/USCIS 2026-20187) setting the fiscal year 2027 inflation adjustment for the fees created by H.R. 1 (CPI-U July 2025 to July 2026: +3.36%, rounded down to the next $10, the Annual Asylum Fee to the dollar). Scheduled publication is October 1, 2026; the new amounts apply 15 days after publication (October 16, 2026 if on schedule) to requests postmarked on or after that date. Changes: Annual Asylum Fee $102 to $105; initial I-765 work permit for asylum, parole and TPS $560 to $570; TPS registration (I-821) $510 to $520; parole fee $1,020 to $1,050; the in-absentia removal fee and the between-ports apprehension fee $5,130 to $5,300. Unchanged: I-589 filing fee $100, I-765 renewals $280 (asylum-category renewal $275), SIJ petition $250, I-94 $24. Every page on this site that quotes one of these fees now carries a dated notice; the page amounts flip on the effective date.
+On September 30, 2026 DHS filed three Federal Register notices (CBP 2026-20185, ICE 2026-20186, DHS/USCIS 2026-20187) setting the fiscal year 2027 inflation adjustment for the fees created by H.R. 1 (CPI-U July 2025 to July 2026: +3.36%, rounded down to the next $10, the Annual Asylum Fee to the dollar). The notices were published in the Federal Register on October 1, 2026; the new amounts apply from October 16, 2026 (USCIS: requests postmarked on or after that date). Changes: Annual Asylum Fee $102 to $105; initial I-765 work permit for asylum, parole and TPS $560 to $570; TPS registration (I-821) $510 to $520; parole fee $1,020 to $1,050; the in-absentia removal fee and the between-ports apprehension fee $5,130 to $5,300. Unchanged: I-589 filing fee $100, I-765 renewals $280 (asylum-category renewal $275), SIJ petition $250, I-94 $24. Every page on this site that quotes one of these fees now carries a dated notice; the page amounts flip on the effective date.
 
-Primary source: <https://public-inspection.federalregister.gov/2026-20187.pdf>
+Primary source: <https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees>
 
 ### 2026-09-30 · ENFORCEMENT
 
@@ -52,6 +140,14 @@ Primary source: <https://www.americanimmigrationcouncil.org/blog/ice-electronica
 USCIS's EB-5 fee final rule (Federal Register 2026-20016, published September 30, 2026) takes effect November 30, 2026. Filings postmarked on or after that date pay $7,850 for an initial Form I-526E and $7,615 for a standalone Form I-526 (both include a $75 technology fee), a $1,100 EB-5 Integrity Fund petition fee (was $1,000), and $5,000 for Form I-829 (was $3,750). Filings postmarked through November 29, 2026 keep the current fees.
 
 Primary source: <https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee>
+
+### 2026-09-29 · COURTS
+
+**Supreme Court stays the third-country removal judgment and will hear DHS v. D.V.D. on Dec. 9**
+
+On September 29, 2026 the Supreme Court stayed the District of Massachusetts' February 25, 2026 order and judgment that had set aside DHS's third-country removal guidance, and granted certiorari (No. 26-426); Justices Sotomayor, Kagan and Jackson would have denied the stay. The First Circuit had largely affirmed that judgment on September 18 and dissolved its own stay on September 23. Argument is set for December 9, 2026. Our case page still described the case as pending at the First Circuit; it is now corrected.
+
+Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-426.html>
 
 ### 2026-09-29 · CORRECTION
 
@@ -100,6 +196,14 @@ Primary source: <https://www.federalregister.gov/documents/2026/09/29/2026-19841
 USDA's FY2027 cost-of-living memo (dated August 21, 2026) sets SNAP amounts for October 1, 2026 through September 30, 2027. In the 48 states and DC the maximum monthly benefit for a household of four rises from $994 to $1,023 (one person $306), the gross income limit (130% of the poverty level) for one person rises to $1,729/month, and the asset limit for households with a member age 60+ or disabled rises to $4,750 (other households stay at $3,000). Alaska, Guam and the U.S. Virgin Islands also rise; Hawaii's maximums go DOWN (family of four $1,655, from $1,689), as the memo states. Our 104 state SNAP pages and both SNAP guides now show the new amounts, each labeled with the dates it applies.
 
 Primary source: <https://www.usda.gov/sites/default/files/guidance-documents/fna.snap-cola2027.pdf>
+
+### 2026-09-28 · COURTS
+
+**Family Reunification Parole appeal: First Circuit orders the government to refile a conforming opening brief**
+
+The government tendered its opening brief in Doe v. Mullin, Nos. 26-1314 and 26-1628, on the September 8, 2026 due date, but the court had not accepted it for filing; on September 28 it ordered a conforming brief and appendix by October 5, and the appellees' 30 days run from service of the corrected brief. A brief was re-tendered October 2. The FRP preliminary injunction stays in effect.
+
+Primary source: <https://dockets.justia.com/docket/circuit-courts/ca1/26-1314>
 
 ### 2026-09-25 · CORRECTION
 
@@ -228,110 +332,6 @@ Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-
 The Form I-821D renewal page described East Bay Sanctuary Covenant v. USCIS (N.D. Cal. 3:26-cv-06367) as a suit 'over severe DACA renewal delays' without saying what it asks for. The docket lists its cause as 5 U.S.C. § 552 (Freedom of Information Act): it asks the court to force USCIS and ICE to release their internal records about the delays, and cannot order USCIS to adjudicate renewals faster. The page now says so, notes the stipulated scheduling order entered September 15, 2026, and rolls its 'no ruling has changed the procedure' date forward from August 17 to September 17, 2026. The practical advice is unchanged: file at day 150.
 
 Primary source: <https://www.courtlistener.com/docket/73535388/east-bay-sanctuary-covenant-v-united-states-citizenship-and-immigration-services/>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the immigration-judge, Webex and dial-in tables on every state and city court page were re-pulled from EOIR — and the Spanish pages, which had been left four months behind English, now match**
-
-Each immigration-court page carries a table of the judges sitting at that court with the judge's Webex hearing link and telephonic access code. Those tables were hand-maintained and had drifted: the English state pages were stamped "EOIR-verified" while the Spanish twins still carried the 2026-05-26 matrix, so a Spanish-speaking reader was being handed judges who had transferred months earlier. All 122 pages — 31 state pages and 30 individual court pages, in both languages — were rebuilt on September 17, 2026 from EOIR's own listing at justice.gov/eoir/eoir-immigration-court-listing: 75 courts and 792 judge rows, parsed once and written to English and Spanish in the same run, taking the state tables from 815 rows to 756. Examples of what was wrong: the Denver table listed André Carman, Jack D. Patten III, Jeremy Sibert and Jennifer C. Whitko, none of whom EOIR lists at Denver (Carman is on the Concord, California list), while Andrew Hurd and Tyler Wood, who are there, were missing; Salt Lake City listed Stephanie Arrache and James K. Glober, both now at Concord, and Joseph Q. Andelin, who is on no court's list, while Grant Pattison was missing; Honolulu listed Demetrius Cheeks, who is not there, and omitted Howard Hom, who is; Charlotte listed Ellen Karesh, who is not on EOIR's Charlotte list; the Annandale, Virginia table had 43 judges where EOIR lists 23, and the El Paso Service Processing Center table had 22 where EOIR lists 5. EOIR also no longer lists a San Francisco Immigration Court: its three judges — ACIJ Julie Nelson, Steven Kirchner and Frank Seminerio — all appear on the Concord list, and the California pages now say that instead of printing a court that no longer exists. The closed Batavia, New York court keeps its explanatory note. Thirteen judges whose EOIR-published Webex rooms no longer open keep pointing at EOIR's hearing-access page rather than at a dead room, and that decision is now carried across both languages and both page families automatically. Both languages are now rebuilt from EOIR's list in a single automated pass, so the Spanish tables can no longer fall behind the English ones.
-
-Primary source: <https://www.justice.gov/eoir/eoir-immigration-court-listing>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: H.R.1 is the 2025 reconciliation law, not the 2026 one**
-
-Ten passages across five English pages and their Spanish twins — the asylum annual fee, the TPS-by-country hub, the ITIN application guide and the ITIN tax-credit guide — introduced H.R.1 as "the 2026 reconciliation law". The law was signed on July 4, 2025: the Department of Homeland Security's own Federal Register notice on the fees it created opens "On July 4, 2025, the President signed into law the One Big Beautiful Bill Act, Public Law 119-21, 139 Stat. 72 (HR-1)", and the site's own hr1_fees.json says the same. What happened in 2026 was the fiscal-year inflation adjustment of the fees, not the law. Every passage now names the law by its year, its public-law number and its signing date. On the ITIN tax-credit page the error also contradicted the next sentence, which already said "the 2025 law".
-
-Primary source: <https://www.federalregister.gov/documents/2025/09/08/2025-17221/certain-dhs-immigration-enforcement-related-fees-required-by-hr-1-reconciliation-bill>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the USCIS processing time is the 80%-of-cases figure, not a median**
-
-The USCIS processing-times movement page and the datasets index, in both languages, described the numbers we publish as "median processing times". They are not medians. USCIS publishes the time within which it says 80% of recent cases were completed, and our own dataset records that: uscis_processing_times.json states "USCIS publishes '80% of cases are completed within X'". The difference matters to a reader planning around a filing — half of cases finishing inside a window is a very different promise from four in five. Four pages now say what the figure actually is, matching the wording the main processing-times page already used.
-
-Primary source: <https://egov.uscis.gov/processing-times/>
-
-### 2026-09-17 · DATA
-
-**ICE 287(g) dataset refreshed: 2,510 agreements as of ICE's September 15, 2026 workbook**
-
-Our 287(g) file was built from ICE's September 8, 2026 workbook. ICE has since published a September 15, 2026 edition, and the pages that read the file were quoting the older totals. The dataset has been re-scraped from ICE's own participating-agencies workbook and the prose re-anchored to it: 2,510 agreements (was 2,466) held by 2,155 distinct agencies, across 40 jurisdictions — 38 states plus Guam and the Northern Mariana Islands, which the pages had been calling "40 states". By model: 179 Jail Enforcement, 1,778 Task Force, 553 Warrant Service Officer. The growth finding is unchanged in shape — 130 of the 2,510 active agreements predate February 2025, so 2,380 (95%) were signed since — and Texas (528) with Florida (353) still hold about 35% of the national total. Twelve states still have none.
-
-Primary source: <https://www.ice.gov/identify-and-arrest/287g>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the state DMV pages did not tell you a federal rule now limits non-domiciled CDLs**
-
-The commercial-driver's-licence row on all 53 state DMV pages, in both languages, said only that a CDL needs a Social Security number and lawful status. It did not mention that the Federal Motor Carrier Safety Administration has since narrowed who may hold one. FMCSA's final rule, published February 13, 2026 and effective March 16, 2026, reaffirms its September 29, 2025 interim final rule and limits eligibility for non-domiciled Commercial Learner's Permits and CDLs, for foreign-domiciled individuals, to those holding a specific, verifiable employment-based nonimmigrant status. A separate FMCSA exemption granted May 14, 2026 lets any state issue one to a citizen of the Marshall Islands, Micronesia or Palau with a valid Freely Associated State passport and a Form I-94. Both now appear on every state page, with links to the Federal Register. Someone on a work permit was being told to budget for CDL training that a federal rule may have already closed to them.
-
-Primary source: <https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the internet-setup guides no longer advertise the Affordable Connectivity Program in their page summary, and the cross-border tax FAQ now names the Form 8938 threshold that actually applies to you**
-
-Two leftovers from the September 10 correction wave. The internet-without-SSN guides (EN + ES) had already been corrected in the body to say the Affordable Connectivity Program ended, but their meta description and page summary still listed "low-income programs (ACP)" — the FCC states the ACP "ended on June 1, 2024, due to a lack of additional funding from Congress" (fcc.gov/acp), so the summary now names Lifeline, the program that is still running. Separately, the cross-border tax calculator FAQ (EN + ES) gave the FATCA Form 8938 thresholds as ">$50K (single) or >$100K (MFJ)" with no indication of who they apply to. Per the IRS, those are the thresholds for taxpayers living in the United States — and even there the test is more than $50,000 on the last day of the tax year OR more than $75,000 at any time during the year ($100,000 / $150,000 married filing jointly). Taxpayers living abroad file only above $200,000 / $300,000 (unmarried) or $400,000 / $600,000 (joint). The FAQ now states both sets and says which is which, and the IRS FATCA summary was added to the page's source list. 4 pages touched (2 EN + 2 ES).
-
-Primary source: <https://www.irs.gov/businesses/corporations/summary-of-fatca-reporting-for-us-taxpayers>
-
-### 2026-09-17 · PROCEDURES
-
-**Our Nicaraguan consulate pages said “this office serves you” about offices that closed in January 2024 — the body text now matches the closure notice**
-
-Nicaragua closed its Los Angeles and Houston consulates on January 19, 2024 and New Orleans on January 20, 2024, and the San Francisco office stopped serving the public; Voice of America reported on February 29, 2024 that “en Estados Unidos, por ejemplo, solo funcionan ahora los consulados de Nueva York, Washington y Miami.” Those four pages already carried a closure banner, but the paragraph underneath still read “serves the Nicaraguan community residing in [state]”, the service list was written in the present tense, and the first FAQ — which Google can show as a rich result — answered “Yes” to “Do I need an appointment?” All eight pages (English and Spanish) now state that the office is closed, name Miami, New York and Washington, D.C. as the three that remain, and say plainly that none of the listed services can be obtained at the old address. We also removed an untranslated English fragment from six Spanish pages, repaired a mis-numbered how-to-verify list, and hedged the two “register a US-born child” pages: Nicaragua's appointment portal (citas.cancilleria.gob.ni) rejected our requests on September 17, 2026, so readers are told to phone the consulate or the Embassy in Washington, D.C. at (202) 939-6570 if it will not load. Nicaragua's foreign-ministry site remains unreachable — www.cancilleria.gob.ni returns NXDOMAIN and cancilleria.gob.ni has no address record.
-
-Primary source: <https://www.vozdeamerica.com/a/cierre-de-varios-consulados-de-nicaragua-en-eeuu-mexico-y-guatemala-impacta-a-la-diaspora-del-pais-centroamericano/7485761.html>
-
-### 2026-09-17 · PROCEDURES
-
-**Honduras's own appointment system lists 11 consulates in the US — we publish 19, so eight pages now warn that the office is unconfirmed**
-
-Honduras publishes no consulate directory: sreci.gob.hn/consulados/ renders a page of navigation with no listings at all (checked in a real browser on September 17, 2026 — 1,827 characters, zero mentions of any US city). The one official surface that does name offices is the appointment system, citaconsular.sreci.gob.hn. Choosing “Estados Unidos” there on September 17, 2026 returned exactly eleven: Atlanta, Boston, Charlotte, Chicago, McAllen, Miami, New Orleans, New York, San Francisco, Seattle and Washington, D.C. We publish nineteen Honduran consulate pages. The eight the appointment system does not name — Aurora (CO), Dallas, Glendale (CA), Houston, Irving, Phoenix, Pittsburgh and Tampa (FL) — now carry a warning in both languages saying so. We are deliberately not calling those offices closed: a post that takes no online appointments would not appear in that menu either, and with no directory to check against we cannot tell the two cases apart. What the warning does say is that the address and phone printed on the page are unconfirmed, and that readers should call first or use the Embassy of Honduras in Washington, D.C. at (+1) 202-966-7702. Separately, the Phoenix and Irving pages used to credit their address to the “Honduran Ministry of Foreign Affairs” while citing an OpenStreetMap node that sits in Washington, D.C. and carries no address tag at all; that attribution was corrected on September 10, 2026.
-
-Primary source: <https://citaconsular.sreci.gob.hn/>
-
-### 2026-09-17 · PROCEDURES
-
-**Dominican consulate pages: MIREX's Santo Domingo line corrected, and the new e-passport reaches consulates in August 2026, not February**
-
-Two corrections across the 13 Dominican consulate pages in the United States (12 English pages plus the Spanish Los Angeles page), together with the script that generates the cluster. First, the phone number: the pages told readers that (809) 987-7001 was MIREX's fax line while simultaneously telling them to call it. The Ministry of Foreign Affairs' own website footer reads 'Tel.: (809) 987-7001' and 'Fax: (809) 535-6280' — 987-7001 is the phone, 535-6280 is the fax, and the generator script had been hardcoding the fax number as the number to call. Second, the passport date: the pages said the Dominican Republic's new electronic passport had been available 'since February 2026'. Issuing began inside the Dominican Republic in January 2026 (applications opened 15 January, biometric capture from 19 February), but delivery to Dominicans abroad — including at the US consulates these pages are about — was scheduled to begin in August 2026 (Diario Libre, 5 February 2026). A reader standing at a US consulate in February would have been told to expect a document that was not yet being issued there. The 10-year adult / 5-year minor validity was correct and is unchanged.
-
-Primary source: <https://www.mirex.gob.do/>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the ITIN bank pages for every state carried a stale FDIC date, fourteen wrong Bank of America branch counts, and told readers in 24 states that their state had "limited coverage" when its own table showed hundreds of branches**
-
-Three defects were fixed across all 104 ITIN-banking state pages (52 jurisdictions, English and Spanish). First, every page's FAQ attributed its Bank of America branch figure to "FDIC data (June 2026)" while the FDIC table directly above it was captioned with the real vintage of the feed that produced it (2026-09-08, api.fdic.gov/banks/locations). The date was written into the page text once and never moved again when the feed refreshed. The FAQ now says "per the FDIC branch data shown on this page" and carries no date at all, so the table's caption is the single place the vintage lives. Second, fourteen states carried a branch count in that FAQ that no longer matched the feed rendering the table on the same page — Ohio's FAQ said 51 next to a table saying 52, South Carolina said 62 next to 61, California 687 next to 685, and Kentucky and Minnesota were low rather than high (7 vs 8, 22 vs 23). Every count in the cohort was recomputed from the FDIC feed; these were wrong numbers inside FAQPage structured data, which is what an AI assistant or a rich result is most likely to quote. Third, 24 pages said "<State> has limited coverage of traditional banks for ITIN clients. The best options are digital neobanks." That sentence came from a hand-typed list of states, not from the data, and it contradicted the page's own table: South Carolina got it with all three national banks present and 1,194 branches from 76 banks; North Dakota with 411 branches from 71 banks; Rhode Island and Oklahoma while the same page's FAQ was telling the reader to walk into a Bank of America branch. It is replaced by a sentence computed from the FDIC feed, naming which of the three national banks with a documented ITIN path have branches in that state and which do not, and pointing at the table for the counts. No branch count, institution total or date is written into the page text any more: the data date is rendered from the feed at build time, and the counts that remain in the FAQ are re-synced from the feed by the maintenance script each time it runs, so a data refresh no longer leaves the words and the table in contradiction.
-
-Primary source: <https://api.fdic.gov/banks/locations>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the Puerto Rico ITIN banking page called Puerto Rico a state, cited a census release one year behind its siblings, and counted only NCUA credit unions while the island's real co-op sector is supervised by COSSEC**
-
-Three fixes on the Puerto Rico page, English and Spanish. Puerto Rico is an unincorporated US territory, not a state, and the demographics line said "the state's 3,254,885 people"; it now says the territory's. The same line cited the American Community Survey 2023 5-year estimates while all fifty sibling pages cite 2024. We queried the Census Bureau API directly for Puerto Rico (2024 ACS 5-year, the Puerto Rico Community Survey): 3,234,309 residents, 87,466 born outside the United States, and 3,200,873 of Hispanic or Latino origin — 2.7% and 99.0%. The page and its meta description now carry those figures. Third, the credit-union block showed only NCUA-insured institutions — eight of them, largely mainland-affiliated federal credit unions — while telling the reader credit unions are "often the most ITIN-flexible option." Puerto Rico's own cooperativas de ahorro y crédito are not NCUA institutions and so appear nowhere in that count: they are supervised and insured, share and deposit insurance up to $250,000 per member, by COSSEC, the Corporación Pública para la Supervisión y Seguro de Cooperativas de Puerto Rico, created by Ley Núm. 114-2001. A sourced sentence now points readers there. No cooperativa counts were invented — COSSEC publishes its own industry statistics and we cite the agency, not a number we could not verify. The page also no longer says Puerto Rico has "limited coverage of traditional banks": none of Bank of America, Wells Fargo or Chase has a branch on the island, but the FDIC table on the page shows 260 insured branches led by Banco Popular de Puerto Rico with 156, and the text now says that instead.
-
-Primary source: <https://www.cossec.pr.gov/>
-
-### 2026-09-17 · LITIGATION
-
-**A judge set aside the rule ending automatic EAD extensions — but only for the seven people who sued**
-
-On September 10, 2026 (order filed September 11, Dkt. 46), Judge David O. Carter of the U.S. District Court for the Central District of California granted a preliminary injunction in Jane Doe 1 et al. v. DHS, No. 8:26-cv-00060, finding that DHS had not justified bypassing notice-and-comment rulemaking when it issued the October 30, 2025 interim final rule that removed the automatic extension of Employment Authorization Documents (90 Fed. Reg. 48799). The relief is narrow: the court set the rule aside only as to the seven named plaintiffs, expressly declined to issue a nationwide injunction, and certified the order for immediate appeal under 28 U.S.C. § 1292(b), saying it would entertain a nationwide request if the government chooses not to appeal. For everyone else nothing changes yet: EAD renewals (Form I-765) filed on or after October 30, 2025 still receive no automatic extension, and as of September 17, 2026 USCIS had announced no change. What to watch: a government appeal to the Ninth Circuit, or a renewed nationwide-injunction request.
-
-Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.cacd.1001937/gov.uscourts.cacd.1001937.46.0.pdf>
-
-### 2026-09-16 · COURTS
-
-**Tennessee's HB 1704 stays in effect: judge denies a preliminary injunction for lack of standing, and the first suit is on appeal**
-
-On September 16, 2026 Judge Eli Richardson of the Middle District of Tennessee denied a preliminary injunction against Section 1 of HB 1704 (Public Chapter 771), the state crime for a noncitizen with certain final removal orders who intentionally fails to leave Tennessee within 90 days (Lucy v. Skrmetti, No. 3:26-cv-00998). The court found that neither named plaintiff had shown standing for a preliminary injunction; it did not decide whether the law is preempted by federal immigration law, and it deferred its decision on class certification. Section 1 stays in effect. The defendants' motion to dismiss is still pending. The plaintiffs' appeal of the first, dismissed suit (No. 3:26-cv-00763) is pending in the Sixth Circuit as No. 26-5660, where they filed their opening brief on September 11, 2026. This corrects our earlier statement that no appeal had been filed in the first case: the plaintiffs filed a notice of appeal on July 24, 2026.
-
-Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.tnmd.110442/gov.uscourts.tnmd.110442.48.0.pdf>
 
 ---
 

@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-10-07"
+  "last_updated": "2026-10-09"
  },
  "upcoming": [
   {
@@ -56,6 +56,30 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-10-09",
+   "precision": "day",
+   "category": "enforcement",
+   "title_en": "DHS and EOIR finalize the civil-penalty procedure for failure to depart and unlawful entry",
+   "title_es": "El DHS y la EOIR finalizan el procedimiento de multas civiles por no salir del país y por entrada ilegal",
+   "summary_en": "A final rule placed on public inspection October 9, 2026 and scheduled to publish October 14, 2026 (FR Doc. 2026-21024) adopts the June 27, 2025 interim rule (90 FR 27439) on civil penalties for failing to depart under a voluntary departure order (INA 240B(d)), willfully failing to depart after a removal order (INA 274D) and unlawful entry (INA 275(b)). The document says its effective date is the date of publication in the Federal Register. DHS still imposes the penalty by written decision and order, with a 15-business-day appeal to DHS and no appeal to the Board of Immigration Appeals; the one change lets ICE accept a late appeal, case by case, when a mail delay beyond the person's control caused it. The penalty amounts are not changed.",
+   "summary_es": "Una regla final que quedó en inspección pública el 9 de octubre de 2026 y está programada para publicarse el 14 de octubre de 2026 (FR Doc. 2026-21024) adopta la regla interina del 27 de junio de 2025 (90 FR 27439) sobre las multas civiles por no salir bajo una orden de salida voluntaria (INA 240B(d)), por negarse deliberadamente a salir tras una orden de remoción (INA 274D) y por entrada ilegal (INA 275(b)). El documento dice que entra en vigor en la fecha de su publicación en el Registro Federal. El DHS sigue imponiendo la multa con una decisión y orden por escrito, con apelación ante el DHS en 15 días hábiles y sin apelación ante la Junta de Apelaciones de Inmigración; el único cambio permite que ICE acepte, caso por caso, una apelación tardía cuando la causó un retraso del correo fuera del control de la persona. Los montos de las multas no cambian.",
+   "source_url": "https://public-inspection.federalregister.gov/2026-21024.pdf",
+   "link_en": "/know-your-rights/voluntary-departure/",
+   "link_es": "/es/conoce-tus-derechos/salida-voluntaria/"
+  },
+  {
+   "date": "2026-10-09",
+   "precision": "day",
+   "category": "taxes",
+   "title_en": "IRS cancels the October 14 hearing on the refundable-credits proposal; the proposal stands",
+   "title_es": "El IRS cancela la audiencia del 14 de octubre sobre la propuesta de créditos reembolsables; la propuesta sigue en pie",
+   "summary_en": "A Federal Register notice published October 9, 2026 (FR Doc. 2026-20790) cancels the public hearing that had been scheduled for October 14, 2026 on proposed regulations REG-119882-25, which would treat the refunded portion of certain refundable tax credits as a federal public benefit under PRWORA. The IRS received no requests to testify by the October 5, 2026 deadline. The notice cancels only the hearing; the proposal is not withdrawn, and as of October 9, 2026 no final rule had been published.",
+   "summary_es": "Un aviso del Registro Federal publicado el 9 de octubre de 2026 (FR Doc. 2026-20790) cancela la audiencia pública que estaba programada para el 14 de octubre de 2026 sobre las regulaciones propuestas REG-119882-25, que tratarían la porción reembolsada de ciertos créditos tributarios reembolsables como un beneficio público federal bajo PRWORA. El IRS no recibió solicitudes para testificar antes del plazo del 5 de octubre de 2026. El aviso cancela solo la audiencia; la propuesta no fue retirada, y al 9 de octubre de 2026 no se había publicado una regla final.",
+   "source_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20790/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the",
+   "link_en": "/taxes/itin/tax-credits-eligible-with-itin/",
+   "link_es": "/es/impuestos/itin/creditos-fiscales-elegibles-con-itin/"
+  },
   {
    "date": "2026-10-08",
    "precision": "day",
@@ -187,6 +211,18 @@
    "link_en": "/procedures/tps-by-country/venezuela/",
    "link_es": "/es/tramites/tps-por-pais/venezuela/",
    "source_url": "https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela"
+  },
+  {
+   "date": "2026-10-01",
+   "precision": "day",
+   "category": "visas",
+   "title_en": "Diversity Visa court order: ten extra days past fiscal year 2026, paused for State Department guidance",
+   "title_es": "Orden judicial sobre la Visa de Diversidad: diez días más después del año fiscal 2026, en pausa para instrucciones del Departamento de Estado",
+   "summary_en": "In Medani v. Trump (N.D. Cal. No. 5:26-cv-06332), a September 30, 2026 order told the State Department to take reasonable steps for ten more days past fiscal year 2026 to reconsider Diversity Visa applications refused solely under its two pause policies. On October 1, 2026 the court temporarily stayed that order so the State Department could prepare guidance for consulates. A status conference is set for October 15, 2026.",
+   "summary_es": "En Medani v. Trump (N.D. Cal. No. 5:26-cv-06332), una orden del 30 de septiembre de 2026 indicó al Departamento de Estado tomar medidas razonables durante diez días más después del año fiscal 2026 para reconsiderar las solicitudes de Visa de Diversidad rechazadas solo bajo sus dos políticas de pausa. El 1 de octubre de 2026 el tribunal suspendió temporalmente esa orden para que el Departamento de Estado preparara instrucciones para los consulados. Hay una conferencia de estado el 15 de octubre de 2026.",
+   "source_url": "https://www.courtlistener.com/docket/73529774/medani-v-trump/",
+   "link_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "link_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
   },
   {
    "date": "2026-10-01",
@@ -364,7 +400,7 @@
    "title_es": "Las cifras de titulares de TPS de Haití y Siria ahora usan las del propio DHS",
    "summary_en": "Our TPS pages gave two different counts for the same people: some used the National Immigration Forum's estimates (about 330,735 Haitian and 3,860 Syrian holders), while the TPS-by-country hub used DHS's. We now use DHS's own estimates everywhere, from its termination notices: about 352,959 Haitian TPS holders (90 FR 54733, Nov. 28, 2025) and 6,132 Syrian (90 FR 45398, Sept. 22, 2025), about 359,091 together. Venezuela's figure is unchanged for now because DHS's notices give different populations for different dates.",
    "summary_es": "Nuestras páginas de TPS daban dos cifras distintas para las mismas personas: algunas usaban las estimaciones del National Immigration Forum (unos 330,735 titulares de Haití y 3,860 de Siria), mientras que el índice de TPS por país usaba las del DHS. Ahora usamos en todas partes las estimaciones del propio DHS en sus avisos de terminación: unas 352,959 personas con TPS de Haití (90 FR 54733, 28 de noviembre de 2025) y 6,132 de Siria (90 FR 45398, 22 de septiembre de 2025), unas 359,091 en total. La cifra de Venezuela no cambia por ahora porque los avisos del DHS dan poblaciones distintas para fechas distintas.",
-   "source_url": "https://www.federalregister.gov/d/2025-21379",
+   "source_url": "https://www.federalregister.gov/documents/2025/11/28/2025-21379/termination-of-the-designation-of-haiti-for-temporary-protected-status",
    "link_en": "/datasets/tps-work-permit-status/",
    "link_es": "/es/datos/estado-permisos-trabajo-tps/"
   },
@@ -388,7 +424,7 @@
    "title_es": "Listas de jueces de las cortes de inmigración revisadas contra el listado de EOIR del 24 de septiembre de 2026; cada juez se cuenta una sola vez",
    "summary_en": "We compared every court's judge table with EOIR's own court listing (updated September 24, 2026). Judges had moved since our last check: 62 judge listings were added and 30 removed across about 40 courts, and all 807 remote-hearing rooms were re-tested (16 did not open; those rows now point to EOIR's own list). No court closed beyond the two already noted (Batavia and San Francisco). Our legal-deserts dataset had counted a judge once per court they appear at, so an assistant chief judge who supervises several courts was counted several times; it now counts each person once. The national figure is 765 judges (was 781), and Louisiana has 25 (was 27).",
    "summary_es": "Comparamos la tabla de jueces de cada corte con el listado oficial de EOIR (actualizado el 24 de septiembre de 2026). Hubo cambios desde nuestra última revisión: se agregaron 62 entradas de jueces y se quitaron 30 en unas 40 cortes, y se volvieron a probar las 807 salas de audiencias remotas (16 no abrieron; esas filas ahora remiten a la lista de EOIR). No cerró ninguna corte además de las dos ya señaladas (Batavia y San Francisco). Nuestro dataset de desiertos legales contaba a un juez una vez por cada corte en la que aparece, así que un juez principal adjunto que supervisa varias cortes se contaba varias veces; ahora cada persona se cuenta una sola vez. La cifra nacional es de 765 jueces (antes 781) y Luisiana tiene 25 (antes 27).",
-   "source_url": "https://www.justice.gov/eoir/eoir-immigration-court-listing",
+   "source_url": "https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings",
    "link_en": "/datasets/immigration-court-legal-deserts/",
    "link_es": "/es/datos/desiertos-legales-tribunales-inmigracion/"
   },
@@ -554,7 +590,7 @@
    "title_es": "Corrección: las tablas de jueces, enlaces Webex y códigos telefónicos de todas las páginas estatales y por ciudad de cortes se releyeron en EOIR — y las páginas en español, que llevaban cuatro meses atrasadas respecto al inglés, ya coinciden",
    "summary_en": "Each immigration-court page carries a table of the judges sitting at that court with the judge's Webex hearing link and telephonic access code. Those tables were hand-maintained and had drifted: the English state pages were stamped \"EOIR-verified\" while the Spanish twins still carried the 2026-05-26 matrix, so a Spanish-speaking reader was being handed judges who had transferred months earlier. All 122 pages — 31 state pages and 30 individual court pages, in both languages — were rebuilt on September 17, 2026 from EOIR's own listing at justice.gov/eoir/eoir-immigration-court-listing: 75 courts and 792 judge rows, parsed once and written to English and Spanish in the same run, taking the state tables from 815 rows to 756. Examples of what was wrong: the Denver table listed André Carman, Jack D. Patten III, Jeremy Sibert and Jennifer C. Whitko, none of whom EOIR lists at Denver (Carman is on the Concord, California list), while Andrew Hurd and Tyler Wood, who are there, were missing; Salt Lake City listed Stephanie Arrache and James K. Glober, both now at Concord, and Joseph Q. Andelin, who is on no court's list, while Grant Pattison was missing; Honolulu listed Demetrius Cheeks, who is not there, and omitted Howard Hom, who is; Charlotte listed Ellen Karesh, who is not on EOIR's Charlotte list; the Annandale, Virginia table had 43 judges where EOIR lists 23, and the El Paso Service Processing Center table had 22 where EOIR lists 5. EOIR also no longer lists a San Francisco Immigration Court: its three judges — ACIJ Julie Nelson, Steven Kirchner and Frank Seminerio — all appear on the Concord list, and the California pages now say that instead of printing a court that no longer exists. The closed Batavia, New York court keeps its explanatory note. Thirteen judges whose EOIR-published Webex rooms no longer open keep pointing at EOIR's hearing-access page rather than at a dead room, and that decision is now carried across both languages and both page families automatically. Both languages are now rebuilt from EOIR's list in a single automated pass, so the Spanish tables can no longer fall behind the English ones.",
    "summary_es": "Cada página de cortes de inmigración lleva una tabla con los jueces de esa corte, su enlace Webex de audiencia y su código de acceso telefónico. Esas tablas se mantenían a mano y se habían desfasado: las páginas estatales en inglés decían \"verificado con EOIR\" mientras las gemelas en español seguían con la matriz del 2026-05-26, de modo que a un lector hispanohablante se le daban jueces que se habían trasladado meses antes. Las 122 páginas — 31 estatales y 30 de cortes individuales, en los dos idiomas — se reconstruyeron el 17 de septiembre de 2026 a partir de la propia lista de EOIR en justice.gov/eoir/eoir-immigration-court-listing: 75 cortes y 792 filas de jueces, leídas una sola vez y escritas en inglés y español en la misma corrida, pasando las tablas estatales de 815 filas a 756. Ejemplos de lo que estaba mal: la tabla de Denver listaba a André Carman, Jack D. Patten III, Jeremy Sibert y Jennifer C. Whitko, a ninguno de los cuales EOIR ubica en Denver (Carman aparece en la lista de Concord, California), mientras faltaban Andrew Hurd y Tyler Wood, que sí están; Salt Lake City listaba a Stephanie Arrache y James K. Glober, ambos ahora en Concord, y a Joseph Q. Andelin, que no figura en ninguna corte, mientras faltaba Grant Pattison; Honolulu listaba a Demetrius Cheeks, que no está, y omitía a Howard Hom, que sí; Charlotte listaba a Ellen Karesh, que no aparece en la lista de Charlotte de EOIR; la tabla de Annandale, Virginia tenía 43 jueces donde EOIR lista 23, y la del Centro de Procesamiento de El Paso tenía 22 donde EOIR lista 5. EOIR tampoco lista ya una San Francisco Immigration Court: sus tres jueces — ACIJ Julie Nelson, Steven Kirchner y Frank Seminerio — aparecen en la lista de Concord, y las páginas de California ahora lo dicen en vez de mostrar una corte que ya no existe. La corte cerrada de Batavia, Nueva York conserva su nota explicativa. Trece jueces cuyas salas Webex publicadas por EOIR ya no abren siguen apuntando a la página de acceso a audiencias de EOIR y no a una sala muerta, y esa decisión ahora se traslada sola a los dos idiomas y a las dos familias de páginas. Ambos idiomas se reconstruyen ahora desde la lista de EOIR en una sola pasada automatizada, así que las tablas en español ya no pueden quedarse atrás de las inglesas.",
-   "source_url": "https://www.justice.gov/eoir/eoir-immigration-court-listing",
+   "source_url": "https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings",
    "link_en": "/procedures/immigration-court-by-state/",
    "link_es": "/es/tramites/corte-inmigracion-por-estado/"
   },
@@ -652,7 +688,7 @@
    "summary_es": "Dos correcciones en las 13 páginas de consulados dominicanos en Estados Unidos (12 páginas en inglés más la página en español de Los Ángeles), y también en el script que genera el conjunto. Primero, el teléfono: las páginas decían que el (809) 987-7001 era la línea de fax de MIREX y al mismo tiempo pedían llamar a ese número. El pie de página del propio sitio del Ministerio de Relaciones Exteriores dice 'Tel.: (809) 987-7001' y 'Fax: (809) 535-6280' — 987-7001 es el teléfono y 535-6280 es el fax, y el script generador tenía fijado el número de fax como número para llamar. Segundo, la fecha del pasaporte: las páginas decían que el nuevo pasaporte electrónico dominicano estaba disponible 'desde febrero de 2026'. La emisión empezó dentro de República Dominicana en enero de 2026 (citas desde el 15 de enero, captura biométrica desde el 19 de febrero), pero la entrega a los dominicanos en el exterior — incluidos los consulados en EE. UU. de los que tratan estas páginas — estaba pautada para iniciar en agosto de 2026 (Diario Libre, 5 de febrero de 2026). La vigencia de 10 años para adultos y 5 para menores era correcta y no cambia.",
    "link_en": "/consulates/dominican-republic/new-york-city-new-york/",
    "link_es": "/es/consulados/republica-dominicana/new-york-city-new-york/",
-   "source_url": "https://www.mirex.gob.do/"
+   "source_url": "https://mirex.gob.do/"
   },
   {
    "date": "2026-09-17",
@@ -1220,7 +1256,7 @@
    "title_es": "Corrección: la residencia por pensión de Guatemala es permanente desde el inicio — nuestras páginas inventaban un carné temporal y una espera de cinco años",
    "summary_en": "The Guatemala Pensionado Visa pages (EN + ES) walked a retiree through a \"Temporary Residence Card, valid 2 years and renewable\" and told them they would become eligible for permanent residency \"after 5 years total\". The Instituto Guatemalteco de Migracion lists rentista/pensionado under Residencia PERMANENTE: $400 one-time, no guarantor, and income continuity re-proven every 5 years. The five-years-as-a-temporary-resident route is a separate IGM category that costs $700. Both pages now follow IGM's own phases: file with the $25 order, pay the $400 residency fee 24 hours before the biometrics appointment, then apply at RENAP for the DPI, which IGM calls the final mandatory step. The \"plus an annual fee\" line is gone: IGM publishes no annual fee for this residency.",
    "summary_es": "Las páginas de la Visa Pensionado de Guatemala (EN + ES) llevaban al jubilado por una «Tarjeta de Residencia Temporal, con validez de 2 años y renovable» y le decían que sería elegible para la residencia permanente «después de 5 años en total». El Instituto Guatemalteco de Migración lista rentista/pensionado bajo Residencia PERMANENTE: $400 de pago único, sin garante, y continuidad de ingresos comprobada cada 5 años. La ruta de cinco años como residente temporal es una categoría distinta del IGM que cuesta $700. Ambas páginas siguen ahora las fases del propio IGM: presentar con la orden de $25, pagar los $400 de la residencia 24 horas antes de la cita de biométricos y luego tramitar el DPI en el RENAP, que el IGM marca como último paso obligatorio. La línea de «más una tarifa anual» desapareció: el IGM no publica ninguna tarifa anual para esta residencia.",
-   "source_url": "https://igm.gob.gt/informacion-residencias-permanentes/",
+   "source_url": "https://extranjeria.igm.gob.gt/index.php/component/content/article/residencias-permanentes?catid=8",
    "link_en": "/expat/guatemala/pensionado-visa/",
    "link_es": "/es/expatriacion/guatemala/visa-pensionado/"
   },
@@ -1268,7 +1304,7 @@
    "title_es": "Corrección: el plazo del ITIN y las tarifas de los planes de pago del IRS estaban mal — y el calendario de expiración por dígitos centrales ya no rige",
    "summary_en": "Thirty-one pages said an ITIN takes \"7-11 weeks during peak season and 6-8 weeks otherwise\". Both halves are wrong. The IRS says: allow 7 weeks, and 9-11 weeks if you apply during tax season (January 15 to April 30) or from overseas. A February filer budgeting 7 weeks can miss the April deadline. The site's own status-checking page already carried the correct wording, so the corpus contradicted itself. Same pass, on the twelve IRS notice-code pages: long-term installment agreements are $29 online with direct debit ($107 by phone, mail or in person, waived for low-income filers) and $69 online without ($178 otherwise, $43 low-income) — not \"$31 online, $130 non-direct-debit\". And the ITIN middle-digit expiration schedule was replaced with the only rule the IRS still publishes: an ITIN not used on a federal return for any 3 consecutive years expires on December 31 after the third year.",
    "summary_es": "Treinta y una páginas decían que un ITIN tarda «7-11 semanas en temporada alta y 6-8 semanas en otros momentos». Las dos mitades están mal. El IRS dice: espere 7 semanas, y de 9 a 11 si solicita en temporada de impuestos (15 de enero al 30 de abril) o desde el exterior. Quien presenta en febrero y calcula 7 semanas puede perder la fecha límite de abril. La propia página del sitio sobre cómo verificar el estatus ya tenía la redacción correcta, así que el corpus se contradecía. En el mismo paso, en las doce páginas de códigos de aviso del IRS: los planes de pago a largo plazo cuestan $29 en línea con débito directo ($107 por teléfono, correo o en persona, exonerado para ingresos bajos) y $69 en línea sin débito directo ($178 en otros canales, $43 para ingresos bajos) — no «$31 en línea, $130 sin débito directo». Y el calendario de expiración por dígitos centrales del ITIN se reemplazó por la única regla que el IRS sigue publicando: un ITIN que no se use en una declaración federal durante 3 años seguidos expira el 31 de diciembre del tercer año.",
-   "source_url": "https://www.irs.gov/individuals/individual-taxpayer-identification-number",
+   "source_url": "https://www.irs.gov/tin/itin/individual-taxpayer-identification-number-itin",
    "link_en": "/taxes/itin/how-to-apply/",
    "link_es": "/es/impuestos/itin/como-solicitar-itin/"
   },
@@ -1832,7 +1868,7 @@
    "title_es": "Nuevas ediciones de los Formularios I-539 e I-765 el 15 de septiembre -- las anteriores se rechazan, sin periodo de gracia",
    "summary_en": "USCIS announced that revised 09/15/26 editions of Form I-539 (extend/change status) and Form I-765 (work permit) publish September 15, 2026, aligned with the fixed-period-of-admission rule. No grace period: older editions postmarked or submitted on or after September 15 are rejected; the new editions are accepted only on or after that date.",
    "summary_es": "USCIS anunció que el 15 de septiembre de 2026 se publican las ediciones revisadas 09/15/26 del Formulario I-539 (extender/cambiar estatus) y del Formulario I-765 (permiso de trabajo), alineadas con la regla de admisión por periodo fijo. Sin periodo de gracia: las ediciones anteriores con matasellos o enviadas el 15 de septiembre o después se rechazan; las nuevas solo se aceptan a partir de esa fecha.",
-   "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting",
+   "source_url": "https://www.uscis.gov/archive/uscis-to-publish-new-editions-of-form-i-539-and-form-i-765-older-editions-will-be-rejected-starting",
    "link_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
    "link_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
   },
@@ -2053,6 +2089,18 @@
   {
    "date": "2026-08-03",
    "precision": "day",
+   "category": "asylum",
+   "title_en": "Refugee-suspension case (Pacito v. Trump): trial schedule reset, no trial date set",
+   "title_es": "Caso de la suspensión de refugiados (Pacito v. Trump): se reinicia el calendario, sin fecha de juicio",
+   "summary_en": "On August 3, 2026 the Western District of Washington granted the parties' stipulated motion to amend the case schedule. The bench trial, previously set for November 9, 2026, now begins 306 days after the later of the court's ruling on the government's protective-order motion or the government's answer to the amended complaint. The government's motion to dismiss is pending, so no trial date is set.",
+   "summary_es": "El 3 de agosto de 2026 el Distrito Oeste de Washington aprobó la moción conjunta de las partes para modificar el calendario del caso. El juicio sin jurado, antes fijado para el 9 de noviembre de 2026, ahora empieza 306 días después de lo último que ocurra: la decisión del tribunal sobre la moción de orden de protección del gobierno o la contestación del gobierno a la demanda enmendada. La moción del gobierno para desestimar está pendiente, así que no hay fecha de juicio.",
+   "source_url": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.344495/gov.uscourts.wawd.344495.218.0.pdf",
+   "link_en": "/immigration-cases/refugee-admissions-suspension-usrap/",
+   "link_es": "/es/casos-de-inmigracion/suspension-de-admisiones-de-refugiados-usrap/"
+  },
+  {
+   "date": "2026-08-03",
+   "precision": "day",
    "category": "tps",
    "title_en": "E-Verify moves the TPS Form I-9 dates again: Somalia to Aug. 5, Burma to Aug. 7, 2026",
    "title_es": "E-Verify vuelve a mover las fechas del Formulario I-9 del TPS: Somalia al 5 de agosto y Birmania al 7 de agosto de 2026",
@@ -2188,7 +2236,7 @@
    "title_es": "Corrección: 41 estados incluido DC han adoptado la expansión de Medicaid — Puerto Rico no puede adoptarla",
    "summary_en": "Our Medicaid pages previously said \"41 states + DC + Puerto Rico have adopted ACA Medicaid expansion.\" That double-counted DC (KFF's 41 already includes it) and wrongly listed Puerto Rico, which as a territory runs a separate capped Medicaid program outside the expansion framework and cannot adopt the expansion. Corrected against KFF tracking on July 27, 2026: 41 states including DC have adopted; 10 states have not. The Puerto Rico page now explains the territory's separate program.",
    "summary_es": "Nuestras páginas de Medicaid decían \"41 estados + DC + Puerto Rico han adoptado la expansión de Medicaid bajo ACA.\" Eso contaba a DC dos veces (el 41 de KFF ya lo incluye) y listaba erróneamente a Puerto Rico, que como territorio opera un programa de Medicaid separado con tope de fondos, fuera del marco de la expansión, y no puede adoptarla. Corregido contra el rastreo de KFF el 27 de julio de 2026: 41 estados incluido DC la han adoptado; 10 estados no. La página de Puerto Rico ahora explica el programa separado del territorio.",
-   "source_url": "https://www.kff.org/status-of-state-medicaid-expansion-decisions/",
+   "source_url": "https://www.kff.org/medicaid/status-of-state-medicaid-expansion-decisions/",
    "link_en": "/benefits/medicaid/",
    "link_es": "/es/beneficios/medicaid/",
    "affected_pages": [
@@ -2219,6 +2267,18 @@
     "/datasets/asylum-office-access/",
     "/es/datos/acceso-oficinas-asilo/"
    ]
+  },
+  {
+   "date": "2026-07-24",
+   "precision": "day",
+   "category": "education",
+   "title_en": "Education Department drops disparate-impact rules from its Title VI regulations",
+   "title_es": "El Departamento de Educación elimina las reglas de impacto dispar de su reglamento del Título VI",
+   "summary_en": "A final rule effective July 24, 2026 (91 FR 46733) removes disparate-impact liability from the Education Department's Title VI regulations. The rule does not mention English learners or language access. A school system's duty to take appropriate action to overcome language barriers comes from the Equal Educational Opportunities Act, 20 U.S.C. 1703(f), a statute the rule does not change.",
+   "summary_es": "Una regla final vigente desde el 24 de julio de 2026 (91 FR 46733) elimina la responsabilidad por impacto dispar del reglamento del Título VI del Departamento de Educación. La regla no menciona a los estudiantes de inglés ni el acceso lingüístico. El deber de un sistema escolar de tomar medidas apropiadas para superar las barreras de idioma viene de la Ley de Igualdad de Oportunidades Educativas, 20 U.S.C. 1703(f), una ley que la regla no cambia.",
+   "source_url": "https://www.federalregister.gov/documents/2026/07/24/2026-15019/rescinding-portions-of-the-department-of-education-title-vi-regulations-to-align-with-the-statutory",
+   "link_en": "/procedures/enroll-children-us-school/",
+   "link_es": "/es/tramites/enrolar-hijos-escuela-eeuu/"
   },
   {
    "date": "2026-07-24",
@@ -2261,7 +2321,7 @@
    "title_es": "La corte pausa el cumplimiento de la cuota de asilo — pero la cuota en sí todavía debe pagarse",
    "summary_en": "On July 21, 2026, a federal court in Massachusetts (Venez. Ass'n of Mass. v. USCIS, 26-cv-13038, D. Mass.) administratively stayed four applications of H.R.1: rejecting a Form I-589 for non-payment of the Annual Asylum Fee, terminating work authorization for non-payment, starting removal solely for non-payment, and applying H.R.1 to previously-extended TPS-based EAD expiration dates. Fee collection continues — anyone USCIS sent a notice must still pay it — and all other H.R.1 fees and requirements remain in effect. A hearing is set for July 30, 2026.",
    "summary_es": "El 21 de julio de 2026, un tribunal federal de Massachusetts (Venez. Ass'n of Mass. v. USCIS, 26-cv-13038, D. Mass.) suspendió administrativamente cuatro aplicaciones de la H.R.1: el rechazo del Formulario I-589 por no pagar la Tarifa Anual de Asilo, la cancelación de la autorización de trabajo por falta de pago, el inicio de la remoción únicamente por falta de pago y la aplicación de la H.R.1 a los vencimientos de EAD basados en TPS ya prorrogados. El cobro de la cuota continúa — quien haya recibido un aviso de USCIS aún debe pagarla — y todas las demás tarifas y requisitos de la H.R.1 siguen vigentes. Hay una audiencia fijada para el 30 de julio de 2026.",
-   "source_url": "https://www.uscis.gov/newsroom/alerts/court-issues-administrative-stay-of-certain-uscis-policies",
+   "source_url": "https://www.uscis.gov/archive/court-issues-administrative-stay-of-certain-uscis-policies",
    "link_en": "/procedures/asylum-annual-fee/",
    "link_es": "/es/tramites/cuota-anual-de-asilo/"
   },
@@ -2596,7 +2656,7 @@
    "title_es": "El límite de ingresos de IRS Free File para la temporada 2026 es de $89,000",
    "summary_en": "The IRS Free File guided-software income cap is $89,000 in adjusted gross income (up from $79,000) for the 2026 filing season. We updated the figure across every state's free-tax-help guide and the tax-software comparison; your ITIN is accepted, and the free return covers your federal taxes (some partners also include a free state return).",
    "summary_es": "El tope de ingresos del software guiado de IRS Free File es de $89,000 de ingreso bruto ajustado (subió desde $79,000) para la temporada de impuestos 2026. Actualizamos la cifra en la guía de ayuda gratuita de impuestos de cada estado y en la comparación de software; su ITIN se acepta y la declaración gratis cubre los impuestos federales (algunos socios también incluyen la declaración estatal gratis).",
-   "source_url": "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free",
+   "source_url": "https://www.irs.gov/e-file-do-your-taxes-for-free",
    "link_en": "/taxes/tax-software/",
    "link_es": "/es/impuestos/software-impuestos/"
   },
@@ -2644,7 +2704,7 @@
    "title_es": "Corrección: 7 direcciones de cortes de inmigración corregidas en nuestras páginas por estado",
    "summary_en": "Seven court listings (LaSalle and Oakdale LA, Kansas City MO, Otero NM, Guaynabo PR, San Antonio TX, Los Angeles-West CA) showed EOIR headquarters' Falls Church, VA address as the court city. Each was re-verified against its justice.gov page and corrected, in both languages.",
    "summary_es": "Siete cortes (LaSalle y Oakdale LA, Kansas City MO, Otero NM, Guaynabo PR, San Antonio TX, Los Ángeles-West CA) mostraban la dirección de la sede de EOIR en Falls Church, VA como ciudad de la corte. Cada una se verificó contra su página de justice.gov y se corrigió, en ambos idiomas.",
-   "source_url": "https://www.justice.gov/eoir/eoir-immigration-court-listing",
+   "source_url": "https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings",
    "link_en": "/procedures/immigration-court-by-state/",
    "link_es": "/es/tramites/corte-inmigracion-por-estado/"
   },
@@ -2692,7 +2752,7 @@
    "title_es": "Colombia cambió las tarifas de pasaporte en sus consulados en EE. UU.",
    "summary_en": "New fee schedule for Colombian passports issued at consulates in the United States took effect April 6, 2026 — ordinary booklet US$86, executive US$175, minors' processing differs.",
    "summary_es": "El nuevo tarifario para pasaportes colombianos emitidos en consulados de Estados Unidos rige desde el 6 de abril de 2026 — libreta ordinaria US$86, ejecutiva US$175, con trámite distinto para menores.",
-   "source_url": "https://www.cancilleria.gov.co/tramites_servicios/pasaportes",
+   "source_url": "https://www.cancilleria.gov.co/atencion-y-servicio-al-ciudadano/tramites-y-servicios/pasaportes",
    "link_en": "/consulates/procedures-by-country/colombia/passport-renewal/",
    "link_es": "/es/consulados/tramites-por-pais/colombia/renovar-pasaporte/"
   },
@@ -2764,7 +2824,7 @@
    "title_es": "Colombia actualizó sus tarifas migratorias — la cédula de extranjería cuesta COP 294,000",
    "summary_en": "Migración Colombia's annual fee resolution (Resolución 0599/2026) set the cédula de extranjería at COP 294,000 (≈US$82), effective February 10, 2026. These fees re-index every February.",
    "summary_es": "La resolución anual de tarifas de Migración Colombia (Resolución 0599/2026) fijó la cédula de extranjería en COP 294,000 (≈US$82), vigente desde el 10 de febrero de 2026. Estas tarifas se reajustan cada febrero.",
-   "source_url": "https://www.migracioncolombia.gov.co/noticias/atencion-migracion-colombia-actualiza-tarifas-para-2026",
+   "source_url": "https://www.migracioncolombia.gov.co/detalle-noticia/agenda-migcol/comunicaciones-y-prensa/atencion-migracion-colombia-actualiza-tarifas-para-2026-estos-son-los-nuevos-valores",
    "link_en": "/expat/colombia/m-11-rentista-visa/",
    "link_es": "/es/expatriacion/colombia/visa-m11-rentista/"
   },

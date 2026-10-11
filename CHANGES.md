@@ -9,9 +9,25 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 220 recorded changes. Source data as of 2026-10-07.
+Showing the 40 most recent of 225 recorded changes. Source data as of 2026-10-09.
 
 ---
+
+### 2026-10-09 · ENFORCEMENT
+
+**DHS and EOIR finalize the civil-penalty procedure for failure to depart and unlawful entry**
+
+A final rule placed on public inspection October 9, 2026 and scheduled to publish October 14, 2026 (FR Doc. 2026-21024) adopts the June 27, 2025 interim rule (90 FR 27439) on civil penalties for failing to depart under a voluntary departure order (INA 240B(d)), willfully failing to depart after a removal order (INA 274D) and unlawful entry (INA 275(b)). The document says its effective date is the date of publication in the Federal Register. DHS still imposes the penalty by written decision and order, with a 15-business-day appeal to DHS and no appeal to the Board of Immigration Appeals; the one change lets ICE accept a late appeal, case by case, when a mail delay beyond the person's control caused it. The penalty amounts are not changed.
+
+Primary source: <https://public-inspection.federalregister.gov/2026-21024.pdf>
+
+### 2026-10-09 · TAXES
+
+**IRS cancels the October 14 hearing on the refundable-credits proposal; the proposal stands**
+
+A Federal Register notice published October 9, 2026 (FR Doc. 2026-20790) cancels the public hearing that had been scheduled for October 14, 2026 on proposed regulations REG-119882-25, which would treat the refunded portion of certain refundable tax credits as a federal public benefit under PRWORA. The IRS received no requests to testify by the October 5, 2026 deadline. The notice cancels only the hearing; the proposal is not withdrawn, and as of October 9, 2026 no final rule had been published.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/09/2026-20790/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the>
 
 ### 2026-10-08 · ASYLUM
 
@@ -100,6 +116,14 @@ Primary source: <https://www.courtlistener.com/docket/73134602/gibson-brown-v-mu
 EADs issued on or before February 5, 2025 with a 'Card Expires' date of October 2, 2026 were valid until that date. As of October 5, 2026 USCIS had announced no further extension. USCIS still lists a separate court-ordered automatic extension of up to 540 days for certain pending renewals received before February 6, 2025.
 
 Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela>
+
+### 2026-10-01 · VISAS
+
+**Diversity Visa court order: ten extra days past fiscal year 2026, paused for State Department guidance**
+
+In Medani v. Trump (N.D. Cal. No. 5:26-cv-06332), a September 30, 2026 order told the State Department to take reasonable steps for ten more days past fiscal year 2026 to reconsider Diversity Visa applications refused solely under its two pause policies. On October 1, 2026 the court temporarily stayed that order so the State Department could prepare guidance for consulates. A status conference is set for October 15, 2026.
+
+Primary source: <https://www.courtlistener.com/docket/73529774/medani-v-trump/>
 
 ### 2026-10-01 · BUSINESS
 
@@ -219,7 +243,7 @@ Primary source: <https://hondurasemb.org/consulados>
 
 Our TPS pages gave two different counts for the same people: some used the National Immigration Forum's estimates (about 330,735 Haitian and 3,860 Syrian holders), while the TPS-by-country hub used DHS's. We now use DHS's own estimates everywhere, from its termination notices: about 352,959 Haitian TPS holders (90 FR 54733, Nov. 28, 2025) and 6,132 Syrian (90 FR 45398, Sept. 22, 2025), about 359,091 together. Venezuela's figure is unchanged for now because DHS's notices give different populations for different dates.
 
-Primary source: <https://www.federalregister.gov/d/2025-21379>
+Primary source: <https://www.federalregister.gov/documents/2025/11/28/2025-21379/termination-of-the-designation-of-haiti-for-temporary-protected-status>
 
 ### 2026-09-25 · DATA
 
@@ -235,7 +259,7 @@ Primary source: <https://www.ice.gov/identify-and-arrest/287g>
 
 We compared every court's judge table with EOIR's own court listing (updated September 24, 2026). Judges had moved since our last check: 62 judge listings were added and 30 removed across about 40 courts, and all 807 remote-hearing rooms were re-tested (16 did not open; those rows now point to EOIR's own list). No court closed beyond the two already noted (Batavia and San Francisco). Our legal-deserts dataset had counted a judge once per court they appear at, so an assistant chief judge who supervises several courts was counted several times; it now counts each person once. The national figure is 765 judges (was 781), and Louisiana has 25 (was 27).
 
-Primary source: <https://www.justice.gov/eoir/eoir-immigration-court-listing>
+Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings>
 
 ### 2026-09-24 · CORRECTION
 
@@ -308,30 +332,6 @@ Primary source: <https://www.uscis.gov/i-485>
 The pages for ERO El Paso Camp East Montana and the Karnes County Immigration Processing Center were deepened on September 17, 2026 with specifics verified the same day at their own ice.gov facility pages (last updated 08/10/2026 and 08/06/2026), ICE's CeBONDS page and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: the actual visiting periods (Camp East Montana is by appointment only, weekends and holidays 8 a.m.-1 p.m. and 2 p.m.-6 p.m. MT; Karnes runs 8 a.m.-6 p.m. on days assigned by housing unit, effective July 27, 2026); the mailing and money-deposit routes, including ICE's own contradiction at Karnes between a mail-in address for money orders and a statement that all money arriving by mail is returned to the sender; bond rules (CeBONDS only, Monday-Friday 9 a.m.-3 p.m. in the detainee's time zone, Fedwire or ACH only, obligor must be a citizen, LPR, law firm or non-profit); the ERO eFile requirement for legal visits; the deportation-officer and case-information contacts; the named free legal providers for each facility's court, with the RAICES Karnes hotline and the ABA detention hotline's in-facility speed dial 2150#; and the ICE Detention Reporting and Information Line, 1-888-351-4024.
 
 Primary source: <https://www.ice.gov/detain/detention-facilities/camp-east-montana>
-
-### 2026-09-17 · DATA
-
-**Visa wait times refreshed from the State Department page updated September 17, 2026**
-
-The Global Visa Wait Times table (243 posts) was re-read in a real browser on September 17, 2026, from the State Department page stamped 'Last updated: 17-SEP-2026', replacing the August 17 figures. Among the twelve countries this site tracks, the biggest moves were Mexico City's next B1/B2 appointment (4 to 5 months), Bogota's average B1/B2 wait (11 to 8.5 months), Tegucigalpa (7 to 5 months), Lima (7 to 8.5 months) and Guatemala City (1 to 1.5 months). The State Department blocks automated fetches, so this dataset is refreshed by hand from the rendered page.
-
-Primary source: <https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: 16 immigration-court hearing links that no longer worked now point to EOIR's own list**
-
-On September 17, 2026, all 786 Webex hearing-room links published on the immigration-court pages were re-tested against eoir.webex.com. Seventeen returned Webex's 'room not found' page; sixteen were replaced in both languages with a link to EOIR's 'Find an immigration court and access internet-based hearings' page (the judge's name and telephone access code were kept, because a dead room does not mean the judge has left), and one was a misspelling of a room that still works and now points to it. The remaining 769 links answered normally. Room links rot as judges move; they are re-tested monthly.
-
-Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings>
-
-### 2026-09-17 · CORRECTION
-
-**Correction: the DACA renewal-delays lawsuit is a records (FOIA) case, not a case that can order faster renewals**
-
-The Form I-821D renewal page described East Bay Sanctuary Covenant v. USCIS (N.D. Cal. 3:26-cv-06367) as a suit 'over severe DACA renewal delays' without saying what it asks for. The docket lists its cause as 5 U.S.C. § 552 (Freedom of Information Act): it asks the court to force USCIS and ICE to release their internal records about the delays, and cannot order USCIS to adjudicate renewals faster. The page now says so, notes the stipulated scheduling order entered September 15, 2026, and rolls its 'no ruling has changed the procedure' date forward from August 17 to September 17, 2026. The practical advice is unchanged: file at day 150.
-
-Primary source: <https://www.courtlistener.com/docket/73535388/east-bay-sanctuary-covenant-v-united-states-citizenship-and-immigration-services/>
 
 ---
 

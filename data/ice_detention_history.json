@@ -28,6 +28,26 @@
    "by_arresting_agency": {
     "ice": 58231,
     "cbp": 7534
+   },
+   "by_agency_x_criminality": {
+    "ice": {
+     "convicted_criminal": 18043,
+     "pending_criminal_charges": 18513,
+     "other_immigration_violator": 21675,
+     "no_conviction_count": 40188
+    },
+    "cbp": {
+     "convicted_criminal": 1286,
+     "pending_criminal_charges": 1734,
+     "other_immigration_violator": 4514,
+     "no_conviction_count": 6248
+    }
+   },
+   "by_processing_disposition": {
+    "expedited_removal_i860": 4806,
+    "notice_to_appear_i862": 46037,
+    "reinstatement_of_deport_order_i871": 4843,
+    "other": 10079
    }
   }
  ],

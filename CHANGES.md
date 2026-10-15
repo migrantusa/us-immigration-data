@@ -9,17 +9,49 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 225 recorded changes. Source data as of 2026-10-09.
+Showing the 40 most recent of 229 recorded changes. Source data as of 2026-10-09.
 
 ---
+
+### 2026-10-14 · RULE-CHANGE
+
+**Refugee-status termination: 10 days to answer a Notice of Intent to Terminate (interim final rule)**
+
+A DHS interim final rule effective October 14, 2026 (FR Doc. 2026-20956, 91 FR 65077) reduces the response period to a Notice of Intent to Terminate refugee status from thirty to ten days, for people DHS determines were not refugees at admission. An interview request must also be made within that period. Comments are accepted until November 13, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/14/2026-20956/>
+
+### 2026-10-14 · COURTS
+
+**Government appeals the Diversity Visa orders in Medani v. Trump; status conference moved to October 22**
+
+On October 14, 2026 the government filed a notice of appeal to the Ninth Circuit in Medani v. Trump (N.D. Cal. No. 5:26-cv-06332) from the September 30, 2026 order and the earlier class-certification, preliminary-injunction and enforcement orders. On October 13, 2026 the court granted the government's motion for an extension of time and clarification and continued the October 15 status conference to October 22, 2026.
+
+Primary source: <https://www.courtlistener.com/docket/73529774/medani-v-trump/>
+
+### 2026-10-14 · WORK-PERMITS
+
+**DHS makes the end of automatic EAD renewal extensions final**
+
+A final rule published in the Federal Register October 14, 2026 (FR Doc. 2026-20955, 91 FR 65306), effective that day, responds to public comments on DHS's October 30, 2025 interim final rule (90 FR 48799) and "adopts the IFR as final without change": EAD renewal applications (Form I-765) filed on or after October 30, 2025 still receive no automatic extension of the work permit while USCIS processes them. In Jane Doe 1 et al. v. DHS (No. 8:26-cv-00060, C.D. Cal.) the September 10, 2026 preliminary injunction still covers only the seven named plaintiffs; the motion-to-dismiss hearing is set for October 26, 2026.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents>
+
+### 2026-10-13 · COURTS
+
+**11th Circuit puts the government's rehearing petition on bond hearings on hold until the Supreme Court rules**
+
+On October 13, 2026 the 11th Circuit ordered that the government's petition for rehearing en banc in Hernandez Alvarez v. Warden (No. 25-14065), filed June 22, 2026, is held in abeyance pending the Supreme Court's decision in Rhoney v. Barbosa da Cunha, No. 26-104. The 11th Circuit's May 6, 2026 decision (a bond hearing is available after an interior arrest) stays not final; its mandate has been withheld since May 13, 2026. This changes no detention rule.
+
+Primary source: <https://www.courtlistener.com/docket/71937359/fidencio-alvarez-v-warden-federal-detention-center-miami/>
 
 ### 2026-10-09 · ENFORCEMENT
 
 **DHS and EOIR finalize the civil-penalty procedure for failure to depart and unlawful entry**
 
-A final rule placed on public inspection October 9, 2026 and scheduled to publish October 14, 2026 (FR Doc. 2026-21024) adopts the June 27, 2025 interim rule (90 FR 27439) on civil penalties for failing to depart under a voluntary departure order (INA 240B(d)), willfully failing to depart after a removal order (INA 274D) and unlawful entry (INA 275(b)). The document says its effective date is the date of publication in the Federal Register. DHS still imposes the penalty by written decision and order, with a 15-business-day appeal to DHS and no appeal to the Board of Immigration Appeals; the one change lets ICE accept a late appeal, case by case, when a mail delay beyond the person's control caused it. The penalty amounts are not changed.
+A final rule published in the Federal Register October 14, 2026 (FR Doc. 2026-21024, 91 FR 65390) adopts the June 27, 2025 interim rule (90 FR 27439) on civil penalties for failing to depart under a voluntary departure order (INA 240B(d)), willfully failing to depart after a removal order (INA 274D) and unlawful entry (INA 275(b)). The published rule says: 'The effective date of this final rule is October 14, 2026.' DHS still imposes the penalty by written decision and order, with a 15-business-day appeal to DHS and no appeal to the Board of Immigration Appeals; the one change lets ICE accept a late appeal, case by case, when a mail delay beyond the person's control caused it. The penalty amounts are not changed.
 
-Primary source: <https://public-inspection.federalregister.gov/2026-21024.pdf>
+Primary source: <https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations>
 
 ### 2026-10-09 · TAXES
 
@@ -300,38 +332,6 @@ Primary source: <https://www.ice.gov/foia/odo-facility-inspections>
 151 ICE facility pages and the 24 field-office pages (EN + ES) said the ERO field office phone handles ICE check-in, supervision and reporting. ICE's field-office directory (updated Sep 2, 2026) says the field offices "are not check-in locations" and sends check-ins to ice.gov/check-in; the pages now say only that. Where ICE's own facility page and its field-office directory print different field-office numbers (48 pages, 14 offices), both numbers are now shown, each labelled with the ICE page it comes from. The number given for the Board of Immigration Appeals, (703) 305-0289, is the main line of EOIR, the Justice Department agency the BIA belongs to, as printed on EOIR's own pages; it is now labelled that way.
 
 Primary source: <https://www.ice.gov/contact/field-offices>
-
-### 2026-09-23 · FEES
-
-**H.R.1 fees appeal: First Circuit moves the appellants' opening brief to October 30, 2026**
-
-On September 23, 2026 the First Circuit granted the appellants' first, unopposed request for more time in the H.R.1 fees appeal (No. 26-1893), enlarging the deadline for their brief and appendix from September 30 to October 30, 2026. The appellees' brief is due 30 days after the appellants' brief is served, and any reply 21 days after that. Nothing else changed: the H.R.1 asylum, work-permit (EAD) and TPS fees are still being collected, the nationwide stay of the rules letting USCIS reject a pending asylum application or start removal solely for non-payment of the Annual Asylum Fee still holds, and H.R.1's one-year cap on TPS-based work permits keeps operating while the appeal is briefed.
-
-Primary source: <https://storage.courtlistener.com/recap/gov.uscourts.ca1.54635/gov.uscourts.ca1.54635.108513193.0.pdf>
-
-### 2026-09-22 · ENFORCEMENT
-
-**Folkston Annex and South Texas ICE Processing Center pages now carry the visiting schedules, legal-visit rules and contacts ICE publishes**
-
-The pages for the Folkston ICE Processing Center Annex (Georgia) and the South Texas ICE Processing Center (Pearsall, Texas) were deepened on September 22, 2026 with specifics verified the same day at their own ice.gov facility pages (last updated 08/20/2026 and 08/06/2026) and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: the family, attorney, video-call, consular and clergy visiting periods ICE lists for each facility; visitor rules (ID, arrival time, minors, what visitors may bring); the ERO eFile rules for booking legal visits and the facility contacts for urgent legal requests; legal-document fax and email routes; mail and money-deposit rules, including ICE's own contradiction at the Folkston Annex between a mail-in address for money orders and a statement that all money arriving by mail is returned to the sender; complaint channels (ICE OPR, DHS OIG); and, for South Texas, the free legal providers EOIR lists for Pearsall, Texas. Several earlier statements were corrected, including that letters to a Folkston Annex detainee need the last four digits of the A-number.
-
-Primary source: <https://www.ice.gov/detain/detention-facilities/south-texas-ice-processing-center>
-
-### 2026-09-18 · BENEFITS
-
-**The 2022 public-charge rule's rescission took effect September 18, 2026 — only the 09/18/26 edition of Form I-485 is accepted**
-
-On September 18, 2026 the final rule rescinding the 2022 public-charge regulation (91 FR 45324) took effect, with no court order blocking it. The Policy Manual guidance USCIS published August 18, 2026 now governs (superseding the 1999 Interim Field Guidance): officers weigh five statutory factors case-by-case, and any means-tested benefit an applicant receives on or after September 18, 2026 — USCIS names cash assistance, housing assistance, food stamps, and college financial aid — can be considered. Benefits received before that date, and Forms I-485 postmarked or electronically submitted before it, are still judged under the 2022 rule. Public-charge bonds (Form I-945) returned, by USCIS invitation only. USCIS now accepts only the 09/18/26 edition of Form I-485 and rejects the 01/20/25 and 09/04/26 editions if postmarked or electronically submitted on or after September 18, 2026, with no grace period. Three lawsuits challenging the rule are pending in the Southern District of New York: one filed September 14 by New York, 20 other states, the governor of Pennsylvania and the District of Columbia (No. 1:26-cv-07978), one filed the same day by New York City and other cities and counties (No. 1:26-cv-07982), and one filed September 17 by Make the Road New York and others (No. 1:26-cv-08129), which the court accepted as related. As of September 24, 2026 no court has blocked the rule; the first conference is set for October 9, 2026.
-
-Primary source: <https://www.uscis.gov/i-485>
-
-### 2026-09-17 · ENFORCEMENT
-
-**Two ICE facility pages now carry the visiting hours, money-deposit routes, bond rules and named free legal providers ICE and EOIR publish**
-
-The pages for ERO El Paso Camp East Montana and the Karnes County Immigration Processing Center were deepened on September 17, 2026 with specifics verified the same day at their own ice.gov facility pages (last updated 08/10/2026 and 08/06/2026), ICE's CeBONDS page and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: the actual visiting periods (Camp East Montana is by appointment only, weekends and holidays 8 a.m.-1 p.m. and 2 p.m.-6 p.m. MT; Karnes runs 8 a.m.-6 p.m. on days assigned by housing unit, effective July 27, 2026); the mailing and money-deposit routes, including ICE's own contradiction at Karnes between a mail-in address for money orders and a statement that all money arriving by mail is returned to the sender; bond rules (CeBONDS only, Monday-Friday 9 a.m.-3 p.m. in the detainee's time zone, Fedwire or ACH only, obligor must be a citizen, LPR, law firm or non-profit); the ERO eFile requirement for legal visits; the deportation-officer and case-information contacts; the named free legal providers for each facility's court, with the RAICES Karnes hotline and the ABA detention hotline's in-facility speed dial 2150#; and the ICE Detention Reporting and Information Line, 1-888-351-4024.
-
-Primary source: <https://www.ice.gov/detain/detention-facilities/camp-east-montana>
 
 ---
 

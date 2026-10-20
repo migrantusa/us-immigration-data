@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-10-09"
+  "last_updated": "2026-10-19"
  },
  "upcoming": [
   {
@@ -56,6 +56,18 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-10-16",
+   "precision": "day",
+   "category": "fees",
+   "title_en": "H.R. 1 fiscal year 2027 fee amounts now in effect: Annual Asylum Fee $105, initial work permit $570, TPS registration $520, parole $1,050, in-absentia fee $5,300",
+   "title_es": "Ya rigen los montos del año fiscal 2027 de las tarifas de la ley H.R. 1: Tarifa Anual de Asilo $105, permiso de trabajo inicial $570, registro de TPS $520, parole $1,050, tarifa por orden en ausencia $5,300",
+   "summary_en": "The fiscal year 2027 inflation adjustment to the fees created by H.R. 1 took effect on October 16, 2026, under three Federal Register notices published October 1, 2026 (CBP 2026-20185, 91 FR 62534; ICE 2026-20186, 91 FR 62542; DHS/USCIS 2026-20187, 91 FR 62540). USCIS requires the new amounts for requests postmarked on or after that date; the parole fee applies to grants of parole on or after it. New amounts: Annual Asylum Fee $105 (was $102); initial I-765 work permit for asylum, parole and TPS $570 (was $560); TPS registration (I-821) $520 (was $510); parole fee $1,050 (was $1,020); in-absentia removal fee and between-ports apprehension fee $5,300 (was $5,130). Unchanged: I-589 filing fee $100, I-765 renewals $280, SIJ petition $250, I-94 $24. The pages on this site that quote these fees now show the fiscal year 2027 amounts. The proposal to raise the in-absentia fee to $18,000 (FR 2026-10082) is still only proposed.",
+   "summary_es": "El ajuste por inflación del año fiscal 2027 de las tarifas creadas por la ley H.R. 1 entró en vigor el 16 de octubre de 2026, según tres avisos del Federal Register publicados el 1 de octubre de 2026 (CBP 2026-20185, 91 FR 62534; ICE 2026-20186, 91 FR 62542; DHS/USCIS 2026-20187, 91 FR 62540). USCIS exige los montos nuevos en las solicitudes con matasellos de esa fecha en adelante; la tarifa de parole aplica a las concesiones de parole desde esa fecha. Montos nuevos: Tarifa Anual de Asilo $105 (antes $102); permiso de trabajo inicial I-765 por asilo, parole y TPS $570 (antes $560); registro de TPS (I-821) $520 (antes $510); tarifa de parole $1,050 (antes $1,020); tarifa por orden de deportación en ausencia y tarifa por arresto entre puertos de entrada $5,300 (antes $5,130). Sin cambio: tarifa del I-589 $100, renovaciones del I-765 $280, petición SIJ $250, I-94 $24. Las páginas de este sitio que citan estas tarifas ya muestran los montos del año fiscal 2027. La propuesta de subir la tarifa por orden en ausencia a $18,000 (FR 2026-10082) sigue siendo solo una propuesta.",
+   "link_en": "/immigration-cases/hr1-obbba-asylum-ead-tps-immigration-fees-2025/",
+   "link_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/",
+   "source_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees"
+  },
   {
    "date": "2026-10-14",
    "precision": "day",

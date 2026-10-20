@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 229 recorded changes. Source data as of 2026-10-09.
+Showing the 40 most recent of 230 recorded changes. Source data as of 2026-10-19.
 
 ---
+
+### 2026-10-16 · FEES
+
+**H.R. 1 fiscal year 2027 fee amounts now in effect: Annual Asylum Fee $105, initial work permit $570, TPS registration $520, parole $1,050, in-absentia fee $5,300**
+
+The fiscal year 2027 inflation adjustment to the fees created by H.R. 1 took effect on October 16, 2026, under three Federal Register notices published October 1, 2026 (CBP 2026-20185, 91 FR 62534; ICE 2026-20186, 91 FR 62542; DHS/USCIS 2026-20187, 91 FR 62540). USCIS requires the new amounts for requests postmarked on or after that date; the parole fee applies to grants of parole on or after it. New amounts: Annual Asylum Fee $105 (was $102); initial I-765 work permit for asylum, parole and TPS $570 (was $560); TPS registration (I-821) $520 (was $510); parole fee $1,050 (was $1,020); in-absentia removal fee and between-ports apprehension fee $5,300 (was $5,130). Unchanged: I-589 filing fee $100, I-765 renewals $280, SIJ petition $250, I-94 $24. The pages on this site that quote these fees now show the fiscal year 2027 amounts. The proposal to raise the in-absentia fee to $18,000 (FR 2026-10082) is still only proposed.
+
+Primary source: <https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees>
 
 ### 2026-10-14 · RULE-CHANGE
 
@@ -324,14 +332,6 @@ Primary source: <https://www.justice.gov/eoir/media/1439236/dl?inline=>
 The pages for CoreCivic Laredo Processing Center (Texas), Winn Correctional Center (Louisiana), Diamondback Correctional Facility (Oklahoma) and San Luis Regional Detention Center (Arizona) were deepened on September 24, 2026 with specifics verified that day at each facility's ice.gov page (last updated 08/06/2026), ICE Office of Detention Oversight inspection reports from January 2026, CoreCivic's facility page for Diamondback, and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: each facility's family-visit schedule and visitor rules (Laredo's published windows cover only female detainees; Winn assigns days by custody level; Diamondback visits are by appointment within two one-hour blocks a week; San Luis splits days by sex), attorney, consular and clergy visiting, how legal video calls are booked (ERO eFile at Winn and Diamondback, email at San Luis), legal fax and email routes, mail formats and money-deposit routes (money orders at Laredo, cash accepted by mail at Winn, ViaPath at Diamondback, no published route at San Luis), and complaint channels. New inspection sections summarize ODO's January 2026 findings: one deficiency at Laredo (rated Good), 13 at Winn including two priority components (rated Acceptable/Adequate), and none at San Luis (rated Superior); ICE lists no inspection report for Diamondback.
 
 Primary source: <https://www.ice.gov/foia/odo-facility-inspections>
-
-### 2026-09-24 · CORRECTION
-
-**Correction: ICE facility pages said the ERO field office handles check-ins, and called EOIR's main line a Board of Immigration Appeals number**
-
-151 ICE facility pages and the 24 field-office pages (EN + ES) said the ERO field office phone handles ICE check-in, supervision and reporting. ICE's field-office directory (updated Sep 2, 2026) says the field offices "are not check-in locations" and sends check-ins to ice.gov/check-in; the pages now say only that. Where ICE's own facility page and its field-office directory print different field-office numbers (48 pages, 14 offices), both numbers are now shown, each labelled with the ICE page it comes from. The number given for the Board of Immigration Appeals, (703) 305-0289, is the main line of EOIR, the Justice Department agency the BIA belongs to, as printed on EOIR's own pages; it is now labelled that way.
-
-Primary source: <https://www.ice.gov/contact/field-offices>
 
 ---
 

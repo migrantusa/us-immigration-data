@@ -4,7 +4,7 @@ Puerto Rico,PR,1,5,0,0.0,0.0
 Louisiana,LA,4,25,6,1.5,0.24
 Arizona,AZ,4,22,19,4.8,0.86
 Hawaii,HI,1,4,5,5.0,1.25
-Georgia,GA,3,27,21,7.0,0.78
+Georgia,GA,3,27,20,6.7,0.74
 Tennessee,TN,2,23,15,7.5,0.65
 Texas,TX,12,139,108,9.0,0.78
 Utah,UT,1,7,10,10.0,1.43
@@ -13,20 +13,20 @@ Missouri,MO,1,5,12,12.0,2.4
 Colorado,CO,2,13,26,13.0,2.0
 New Mexico,NM,1,7,13,13.0,1.86
 Virginia,VA,2,40,27,13.5,0.68
-Maryland,MD,2,22,31,15.5,1.41
+Maryland,MD,2,22,32,16.0,1.45
 Connecticut,CT,1,5,17,17.0,3.4
-New Jersey,NJ,2,17,34,17.0,2.0
+New Jersey,NJ,2,17,35,17.5,2.06
 Indiana,IN,1,10,18,18.0,1.8
 Ohio,OH,1,13,21,21.0,1.62
+Oregon,OR,1,5,21,21.0,4.2
 Minnesota,MN,1,6,22,22.0,3.67
-Oregon,OR,1,5,22,22.0,4.4
 Nebraska,NE,1,7,24,24.0,3.43
 Florida,FL,3,76,79,26.3,1.04
-Washington,WA,2,13,55,27.5,4.23
+Washington,WA,2,13,56,28.0,4.31
 Massachusetts,MA,2,37,59,29.5,1.59
 New York,NY,5,90,151,30.2,1.68
-California,CA,10,104,305,30.5,2.93
+California,CA,10,104,303,30.3,2.91
 Michigan,MI,1,8,32,32.0,4.0
 Pennsylvania,PA,1,14,36,36.0,2.57
 North Carolina,NC,1,7,54,54.0,7.71
-Illinois,IL,1,21,76,76.0,3.62
+Illinois,IL,1,21,77,77.0,3.67

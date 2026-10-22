@@ -1,13 +1,13 @@
 {
  "_meta": {
-  "built_on": "2026-10-10",
+  "built_on": "2026-10-20",
   "source": "Computed by MigrantUSA by joining two federal EOIR datasets",
   "courts_source": "US Department of Justice, EOIR immigration court directory",
   "courts_source_url": "https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings",
   "orgs_source": "US Department of Justice, EOIR Recognized Organizations and Accredited Representatives roster",
   "orgs_source_url": "https://www.justice.gov/eoir/recognition-accreditation-roster-reports",
   "courts_as_of": "2026-05-26",
-  "orgs_as_of": "2026-09-06",
+  "orgs_as_of": "2026-10-18",
   "method": "For each state that hosts at least one EOIR immigration court, the count of DOJ-recognized nonprofit legal-aid organisations located in that state (from EOIR's own by-state roster index) is divided by the number of immigration courts in the state. Judges are distinct named judges in the courts' hearing-access tables, each person counted once (a judge listed at several courts is not counted twice). 'Recognized organization' is a narrow EOIR program -- nonprofits authorized to employ accredited non-attorney representatives -- and does NOT include private attorneys, law-school clinics, or bar pro-bono panels; a low count means few of this specific free/low-cost channel, not an absence of all legal help. Representation is not bound by state line (hearings are often by Webex), so the ratio is a local-access signal, not a capacity verdict. The District of Columbia is excluded because it hosts no immigration court, not for want of recognized organizations -- it has 14. summary.total_recognized_orgs counts the court-hosting jurisdictions in this table; summary.total_recognized_orgs_nationwide is the whole roster."
  },
  "summary": {
@@ -30,8 +30,8 @@
    "abbr": "IL",
    "courts": 1,
    "judges": 21,
-   "recognized_orgs": 76,
-   "orgs_per_court": 76.0
+   "recognized_orgs": 77,
+   "orgs_per_court": 77.0
   },
   "spread_ratio": 51,
   "zero_org_court_jurisdictions": [
@@ -78,8 +78,8 @@
     "abbr": "GA",
     "courts": 3,
     "judges": 27,
-    "recognized_orgs": 21,
-    "orgs_per_court": 7.0
+    "recognized_orgs": 20,
+    "orgs_per_court": 6.7
    },
    {
     "state": "Tennessee",
@@ -96,8 +96,8 @@
     "abbr": "IL",
     "courts": 1,
     "judges": 21,
-    "recognized_orgs": 76,
-    "orgs_per_court": 76.0
+    "recognized_orgs": 77,
+    "orgs_per_court": 77.0
    },
    {
     "state": "North Carolina",
@@ -128,8 +128,8 @@
     "abbr": "CA",
     "courts": 10,
     "judges": 104,
-    "recognized_orgs": 305,
-    "orgs_per_court": 30.5
+    "recognized_orgs": 303,
+    "orgs_per_court": 30.3
    }
   ]
  },
@@ -184,9 +184,9 @@
    "abbr": "GA",
    "courts": 3,
    "judges": 27,
-   "recognized_orgs": 21,
-   "orgs_per_court": 7.0,
-   "orgs_per_judge": 0.78
+   "recognized_orgs": 20,
+   "orgs_per_court": 6.7,
+   "orgs_per_judge": 0.74
   },
   {
    "state": "Tennessee",
@@ -265,9 +265,9 @@
    "abbr": "MD",
    "courts": 2,
    "judges": 22,
-   "recognized_orgs": 31,
-   "orgs_per_court": 15.5,
-   "orgs_per_judge": 1.41
+   "recognized_orgs": 32,
+   "orgs_per_court": 16.0,
+   "orgs_per_judge": 1.45
   },
   {
    "state": "Connecticut",
@@ -283,9 +283,9 @@
    "abbr": "NJ",
    "courts": 2,
    "judges": 17,
-   "recognized_orgs": 34,
-   "orgs_per_court": 17.0,
-   "orgs_per_judge": 2.0
+   "recognized_orgs": 35,
+   "orgs_per_court": 17.5,
+   "orgs_per_judge": 2.06
   },
   {
    "state": "Indiana",
@@ -306,6 +306,15 @@
    "orgs_per_judge": 1.62
   },
   {
+   "state": "Oregon",
+   "abbr": "OR",
+   "courts": 1,
+   "judges": 5,
+   "recognized_orgs": 21,
+   "orgs_per_court": 21.0,
+   "orgs_per_judge": 4.2
+  },
+  {
    "state": "Minnesota",
    "abbr": "MN",
    "courts": 1,
@@ -313,15 +322,6 @@
    "recognized_orgs": 22,
    "orgs_per_court": 22.0,
    "orgs_per_judge": 3.67
-  },
-  {
-   "state": "Oregon",
-   "abbr": "OR",
-   "courts": 1,
-   "judges": 5,
-   "recognized_orgs": 22,
-   "orgs_per_court": 22.0,
-   "orgs_per_judge": 4.4
   },
   {
    "state": "Nebraska",
@@ -346,9 +346,9 @@
    "abbr": "WA",
    "courts": 2,
    "judges": 13,
-   "recognized_orgs": 55,
-   "orgs_per_court": 27.5,
-   "orgs_per_judge": 4.23
+   "recognized_orgs": 56,
+   "orgs_per_court": 28.0,
+   "orgs_per_judge": 4.31
   },
   {
    "state": "Massachusetts",
@@ -373,9 +373,9 @@
    "abbr": "CA",
    "courts": 10,
    "judges": 104,
-   "recognized_orgs": 305,
-   "orgs_per_court": 30.5,
-   "orgs_per_judge": 2.93
+   "recognized_orgs": 303,
+   "orgs_per_court": 30.3,
+   "orgs_per_judge": 2.91
   },
   {
    "state": "Michigan",
@@ -409,9 +409,9 @@
    "abbr": "IL",
    "courts": 1,
    "judges": 21,
-   "recognized_orgs": 76,
-   "orgs_per_court": 76.0,
-   "orgs_per_judge": 3.62
+   "recognized_orgs": 77,
+   "orgs_per_court": 77.0,
+   "orgs_per_judge": 3.67
   }
  ]
 }

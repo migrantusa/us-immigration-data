@@ -2,17 +2,17 @@
  "_meta": {
   "title_en": "Immigration litigation tracker — 62 cases, status and dated movement",
   "title_es": "Rastreador de litigios migratorios — 62 casos, estado y movimiento fechado",
-  "as_of": "2026-10-08",
+  "as_of": "2026-10-25",
   "source": "MigrantUSA's own case tracker, maintained from the primary record for each case: the court's order or opinion, the Federal Register document, and the agency's own alert page. Each case entry carries its docket number and court so any row can be checked at the source.",
   "source_url": "https://migrantusa.com/immigration-cases/",
   "case_count": 62,
-  "event_count": 365,
-  "dated_event_count": 361,
+  "event_count": 369,
+  "dated_event_count": 365,
   "anchor_event_count": 4,
   "upcoming_event_count": 0,
   "next_scheduled_date": null,
   "earliest_event": "1997-01-28",
-  "latest_event": "2026-10-07",
+  "latest_event": "2026-10-14",
   "months_covered": 34,
   "busiest_month": "2026-06",
   "busiest_month_events": 41,
@@ -21,8 +21,8 @@
   "people_affected_total": 3229724,
   "status_counts": {
    "in_effect": 21,
-   "active_litigation": 10,
    "decided": 8,
+   "active_litigation": 10,
    "partially_blocked": 9,
    "awaiting_decision": 6,
    "injunction_in_effect": 8
@@ -30,6 +30,80 @@
   "notes": "Counts describe the cases we track, not the universe of immigration litigation. 'Status' is the case's posture at last check, not a prediction and not legal advice about any individual's situation."
  },
  "cases": [
+  {
+   "id": "ead-automatic-extension-ended",
+   "title_en": "DHS Ends the Automatic Extension of Work Permits (EADs)",
+   "title_es": "El DHS elimina la extensión automática de los permisos de trabajo (EAD)",
+   "case_name": "Removal of the Automatic Extension of Employment Authorization Documents (DHS interim final rule, RIN 1615-AD05)",
+   "docket": "RIN 1615-AD05; FR Doc. 2025-19702 (90 FR 48799); litigation No. 8:26-cv-00060 (C.D. Cal.)",
+   "court_en": "U.S. Department of Homeland Security / USCIS (rulemaking); challenge pending in the U.S. District Court for the Central District of California",
+   "court_es": "Departamento de Seguridad Nacional de EE. UU. / USCIS (reglamentación); impugnación pendiente en la Corte de Distrito de EE. UU. para el Distrito Central de California",
+   "status": "in_effect",
+   "status_label_en": "Policy in effect",
+   "status_label_es": "Política en vigor",
+   "what_it_affects_en": "People who file Form I-765 to renew an Employment Authorization Document (EAD) on or after October 30, 2025 in categories that previously qualified for the automatic extension — for example, adjustment-of-status applicants (c)(9), asylum applicants (c)(8), and H-4 and L-2 dependent spouses. For these renewals, the work permit is no longer extended automatically while USCIS processes the case; if the replacement card has not been issued before the current EAD expires, employment authorization lapses and the worker generally must stop working until the new card arrives. The October 14, 2026 final rule notes an exception for work authorization that comes with a status, “for example, certain L-2 spouses with appropriate notation on their Form I-94”: that authorization “continues for so long as the underlying nonimmigrant status remains valid, irrespective of any separate EAD.” The change applies only to renewals filed on or after October 30, 2025: EADs that were already automatically extended before that date keep their extension, and separate TPS-related automatic extensions granted through Federal Register notices are not affected. As a measure of scale, USCIS reported receiving an average of about 52,800 automatic-extension-eligible renewal EAD applications per month in fiscal year 2023. (Note: the rule does not state that 800,000 renewal applicants per year are affected; that 800,000 figure was a USCIS projection of applicants who could have faced an EAD lapse over the roughly 22-month period from May 2024 to March 2026 had the temporary 540-day extension not been in place.)",
+   "what_it_affects_es": "Personas que presentan el Formulario I-765 para renovar un permiso de trabajo (EAD) en o después del 30 de octubre de 2025 en categorías que antes calificaban para la extensión automática — por ejemplo, solicitantes de ajuste de estatus (c)(9), solicitantes de asilo (c)(8) y cónyuges dependientes H-4 y L-2. Para esas renovaciones, el permiso de trabajo ya no se extiende automáticamente mientras USCIS procesa el caso; si la nueva tarjeta no se emite antes de que venza el EAD vigente, la autorización de empleo caduca y, por lo general, la persona debe dejar de trabajar hasta que llegue la tarjeta nueva. La regla final del 14 de octubre de 2026 señala una excepción para la autorización de empleo que deriva de un estatus (por ejemplo, ciertos cónyuges L-2 con la anotación correspondiente en su Formulario I-94: “for example, certain L-2 spouses with appropriate notation on their Form I-94”): esa autorización continúa mientras siga vigente el estatus de no inmigrante subyacente, sin importar el EAD (“continues for so long as the underlying nonimmigrant status remains valid, irrespective of any separate EAD”). El cambio aplica solo a las renovaciones presentadas en o después del 30 de octubre de 2025: los EAD que ya se habían extendido automáticamente antes de esa fecha conservan su extensión, y las extensiones automáticas relacionadas con el TPS otorgadas mediante avisos del Registro Federal no se ven afectadas. Como referencia de magnitud, USCIS informó que recibió un promedio de aproximadamente 52,800 solicitudes de renovación de EAD elegibles para la extensión automática por mes en el año fiscal 2023. (Nota: la regla no afirma que se vean afectados 800,000 solicitantes de renovación por año; esa cifra de 800,000 fue una proyección de USCIS de solicitantes que podrían haber sufrido una caducidad del EAD durante el período de aproximadamente 22 meses, de mayo de 2024 a marzo de 2026, si no hubiera existido la extensión temporal de 540 días.)",
+   "people_affected": null,
+   "timeline_events": 8,
+   "first_event": "2025-10-30",
+   "latest_event": "2026-10-14",
+   "last_checked": "2026-10-15",
+   "topics": [
+    "work-permit"
+   ],
+   "url_en": "/immigration-cases/ead-automatic-540-day-extension-eliminated/",
+   "url_es": "/es/casos-de-inmigracion/extension-automatica-540-dias-permiso-trabajo-eliminada/"
+  },
+  {
+   "id": "benefits-adjudication-hold-vacated",
+   "title_en": "Court vacates USCIS asylum and benefits adjudication holds (39 countries)",
+   "title_es": "Un tribunal anula las pausas de USCIS en asilo y beneficios (39 países)",
+   "case_name": "Dorcas International Institute of Rhode Island v. U.S. Citizenship and Immigration Services",
+   "docket": "D.R.I. No. 1:26-cv-00132-JJM-PAS (on appeal: 1st Cir. No. 26-1703)",
+   "court_en": "U.S. District Court for the District of Rhode Island",
+   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito de Rhode Island",
+   "status": "decided",
+   "status_label_en": "Decided",
+   "status_label_es": "Resuelto",
+   "what_it_affects_en": "People from 39 \"travel-ban\" countries — which include large Cuban, Haitian, and Venezuelan communities — whose green-card (adjustment of status), work-permit (EAD), naturalization, and other USCIS benefit applications had been frozen, plus anyone with a pending asylum or withholding-of-removal case, since that hold applied regardless of nationality. With most of the ruling in effect, USCIS is again issuing decisions on these applications and is no longer weighing country of origin as an automatic negative factor. One exception applies since August 14, 2026: while the appeal proceeds, a First Circuit order lets USCIS resume re-reviewing already-approved cases of people from the designated countries who entered the United States on or after January 20, 2021. None of this changes who qualifies for any benefit. Since August 24, 2026, a separate class-wide injunction from the Northern District of California (Red Eagle Law v. Edlow) independently bars USCIS from applying the two hold memos to class members and orders normal-course adjudication.",
+   "what_it_affects_es": "Personas de 39 países sujetos a la \"prohibición de viaje\" — que incluyen a grandes comunidades cubana, haitiana y venezolana — cuyas solicitudes de green card (ajuste de estatus), permiso de trabajo (EAD), naturalización y otros beneficios de USCIS estaban congeladas, además de cualquier persona con un caso pendiente de asilo o de retención de expulsión, ya que esa pausa se aplicaba sin importar la nacionalidad. Con la mayor parte del fallo en vigor, USCIS vuelve a emitir decisiones sobre estas solicitudes y ya no considera el país de origen como un factor negativo automático. Hay una excepción desde el 14 de agosto de 2026: mientras avanza la apelación, una orden del Primer Circuito permite a USCIS volver a re-revisar los casos ya aprobados de personas de los países designados que entraron a Estados Unidos el 20 de enero de 2021 o después. Nada de esto cambia quién califica para ningún beneficio. Desde el 24 de agosto de 2026, una orden judicial de clase separada del Distrito Norte de California (Red Eagle Law v. Edlow) prohíbe de forma independiente a USCIS aplicar los dos memorandos de pausa a los miembros de la clase y ordena adjudicar en curso normal.",
+   "people_affected": null,
+   "timeline_events": 15,
+   "first_event": "2025-12-02",
+   "latest_event": "2026-10-14",
+   "last_checked": "2026-10-15",
+   "topics": [
+    "asylum",
+    "benefits"
+   ],
+   "url_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
+   "url_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
+  },
+  {
+   "id": "interior-arrest-bond-circuit-split",
+   "title_en": "Bond hearings after interior ICE arrests: circuit split",
+   "title_es": "Audiencias de fianza tras arrestos de ICE en el interior: división de circuitos",
+   "case_name": "Rhoney v. Barbosa da Cunha; Cunha v. Freden; Buenrostro-Mendez v. Bondi; Herrera Avila v. Bondi; Hernandez Alvarez v. Warden; Santillan Quiroz v. Mullin; Rodriguez Vazquez v. Bostock",
+   "docket": "U.S. No. 26-104; 2d Cir. No. 25-3141; 5th Cir. No. 25-20496; 8th Cir. No. 25-3248; 9th Cir. No. 25-6842; 10th Cir. No. 26-6019; 11th Cir. No. 25-14065",
+   "court_en": "U.S. Courts of Appeals (2nd, 5th, 6th, 7th, 8th, 9th, 10th & 11th Circuits); U.S. Supreme Court (certiorari granted October 1, 2026, No. 26-104)",
+   "court_es": "Cortes de Apelaciones de EE.UU. (Circuitos 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º y 11.º); Corte Suprema de EE.UU. (certiorari concedido el 1 de octubre de 2026, n.º 26-104)",
+   "status": "active_litigation",
+   "status_label_en": "Active litigation",
+   "status_label_es": "Litigio activo",
+   "what_it_affects_en": "Immigrants who entered the U.S. without inspection, have been living here, and are arrested in the interior (not at or near the border) and placed in removal proceedings — and their ability to ask an immigration judge for release on bond while their case is pending. Whether a bond hearing is available now depends on the circuit where the person is detained: the courts of appeals have held one is available in the 2nd Circuit (Connecticut, New York, Vermont), the 6th (Kentucky, Michigan, Ohio, Tennessee), the 9th (Alaska, Arizona, California, Hawaii, Idaho, Montana, Nevada, Oregon, Washington), the 10th (Colorado, Kansas, New Mexico, Oklahoma, Utah, Wyoming) and the 11th (Alabama, Florida, Georgia), but not in the 5th Circuit (Louisiana, Mississippi, Texas) or the 8th Circuit (Arkansas, Iowa, Minnesota, Missouri, Nebraska, North Dakota, South Dakota); the 7th Circuit's decision was splintered and failed to command a majority on this issue, though the plaintiffs won the bottom-line result there. The 11th Circuit ruling is not final: that court withheld its mandate on May 13, 2026, and on October 13, 2026 it ordered the government's petition for rehearing en banc, filed June 22, 2026, held in abeyance pending the Supreme Court's decision in Rhoney v. Barbosa da Cunha, No. 26-104. This does not change mandatory detention for people caught at or near the border, or mandatory detention under § 1226(c) for certain criminal or terrorism-related grounds.",
+   "what_it_affects_es": "Inmigrantes que entraron a EE. UU. sin inspección, han estado viviendo aquí y son arrestados en el interior (no en la frontera ni cerca de ella) y puestos en proceso de deportación — y su posibilidad de pedirle a un juez de inmigración la libertad bajo fianza mientras su caso está pendiente. Que haya o no audiencia de fianza depende ahora del circuito donde la persona esté detenida: las cortes de apelaciones han resuelto que sí la hay en el 2.º Circuito (Connecticut, Nueva York, Vermont), el 6.º (Kentucky, Michigan, Ohio, Tennessee), el 9.º (Alaska, Arizona, California, Hawái, Idaho, Montana, Nevada, Oregón, Washington), el 10.º (Colorado, Kansas, Nuevo México, Oklahoma, Utah, Wyoming) y el 11.º (Alabama, Florida, Georgia), pero no en el 5.º Circuito (Luisiana, Misisipi, Texas) ni en el 8.º Circuito (Arkansas, Iowa, Minnesota, Misuri, Nebraska, Dakota del Norte, Dakota del Sur); la decisión del 7.º Circuito fue fragmentada y no logró reunir mayoría sobre esta cuestión, aunque allí los demandantes ganaron en el resultado final. El fallo del 11.º Circuito no es definitivo: esa corte retuvo su mandato el 13 de mayo de 2026 y, el 13 de octubre de 2026, ordenó dejar en suspenso la petición del gobierno de nueva audiencia en pleno, presentada el 22 de junio de 2026, hasta que la Corte Suprema decida Rhoney v. Barbosa da Cunha, n.º 26-104. Esto no cambia la detención obligatoria de quienes son detenidos en la frontera o cerca de ella, ni la detención obligatoria de la sección 1226(c) por ciertos antecedentes penales o de terrorismo.",
+   "people_affected": null,
+   "timeline_events": 17,
+   "first_event": "2026-02-06",
+   "latest_event": "2026-10-13",
+   "last_checked": "2026-10-15",
+   "topics": [
+    "detention",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
+   "url_es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
+  },
   {
    "id": "tennessee-sb1779-remain-after-removal",
    "title_en": "Tennessee HB 1704 / SB 1779 (Public Chapter 771): state crime for remaining after a final removal order",
@@ -97,7 +171,7 @@
    "timeline_events": 12,
    "first_event": "2025-01-20",
    "latest_event": "2026-10-05",
-   "last_checked": "2026-10-08",
+   "last_checked": "2026-10-23",
    "topics": [
     "citizenship",
     "kyr"
@@ -122,7 +196,7 @@
    "timeline_events": 3,
    "first_event": "2026-05-21",
    "latest_event": "2026-10-05",
-   "last_checked": "2026-10-08",
+   "last_checked": "2026-10-09",
    "topics": [
     "green-card"
    ],
@@ -178,56 +252,6 @@
    ],
    "url_en": "/immigration-cases/third-country-removals/",
    "url_es": "/es/casos-de-inmigracion/expulsiones-a-terceros-paises/"
-  },
-  {
-   "id": "interior-arrest-bond-circuit-split",
-   "title_en": "Bond hearings after interior ICE arrests: circuit split",
-   "title_es": "Audiencias de fianza tras arrestos de ICE en el interior: división de circuitos",
-   "case_name": "Rhoney v. Barbosa da Cunha; Cunha v. Freden; Buenrostro-Mendez v. Bondi; Herrera Avila v. Bondi; Hernandez Alvarez v. Warden; Santillan Quiroz v. Mullin; Rodriguez Vazquez v. Bostock",
-   "docket": "U.S. No. 26-104; 2d Cir. No. 25-3141; 5th Cir. No. 25-20496; 8th Cir. No. 25-3248; 9th Cir. No. 25-6842; 10th Cir. No. 26-6019; 11th Cir. No. 25-14065",
-   "court_en": "U.S. Courts of Appeals (2nd, 5th, 6th, 7th, 8th, 9th, 10th & 11th Circuits); U.S. Supreme Court (certiorari granted October 1, 2026, No. 26-104)",
-   "court_es": "Cortes de Apelaciones de EE.UU. (Circuitos 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º y 11.º); Corte Suprema de EE.UU. (certiorari concedido el 1 de octubre de 2026, n.º 26-104)",
-   "status": "active_litigation",
-   "status_label_en": "Active litigation",
-   "status_label_es": "Litigio activo",
-   "what_it_affects_en": "Immigrants who entered the U.S. without inspection, have been living here, and are arrested in the interior (not at or near the border) and placed in removal proceedings — and their ability to ask an immigration judge for release on bond while their case is pending. Whether a bond hearing is available now depends on the circuit where the person is detained: the courts of appeals have held one is available in the 2nd Circuit (Connecticut, New York, Vermont), the 6th (Kentucky, Michigan, Ohio, Tennessee), the 9th (Alaska, Arizona, California, Hawaii, Idaho, Montana, Nevada, Oregon, Washington), the 10th (Colorado, Kansas, New Mexico, Oklahoma, Utah, Wyoming) and the 11th (Alabama, Florida, Georgia), but not in the 5th Circuit (Louisiana, Mississippi, Texas) or the 8th Circuit (Arkansas, Iowa, Minnesota, Missouri, Nebraska, North Dakota, South Dakota); the 7th Circuit's decision was splintered and failed to command a majority on this issue, though the plaintiffs won the bottom-line result there. The 11th Circuit ruling is not final: that court withheld its mandate on May 13, 2026, and the government's petition for rehearing en banc, filed June 22, 2026, had no ruling recorded on CourtListener's copy of the docket when we checked it on October 7, 2026 (its newest entry is dated June 26, 2026). This does not change mandatory detention for people caught at or near the border, or mandatory detention under § 1226(c) for certain criminal or terrorism-related grounds.",
-   "what_it_affects_es": "Inmigrantes que entraron a EE. UU. sin inspección, han estado viviendo aquí y son arrestados en el interior (no en la frontera ni cerca de ella) y puestos en proceso de deportación — y su posibilidad de pedirle a un juez de inmigración la libertad bajo fianza mientras su caso está pendiente. Que haya o no audiencia de fianza depende ahora del circuito donde la persona esté detenida: las cortes de apelaciones han resuelto que sí la hay en el 2.º Circuito (Connecticut, Nueva York, Vermont), el 6.º (Kentucky, Michigan, Ohio, Tennessee), el 9.º (Alaska, Arizona, California, Hawái, Idaho, Montana, Nevada, Oregón, Washington), el 10.º (Colorado, Kansas, Nuevo México, Oklahoma, Utah, Wyoming) y el 11.º (Alabama, Florida, Georgia), pero no en el 5.º Circuito (Luisiana, Misisipi, Texas) ni en el 8.º Circuito (Arkansas, Iowa, Minnesota, Misuri, Nebraska, Dakota del Norte, Dakota del Sur); la decisión del 7.º Circuito fue fragmentada y no logró reunir mayoría sobre esta cuestión, aunque allí los demandantes ganaron en el resultado final. El fallo del 11.º Circuito no es definitivo: esa corte retuvo su mandato el 13 de mayo de 2026 y la petición del gobierno de nueva audiencia en pleno, presentada el 22 de junio de 2026, no tenía ningún fallo registrado en la copia del expediente de CourtListener cuando la revisamos el 7 de octubre de 2026 (su entrada más reciente es del 26 de junio de 2026). Esto no cambia la detención obligatoria de quienes son detenidos en la frontera o cerca de ella, ni la detención obligatoria de la sección 1226(c) por ciertos antecedentes penales o de terrorismo.",
-   "people_affected": null,
-   "timeline_events": 16,
-   "first_event": "2026-02-06",
-   "latest_event": "2026-10-01",
-   "last_checked": "2026-10-07",
-   "topics": [
-    "detention",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
-   "url_es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
-  },
-  {
-   "id": "benefits-adjudication-hold-vacated",
-   "title_en": "Court vacates USCIS asylum and benefits adjudication holds (39 countries)",
-   "title_es": "Un tribunal anula las pausas de USCIS en asilo y beneficios (39 países)",
-   "case_name": "Dorcas International Institute of Rhode Island v. U.S. Citizenship and Immigration Services",
-   "docket": "D.R.I. No. 1:26-cv-00132-JJM-PAS (on appeal: 1st Cir. No. 26-1703)",
-   "court_en": "U.S. District Court for the District of Rhode Island",
-   "court_es": "Tribunal de Distrito de EE.UU. para el Distrito de Rhode Island",
-   "status": "decided",
-   "status_label_en": "Decided",
-   "status_label_es": "Resuelto",
-   "what_it_affects_en": "People from 39 \"travel-ban\" countries — which include large Cuban, Haitian, and Venezuelan communities — whose green-card (adjustment of status), work-permit (EAD), naturalization, and other USCIS benefit applications had been frozen, plus anyone with a pending asylum or withholding-of-removal case, since that hold applied regardless of nationality. With most of the ruling in effect, USCIS is again issuing decisions on these applications and is no longer weighing country of origin as an automatic negative factor. One exception applies since August 14, 2026: while the appeal proceeds, a First Circuit order lets USCIS resume re-reviewing already-approved cases of people from the designated countries who entered the United States on or after January 20, 2021. None of this changes who qualifies for any benefit. Since August 24, 2026, a separate class-wide injunction from the Northern District of California (Red Eagle Law v. Edlow) independently bars USCIS from applying the two hold memos to class members and orders normal-course adjudication.",
-   "what_it_affects_es": "Personas de 39 países sujetos a la \"prohibición de viaje\" — que incluyen a grandes comunidades cubana, haitiana y venezolana — cuyas solicitudes de green card (ajuste de estatus), permiso de trabajo (EAD), naturalización y otros beneficios de USCIS estaban congeladas, además de cualquier persona con un caso pendiente de asilo o de retención de expulsión, ya que esa pausa se aplicaba sin importar la nacionalidad. Con la mayor parte del fallo en vigor, USCIS vuelve a emitir decisiones sobre estas solicitudes y ya no considera el país de origen como un factor negativo automático. Hay una excepción desde el 14 de agosto de 2026: mientras avanza la apelación, una orden del Primer Circuito permite a USCIS volver a re-revisar los casos ya aprobados de personas de los países designados que entraron a Estados Unidos el 20 de enero de 2021 o después. Nada de esto cambia quién califica para ningún beneficio. Desde el 24 de agosto de 2026, una orden judicial de clase separada del Distrito Norte de California (Red Eagle Law v. Edlow) prohíbe de forma independiente a USCIS aplicar los dos memorandos de pausa a los miembros de la clase y ordena adjudicar en curso normal.",
-   "people_affected": null,
-   "timeline_events": 13,
-   "first_event": "2025-12-02",
-   "latest_event": "2026-10-01",
-   "last_checked": "2026-09-05",
-   "topics": [
-    "asylum",
-    "benefits"
-   ],
-   "url_en": "/immigration-cases/asylum-benefits-adjudication-hold-vacated-39-countries/",
-   "url_es": "/es/casos-de-inmigracion/pausa-de-asilo-y-beneficios-anulada-39-paises/"
   },
   {
    "id": "hr1-obbba-immigration-fees-2025",
@@ -322,37 +346,13 @@
    "timeline_events": 6,
    "first_event": "2025-11-19",
    "latest_event": "2026-09-18",
-   "last_checked": "2026-10-08",
+   "last_checked": "2026-10-23",
    "topics": [
     "benefits",
     "green-card"
    ],
    "url_en": "/immigration-cases/public-charge-rule/",
    "url_es": "/es/casos-de-inmigracion/regla-carga-publica/"
-  },
-  {
-   "id": "ead-automatic-extension-ended",
-   "title_en": "DHS Ends the Automatic Extension of Work Permits (EADs)",
-   "title_es": "El DHS elimina la extensión automática de los permisos de trabajo (EAD)",
-   "case_name": "Removal of the Automatic Extension of Employment Authorization Documents (DHS interim final rule, RIN 1615-AD05)",
-   "docket": "RIN 1615-AD05; FR Doc. 2025-19702 (90 FR 48799); litigation No. 8:26-cv-00060 (C.D. Cal.)",
-   "court_en": "U.S. Department of Homeland Security / USCIS (rulemaking); challenge pending in the U.S. District Court for the Central District of California",
-   "court_es": "Departamento de Seguridad Nacional de EE. UU. / USCIS (reglamentación); impugnación pendiente en la Corte de Distrito de EE. UU. para el Distrito Central de California",
-   "status": "in_effect",
-   "status_label_en": "Policy in effect",
-   "status_label_es": "Política en vigor",
-   "what_it_affects_en": "People who file Form I-765 to renew an Employment Authorization Document (EAD) on or after October 30, 2025 in categories that previously qualified for the automatic extension — for example, adjustment-of-status applicants (c)(9), asylum applicants (c)(8), and H-4 and L-2 dependent spouses. For these renewals, the work permit is no longer extended automatically while USCIS processes the case; if the replacement card has not been issued before the current EAD expires, employment authorization lapses and the worker generally must stop working until the new card arrives. The change applies only to renewals filed on or after October 30, 2025: EADs that were already automatically extended before that date keep their extension, and separate TPS-related automatic extensions granted through Federal Register notices are not affected. As a measure of scale, USCIS reported receiving an average of about 52,800 automatic-extension-eligible renewal EAD applications per month in fiscal year 2023. (Note: the rule does not state that 800,000 renewal applicants per year are affected; that 800,000 figure was a USCIS projection of applicants who could have faced an EAD lapse over the roughly 22-month period from May 2024 to March 2026 had the temporary 540-day extension not been in place.)",
-   "what_it_affects_es": "Personas que presentan el Formulario I-765 para renovar un permiso de trabajo (EAD) en o después del 30 de octubre de 2025 en categorías que antes calificaban para la extensión automática — por ejemplo, solicitantes de ajuste de estatus (c)(9), solicitantes de asilo (c)(8) y cónyuges dependientes H-4 y L-2. Para esas renovaciones, el permiso de trabajo ya no se extiende automáticamente mientras USCIS procesa el caso; si la nueva tarjeta no se emite antes de que venza el EAD vigente, la autorización de empleo caduca y, por lo general, la persona debe dejar de trabajar hasta que llegue la tarjeta nueva. El cambio aplica solo a las renovaciones presentadas en o después del 30 de octubre de 2025: los EAD que ya se habían extendido automáticamente antes de esa fecha conservan su extensión, y las extensiones automáticas relacionadas con el TPS otorgadas mediante avisos del Registro Federal no se ven afectadas. Como referencia de magnitud, USCIS informó que recibió un promedio de aproximadamente 52,800 solicitudes de renovación de EAD elegibles para la extensión automática por mes en el año fiscal 2023. (Nota: la regla no afirma que se vean afectados 800,000 solicitantes de renovación por año; esa cifra de 800,000 fue una proyección de USCIS de solicitantes que podrían haber sufrido una caducidad del EAD durante el período de aproximadamente 22 meses, de mayo de 2024 a marzo de 2026, si no hubiera existido la extensión temporal de 540 días.)",
-   "people_affected": null,
-   "timeline_events": 7,
-   "first_event": "2025-10-30",
-   "latest_event": "2026-09-18",
-   "last_checked": "2026-10-07",
-   "topics": [
-    "work-permit"
-   ],
-   "url_en": "/immigration-cases/ead-automatic-540-day-extension-eliminated/",
-   "url_es": "/es/casos-de-inmigracion/extension-automatica-540-dias-permiso-trabajo-eliminada/"
   },
   {
    "id": "duration-of-status-fixed-admission",
@@ -378,30 +378,6 @@
    ],
    "url_en": "/immigration-cases/end-of-duration-of-status-f1-j1-students/",
    "url_es": "/es/casos-de-inmigracion/fin-de-la-duracion-de-estatus-estudiantes-f1-j1/"
-  },
-  {
-   "id": "pacito-v-trump-refugee-suspension",
-   "title_en": "Pacito v. Trump: Court Challenge to the Refugee Admissions (USRAP) Suspension",
-   "title_es": "Pacito contra Trump: demanda contra la suspensión de admisiones de refugiados (USRAP)",
-   "case_name": "Pacito v. Trump",
-   "docket": "9th Cir. Nos. 25-1313 & 25-1939; W.D. Wash. No. 2:25-cv-00255",
-   "court_en": "U.S. Court of Appeals for the Ninth Circuit (on appeal from the U.S. District Court for the Western District of Washington)",
-   "court_es": "Corte de Apelaciones de EE.UU. para el Noveno Circuito (en apelación del Tribunal de Distrito de EE.UU. para el Distrito Oeste de Washington)",
-   "status": "partially_blocked",
-   "status_label_en": "Partially blocked",
-   "status_label_es": "Parcialmente bloqueada",
-   "what_it_affects_en": "Refugees who have already arrived in the United States, especially those resettled within the last 90 days, remain entitled to the domestic reception and placement services (housing help, cash assistance, case management) that the court preserved. Refugees who were approved before the suspension but had not yet entered generally cannot complete travel while the admissions pause stands. U.S.-based petitioners in the Follow-to-Join (Form I-730) family reunification process, and the case's three certified classes, are also affected. This is a preliminary-injunction ruling, not a final decision on the program's legality.",
-   "what_it_affects_es": "Los refugiados que ya llegaron a Estados Unidos, en especial quienes fueron reasentados en los últimos 90 días, conservan el derecho a los servicios nacionales de recepción y ubicación (ayuda con vivienda, asistencia en efectivo, gestión de casos) que el tribunal preservó. Los refugiados aprobados antes de la suspensión pero que aún no habían entrado por lo general no pueden completar su viaje mientras siga la pausa de admisiones. También se ven afectados los peticionarios en Estados Unidos dentro del proceso de reunificación familiar Follow-to-Join (Formulario I-730) y las tres clases certificadas en el caso. Esta es una decisión sobre mandatos preliminares, no una decisión final sobre la legalidad del programa.",
-   "people_affected": null,
-   "timeline_events": 7,
-   "first_event": "2025-01-20",
-   "latest_event": "2026-09-08",
-   "last_checked": "2026-08-26",
-   "topics": [
-    "asylum"
-   ],
-   "url_en": "/immigration-cases/refugee-admissions-suspension-usrap/",
-   "url_es": "/es/casos-de-inmigracion/suspension-de-admisiones-de-refugiados-usrap/"
   },
   {
    "id": "irs-ice-taxpayer-data-sharing",
@@ -446,7 +422,7 @@
    "timeline_events": 20,
    "first_event": "2025-05-19",
    "latest_event": "2026-08-25",
-   "last_checked": "2026-10-08",
+   "last_checked": "2026-10-23",
    "topics": [
     "tps",
     "work-permit"
@@ -554,6 +530,30 @@
    "url_es": "/es/casos-de-inmigracion/restricciones-al-permiso-de-trabajo-discrecional-parole-accion-diferida/"
   },
   {
+   "id": "pacito-v-trump-refugee-suspension",
+   "title_en": "Pacito v. Trump: Court Challenge to the Refugee Admissions (USRAP) Suspension",
+   "title_es": "Pacito contra Trump: demanda contra la suspensión de admisiones de refugiados (USRAP)",
+   "case_name": "Pacito v. Trump",
+   "docket": "9th Cir. Nos. 25-1313 & 25-1939; W.D. Wash. No. 2:25-cv-00255",
+   "court_en": "U.S. Court of Appeals for the Ninth Circuit (on appeal from the U.S. District Court for the Western District of Washington)",
+   "court_es": "Corte de Apelaciones de EE.UU. para el Noveno Circuito (en apelación del Tribunal de Distrito de EE.UU. para el Distrito Oeste de Washington)",
+   "status": "partially_blocked",
+   "status_label_en": "Partially blocked",
+   "status_label_es": "Parcialmente bloqueada",
+   "what_it_affects_en": "Refugees who have already arrived in the United States, especially those resettled within the last 90 days, remain entitled to the domestic reception and placement services (housing help, cash assistance, case management) that the court preserved. Refugees who were approved before the suspension but had not yet entered generally cannot complete travel while the admissions pause stands. U.S.-based petitioners in the Follow-to-Join (Form I-730) family reunification process, and the case's three certified classes, are also affected. This is a preliminary-injunction ruling, not a final decision on the program's legality.",
+   "what_it_affects_es": "Los refugiados que ya llegaron a Estados Unidos, en especial quienes fueron reasentados en los últimos 90 días, conservan el derecho a los servicios nacionales de recepción y ubicación (ayuda con vivienda, asistencia en efectivo, gestión de casos) que el tribunal preservó. Los refugiados aprobados antes de la suspensión pero que aún no habían entrado por lo general no pueden completar su viaje mientras siga la pausa de admisiones. También se ven afectados los peticionarios en Estados Unidos dentro del proceso de reunificación familiar Follow-to-Join (Formulario I-730) y las tres clases certificadas en el caso. Esta es una decisión sobre mandatos preliminares, no una decisión final sobre la legalidad del programa.",
+   "people_affected": null,
+   "timeline_events": 7,
+   "first_event": "2025-01-20",
+   "latest_event": "2026-08-03",
+   "last_checked": "2026-10-09",
+   "topics": [
+    "asylum"
+   ],
+   "url_en": "/immigration-cases/refugee-admissions-suspension-usrap/",
+   "url_es": "/es/casos-de-inmigracion/suspension-de-admisiones-de-refugiados-usrap/"
+  },
+  {
    "id": "h2a-aewr-farmworker-wage-rule",
    "title_en": "H-2A Farmworker Wage Rule Changes (AEWR) and United Farm Workers v. DOL",
    "title_es": "Cambios en la regla salarial (AEWR) para trabajadores agrícolas H-2A y United Farm Workers contra el DOL",
@@ -594,7 +594,7 @@
    "timeline_events": 3,
    "first_event": "2026-02-23",
    "latest_event": "2026-07-21",
-   "last_checked": "2026-10-08",
+   "last_checked": "2026-10-23",
    "topics": [
     "asylum",
     "work-permit"
@@ -994,7 +994,7 @@
    "timeline_events": 5,
    "first_event": "2025-04-14",
    "latest_event": "2026-04-10",
-   "last_checked": "2026-10-08",
+   "last_checked": "2026-10-23",
    "topics": [
     "enforcement",
     "asylum"
@@ -1731,18 +1731,18 @@
   },
   {
    "month": "2026-08",
-   "events": 33,
-   "cases_with_activity": 15
+   "events": 34,
+   "cases_with_activity": 16
   },
   {
    "month": "2026-09",
-   "events": 31,
-   "cases_with_activity": 14
+   "events": 30,
+   "cases_with_activity": 13
   },
   {
    "month": "2026-10",
-   "events": 8,
-   "cases_with_activity": 8
+   "events": 12,
+   "cases_with_activity": 9
   }
  ]
 }

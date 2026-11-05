@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 230 recorded changes. Source data as of 2026-10-19.
+Showing the 40 most recent of 231 recorded changes. Source data as of 2026-10-19.
 
 ---
+
+### 2026-11-01 · CONSULATES
+
+**Cuba's new Migration, Citizenship and Foreign Nationals laws (Leyes 171, 172 and 173) are now in force**
+
+The three laws published in Gaceta Oficial No. 39 on May 5, 2026, together with their regulations, took effect on Sunday, November 1, 2026, Granma reported on November 2. Ley 172 repeals Decreto-Ley 352 on citizenship by descent, and Ley 171 replaces the 24-month stay-abroad rule with "residencia efectiva migratoria". Procedures already under way when Decreto 136 took effect continue under the earlier rules. As of November 3, 2026, the Cuban consular page for the United States had not yet updated its instructions.
+
+Primary source: <https://www.granma.cu/cuba/2026-11-02/entra-en-vigor-nuevo-marco-legal-para-la-migracion-la-extranjeria-y-la-ciudadania-cubanas-02-11-2026-13-11-14>
 
 ### 2026-10-16 · FEES
 
@@ -324,14 +332,6 @@ Primary source: <https://www.uscis.gov/i-864>
 In a notice dated May 1, 2026, EOIR announced that "the San Francisco Immigration Court will permanently close, and its Sansome Street location will become a hearing location under the administrative control of the Concord Immigration Court, at the close of business on Sept. 4, 2026," that it would issue new hearing notices to everyone whose case was reassigned to Concord, and that those cases would be heard at the Concord Immigration Court or remotely. An earlier EOIR notice (April 10, 2026) had already ended hearings at the court's Montgomery Street location on May 1, 2026. EOIR's court listing, updated September 24, 2026, shows ten California courts and no San Francisco court. Our San Francisco court page still gave the Montgomery Street address and phone as a working court, and the California court guide, three ICE field-office pages and our court dataset still counted it. The San Francisco page now explains the closure and how to confirm your current court and hearing date (your latest hearing notice, EOIR's line 1-800-898-7180, or the ACIS portal); the California guide lists 10 courts; the court dataset records San Francisco as closed; and the legal-deserts figures were recomputed (72 courts nationally, 18.2 recognized nonprofits per court).
 
 Primary source: <https://www.justice.gov/eoir/media/1439236/dl?inline=>
-
-### 2026-09-24 · ENFORCEMENT
-
-**Laredo, Winn, Diamondback and San Luis ICE facility pages now carry ICE's visiting rules, legal-access routes and latest inspection results**
-
-The pages for CoreCivic Laredo Processing Center (Texas), Winn Correctional Center (Louisiana), Diamondback Correctional Facility (Oklahoma) and San Luis Regional Detention Center (Arizona) were deepened on September 24, 2026 with specifics verified that day at each facility's ice.gov page (last updated 08/06/2026), ICE Office of Detention Oversight inspection reports from January 2026, CoreCivic's facility page for Diamondback, and EOIR's July 2026 List of Pro Bono Legal Service Providers. Newly published: each facility's family-visit schedule and visitor rules (Laredo's published windows cover only female detainees; Winn assigns days by custody level; Diamondback visits are by appointment within two one-hour blocks a week; San Luis splits days by sex), attorney, consular and clergy visiting, how legal video calls are booked (ERO eFile at Winn and Diamondback, email at San Luis), legal fax and email routes, mail formats and money-deposit routes (money orders at Laredo, cash accepted by mail at Winn, ViaPath at Diamondback, no published route at San Luis), and complaint channels. New inspection sections summarize ODO's January 2026 findings: one deficiency at Laredo (rated Good), 13 at Winn including two priority components (rated Acceptable/Adequate), and none at San Luis (rated Superior); ICE lists no inspection report for Diamondback.
-
-Primary source: <https://www.ice.gov/foia/odo-facility-inspections>
 
 ---
 

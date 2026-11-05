@@ -57,6 +57,18 @@
  ],
  "changes": [
   {
+   "date": "2026-11-01",
+   "precision": "day",
+   "category": "consulates",
+   "title_en": "Cuba's new Migration, Citizenship and Foreign Nationals laws (Leyes 171, 172 and 173) are now in force",
+   "title_es": "Ya rigen las nuevas leyes cubanas de Migración, Ciudadanía y Extranjería (leyes 171, 172 y 173)",
+   "summary_en": "The three laws published in Gaceta Oficial No. 39 on May 5, 2026, together with their regulations, took effect on Sunday, November 1, 2026, Granma reported on November 2. Ley 172 repeals Decreto-Ley 352 on citizenship by descent, and Ley 171 replaces the 24-month stay-abroad rule with \"residencia efectiva migratoria\". Procedures already under way when Decreto 136 took effect continue under the earlier rules. As of November 3, 2026, the Cuban consular page for the United States had not yet updated its instructions.",
+   "summary_es": "Las tres leyes publicadas en la Gaceta Oficial No. 39 el 5 de mayo de 2026, junto con sus reglamentos, entraron en vigor el domingo 1 de noviembre de 2026, según informó Granma el 2 de noviembre. La Ley 172 deroga el Decreto-Ley 352 sobre la ciudadanía por nacimiento de hijos de cubanos nacidos en el exterior, y la Ley 171 sustituye la regla de los 24 meses de estancia en el exterior por la «residencia efectiva migratoria». Los trámites en curso cuando entró en vigor el Decreto 136 siguen con las reglas anteriores. Al 3 de noviembre de 2026, la página consular de Cuba para Estados Unidos aún no había actualizado sus instrucciones.",
+   "link_en": "/consulates/procedures-by-country/cuba/new-migration-laws-2026/",
+   "link_es": "/es/consulados/tramites-por-pais/cuba/nuevas-leyes-migratorias-2026/",
+   "source_url": "https://www.granma.cu/cuba/2026-11-02/entra-en-vigor-nuevo-marco-legal-para-la-migracion-la-extranjeria-y-la-ciudadania-cubanas-02-11-2026-13-11-14"
+  },
+  {
    "date": "2026-10-16",
    "precision": "day",
    "category": "fees",

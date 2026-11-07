@@ -2,17 +2,17 @@
  "_meta": {
   "title_en": "Immigration litigation tracker — 62 cases, status and dated movement",
   "title_es": "Rastreador de litigios migratorios — 62 casos, estado y movimiento fechado",
-  "as_of": "2026-10-25",
+  "as_of": "2026-11-06",
   "source": "MigrantUSA's own case tracker, maintained from the primary record for each case: the court's order or opinion, the Federal Register document, and the agency's own alert page. Each case entry carries its docket number and court so any row can be checked at the source.",
   "source_url": "https://migrantusa.com/immigration-cases/",
   "case_count": 62,
-  "event_count": 369,
-  "dated_event_count": 365,
+  "event_count": 373,
+  "dated_event_count": 369,
   "anchor_event_count": 4,
   "upcoming_event_count": 0,
   "next_scheduled_date": null,
   "earliest_event": "1997-01-28",
-  "latest_event": "2026-10-14",
+  "latest_event": "2026-10-30",
   "months_covered": 34,
   "busiest_month": "2026-06",
   "busiest_month_events": 41,
@@ -44,10 +44,10 @@
    "what_it_affects_en": "People who file Form I-765 to renew an Employment Authorization Document (EAD) on or after October 30, 2025 in categories that previously qualified for the automatic extension — for example, adjustment-of-status applicants (c)(9), asylum applicants (c)(8), and H-4 and L-2 dependent spouses. For these renewals, the work permit is no longer extended automatically while USCIS processes the case; if the replacement card has not been issued before the current EAD expires, employment authorization lapses and the worker generally must stop working until the new card arrives. The October 14, 2026 final rule notes an exception for work authorization that comes with a status, “for example, certain L-2 spouses with appropriate notation on their Form I-94”: that authorization “continues for so long as the underlying nonimmigrant status remains valid, irrespective of any separate EAD.” The change applies only to renewals filed on or after October 30, 2025: EADs that were already automatically extended before that date keep their extension, and separate TPS-related automatic extensions granted through Federal Register notices are not affected. As a measure of scale, USCIS reported receiving an average of about 52,800 automatic-extension-eligible renewal EAD applications per month in fiscal year 2023. (Note: the rule does not state that 800,000 renewal applicants per year are affected; that 800,000 figure was a USCIS projection of applicants who could have faced an EAD lapse over the roughly 22-month period from May 2024 to March 2026 had the temporary 540-day extension not been in place.)",
    "what_it_affects_es": "Personas que presentan el Formulario I-765 para renovar un permiso de trabajo (EAD) en o después del 30 de octubre de 2025 en categorías que antes calificaban para la extensión automática — por ejemplo, solicitantes de ajuste de estatus (c)(9), solicitantes de asilo (c)(8) y cónyuges dependientes H-4 y L-2. Para esas renovaciones, el permiso de trabajo ya no se extiende automáticamente mientras USCIS procesa el caso; si la nueva tarjeta no se emite antes de que venza el EAD vigente, la autorización de empleo caduca y, por lo general, la persona debe dejar de trabajar hasta que llegue la tarjeta nueva. La regla final del 14 de octubre de 2026 señala una excepción para la autorización de empleo que deriva de un estatus (por ejemplo, ciertos cónyuges L-2 con la anotación correspondiente en su Formulario I-94: “for example, certain L-2 spouses with appropriate notation on their Form I-94”): esa autorización continúa mientras siga vigente el estatus de no inmigrante subyacente, sin importar el EAD (“continues for so long as the underlying nonimmigrant status remains valid, irrespective of any separate EAD”). El cambio aplica solo a las renovaciones presentadas en o después del 30 de octubre de 2025: los EAD que ya se habían extendido automáticamente antes de esa fecha conservan su extensión, y las extensiones automáticas relacionadas con el TPS otorgadas mediante avisos del Registro Federal no se ven afectadas. Como referencia de magnitud, USCIS informó que recibió un promedio de aproximadamente 52,800 solicitudes de renovación de EAD elegibles para la extensión automática por mes en el año fiscal 2023. (Nota: la regla no afirma que se vean afectados 800,000 solicitantes de renovación por año; esa cifra de 800,000 fue una proyección de USCIS de solicitantes que podrían haber sufrido una caducidad del EAD durante el período de aproximadamente 22 meses, de mayo de 2024 a marzo de 2026, si no hubiera existido la extensión temporal de 540 días.)",
    "people_affected": null,
-   "timeline_events": 8,
+   "timeline_events": 11,
    "first_event": "2025-10-30",
-   "latest_event": "2026-10-14",
-   "last_checked": "2026-10-15",
+   "latest_event": "2026-10-30",
+   "last_checked": "2026-11-04",
    "topics": [
     "work-permit"
    ],
@@ -96,13 +96,38 @@
    "timeline_events": 17,
    "first_event": "2026-02-06",
    "latest_event": "2026-10-13",
-   "last_checked": "2026-10-15",
+   "last_checked": "2026-11-06",
    "topics": [
     "detention",
     "kyr"
    ],
    "url_en": "/immigration-cases/bond-hearings-interior-ice-arrests-circuit-split/",
    "url_es": "/es/casos-de-inmigracion/audiencias-de-fianza-arrestos-interior-division-de-circuitos/"
+  },
+  {
+   "id": "detention-bond-hearings",
+   "title_en": "Prolonged immigration detention & bond hearings",
+   "title_es": "Detención migratoria prolongada y audiencias de fianza",
+   "case_name": "Genalo v. Black (dismissed); Genalo v. D.C.",
+   "docket": "No. 25-886 (dismissed Sept. 11, 2026, Rule 46); No. 26-379 (petition for certiorari before judgment, filed Sept. 21, 2026)",
+   "court_en": "U.S. Supreme Court (on certiorari to the U.S. Court of Appeals for the Second Circuit)",
+   "court_es": "Corte Suprema de EE.UU. (certiorari del Segundo Circuito)",
+   "status": "active_litigation",
+   "status_label_en": "Active litigation",
+   "status_label_es": "Litigio activo",
+   "what_it_affects_en": "Noncitizens, including lawful permanent residents, who are already physically in the United States and held in mandatory ICE custody under 8 U.S.C. Section 1226(c) for prolonged periods (months to years) while their removal proceedings are pending. This case was meant to decide whether such prolonged detention triggers a constitutional right to an individualized bond hearing and, if so, whether the government must justify continued detention by clear and convincing evidence. Because it was dismissed without a ruling, the Second Circuit decision under review (covering immigration detention in New York, Connecticut, and Vermont) was not disturbed — the government said it would not seek vacatur of it — and the same question is now back before the Supreme Court in a new petition.",
+   "what_it_affects_es": "No ciudadanos, incluidos residentes permanentes legales, que ya están físicamente en EE.UU. y están bajo custodia obligatoria de ICE conforme a 8 U.S.C. § 1226(c) por periodos prolongados (meses o años) mientras se resuelve su proceso de deportación. Este caso iba a decidir si esa detención prolongada genera un derecho constitucional a una audiencia individual de fianza y, de ser así, si el gobierno debe justificar la detención continua con prueba clara y convincente. Como fue desestimado sin un fallo, la decisión del Segundo Circuito que se revisaba (que cubre la detención migratoria en Nueva York, Connecticut y Vermont) no se alteró — el gobierno dijo que no pediría su anulación — y la misma pregunta vuelve a estar ante la Corte Suprema en una nueva petición.",
+   "people_affected": null,
+   "timeline_events": 9,
+   "first_event": "2024",
+   "latest_event": "2026-10-08",
+   "last_checked": "2026-11-06",
+   "topics": [
+    "detention",
+    "kyr"
+   ],
+   "url_en": "/immigration-cases/immigration-detention-bond-hearings/",
+   "url_es": "/es/casos-de-inmigracion/audiencias-fianza-detencion-inmigratoria/"
   },
   {
    "id": "tennessee-sb1779-remain-after-removal",
@@ -171,7 +196,7 @@
    "timeline_events": 12,
    "first_event": "2025-01-20",
    "latest_event": "2026-10-05",
-   "last_checked": "2026-10-23",
+   "last_checked": "2026-11-06",
    "topics": [
     "citizenship",
     "kyr"
@@ -280,31 +305,6 @@
    "url_es": "/es/casos-de-inmigracion/tarifas-migratorias-hr1-obbba-asilo-permiso-trabajo-tps-2025/"
   },
   {
-   "id": "detention-bond-hearings",
-   "title_en": "Prolonged immigration detention & bond hearings",
-   "title_es": "Detención migratoria prolongada y audiencias de fianza",
-   "case_name": "Genalo v. Black (dismissed); Genalo v. D.C.",
-   "docket": "No. 25-886 (dismissed Sept. 11, 2026, Rule 46); No. 26-379 (petition for certiorari before judgment, filed Sept. 21, 2026)",
-   "court_en": "U.S. Supreme Court (on certiorari to the U.S. Court of Appeals for the Second Circuit)",
-   "court_es": "Corte Suprema de EE.UU. (certiorari del Segundo Circuito)",
-   "status": "active_litigation",
-   "status_label_en": "Active litigation",
-   "status_label_es": "Litigio activo",
-   "what_it_affects_en": "Noncitizens, including lawful permanent residents, who are already physically in the United States and held in mandatory ICE custody under 8 U.S.C. Section 1226(c) for prolonged periods (months to years) while their removal proceedings are pending. This case was meant to decide whether such prolonged detention triggers a constitutional right to an individualized bond hearing and, if so, whether the government must justify continued detention by clear and convincing evidence. Because it was dismissed without a ruling, the Second Circuit decision under review (covering immigration detention in New York, Connecticut, and Vermont) was not disturbed — the government said it would not seek vacatur of it — and the same question is now back before the Supreme Court in a new petition.",
-   "what_it_affects_es": "No ciudadanos, incluidos residentes permanentes legales, que ya están físicamente en EE.UU. y están bajo custodia obligatoria de ICE conforme a 8 U.S.C. § 1226(c) por periodos prolongados (meses o años) mientras se resuelve su proceso de deportación. Este caso iba a decidir si esa detención prolongada genera un derecho constitucional a una audiencia individual de fianza y, de ser así, si el gobierno debe justificar la detención continua con prueba clara y convincente. Como fue desestimado sin un fallo, la decisión del Segundo Circuito que se revisaba (que cubre la detención migratoria en Nueva York, Connecticut y Vermont) no se alteró — el gobierno dijo que no pediría su anulación — y la misma pregunta vuelve a estar ante la Corte Suprema en una nueva petición.",
-   "people_affected": null,
-   "timeline_events": 8,
-   "first_event": "2024",
-   "latest_event": "2026-09-21",
-   "last_checked": "2026-10-08",
-   "topics": [
-    "detention",
-    "kyr"
-   ],
-   "url_en": "/immigration-cases/immigration-detention-bond-hearings/",
-   "url_es": "/es/casos-de-inmigracion/audiencias-fianza-detencion-inmigratoria/"
-  },
-  {
    "id": "tuition-equity",
    "title_en": "In-state tuition for undocumented students",
    "title_es": "Matrícula estatal para estudiantes indocumentados",
@@ -346,7 +346,7 @@
    "timeline_events": 6,
    "first_event": "2025-11-19",
    "latest_event": "2026-09-18",
-   "last_checked": "2026-10-23",
+   "last_checked": "2026-11-06",
    "topics": [
     "benefits",
     "green-card"
@@ -422,7 +422,7 @@
    "timeline_events": 20,
    "first_event": "2025-05-19",
    "latest_event": "2026-08-25",
-   "last_checked": "2026-10-23",
+   "last_checked": "2026-11-06",
    "topics": [
     "tps",
     "work-permit"
@@ -546,7 +546,7 @@
    "timeline_events": 7,
    "first_event": "2025-01-20",
    "latest_event": "2026-08-03",
-   "last_checked": "2026-10-09",
+   "last_checked": "2026-11-04",
    "topics": [
     "asylum"
    ],
@@ -594,7 +594,7 @@
    "timeline_events": 3,
    "first_event": "2026-02-23",
    "latest_event": "2026-07-21",
-   "last_checked": "2026-10-23",
+   "last_checked": "2026-11-06",
    "topics": [
     "asylum",
     "work-permit"
@@ -994,7 +994,7 @@
    "timeline_events": 5,
    "first_event": "2025-04-14",
    "latest_event": "2026-04-10",
-   "last_checked": "2026-10-23",
+   "last_checked": "2026-11-06",
    "topics": [
     "enforcement",
     "asylum"
@@ -1741,8 +1741,8 @@
   },
   {
    "month": "2026-10",
-   "events": 12,
-   "cases_with_activity": 9
+   "events": 16,
+   "cases_with_activity": 10
   }
  ]
 }

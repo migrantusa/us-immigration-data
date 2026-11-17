@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 231 recorded changes. Source data as of 2026-10-19.
+Showing the 40 most recent of 232 recorded changes. Source data as of 2026-11-16.
 
 ---
+
+### 2026-11-12 · RULE-CHANGE
+
+**HUD final rule: every household member must show citizenship or eligible immigration status, and prorated assistance for mixed-status families becomes temporary (effective December 14, 2026)**
+
+HUD's final rule Housing and Community Development Act of 1980: Verification of Eligible Status (FR Doc. 2026-23003, 91 FR 72978), published November 12, 2026 and effective December 14, 2026, requires evidence of U.S. citizenship or eligible immigration status from every applicant and tenant in public housing, the Section 8 programs and Section 236, regardless of age, with primary verification through DHS's SAVE system. Prorated assistance for a mixed family lasts while the other members' status is pending final verification, or for families that qualify for continued assistance (families assisted on June 19, 1995 that meet the rule's conditions) or a temporary deferral of termination of up to 18 months in total. Tenants in mixed families who have not submitted evidence must do so within 90 days of December 14, 2026, with extensions limited to 60 days in total, and housing agencies and owners must send the required notice by January 11, 2027.
+
+Primary source: <https://www.federalregister.gov/documents/2026/11/12/2026-23003/housing-and-community-development-act-of-1980-verification-of-eligible-status>
 
 ### 2026-11-01 · CONSULATES
 
@@ -324,14 +332,6 @@ Primary source: <https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-11
 As of September 24, 2026, the USCIS Form I-864 page (last updated 09/04/2026) says the 08/24/26 edition was published August 31, 2026 with a 30-day grace period for the 10/17/24 edition: "Beginning Oct. 1, 2026, we will only accept the 08/24/26 edition of Form I-864. USCIS will not process any 10/17/24 edition of Form I-864 postmarked or electronically submitted on or after Oct. 1, 2026." USCIS says it does not reject the Form I-485 itself when filed with an older I-864 edition and applies 8 CFR 103.2(b)(8) on missing initial evidence. The new edition includes a privacy release authorizing USCIS and the Department of State to request information from consumer reporting agencies, including credit reports and scores, and USCIS warns that a credit or security freeze can keep it from reading that information. Our affidavit-of-support guide now carries the edition rule, the credit release and the freeze warning. While re-reading the form instructions we also corrected the tax-return line: the instructions require an IRS transcript or a photocopy of the return for the most recent tax year, with three years optional, not three years of IRS transcripts.
 
 Primary source: <https://www.uscis.gov/i-864>
-
-### 2026-09-24 · CORRECTION
-
-**Correction: the San Francisco Immigration Court closed on September 4, 2026 and its cases went to the Concord Immigration Court; our pages still showed it as open**
-
-In a notice dated May 1, 2026, EOIR announced that "the San Francisco Immigration Court will permanently close, and its Sansome Street location will become a hearing location under the administrative control of the Concord Immigration Court, at the close of business on Sept. 4, 2026," that it would issue new hearing notices to everyone whose case was reassigned to Concord, and that those cases would be heard at the Concord Immigration Court or remotely. An earlier EOIR notice (April 10, 2026) had already ended hearings at the court's Montgomery Street location on May 1, 2026. EOIR's court listing, updated September 24, 2026, shows ten California courts and no San Francisco court. Our San Francisco court page still gave the Montgomery Street address and phone as a working court, and the California court guide, three ICE field-office pages and our court dataset still counted it. The San Francisco page now explains the closure and how to confirm your current court and hearing date (your latest hearing notice, EOIR's line 1-800-898-7180, or the ACIS portal); the California guide lists 10 courts; the court dataset records San Francisco as closed; and the legal-deserts figures were recomputed (72 courts nationally, 18.2 recognized nonprofits per court).
-
-Primary source: <https://www.justice.gov/eoir/media/1439236/dl?inline=>
 
 ---
 

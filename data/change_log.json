@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-10-19"
+  "last_updated": "2026-11-16"
  },
  "upcoming": [
   {
@@ -56,6 +56,18 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-11-12",
+   "precision": "day",
+   "category": "rule-change",
+   "title_en": "HUD final rule: every household member must show citizenship or eligible immigration status, and prorated assistance for mixed-status families becomes temporary (effective December 14, 2026)",
+   "title_es": "Regla final de HUD: cada miembro del hogar debe probar ciudadanía o estatus migratorio elegible, y la asistencia prorrateada para familias de estatus mixto pasa a ser temporal (vigente desde el 14 de diciembre de 2026)",
+   "summary_en": "HUD's final rule Housing and Community Development Act of 1980: Verification of Eligible Status (FR Doc. 2026-23003, 91 FR 72978), published November 12, 2026 and effective December 14, 2026, requires evidence of U.S. citizenship or eligible immigration status from every applicant and tenant in public housing, the Section 8 programs and Section 236, regardless of age, with primary verification through DHS's SAVE system. Prorated assistance for a mixed family lasts while the other members' status is pending final verification, or for families that qualify for continued assistance (families assisted on June 19, 1995 that meet the rule's conditions) or a temporary deferral of termination of up to 18 months in total. Tenants in mixed families who have not submitted evidence must do so within 90 days of December 14, 2026, with extensions limited to 60 days in total, and housing agencies and owners must send the required notice by January 11, 2027.",
+   "summary_es": "La regla final de HUD Housing and Community Development Act of 1980: Verification of Eligible Status (FR Doc. 2026-23003, 91 FR 72978), publicada el 12 de noviembre de 2026 y vigente desde el 14 de diciembre de 2026, exige pruebas de ciudadanía estadounidense o de estatus migratorio elegible a cada solicitante e inquilino de la vivienda pública, los programas de la Sección 8 y la Sección 236, sin importar la edad, con verificación primaria por el sistema SAVE del DHS. La asistencia prorrateada para una familia mixta dura mientras el estatus de los demás miembros está pendiente de verificación final, o para las familias que califican para asistencia continuada (familias asistidas el 19 de junio de 1995 que cumplen las condiciones de la regla) o para un aplazamiento temporal de la terminación de hasta 18 meses en total. Los inquilinos de familias mixtas que no hayan entregado pruebas deben hacerlo dentro de los 90 días siguientes al 14 de diciembre de 2026, con prórrogas de hasta 60 días en total, y las agencias de vivienda y los dueños deben enviar el aviso requerido a más tardar el 11 de enero de 2027.",
+   "link_en": "/benefits/housing-by-state/",
+   "link_es": "/es/beneficios/vivienda-por-estado/",
+   "source_url": "https://www.federalregister.gov/documents/2026/11/12/2026-23003/housing-and-community-development-act-of-1980-verification-of-eligible-status"
+  },
   {
    "date": "2026-11-01",
    "precision": "day",

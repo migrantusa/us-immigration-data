@@ -12,7 +12,7 @@
    "benefits",
    "procedures"
   ],
-  "last_updated": "2026-11-16"
+  "last_updated": "2026-11-18"
  },
  "upcoming": [
   {
@@ -56,6 +56,18 @@
   }
  ],
  "changes": [
+  {
+   "date": "2026-11-17",
+   "precision": "day",
+   "category": "rule-change",
+   "title_en": "DOJ final rule brings back the 10-day immigration-appeal deadline and default summary dismissal (effective December 17, 2026)",
+   "title_es": "Regla final del DOJ restablece el plazo de 10 días para apelar y el rechazo sumario por defecto (vigente el 17 de diciembre de 2026)",
+   "summary_en": "The Justice Department's final rule Appellate Procedures for the Board of Immigration Appeals (FR Doc 2026-23320), published November 17, 2026 and effective December 17, 2026, finalizes the February 2026 interim rule with minor changes. It re-adopts the three provisions a federal court vacated on March 8, 2026 in Amica Center v. EOIR: the appeal deadline cut from 30 to 10 days (except appeals of the merits of certain asylum decisions), issues not raised in the Notice of Appeal deemed waived, and default summary dismissal by a single Board Member within 15 days of filing unless a majority of permanent Board members votes en banc within 10 days to accept the appeal. DOJ says the rule does not apply to appeals already pending before the Board.",
+   "summary_es": "La regla final del Departamento de Justicia Appellate Procedures for the Board of Immigration Appeals (FR Doc 2026-23320), publicada el 17 de noviembre de 2026 y vigente el 17 de diciembre de 2026, finaliza con cambios menores la regla interina de febrero de 2026. Vuelve a adoptar las tres disposiciones que un tribunal federal anuló el 8 de marzo de 2026 en Amica Center v. EOIR: el plazo de apelación reducido de 30 a 10 días (salvo las apelaciones sobre el fondo de ciertas decisiones de asilo), los temas no planteados en el Aviso de Apelación se consideran renunciados, y el rechazo sumario por defecto a cargo de un solo miembro de la Junta dentro de los 15 días de la presentación, salvo que la mayoría de los miembros permanentes vote en pleno, dentro de 10 días, aceptar la apelación. El DOJ afirma que la regla no se aplica a las apelaciones ya pendientes ante la Junta.",
+   "link_en": "/immigration-cases/bia-appeals-restructuring/",
+   "link_es": "/es/casos-de-inmigracion/reestructuracion-apelaciones-bia/",
+   "source_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals"
+  },
   {
    "date": "2026-11-12",
    "precision": "day",

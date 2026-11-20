@@ -9,9 +9,17 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 232 recorded changes. Source data as of 2026-11-16.
+Showing the 40 most recent of 233 recorded changes. Source data as of 2026-11-18.
 
 ---
+
+### 2026-11-17 · RULE-CHANGE
+
+**DOJ final rule brings back the 10-day immigration-appeal deadline and default summary dismissal (effective December 17, 2026)**
+
+The Justice Department's final rule Appellate Procedures for the Board of Immigration Appeals (FR Doc 2026-23320), published November 17, 2026 and effective December 17, 2026, finalizes the February 2026 interim rule with minor changes. It re-adopts the three provisions a federal court vacated on March 8, 2026 in Amica Center v. EOIR: the appeal deadline cut from 30 to 10 days (except appeals of the merits of certain asylum decisions), issues not raised in the Notice of Appeal deemed waived, and default summary dismissal by a single Board Member within 15 days of filing unless a majority of permanent Board members votes en banc within 10 days to accept the appeal. DOJ says the rule does not apply to appeals already pending before the Board.
+
+Primary source: <https://www.federalregister.gov/documents/2026/11/17/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals>
 
 ### 2026-11-12 · RULE-CHANGE
 
@@ -324,14 +332,6 @@ Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-
 Our Medicare page said a lawfully present worker who is not a permanent resident (deferred action including DACA, TPS, DED) and has 40 work quarters gets premium-free Part A at 65. That reasoning from 42 U.S.C. 426(a) and 402(y) missed a later law. Section 71201 of Public Law 119-21, enacted July 4, 2025, added section 1899C to the Social Security Act: a person "may be entitled to, or enrolled for, benefits under this title only if the individual is" a citizen or national of the United States, a lawful permanent resident, a Cuban and Haitian entrant, or someone lawfully residing in the US under a Compact of Free Association. For people who were already entitled or enrolled on July 4, 2025, the limit applies beginning 18 months after enactment, which is January 4, 2027; the Commissioner of Social Security had to complete a review of those enrollees within one year of enactment and must notify each person identified that their entitlement or enrollment will end on that date. The page now quotes the statute, lists the four groups, gives the transition date, and says it describes the law text, not how the Social Security Administration is carrying out the review. The earlier September 10, 2026 correction on this page is superseded.
 
 Primary source: <https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm>
-
-### 2026-09-24 · PROCEDURES
-
-**Form I-864: only the 08/24/26 edition is accepted from October 1, 2026, and it authorizes USCIS to pull the sponsor's credit report**
-
-As of September 24, 2026, the USCIS Form I-864 page (last updated 09/04/2026) says the 08/24/26 edition was published August 31, 2026 with a 30-day grace period for the 10/17/24 edition: "Beginning Oct. 1, 2026, we will only accept the 08/24/26 edition of Form I-864. USCIS will not process any 10/17/24 edition of Form I-864 postmarked or electronically submitted on or after Oct. 1, 2026." USCIS says it does not reject the Form I-485 itself when filed with an older I-864 edition and applies 8 CFR 103.2(b)(8) on missing initial evidence. The new edition includes a privacy release authorizing USCIS and the Department of State to request information from consumer reporting agencies, including credit reports and scores, and USCIS warns that a credit or security freeze can keep it from reading that information. Our affidavit-of-support guide now carries the edition rule, the credit release and the freeze warning. While re-reading the form instructions we also corrected the tax-return line: the instructions require an IRS transcript or a photocopy of the return for the most recent tax year, with three years optional, not three years of IRS transcripts.
-
-Primary source: <https://www.uscis.gov/i-864>
 
 ---
 

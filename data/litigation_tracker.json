@@ -2,34 +2,59 @@
  "_meta": {
   "title_en": "Immigration litigation tracker — 62 cases, status and dated movement",
   "title_es": "Rastreador de litigios migratorios — 62 casos, estado y movimiento fechado",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-18",
   "source": "MigrantUSA's own case tracker, maintained from the primary record for each case: the court's order or opinion, the Federal Register document, and the agency's own alert page. Each case entry carries its docket number and court so any row can be checked at the source.",
   "source_url": "https://migrantusa.com/immigration-cases/",
   "case_count": 62,
-  "event_count": 373,
-  "dated_event_count": 369,
+  "event_count": 374,
+  "dated_event_count": 370,
   "anchor_event_count": 4,
   "upcoming_event_count": 0,
   "next_scheduled_date": null,
   "earliest_event": "1997-01-28",
-  "latest_event": "2026-10-30",
-  "months_covered": 34,
+  "latest_event": "2026-11-17",
+  "months_covered": 35,
   "busiest_month": "2026-06",
   "busiest_month_events": 41,
   "busiest_month_cases": 26,
   "quantified_case_count": 6,
   "people_affected_total": 3229724,
   "status_counts": {
+   "partially_blocked": 9,
    "in_effect": 21,
    "decided": 8,
    "active_litigation": 10,
-   "partially_blocked": 9,
    "awaiting_decision": 6,
    "injunction_in_effect": 8
   },
   "notes": "Counts describe the cases we track, not the universe of immigration litigation. 'Status' is the case's posture at last check, not a prediction and not legal advice about any individual's situation."
  },
  "cases": [
+  {
+   "id": "bia-eoir-restructuring",
+   "title_en": "Immigration appeals (BIA) restructuring",
+   "title_es": "Reestructuración de las apelaciones migratorias (BIA)",
+   "case_name": "Amica Center v. EOIR",
+   "docket": "1:26-cv-00696 (D.D.C.); FR rules 2025-06294, 2026-02326 & final rule 2026-23320",
+   "court_en": "U.S. District Court for the District of Columbia",
+   "court_es": "Tribunal Federal del Distrito de Columbia",
+   "status": "partially_blocked",
+   "status_label_en": "Partially blocked",
+   "status_label_es": "Parcialmente bloqueada",
+   "what_it_affects_en": "Noncitizens in removal proceedings who appeal an immigration judge's decision to the Board of Immigration Appeals, and the legal-services groups that represent them. The 2025 rule cut the Board to 15 members; the 2026 rule sought to make merits review discretionary with default summary dismissal and to shorten the appeal deadline. A court vacated those core parts in March 2026, and a final rule re-adopts them effective December 17, 2026.",
+   "what_it_affects_es": "No ciudadanos en proceso de deportación que apelan la decisión de un juez de inmigración ante la Junta de Apelaciones de Inmigración, y las organizaciones de servicios legales que los representan. La regla de 2025 redujo la Junta a 15 miembros; la regla de 2026 buscó hacer discrecional la revisión de fondo con rechazo sumario por defecto y acortar el plazo de apelación. Un tribunal anuló esas partes centrales en marzo de 2026, y una regla final las vuelve a adoptar con vigencia el 17 de diciembre de 2026.",
+   "people_affected": null,
+   "timeline_events": 6,
+   "first_event": "2025-04-14",
+   "latest_event": "2026-11-17",
+   "last_checked": "2026-11-18",
+   "topics": [
+    "enforcement",
+    "asylum"
+   ],
+   "url_en": "/immigration-cases/bia-appeals-restructuring/",
+   "url_es": "/es/casos-de-inmigracion/reestructuracion-apelaciones-bia/"
+  },
   {
    "id": "ead-automatic-extension-ended",
    "title_en": "DHS Ends the Automatic Extension of Work Permits (EADs)",
@@ -196,7 +221,7 @@
    "timeline_events": 12,
    "first_event": "2025-01-20",
    "latest_event": "2026-10-05",
-   "last_checked": "2026-11-06",
+   "last_checked": "2026-11-19",
    "topics": [
     "citizenship",
     "kyr"
@@ -346,7 +371,7 @@
    "timeline_events": 6,
    "first_event": "2025-11-19",
    "latest_event": "2026-09-18",
-   "last_checked": "2026-11-06",
+   "last_checked": "2026-11-19",
    "topics": [
     "benefits",
     "green-card"
@@ -422,7 +447,7 @@
    "timeline_events": 20,
    "first_event": "2025-05-19",
    "latest_event": "2026-08-25",
-   "last_checked": "2026-11-06",
+   "last_checked": "2026-11-19",
    "topics": [
     "tps",
     "work-permit"
@@ -594,7 +619,7 @@
    "timeline_events": 3,
    "first_event": "2026-02-23",
    "latest_event": "2026-07-21",
-   "last_checked": "2026-11-06",
+   "last_checked": "2026-11-19",
    "topics": [
     "asylum",
     "work-permit"
@@ -976,31 +1001,6 @@
    ],
    "url_en": "/immigration-cases/california-city-detention-facility-conditions-injunction/",
    "url_es": "/es/casos-de-inmigracion/orden-judicial-condiciones-centro-detencion-california-city/"
-  },
-  {
-   "id": "bia-eoir-restructuring",
-   "title_en": "Immigration appeals (BIA) restructuring",
-   "title_es": "Reestructuración de las apelaciones migratorias (BIA)",
-   "case_name": "Amica Center v. EOIR",
-   "docket": "1:26-cv-00696 (D.D.C.); FR rules 2025-06294 & 2026-02326",
-   "court_en": "U.S. District Court for the District of Columbia",
-   "court_es": "Tribunal Federal del Distrito de Columbia",
-   "status": "partially_blocked",
-   "status_label_en": "Partially blocked",
-   "status_label_es": "Parcialmente bloqueada",
-   "what_it_affects_en": "Noncitizens in removal proceedings who appeal an immigration judge's decision to the Board of Immigration Appeals, and the legal-services groups that represent them. The 2025 rule cut the Board to 15 members; the 2026 rule tried to make merits review discretionary and shorten the appeal deadline before a court vacated its core parts.",
-   "what_it_affects_es": "No ciudadanos en proceso de deportación que apelan la decisión de un juez de inmigración ante la Junta de Apelaciones de Inmigración, y las organizaciones de servicios legales que los representan. La regla de 2025 redujo la Junta a 15 miembros; la regla de 2026 intentó hacer discrecional la revisión de fondo y acortar el plazo de apelación antes de que un tribunal anulara sus partes centrales.",
-   "people_affected": null,
-   "timeline_events": 5,
-   "first_event": "2025-04-14",
-   "latest_event": "2026-04-10",
-   "last_checked": "2026-11-06",
-   "topics": [
-    "enforcement",
-    "asylum"
-   ],
-   "url_en": "/immigration-cases/bia-appeals-restructuring/",
-   "url_es": "/es/casos-de-inmigracion/reestructuracion-apelaciones-bia/"
   },
   {
    "id": "ideological-deportation",
@@ -1743,6 +1743,11 @@
    "month": "2026-10",
    "events": 16,
    "cases_with_activity": 10
+  },
+  {
+   "month": "2026-11",
+   "events": 1,
+   "cases_with_activity": 1
   }
  ]
 }

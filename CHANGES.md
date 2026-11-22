@@ -9,9 +9,281 @@ overwrite it; this file keeps the change itself.
 [`scripts/refresh.py`](scripts/refresh.py). Canonical human-readable version, with
 full context on each entry: <https://migrantusa.com/updates/>
 
-Showing the 40 most recent of 233 recorded changes. Source data as of 2026-11-18.
+Showing the 40 most recent of 267 recorded changes. Source data as of 2026-11-18.
 
 ---
+
+### 2026-11-21 · PROCEDURES
+
+**New page: Nicaragua's January 2026 constitutional reforms on nationality, article by article**
+
+New page recording, with the text before and after, what Law No. 1268 (La Gaceta No. 09, January 16, 2026) changed in Articles 23 and 25 of Nicaragua's Constitution, and its entry into force on publication. It also records that the other reform laws of that week (Nos. 1269 to 1271) do not mention nationality, and that the 2026 gazette summaries read on November 21, 2026 (editions No. 1 to No. 214, except No. 205) list no other law amending the Constitution.
+
+Primary source: <https://www.lagaceta.gob.ni/la-gaceta-no-09-viernes-16-de-enero-de-2026/>
+
+### 2026-11-21 · PROCEDURES
+
+**New page: loss of Nicaraguan nationality under Law 1145, what the text says**
+
+New page reproducing the four articles of Nicaragua's Law No. 1145 (La Gaceta No. 25, February 10, 2023), which says persons sentenced under Law No. 1055 shall lose Nicaraguan nationality and gives its application to the judicial authority. It also quotes Law No. 1055 and lists the later constitutional texts on the same subject, and sets out the points the text does not address. Read in the official gazette on November 21, 2026.
+
+Primary source: <https://www.lagaceta.gob.ni/la-gaceta-n%C2%BA-25-viernes-10-de-febrero-de-2023/>
+
+### 2026-11-21 · CORRECTION
+
+**ICE facility pages: complaint channels now stated as ICE's own facility pages print them**
+
+The sentence on 164 facility pages that told readers to report conditions or employee conduct to the ERO field office was replaced. It now gives what the "Feedback or Complaints" section of ICE's facility pages says (three pages checked November 21, 2026): a person who wishes to make a complaint of misconduct may contact the Field Office Director, write to ICE's Office of Professional Responsibility, or contact the ICE OPR Integrity Coordination Center at 1-833-4ICE-OPR, and comments on services go in writing to the Field Office Director. Each page still names the field office the facility is under.
+
+Primary source: <https://www.ice.gov/detain/detention-facilities/stewart-detention-center>
+
+### 2026-11-21 · CORRECTION
+
+**Education rights page: parent-language, student-records and federal-aid statements now cite the statute or regulation**
+
+The education rights page now cites 20 U.S.C. 6312(e) and 34 CFR 300.322(e) for communication with parents, 34 CFR 99.30 and 99.31 for the release of student records, and 20 U.S.C. 1091(a)(5) for federal student aid. General statements that had no source, including that schools must always provide interpreters and that enforcement at schools stayed rare, were removed.
+
+Primary source: <https://www.ecfr.gov/current/title-34/section-99.31>
+
+### 2026-11-21 · CORRECTION
+
+**Consulate office pages in 11 countries: template text with no source removed**
+
+On the consulate office pages for Argentina, Colombia, Cuba, the Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua and Peru, we removed general statements that no source on the page supported: that consular premises "remain US soil", that an office also serves "neighboring states", generic fee wording, generic document checklists and appointment tips. The answer about record-sharing now says only that we found no official source on whether or how a consulate shares its users' records with US agencies. Addresses, phones, hours, fees and appointment systems taken from each office's own sources were kept.
+
+Primary source: <https://migrantusa.com/editorial-standards/>
+
+### 2026-11-21 · PROCEDURES
+
+**Six CBP deferred inspection site pages added: McAllen, Tucson, Juneau, Champlain, Alexandria Bay and Cleveland**
+
+Each new page gives the site's address, hours and phone as listed in CBP's deferred inspection directory on November 21, 2026, plus site-specific details from CBP's port pages. For McAllen, CBP's Hidalgo port page and a CBP fact sheet for the McAllen airport list a second number, (956) 682-2331, alongside the directory's (956) 686-1920; the page shows both with their sources.
+
+Primary source: <https://www.cbp.gov/contact/ports/deferred-inspection-sites>
+
+### 2026-11-21 · CORRECTION
+
+**ITIN banking pages: bank-identification rule now quoted from 31 CFR 1020.220; IRS processing time stated with its conditions**
+
+The ITIN banking hub and the state pages now quote the federal Customer Identification Program rule: from a non-US person a bank obtains one or more of a taxpayer identification number, a passport number and country of issuance, an alien identification card number, or the number and country of issuance of another government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard. They note separately that the IRS lists the ITIN among its taxpayer identification numbers. The ITIN processing time now follows the IRS page as of November 21, 2026: allow 7 weeks, or 9-11 weeks during tax season (January 15 to April 30) or if you applied from overseas. Statements that ITIN banking is "fully legal" and that banks are "not required to refuse" were removed because the rule does not say that.
+
+Primary source: <https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1020/subpart-B/section-1020.220>
+
+### 2026-11-21 · ENFORCEMENT
+
+**ICE 287(g) agreements dataset updated to ICE's list as of November 19, 2026: 2,807 agreements**
+
+ICE's participating-agencies workbook, which ICE's page dates as of November 19, 2026, lists 2,807 agreements: 185 Jail Enforcement Model, 581 Warrant Service Officer and 2,041 Task Force Model. Of those, 2,677 (95%) were signed since February 2025. Texas has 578 agreements and Florida 355. The dataset, the growth analysis and the dataset hub lines were recomputed from that workbook.
+
+Primary source: <https://www.ice.gov/identify-and-arrest/287g>
+
+### 2026-11-21 · ENFORCEMENT
+
+**September 2026 ICE inspection reports added for Bluebonnet, Delaney Hall, Florence SPC and Miami Correctional Facility**
+
+ICE's Office of Detention Oversight posted reports on inspections held in September 2026. Bluebonnet Detention Facility (September 22 to 24): 25 standards assessed, compliant with all 25, rated Superior. Delaney Hall (September 15 to 17): 33 standards assessed, compliant with 21; the report's tables count 22 deficiencies while its conclusion says 20. Florence SPC (September 15 to 17): compliant with 22 of 29 standards, 19 deficiencies, rated Acceptable/Adequate. Miami Correctional Facility in Indiana (its first report): compliant with 17 of 25 standards, 13 deficiencies, rated Acceptable/Adequate.
+
+Primary source: <https://www.ice.gov/foia/odo-facility-inspections>
+
+### 2026-11-21 · ENFORCEMENT
+
+**Eight ICE detention facility pages added: four newly listed by ICE and four known from 2026 inspection reports**
+
+New pages cover four facilities ICE now lists in its detention directory (Appleton Detention Facility, Minnesota; Cass County Detention Center, Indiana; Henderson County Detention Center, Kentucky; Lake County Jail, Florida), built from each facility's ICE page as read on November 21, 2026. Four more cover jails known from 2026 ICE inspection reports and the sheriff's own pages (Dallas County Jail - Lew Sterrett and Tom Green County Jail, Texas; Nelson Coleman Correctional Center, Louisiana; Scott County Detention Facility, Iowa). Where a sheriff page could only be read from an archived copy, the page gives that copy's date.
+
+Primary source: <https://www.ice.gov/detention-facilities>
+
+### 2026-11-21 · FEES
+
+**USCIS fee schedule edition 11/19/26: a re-parole work permit is no longer requested on Form I-131**
+
+USCIS's fee schedule (Form G-1055) now carries the edition date 11/19/26 (read November 21, 2026). USCIS says the latest Form I-131 removed the option to request an Employment Authorization Document upon approval of a new period of parole, and that people who want employment authorization based on re-parole must file Form I-765 after re-parole is approved. The other fees are unchanged from the 10/26/26 edition, and pages that cited that edition now name the 11/19/26 edition.
+
+Primary source: <https://www.uscis.gov/g-1055>
+
+### 2026-11-21 · COURTS
+
+**In-state tuition: Justice Department suits against the University of Delaware and Penn State added, with docket status as of November 21, 2026**
+
+The tuition-equity case page and the Delaware and Pennsylvania scholarship pages now record two federal suits over in-state tuition policies: United States v. University of Delaware (D. Del., No. 1:26-cv-01266, filed October 1, 2026) and United States v. Pennsylvania State University (M.D. Pa., No. 4:26-cv-03279, filed November 5, 2026). Both complaints invoke 8 U.S.C. 1623 and 1621(d) and ask for a declaration and a permanent injunction. Neither docket showed a ruling on the merits when checked on November 21, 2026.
+
+Primary source: <https://www.justice.gov/opa/pr/department-justice-files-complaint-against-pennsylvania-state-university-challenging-its>
+
+### 2026-11-21 · BENEFITS
+
+**Free hospital care by state: 2027 limit on Marketplace savings added to all state pages**
+
+Each of the state pages now notes that, for coverage from January 1, 2027, section 71301 of Public Law 119-21 limits Marketplace savings (the premium tax credit) to lawful permanent residents, Cuban/Haitian entrants and COFA migrants. HealthCare.gov said on November 21, 2026 that other immigration statuses may be eligible for Marketplace coverage, but not savings.
+
+Primary source: <https://www.healthcare.gov/immigrants/immigration-status/>
+
+### 2026-11-21 · CORRECTION
+
+**School enrollment guide: parent-language duties now cite the statute and regulation; 2015 federal guidance marked rescinded**
+
+The Department of Education's copy of its 2015 English-learner guidance letter is now marked as formally rescinded, so the guide no longer says schools must provide interpreters and translated documents in general. It now states the two specific duties we could source: the notice that a district using federal Title I or Title III funds for an English-learner program must send parents under 20 U.S.C. 6312(e), in a language the parents can understand to the extent practicable, and 34 CFR 300.322(e), which requires a school to take whatever action is necessary so a parent understands a special-education (IEP) meeting, including arranging an interpreter. Unsourced lines about typical district registration dates were removed.
+
+Primary source: <https://www.ecfr.gov/current/title-34/section-300.322>
+
+### 2026-11-21 · CORRECTION
+
+**Consular-ID pages for seven countries: US bank, REAL ID and TSA statements rewritten from the rule text**
+
+The consular-ID pages for Argentina, El Salvador, Guatemala, Honduras, Mexico, Nicaragua and the Dominican Republic now state the US bank identification rule in its own words (31 CFR 1020.220: for a bank that verifies identity through documents, those documents may include, for an individual, unexpired government-issued identification evidencing nationality or residence and bearing a photograph or similar safeguard) and describe airport ID by what TSA's own list showed on November 21, 2026. Claims about which banks, state DMVs or city programs accept a given card were removed where no source supports them; the Mexico and Guatemala pages keep only what a 2004 GAO report (GAO-04-881) recorded, labelled with its date.
+
+Primary source: <https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1020/subpart-B/section-1020.220>
+
+### 2026-11-21 · CORRECTION
+
+**Venezuela procedure and office pages: consulate status restated as of November 21, 2026; unsourced template text removed**
+
+Eighteen Venezuela procedure guides and the Venezuela hub and office pages (Washington DC, New York, Chicago, Los Angeles) now carry the same status line: on November 21, 2026 we found no announcement that any Venezuelan consulate in the US is open for services. Service lists, appointment notes and addresses that had no official source were removed. The Washington and New York pages now cite the State Department's Federal Register determination of April 3, 2023 (88 FR 19706), which says the embassy and the New York consulate general formally ceased diplomatic and consular activities in the United States on January 5, 2023; that record predates the March 5, 2026 agreement to re-establish relations.
+
+Primary source: <https://www.federalregister.gov/documents/2023/04/03/2023-06825/determination-pursuant-to-the-foreign-missions-act>
+
+### 2026-11-21 · COURTS
+
+**Immigration-court judge lists and remote-hearing links re-synced with EOIR's November 20, 2026 listing**
+
+Every immigration-court page and state roll-up now matches EOIR's hearing-access page stamped "Updated November 20, 2026" (read November 21, 2026). The count of distinct judges across the 72 courts moved from 759 to 791. Judges EOIR no longer lists were removed, newly listed judges were added, and where EOIR lists a hearing room whose link returned "not found" on November 21, the page links to EOIR's own list instead and keeps the telephone access code.
+
+Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings>
+
+### 2026-11-21 · DATA
+
+**Health coverage regardless of status: dataset rebuilt from NILC's August 2026 table; DC prenatal coverage and Colorado's enacted cap added**
+
+The by-state dataset now follows the National Immigration Law Center table dated August 2026, with each changed row checked at the state's own source on November 21, 2026. The District of Columbia is added to the prenatal column (CHIP From Conception to End of Pregnancy, per DC's Department of Health Care Finance), bringing it to 27 jurisdictions. Colorado's row for children now carries the terms of HB26-1411 (approved June 4, 2026): a conditional 25,000-child enrollment cap for 2026-27 and a $1,100 annual dental cap from July 1, 2026. Washington's row is unchanged because the state agency's pages did not confirm NILC's note on added spaces.
+
+Primary source: <https://www.leg.colorado.gov/laws/session-laws/HB26-1411/398/download>
+
+### 2026-11-21 · COURTS
+
+**AAUP v. Mullin: court sets a summary-judgment schedule for the adjustment-of-status memo challenge**
+
+On November 5, 2026 the District of Massachusetts granted the parties' joint schedule (ECF 29-30): cross-motions for summary judgment on Claims I-V, Count VI held in abeyance; plaintiffs' motion due December 22, 2026, government cross-motion January 22, 2027, replies February 19 and March 12, 2027. No preliminary-injunction or stay motion appears; PM-602-0199 remains in effect. Case page updated.
+
+Primary source: <https://www.courtlistener.com/docket/74919678/american-association-of-university-professors-v-mullin/>
+
+### 2026-11-21 · COURTS
+
+**H.R.1 fees: First Circuit appeal No. 26-1893 dismissed (Fed. R. App. P. 42(b))**
+
+The appellants moved to dismiss on October 21, 2026; on November 9, 2026 the First Circuit entered judgment “dismissing case pursuant to Fed. R. App. P. 42(b)” and issued its mandate. The one-year cap on TPS-based work permits keeps operating; the merits case continues in the District of Massachusetts (No. 1:26-cv-13038). Case page and updates hub updated.
+
+Primary source: <https://www.courtlistener.com/docket/73728632/venezuelan-association-of-massachusetts-v-united-states-citizenship-and/>
+
+### 2026-11-21 · COURTS
+
+**Medani v. Trump: the court's October 13 order set the DV adjudication window (Oct 14-23); emergency motion to enforce filed October 22**
+
+ECF 149 ordered the State Department to resume ordinary adjudication of FY-26 Diversity Visa applications from October 14, 2026 at 12:01 a.m. through October 23, 2026 at 11:59 p.m., local time at each post. On October 22, 2026 the plaintiffs filed an emergency motion to enforce the judgment as to a nonparty class member (ECF 162). Case page and DV lottery page updated.
+
+Primary source: <https://www.courtlistener.com/docket/73529774/medani-v-trump/>
+
+### 2026-11-21 · COURTS
+
+**Dorcas appeal (1st Cir. No. 26-1703): government's opening brief filed; appellees' brief due December 14, 2026**
+
+The First Circuit docketed the government's opening brief on November 13, 2026 (served November 12) and set the appellees' brief for December 14, 2026. Case page updated.
+
+Primary source: <https://www.courtlistener.com/docket/73477958/dorcas-international-institute-of-rhode-island-v-united-states-citizenship/>
+
+### 2026-11-21 · COURTS
+
+**Supreme Court No. 26-104 (Rhoney v. Barbosa da Cunha): merits briefs due November 30, 2026 and January 13, 2027**
+
+On October 28, 2026 the Court extended the time to file the joint appendix and petitioner's brief to November 30, 2026 and respondent's brief to January 13, 2027. No argument date is set as of November 21, 2026. Case page updated.
+
+Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html>
+
+### 2026-11-21 · COURTS
+
+**ICE detainee locator: legal-aid groups' lawsuit (D. Mass. No. 1:26-cv-14869) added to the sitewide notice**
+
+Greater Boston Legal Services v. Mullin challenges the locator's omission of people with final removal orders; according to the court docket, the plaintiffs filed a motion to stay on November 4, 2026, with no ruling as of November 21, 2026. ICE still has not confirmed the change. Notice re-checked November 21, 2026.
+
+Primary source: <https://www.courtlistener.com/docket/75031675/greater-boston-legal-services-v-mullin/>
+
+### 2026-11-21 · COURTS
+
+**EOIR pending caseload refreshed: 3,300,793 pending cases in its fiscal year 2026 figures (data generated October 22, 2026)**
+
+EOIR's Pending Cases, New Cases, and Total Completions PDF was regenerated October 22, 2026: fiscal year 2026 shows 3,300,793 pending cases, 528,889 initial receipts and 973,669 total completions, below the FY 2024 record of 3,924,917 (EOIR also revised earlier years). The figure on every immigration-court page now comes from this PDF.
+
+Primary source: <https://www.justice.gov/eoir/media/1344791/dl?inline>
+
+### 2026-11-21 · COURTS
+
+**Medani v. Trump: Ninth Circuit appeal No. 26-6876 scheduled; motion to enforce set for January 21, 2027**
+
+The status conference was advanced to and held on October 21, 2026. The Ninth Circuit set the government's opening brief for November 13 and the answering brief for December 11, 2026; no stay motion appears as of November 21, 2026 on the CourtListener copy. On November 18, 2026 the plaintiffs moved to enforce the judgment (hearing January 21, 2027). Case page and DV lottery page updated.
+
+Primary source: <https://www.courtlistener.com/docket/73529774/medani-v-trump/>
+
+### 2026-11-21 · COURTS
+
+**Tennessee SB 1779: Sixth Circuit No. 26-5832 identified as the appeal of the September 16, 2026 preliminary-injunction denial**
+
+The district docket (No. 3:26-cv-00998) shows the plaintiffs' September 18, 2026 notice of appeal from the September 16, 2026 memorandum opinion and order denying the preliminary injunction, docketed as No. 26-5832. Case page updated.
+
+Primary source: <https://www.courtlistener.com/docket/73640005/lucy-v-skrmetti/>
+
+### 2026-11-21 · EDUCATION
+
+**Virginia wins the DOJ in-state tuition suit (summary judgment, October 5, 2026)**
+
+On October 5, 2026 the Eastern District of Virginia granted Virginia's motion for summary judgment, denied DOJ's, and dismissed the case with prejudice; no appeal appears on the docket as of November 21, 2026. Virginia's in-state tuition law remains in effect. Tracker, dataset and case pages updated; suits now pending against sixteen more states and DC.
+
+Primary source: <https://www.courtlistener.com/docket/72085714/united-states-v-commonwealth-of-virginia/>
+
+### 2026-11-21 · COURTS
+
+**Alien registration: the district court case (D.D.C. 1:25-cv-00943) is voluntarily dismissed; the rule stays in effect**
+
+After the plaintiffs' October 21, 2026 notice of voluntary dismissal, the court on October 22, 2026 dismissed the case without prejudice and denied the pending motions, including the motion to lift the stay, as moot. The registration rule remains in effect. Case page updated.
+
+Primary source: <https://www.courtlistener.com/docket/69822820/coalition-for-humane-immigrant-rights-v-us-department-of-homeland/>
+
+### 2026-11-21 · COURTS
+
+**CHNV/FRP appeal: First Circuit orders another conforming brief; new brief tendered November 10, 2026**
+
+On November 3, 2026 the First Circuit again ordered the appellants to file a conforming brief and appendix by November 10, 2026; the government tendered them that day. Acceptance is not yet shown on the docket as of November 21, 2026, so the appellees' due date is not yet set by the record. Case page updated.
+
+Primary source: <https://www.courtlistener.com/docket/73139685/doe-v-mullin/>
+
+### 2026-11-21 · COURTS
+
+**EAD 540-day case: a filing labeled an amended complaint appears on the docket (November 13, 2026)**
+
+The C.D. Cal. docket (8:26-cv-00060) lists a November 13, 2026 filing labeled an amended complaint (Dkt. 55); its text is not in the free record. As of November 21, 2026 the CourtListener copy shows no entry for the November 16 hearing and no notice of appeal. Case page updated.
+
+Primary source: <https://www.courtlistener.com/docket/72122041/jane-doe-1-v-united-states-department-of-homeland-security/>
+
+### 2026-11-21 · TPS
+
+**Sudan and Ukraine TPS re-checked November 21, 2026: still no announcement**
+
+Re-read November 21, 2026: both USCIS pages (last updated October 19, 2026) still say an announcement will be made at the appropriate time and that holders retain protection including work authorization; no Federal Register document for Sudan or Ukraine TPS since January 18, 2025 (positive control: Lebanon 2026-10704 returns); nothing on public inspection; E-Verify guidance unchanged since October 19. Checked dates updated.
+
+Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-sudan>
+
+### 2026-11-21 · BENEFITS
+
+**California Medi-Cal: adult dental cut delayed to July 1, 2027; premiums for adults 19-59 set to rise to $50 from July 1, 2027**
+
+California's 2026-27 Enacted Budget Summary delays the elimination of full-scope dental coverage for Medi-Cal adults with unsatisfactory immigration status to July 1, 2027 (restricted-scope emergency dental continues) and raises their monthly premium (ages 19-59) from $30 to $50 effective July 1, 2027, subject to a determination in the 2027-28 May Revision. The health-coverage dataset's California entry and timeline were corrected (they said dental ends July 1, 2026 and premiums are $30).
+
+Primary source: <https://ebudget.ca.gov/2026-27/pdf/Enacted/BudgetSummary/HealthandHumanServices.pdf>
+
+### 2026-11-17 · CONSULATES
+
+**Honduras suspended passport issuance November 17-22, 2026, including at consular offices abroad**
+
+Honduras's migration institute (INM) announced that passport issuance would be suspended "a nivel nacional e internacional" from Tuesday, November 17 to Sunday, November 22, 2026, while it updated its passport-issuance system (Sistema Integral Migratorio). INM said no travel documents would be processed during that time at service centers in Honduras, airport offices or consular offices abroad, and that service was set to resume on Monday, November 23, 2026. The notices do not name individual consulates or say what happens to appointments booked for those dates (checked November 21, 2026).
+
+Primary source: <https://inm.gob.hn/noticias/migracion-honduras-suspende-emision-de-pasaportes-del-17-al-22-de-noviembre>
 
 ### 2026-11-17 · RULE-CHANGE
 
@@ -60,278 +332,6 @@ Primary source: <https://www.federalregister.gov/documents/2026/10/14/2026-20956
 On October 14, 2026 the government filed a notice of appeal to the Ninth Circuit in Medani v. Trump (N.D. Cal. No. 5:26-cv-06332) from the September 30, 2026 order and the earlier class-certification, preliminary-injunction and enforcement orders. On October 13, 2026 the court granted the government's motion for an extension of time and clarification and continued the October 15 status conference to October 22, 2026.
 
 Primary source: <https://www.courtlistener.com/docket/73529774/medani-v-trump/>
-
-### 2026-10-14 · WORK-PERMITS
-
-**DHS makes the end of automatic EAD renewal extensions final**
-
-A final rule published in the Federal Register October 14, 2026 (FR Doc. 2026-20955, 91 FR 65306), effective that day, responds to public comments on DHS's October 30, 2025 interim final rule (90 FR 48799) and "adopts the IFR as final without change": EAD renewal applications (Form I-765) filed on or after October 30, 2025 still receive no automatic extension of the work permit while USCIS processes them. In Jane Doe 1 et al. v. DHS (No. 8:26-cv-00060, C.D. Cal.) the September 10, 2026 preliminary injunction still covers only the seven named plaintiffs; the motion-to-dismiss hearing is set for October 26, 2026.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents>
-
-### 2026-10-13 · COURTS
-
-**11th Circuit puts the government's rehearing petition on bond hearings on hold until the Supreme Court rules**
-
-On October 13, 2026 the 11th Circuit ordered that the government's petition for rehearing en banc in Hernandez Alvarez v. Warden (No. 25-14065), filed June 22, 2026, is held in abeyance pending the Supreme Court's decision in Rhoney v. Barbosa da Cunha, No. 26-104. The 11th Circuit's May 6, 2026 decision (a bond hearing is available after an interior arrest) stays not final; its mandate has been withheld since May 13, 2026. This changes no detention rule.
-
-Primary source: <https://www.courtlistener.com/docket/71937359/fidencio-alvarez-v-warden-federal-detention-center-miami/>
-
-### 2026-10-09 · ENFORCEMENT
-
-**DHS and EOIR finalize the civil-penalty procedure for failure to depart and unlawful entry**
-
-A final rule published in the Federal Register October 14, 2026 (FR Doc. 2026-21024, 91 FR 65390) adopts the June 27, 2025 interim rule (90 FR 27439) on civil penalties for failing to depart under a voluntary departure order (INA 240B(d)), willfully failing to depart after a removal order (INA 274D) and unlawful entry (INA 275(b)). The published rule says: 'The effective date of this final rule is October 14, 2026.' DHS still imposes the penalty by written decision and order, with a 15-business-day appeal to DHS and no appeal to the Board of Immigration Appeals; the one change lets ICE accept a late appeal, case by case, when a mail delay beyond the person's control caused it. The penalty amounts are not changed.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations>
-
-### 2026-10-09 · TAXES
-
-**IRS cancels the October 14 hearing on the refundable-credits proposal; the proposal stands**
-
-A Federal Register notice published October 9, 2026 (FR Doc. 2026-20790) cancels the public hearing that had been scheduled for October 14, 2026 on proposed regulations REG-119882-25, which would treat the refunded portion of certain refundable tax credits as a federal public benefit under PRWORA. The IRS received no requests to testify by the October 5, 2026 deadline. The notice cancels only the hearing; the proposal is not withdrawn, and as of October 9, 2026 no final rule had been published.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/09/2026-20790/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the>
-
-### 2026-10-08 · ASYLUM
-
-**Fiscal Year 2027 refugee ceiling set at up to 17,500, mainly Afrikaners**
-
-Presidential Determination No. 2026-24 of September 25, 2026 (published October 2, 2026) authorizes the admission of up to 17,500 refugees in Fiscal Year 2027, allocated primarily to Afrikaners from South Africa under Executive Order 14204. It is the same number at which Fiscal Year 2026 ended. A ceiling is not a count, and the determination keeps refugee admissions subject to Executive Order 14163, which suspends refugee entry except case by case.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027>
-
-### 2026-10-08 · ENFORCEMENT
-
-**ICE cash-bond interest rate: 3% a year through January 31, 2027**
-
-A Treasury notice published October 5, 2026 sets the interest paid on cash deposited for ICE immigration bonds at 3% a year for October 1, 2026 through January 31, 2027. That is the legal maximum under 8 U.S.C. 1363(a). ICE pays the interest to the obligor after the bond is cancelled or breached.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/05/2026-20375/interest-rate-paid-on-cash-deposited-to-secure-us-immigration-and-customs-enforcement-immigration>
-
-### 2026-10-08 · CORRECTION
-
-**Correction: Form I-485 can be filed online in family, employment and VAWA cases**
-
-Our Form I-485 guide said the green-card application did not accept online filing for most categories. USCIS's online-filing page (last reviewed October 7, 2026) lists standalone online filing for family-based, employment-based and VAWA applicants whose petition is already filed, and Form G-1055 (edition 10/07/26) lists an online fee of $1,390 against $1,440 on paper.
-
-Primary source: <https://www.uscis.gov/file-online/forms-available-to-file-online>
-
-### 2026-10-08 · RULE-CHANGE
-
-**Proposed: $70,000 school-paid fee per F-1 student for OPT (not in effect)**
-
-DHS published a proposed rule (91 FR 64566, Docket ICEB-2026-0100) on October 8, 2026 that would require SEVP-certified schools to pay $70,000 per F-1 student before a first OPT recommendation and $30,000 for each later OPT recommendation. It is only a proposal; comments are due November 9, 2026.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees>
-
-### 2026-10-08 · CORRECTION
-
-**Correction: removed unsupported claims that DMVs, schools, hospitals, vital-records offices, banks and consulates do not share data with ICE**
-
-Several page families stated as fact that state and local offices, hospitals, vital-records offices, banks and consulates do not share information with USCIS or ICE. No primary source supports a blanket rule, and data sharing with ICE is in active litigation. We removed the claims on 230 pages (EN+ES) and now point readers to our IRS, Medicaid and New York DMV data-sharing case pages; the hospital-care pages now quote HIPAA's actual limits and its law-enforcement disclosure path (45 CFR 164.502(a), 164.512(f)).
-
-Primary source: <https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512>
-
-### 2026-10-07 · COURTS
-
-**Birthright citizenship: Casa motion to dissolve still pending; plaintiffs opposed Sep 22; DHS comment period closed Oct 5**
-
-In Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md.), the government moved on September 8, 2026 to dissolve or stay the September 2 preliminary injunction (ECF 183); the plaintiffs filed their opposition on September 22, 2026 (ECF 188), and as of October 7, 2026 the public docket shows no ruling. The comment period on DHS's interim final rule (Docket USCIS-2026-0496) closed October 5, 2026; the rule stays in force, and as of October 7, 2026 DHS had published no final rule. A September 16, 2026 correction (FR doc 2026-18949) restored evidence rules in 8 CFR 264.2(c)(2).
-
-Primary source: <https://www.courtlistener.com/docket/69563661/casa-inc-v-trump/>
-
-### 2026-10-07 · CORRECTION
-
-**Correction: the Supreme Court dismissed Genalo v. Black on September 11, 2026 — the October 13 argument on prolonged detention will not happen**
-
-Our case page said the Supreme Court would hear argument on October 13, 2026 on whether prolonged mandatory detention under 8 U.S.C. 1226(c) requires a bond hearing. The case was dismissed on September 11, 2026 after the parties jointly stipulated to dismissal (the government said a New York pardon made respondent G.M.'s case moot and it would not seek vacatur of the decisions below). The same question returns in a new petition, Genalo v. D.C., No. 26-379, filed September 21, 2026.
-
-Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-886.html>
-
-### 2026-10-05 · COURTS
-
-**Lawsuit filed against the USCIS adjustment-of-status memo (AAUP v. Mullin)**
-
-On October 5, 2026, unions, Americans for Immigrant Justice and six immigrants sued in the District of Massachusetts (No. 1:26-cv-14527) to block and vacate USCIS memo PM-602-0199 (May 21, 2026) and USCIS's August 5, 2026 policy on evidence requests and notices of intent to deny. The memo stays in effect unless a court blocks it. Our page said no court challenge was docketed; it is now corrected.
-
-Primary source: <https://www.courtlistener.com/docket/74919678/american-association-of-university-professors-v-mullin/>
-
-### 2026-10-05 · CITIZENSHIP
-
-**Civil denaturalization: DOJ announces 40 more cases filed Aug. 21–Oct. 2, 2026; no FY2026 total published yet**
-
-On Oct. 5, 2026, the Justice Department announced denaturalization actions against 40 individuals, filed between Aug. 21 and Oct. 2, 2026, which it called the largest volume of complaints submitted in a single period under the Trump administration. The release gave no cumulative or fiscal-year total; as of Oct. 7, 2026 neither DOJ nor USCIS had published an FY2026 filing total, so official sources do not yet show whether the 250 goal was met.
-
-Primary source: <https://www.justice.gov/opa/pr/justice-department-moves-strip-citizenship-40-criminals-largest-single-period>
-
-### 2026-10-05 · ENFORCEMENT
-
-**ICE's May 2025 memo claiming a Form I-205 alone allows home entry for people with final removal orders: paused by DHS (confirmed May 8, 2026) and challenged in court (no ruling as of Oct 5, 2026)**
-
-A May 12, 2025 memo signed by Acting ICE Director Todd M. Lyons ('Utilizing Form I-205, Warrant of Removal'), made public in January 2026 through a whistleblower disclosure reported by the Associated Press, says ICE may rely on a Form I-205 alone, without a judicial warrant or consent, to enter the home of a person with a final order of removal, after knocking and announcing and using 'a necessary and reasonable amount of force' if refused. On May 8, 2026 DHS Secretary Markwayne Mullin wrote that ICE 'has not rescinded the memorandum' but that he had 'paused the practice' while he assesses the policy; in a June 23, 2026 filing the government told the court the pause 'remains in effect.' The memo is challenged in Gibson Brown v. Mullin, No. 1:26-cv-01131 (D.D.C.), filed April 2, 2026; the government's motion to dismiss is pending and the court had not ruled as of October 5, 2026. Our know-your-rights and myth pages that said an administrative warrant never allows home entry now carry a dated update; the myth verdict changed from FALSE to MOSTLY FALSE with one disputed exception.
-
-Primary source: <https://www.courtlistener.com/docket/73134602/gibson-brown-v-mullin/>
-
-### 2026-10-02 · TPS
-
-**Venezuela 2023-designation TPS work permits reached their October 2, 2026 end date**
-
-EADs issued on or before February 5, 2025 with a 'Card Expires' date of October 2, 2026 were valid until that date. As of October 5, 2026 USCIS had announced no further extension. USCIS still lists a separate court-ordered automatic extension of up to 540 days for certain pending renewals received before February 6, 2025.
-
-Primary source: <https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-venezuela>
-
-### 2026-10-01 · VISAS
-
-**Diversity Visa court order: ten extra days past fiscal year 2026, paused for State Department guidance**
-
-In Medani v. Trump (N.D. Cal. No. 5:26-cv-06332), a September 30, 2026 order told the State Department to take reasonable steps for ten more days past fiscal year 2026 to reconsider Diversity Visa applications refused solely under its two pause policies. On October 1, 2026 the court temporarily stayed that order so the State Department could prepare guidance for consulates. A status conference is set for October 15, 2026.
-
-Primary source: <https://www.courtlistener.com/docket/73529774/medani-v-trump/>
-
-### 2026-10-01 · BUSINESS
-
-**Louisiana LLC filing fees rise: Articles of Organization $125 (from $100), annual report $35 (from $30)**
-
-Effective October 1, 2026, the Louisiana Secretary of State's Commercial Division fees increased under Act 921 of the 2026 Regular Legislative Session. The SOS fee schedule lists Articles of Organization for a Louisiana limited liability company at $125 (was $100) and annual reports at $35 (was $30).
-
-Primary source: <https://static.sos.la.gov/shared/fee_changes_2026.pdf>
-
-### 2026-10-01 · COURTS
-
-**Supreme Court agrees to decide whether people who entered without inspection and are arrested inside the U.S. must be detained without a bond hearing**
-
-On October 1, 2026 the Supreme Court granted certiorari in Rhoney v. Barbosa da Cunha, No. 26-104, on whether 8 U.S.C. 1225(b)(2)(A) mandates detention during removal proceedings of people present without admission. Granting review changes no detention rule: until the Court rules, whether a bond hearing is available still depends on the circuit where the person is detained.
-
-Primary source: <https://www.supremecourt.gov/orders/courtorders/100126zr_6j37.pdf>
-
-### 2026-09-30 · FEES
-
-**H.R. 1 immigration fees rise for fiscal year 2027 — Annual Asylum Fee $105, initial work permit $570, TPS registration $520, parole $1,050, in-absentia and apprehension fees $5,300 — 15 days after the October 1 publication**
-
-On September 30, 2026 DHS filed three Federal Register notices (CBP 2026-20185, ICE 2026-20186, DHS/USCIS 2026-20187) setting the fiscal year 2027 inflation adjustment for the fees created by H.R. 1 (CPI-U July 2025 to July 2026: +3.36%, rounded down to the next $10, the Annual Asylum Fee to the dollar). The notices were published in the Federal Register on October 1, 2026; the new amounts apply from October 16, 2026 (USCIS: requests postmarked on or after that date). Changes: Annual Asylum Fee $102 to $105; initial I-765 work permit for asylum, parole and TPS $560 to $570; TPS registration (I-821) $510 to $520; parole fee $1,020 to $1,050; the in-absentia removal fee and the between-ports apprehension fee $5,130 to $5,300. Unchanged: I-589 filing fee $100, I-765 renewals $280 (asylum-category renewal $275), SIJ petition $250, I-94 $24. Every page on this site that quotes one of these fees now carries a dated notice; the page amounts flip on the effective date.
-
-Primary source: <https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees>
-
-### 2026-09-30 · ENFORCEMENT
-
-**ICE's online detainee locator no longer shows people with a final order of removal (since Sep 15, 2026)**
-
-According to the Associated Press and the American Immigration Council, since September 15, 2026 ICE's Online Detainee Locator omits people held with a final order of removal (more than 16,000 of nearly 69,000 detainees, per AP), and ICE staff have reportedly been told not to share their location with family or lawyers. ICE has not announced or confirmed the change. Every page on this site that points to the locator now carries a dated notice: an empty locator result does not mean a person was released.
-
-Primary source: <https://www.americanimmigrationcouncil.org/blog/ice-electronically-disappears-detainee-locator/>
-
-### 2026-09-30 · FEES
-
-**EB-5 investor fees rise on November 30, 2026: Form I-526E to $7,850, Integrity Fund fee to $1,100, Form I-829 to $5,000**
-
-USCIS's EB-5 fee final rule (Federal Register 2026-20016, published September 30, 2026) takes effect November 30, 2026. Filings postmarked on or after that date pay $7,850 for an initial Form I-526E and $7,615 for a standalone Form I-526 (both include a $75 technology fee), a $1,100 EB-5 Integrity Fund petition fee (was $1,000), and $5,000 for Form I-829 (was $3,750). Filings postmarked through November 29, 2026 keep the current fees.
-
-Primary source: <https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee>
-
-### 2026-09-29 · COURTS
-
-**Supreme Court stays the third-country removal judgment and will hear DHS v. D.V.D. on Dec. 9**
-
-On September 29, 2026 the Supreme Court stayed the District of Massachusetts' February 25, 2026 order and judgment that had set aside DHS's third-country removal guidance, and granted certiorari (No. 26-426); Justices Sotomayor, Kagan and Jackson would have denied the stay. The First Circuit had largely affirmed that judgment on September 18 and dissolved its own stay on September 23. Argument is set for December 9, 2026. Our case page still described the case as pending at the First Circuit; it is now corrected.
-
-Primary source: <https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-426.html>
-
-### 2026-09-29 · CORRECTION
-
-**Correction: property-tax pages carried a generic March deadline, a 1-5% late surcharge and, for Texas, an outdated $100,000 exemption**
-
-All 52 state property-tax pages (EN + ES) said homestead applications must generally be filed before March and that late payment costs a 1-5% surcharge in the first month; neither figure came from any state source. Those lines now point readers to the sourced table on each page and to the county assessor or tax collector. Texas is corrected to the Comptroller's figures: a $140,000 school-district homestead exemption (plus $60,000 at 65+ or disabled), a general application deadline before May 1, and, for taxes unpaid on Feb. 1, a 6% penalty plus 1% interest that reaches 12% on July 1.
-
-Primary source: <https://comptroller.texas.gov/taxes/property-tax/pay/>
-
-### 2026-09-29 · CORRECTION
-
-**Correction: hospital financial-assistance refund rule now includes its under-$5 exception**
-
-The 52 state free-hospital-care pages (EN + ES) said federal 501(r) rules require a nonprofit hospital to refund what an eligible patient paid above the discounted amount. The regulation, 26 CFR 1.501(r)-6(c)(6)(i)(C)(2), excepts an excess of less than $5 (or another amount the IRS sets in published guidance); the pages now say so.
-
-Primary source: <https://www.ecfr.gov/current/title-26/section-1.501(r)-6>
-
-### 2026-09-29 · CORRECTION
-
-**Correction: Medicaid five-year wait outside CHIPRA 214 states keeps its other exceptions**
-
-The Medicaid guide said that in states without the CHIPRA 214 option the five-year wait applies to children and pregnant women too. CMS letter SHO #26-001 (April 8, 2026) keeps the other exceptions in 8 U.S.C. 1613(b), including Cuban/Haitian entrants, COFA migrants and LPR veterans or active-duty service members and certain family members; the sentence now names them.
-
-Primary source: <https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf>
-
-### 2026-09-29 · CORRECTION
-
-**Correction: skipping Selective Service registration no longer affects federal student aid**
-
-Two passages of the Selective Service guide (EN + ES) still listed federal student aid among the things failure to register can cost you, contradicting the FAQ below them. The FAFSA Simplification Act removed that requirement; Federal Student Aid's Dear Colleague Letter GEN-21-04 (June 11, 2021) says failing to register no longer affects Title IV aid eligibility. Both passages are corrected.
-
-Primary source: <https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2021-06-11/early-implementation-fafsa-simplification-acts-removal-selective-service-and-drug-conviction-requirements-title-iv-eligibility>
-
-### 2026-09-29 · FEES
-
-**EOIR sets FY2027 fees for DHS forms filed in immigration court, including a $105 Annual Asylum Fee**
-
-A notice published September 29, 2026 (FR 2026-19841, 91 FR 61447) sets the fiscal year 2027 OBBBA amounts for four DHS forms when filed with the immigration courts or the Board of Immigration Appeals on or after October 1, 2026: Annual Asylum Fee $105 (from $102), I-485 $1,590 (from $1,540), I-601 $1,100 (from $1,070) and I-821 $520 (from $510); the $100 initial I-589 fee is unchanged. The notice does not change the DHS base fees for these forms, and EOIR's Payment Portal shows the combined amount. It covers EOIR filings only: USCIS had not published its own fiscal year 2027 adjustment in the Federal Register as of September 29, 2026.
-
-Primary source: <https://www.federalregister.gov/documents/2026/09/29/2026-19841/inflation-adjustment-for-eoir-obbba-fees-for-certain-dhs-forms-fiscal-year-2027>
-
-### 2026-09-29 · BENEFITS
-
-**SNAP FY2027 amounts take effect October 1, 2026: the maximum benefit for a family of four in the 48 states and DC rises to $1,023**
-
-USDA's FY2027 cost-of-living memo (dated August 21, 2026) sets SNAP amounts for October 1, 2026 through September 30, 2027. In the 48 states and DC the maximum monthly benefit for a household of four rises from $994 to $1,023 (one person $306), the gross income limit (130% of the poverty level) for one person rises to $1,729/month, and the asset limit for households with a member age 60+ or disabled rises to $4,750 (other households stay at $3,000). Alaska, Guam and the U.S. Virgin Islands also rise; Hawaii's maximums go DOWN (family of four $1,655, from $1,689), as the memo states. Our 104 state SNAP pages and both SNAP guides now show the new amounts, each labeled with the dates it applies.
-
-Primary source: <https://www.usda.gov/sites/default/files/guidance-documents/fna.snap-cola2027.pdf>
-
-### 2026-09-28 · COURTS
-
-**Family Reunification Parole appeal: First Circuit orders the government to refile a conforming opening brief**
-
-The government tendered its opening brief in Doe v. Mullin, Nos. 26-1314 and 26-1628, on the September 8, 2026 due date, but the court had not accepted it for filing; on September 28 it ordered a conforming brief and appendix by October 5, and the appellees' 30 days run from service of the corrected brief. A brief was re-tendered October 2. The FRP preliminary injunction stays in effect.
-
-Primary source: <https://dockets.justia.com/docket/circuit-courts/ca1/26-1314>
-
-### 2026-09-25 · CORRECTION
-
-**Honduras consulates: addresses, phones and e-mails corrected from the Embassy of Honduras directory**
-
-The Embassy of Honduras in Washington now publishes a directory of its 19 consulates in the United States (hondurasemb.org/consulados). We re-read every office's page and corrected our 19 consulate pages: several offices have moved (the San Francisco consulate is in Oakland, Seattle's in Kent, Boston's in Chelsea, and the Dallas consulate is in Irving), and phones and e-mails changed across the network. Eight pages that said Honduras published no directory now cite it; the online appointment system still lists only 11 of the 19 offices, and the Houston consulate serves walk-ins in order of arrival. A 19th office in Kansas City (Overland Park, KS) is listed; we have no page for it yet. Peru: the Washington, D.C. office is a Consulate General, and the Orlando consulate general is listed by Peru's government with its own address.
-
-Primary source: <https://hondurasemb.org/consulados>
-
-### 2026-09-25 · CORRECTION
-
-**Haiti and Syria TPS holder counts now use DHS's own figures**
-
-Our TPS pages gave two different counts for the same people: some used the National Immigration Forum's estimates (about 330,735 Haitian and 3,860 Syrian holders), while the TPS-by-country hub used DHS's. We now use DHS's own estimates everywhere, from its termination notices: about 352,959 Haitian TPS holders (90 FR 54733, Nov. 28, 2025) and 6,132 Syrian (90 FR 45398, Sept. 22, 2025), about 359,091 together. Venezuela's figure is unchanged for now because DHS's notices give different populations for different dates.
-
-Primary source: <https://www.federalregister.gov/documents/2025/11/28/2025-21379/termination-of-the-designation-of-haiti-for-temporary-protected-status>
-
-### 2026-09-25 · DATA
-
-**ICE 287(g) dataset refreshed: 2,559 agreements as of ICE's September 21, 2026 workbook**
-
-ICE published a September 21, 2026 edition of its 287(g) participating-agencies workbook; our pages were quoting the September 15 edition. Re-read from ICE's own workbook: 2,559 agreements (was 2,510) held by 2,193 distinct agencies across the same 40 jurisdictions (38 states plus Guam and the Northern Mariana Islands). By model: 185 Jail Enforcement, 1,812 Task Force, 562 Warrant Service Officer. Still 130 agreements predate February 2025, so 2,429 (95%) were signed since; Texas (538) and Florida (353) hold 34.8% of the total, and the same twelve states have none.
-
-Primary source: <https://www.ice.gov/identify-and-arrest/287g>
-
-### 2026-09-25 · DATA
-
-**Immigration-court judge lists re-checked against EOIR's September 24, 2026 listing; judges now counted once each**
-
-We compared every court's judge table with EOIR's own court listing (updated September 24, 2026). Judges had moved since our last check: 62 judge listings were added and 30 removed across about 40 courts, and all 807 remote-hearing rooms were re-tested (16 did not open; those rows now point to EOIR's own list). No court closed beyond the two already noted (Batavia and San Francisco). Our legal-deserts dataset had counted a judge once per court they appear at, so an assistant chief judge who supervises several courts was counted several times; it now counts each person once. The national figure is 765 judges (was 781), and Louisiana has 25 (was 27).
-
-Primary source: <https://www.justice.gov/eoir/find-immigration-court-and-access-internet-based-hearings>
-
-### 2026-09-24 · CORRECTION
-
-**Correction: since July 4, 2025, Medicare is limited to citizens, green-card holders, Cuban and Haitian entrants and COFA residents; current enrollees outside those groups lose it January 4, 2027**
-
-Our Medicare page said a lawfully present worker who is not a permanent resident (deferred action including DACA, TPS, DED) and has 40 work quarters gets premium-free Part A at 65. That reasoning from 42 U.S.C. 426(a) and 402(y) missed a later law. Section 71201 of Public Law 119-21, enacted July 4, 2025, added section 1899C to the Social Security Act: a person "may be entitled to, or enrolled for, benefits under this title only if the individual is" a citizen or national of the United States, a lawful permanent resident, a Cuban and Haitian entrant, or someone lawfully residing in the US under a Compact of Free Association. For people who were already entitled or enrolled on July 4, 2025, the limit applies beginning 18 months after enactment, which is January 4, 2027; the Commissioner of Social Security had to complete a review of those enrollees within one year of enactment and must notify each person identified that their entitlement or enrollment will end on that date. The page now quotes the statute, lists the four groups, gives the transition date, and says it describes the law text, not how the Social Security Administration is carrying out the review. The earlier September 10, 2026 correction on this page is superseded.
-
-Primary source: <https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm>
 
 ---
 

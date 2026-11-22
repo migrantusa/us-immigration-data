@@ -2,26 +2,26 @@
  "_meta": {
   "source": "ICE — 287(g) Participating Agencies workbook (official)",
   "source_url": "https://www.ice.gov/identify-and-arrest/287g",
-  "file_url": "https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies10092026.xlsx",
-  "ice_as_of": "October 9, 2026",
-  "scraped_on": "2026-10-09"
+  "file_url": "https://www.ice.gov/doclib/about/offices/ero/287g/participatingAgencies11182026.xlsx",
+  "ice_as_of": "November 19, 2026",
+  "scraped_on": "2026-11-21"
  },
  "totals": {
-  "agreements": 2654,
+  "agreements": 2807,
   "states_with_agreements": 40,
   "by_model": {
-   "JEM": 183,
-   "TFM": 1902,
-   "WSO": 569
+   "JEM": 185,
+   "TFM": 2041,
+   "WSO": 581
   },
-  "distinct_agencies": 2281
+  "distinct_agencies": 2417
  },
  "states": {
   "Alabama": {
-   "agreements": 97,
+   "agreements": 104,
    "models": {
     "JEM": 11,
-    "TFM": 77,
+    "TFM": 84,
     "WSO": 9
    },
    "agencies": [
@@ -78,6 +78,12 @@
      "county": "Jefferson County",
      "model": "TFM",
      "signed": "2026-06-14"
+    },
+    {
+     "agency": "Butler Police Department",
+     "county": "Choctaw County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Calhoun County Sheriff's Office",
@@ -160,14 +166,14 @@
     {
      "agency": "Colbert County Sheriff's Office",
      "county": "Colbert County",
-     "model": "JEM",
-     "signed": "2025-05-08"
+     "model": "TFM",
+     "signed": "2025-07-02"
     },
     {
      "agency": "Colbert County Sheriff's Office",
      "county": "Colbert County",
-     "model": "TFM",
-     "signed": "2025-07-02"
+     "model": "JEM",
+     "signed": "2025-05-08"
     },
     {
      "agency": "Colbert County Sheriff's Office",
@@ -238,14 +244,14 @@
     {
      "agency": "Etowah County Sheriff's Office",
      "county": "Etowah County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "TFM",
+     "signed": "2025-12-08"
     },
     {
      "agency": "Etowah County Sheriff's Office",
      "county": "Etowah County",
-     "model": "TFM",
-     "signed": "2025-12-08"
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Florala Police Department",
@@ -261,15 +267,15 @@
     },
     {
      "agency": "Franklin County Sheriff's Office",
-     "county": "Frankin County",
-     "model": "JEM",
-     "signed": "2025-06-11"
-    },
-    {
-     "agency": "Franklin County Sheriff's Office",
      "county": "Franklin County",
      "model": "TFM",
      "signed": "2025-11-06"
+    },
+    {
+     "agency": "Franklin County Sheriff's Office",
+     "county": "Frankin County",
+     "model": "JEM",
+     "signed": "2025-06-11"
     },
     {
      "agency": "Franklin County Sheriff's Office",
@@ -288,6 +294,12 @@
      "county": "Houston County",
      "model": "TFM",
      "signed": "2026-08-18"
+    },
+    {
+     "agency": "Graysville Police Department",
+     "county": "Jefferson County",
+     "model": "TFM",
+     "signed": "2026-11-09"
     },
     {
      "agency": "Grove Hill Police Department",
@@ -310,14 +322,14 @@
     {
      "agency": "Henry County Sheriff's Office",
      "county": "Henry County",
-     "model": "JEM",
-     "signed": "2025-03-17"
+     "model": "TFM",
+     "signed": "2025-12-11"
     },
     {
      "agency": "Henry County Sheriff's Office",
      "county": "Henry County",
-     "model": "TFM",
-     "signed": "2025-12-11"
+     "model": "JEM",
+     "signed": "2025-03-17"
     },
     {
      "agency": "Jackson Police Department",
@@ -346,14 +358,14 @@
     {
      "agency": "Lauderdale County Sheriff's Office",
      "county": "Lauderdale County",
-     "model": "JEM",
-     "signed": "2025-06-12"
+     "model": "TFM",
+     "signed": "2025-10-17"
     },
     {
      "agency": "Lauderdale County Sheriff's Office",
      "county": "Lauderdale County",
-     "model": "TFM",
-     "signed": "2025-10-17"
+     "model": "JEM",
+     "signed": "2025-06-12"
     },
     {
      "agency": "Lauderdale County Sheriff's Office",
@@ -368,22 +380,16 @@
      "signed": "2025-06-18"
     },
     {
-     "agency": "Lawrence County Sheriff's Office",
-     "county": "Lawrence County",
-     "model": "WSO",
-     "signed": "2025-06-30"
+     "agency": "Leesburg Police Department",
+     "county": "Cherokee County",
+     "model": "TFM",
+     "signed": "2026-04-07"
     },
     {
      "agency": "Leighton Police Department",
      "county": "Colbert County",
      "model": "TFM",
      "signed": "2026-06-16"
-    },
-    {
-     "agency": "Leesburg Police Department",
-     "county": "Cherokee County",
-     "model": "TFM",
-     "signed": "2026-04-07"
     },
     {
      "agency": "Level Plains Police Department",
@@ -454,26 +460,26 @@
     {
      "agency": "Marion County Sheriff's Office",
      "county": "Marion County",
-     "model": "TFM",
-     "signed": "2025-06-12"
-    },
-    {
-     "agency": "Marion County Sheriff's Office",
-     "county": "Marion County",
      "model": "WSO",
      "signed": "2025-07-23"
     },
     {
-     "agency": "Marshall County Sheriff's Office",
-     "county": "Marshall County",
-     "model": "JEM",
-     "signed": "2025-09-22"
+     "agency": "Marion County Sheriff's Office",
+     "county": "Marion County",
+     "model": "TFM",
+     "signed": "2025-06-12"
     },
     {
      "agency": "Marshall County Sheriff's Office",
      "county": "Marshall County",
      "model": "TFM",
      "signed": "2026-09-15"
+    },
+    {
+     "agency": "Marshall County Sheriff's Office",
+     "county": "Marshall County",
+     "model": "JEM",
+     "signed": "2025-09-22"
     },
     {
      "agency": "Mobile County Sheriff's Office",
@@ -486,6 +492,18 @@
      "county": "Monroe County",
      "model": "TFM",
      "signed": "2025-11-04"
+    },
+    {
+     "agency": "Moulton Police Department",
+     "county": "Lawrence County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
+     "agency": "Munford Police Department",
+     "county": "Talladega County",
+     "model": "TFM",
+     "signed": "2026-11-17"
     },
     {
      "agency": "New Hope Police Department",
@@ -542,6 +560,12 @@
      "signed": "2026-08-13"
     },
     {
+     "agency": "Sheffield Police Department",
+     "county": "Colbert County",
+     "model": "TFM",
+     "signed": "2026-11-04"
+    },
+    {
      "agency": "Silverhill Police Department",
      "county": "Baldwin County",
      "model": "TFM",
@@ -578,10 +602,28 @@
      "signed": "2026-02-25"
     },
     {
+     "agency": "Tuscaloosa County Sheriff's Office",
+     "county": "Tuscaloosa County",
+     "model": "WSO",
+     "signed": "2026-10-31"
+    },
+    {
+     "agency": "Tuscaloosa County Sheriff's Office",
+     "county": "Tuscaloosa County",
+     "model": "TFM",
+     "signed": "2026-10-30"
+    },
+    {
      "agency": "Tuscumbia Police Department",
      "county": "Colbert County",
      "model": "TFM",
      "signed": "2026-08-21"
+    },
+    {
+     "agency": "Union Springs Police Department",
+     "county": "Bullock County",
+     "model": "TFM",
+     "signed": "2026-11-17"
     },
     {
      "agency": "Washington County Sheriff's Office",
@@ -608,7 +650,7 @@
      "signed": "2026-10-02"
     }
    ],
-   "distinct_agencies": 80
+   "distinct_agencies": 87
   },
   "Alaska": {
    "agreements": 2,
@@ -703,13 +745,19 @@
    "distinct_agencies": 9
   },
   "Arkansas": {
-   "agreements": 179,
+   "agreements": 184,
    "models": {
-    "TFM": 123,
-    "JEM": 13,
-    "WSO": 43
+    "TFM": 128,
+    "JEM": 12,
+    "WSO": 44
    },
    "agencies": [
+    {
+     "agency": "16th Judicial Distric Drug Task Force",
+     "county": "Independence County",
+     "model": "TFM",
+     "signed": "2025-09-22"
+    },
     {
      "agency": "6th Judicial District Prosecuting Attorney's Office",
      "county": "Pulaski County",
@@ -727,12 +775,6 @@
      "county": "Little River County",
      "model": "TFM",
      "signed": "2026-09-02"
-    },
-    {
-     "agency": "16th Judicial Distric Drug Task Force",
-     "county": "Independence County",
-     "model": "TFM",
-     "signed": "2025-09-22"
     },
     {
      "agency": "Alexander Police Department",
@@ -827,14 +869,14 @@
     {
      "agency": "Benton County Sheriff's Office",
      "county": "Benton County",
-     "model": "JEM",
-     "signed": "2020-06-30"
+     "model": "TFM",
+     "signed": "2026-06-12"
     },
     {
      "agency": "Benton County Sheriff's Office",
      "county": "Benton County",
-     "model": "TFM",
-     "signed": "2026-06-12"
+     "model": "JEM",
+     "signed": "2020-06-30"
     },
     {
      "agency": "Benton Police Department",
@@ -879,16 +921,16 @@
      "signed": "2026-08-27"
     },
     {
-     "agency": "Bradley County Sheriff's Department",
-     "county": "Bradley County",
-     "model": "TFM",
-     "signed": "2026-07-20"
-    },
-    {
      "agency": "Bradford Police Department",
      "county": "White County",
      "model": "TFM",
      "signed": "2026-07-07"
+    },
+    {
+     "agency": "Bradley County Sheriff's Department",
+     "county": "Bradley County",
+     "model": "TFM",
+     "signed": "2026-07-20"
     },
     {
      "agency": "Brookland Police Department",
@@ -1013,14 +1055,14 @@
     {
      "agency": "Columbia County Sheriff's Office",
      "county": "Columbia County",
-     "model": "TFM",
-     "signed": "2026-07-02"
+     "model": "WSO",
+     "signed": "2026-08-24"
     },
     {
      "agency": "Columbia County Sheriff's Office",
      "county": "Columbia County",
-     "model": "WSO",
-     "signed": "2026-08-24"
+     "model": "TFM",
+     "signed": "2026-07-02"
     },
     {
      "agency": "Concord Police Department",
@@ -1049,14 +1091,14 @@
     {
      "agency": "Craighead County Sheriff's Office",
      "county": "Craighead County",
-     "model": "JEM",
-     "signed": "2020-06-18"
+     "model": "TFM",
+     "signed": "2026-06-14"
     },
     {
      "agency": "Craighead County Sheriff's Office",
      "county": "Craighead County",
-     "model": "TFM",
-     "signed": "2026-06-14"
+     "model": "JEM",
+     "signed": "2020-06-18"
     },
     {
      "agency": "Crawford County Sheriff's Office",
@@ -1177,6 +1219,12 @@
      "county": "Crittenden County",
      "model": "TFM",
      "signed": "2026-06-07"
+    },
+    {
+     "agency": "Goshen Police Department",
+     "county": "Washington County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Gosnell Police Department",
@@ -1439,14 +1487,14 @@
     {
      "agency": "Marion County Sheriff's Office",
      "county": "Marion County",
-     "model": "TFM",
-     "signed": "2026-03-31"
+     "model": "WSO",
+     "signed": "2026-05-09"
     },
     {
      "agency": "Marion County Sheriff's Office",
      "county": "Marion County",
-     "model": "WSO",
-     "signed": "2026-05-09"
+     "model": "TFM",
+     "signed": "2026-03-31"
     },
     {
      "agency": "Menifee Police Department",
@@ -1463,14 +1511,14 @@
     {
      "agency": "Mississippi County Sheriff's Office",
      "county": "Mississippi County",
-     "model": "JEM",
-     "signed": "2026-03-31"
+     "model": "TFM",
+     "signed": "2026-06-23"
     },
     {
      "agency": "Mississippi County Sheriff's Office",
      "county": "Mississippi County",
-     "model": "TFM",
-     "signed": "2026-06-23"
+     "model": "JEM",
+     "signed": "2026-03-31"
     },
     {
      "agency": "Monette Police Department",
@@ -1503,16 +1551,22 @@
      "signed": "2026-06-15"
     },
     {
-     "agency": "Newton County Sheriff's Office",
-     "county": "Newton County",
+     "agency": "Newport Police Department",
+     "county": "Jackson County",
      "model": "TFM",
-     "signed": "2026-06-25"
+     "signed": "2026-11-02"
     },
     {
      "agency": "Newton County Sheriff’s Office",
      "county": "Newton County",
      "model": "WSO",
      "signed": "2026-08-12"
+    },
+    {
+     "agency": "Newton County Sheriff's Office",
+     "county": "Newton County",
+     "model": "TFM",
+     "signed": "2026-06-25"
     },
     {
      "agency": "Osceola Police Department",
@@ -1523,8 +1577,14 @@
     {
      "agency": "Ouachita County Sheriff's Office",
      "county": "Ouachita County",
-     "model": "JEM",
-     "signed": "2026-03-31"
+     "model": "WSO",
+     "signed": "2026-11-01"
+    },
+    {
+     "agency": "Ouachita County Sheriff's Office",
+     "county": "Ouachita County",
+     "model": "TFM",
+     "signed": "2026-10-27"
     },
     {
      "agency": "Ozark Police Department",
@@ -1595,14 +1655,14 @@
     {
      "agency": "Prairie County Sheriff's Office",
      "county": "Prairie County",
-     "model": "TFM",
-     "signed": "2026-03-31"
+     "model": "WSO",
+     "signed": "2026-07-20"
     },
     {
      "agency": "Prairie County Sheriff's Office",
      "county": "Prairie County",
-     "model": "WSO",
-     "signed": "2026-07-20"
+     "model": "TFM",
+     "signed": "2026-03-31"
     },
     {
      "agency": "Prescott Police Department",
@@ -1679,14 +1739,14 @@
     {
      "agency": "Sheridan Police Department",
      "county": "Grant County",
-     "model": "TFM",
-     "signed": "2026-05-21"
+     "model": "WSO",
+     "signed": "2026-08-07"
     },
     {
      "agency": "Sheridan Police Department",
      "county": "Grant County",
-     "model": "WSO",
-     "signed": "2026-08-07"
+     "model": "TFM",
+     "signed": "2026-05-21"
     },
     {
      "agency": "Sherwood Police Department",
@@ -1723,6 +1783,12 @@
      "county": "Stone County",
      "model": "WSO",
      "signed": "2026-09-04"
+    },
+    {
+     "agency": "Swifton Police Department",
+     "county": "Jackson County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Taylor Police Department",
@@ -1775,6 +1841,12 @@
     {
      "agency": "White County Sheriff's Office",
      "county": "White County",
+     "model": "TFM",
+     "signed": "2026-11-06"
+    },
+    {
+     "agency": "White County Sheriff's Office",
+     "county": "White County",
      "model": "JEM",
      "signed": "2026-03-31"
     },
@@ -1785,7 +1857,7 @@
      "signed": "2026-08-07"
     }
    ],
-   "distinct_agencies": 143
+   "distinct_agencies": 146
   },
   "Colorado": {
    "agreements": 1,
@@ -1803,9 +1875,9 @@
    "distinct_agencies": 1
   },
   "Florida": {
-   "agreements": 353,
+   "agreements": 355,
    "models": {
-    "TFM": 279,
+    "TFM": 281,
     "WSO": 64,
     "JEM": 10
    },
@@ -2041,14 +2113,14 @@
     {
      "agency": "Clay County Sheriff's Office",
      "county": "Clay County",
-     "model": "JEM",
-     "signed": "2020-03-11"
+     "model": "TFM",
+     "signed": "2025-02-26"
     },
     {
      "agency": "Clay County Sheriff's Office",
      "county": "Clay County",
-     "model": "TFM",
-     "signed": "2025-02-26"
+     "model": "JEM",
+     "signed": "2020-03-11"
     },
     {
      "agency": "Clearwater Police Department",
@@ -2089,14 +2161,14 @@
     {
      "agency": "Collier County Sheriff's Office",
      "county": "Collier County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "TFM",
+     "signed": "2025-02-24"
     },
     {
      "agency": "Collier County Sheriff's Office",
      "county": "Collier County",
-     "model": "TFM",
-     "signed": "2025-02-24"
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Columbia County Sheriff's Office",
@@ -2539,14 +2611,14 @@
     {
      "agency": "Hernando County Sheriff's Office",
      "county": "Hernando County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "TFM",
+     "signed": "2025-02-26"
     },
     {
      "agency": "Hernando County Sheriff's Office",
      "county": "Hernando County",
-     "model": "TFM",
-     "signed": "2025-02-26"
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Hernando County Sheriff's Office",
@@ -2693,16 +2765,22 @@
      "signed": "2025-02-26"
     },
     {
-     "agency": "Jacksonville Sheriff's Office",
+     "agency": "Jacksonville Beach Police Department",
      "county": "Duval County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "TFM",
+     "signed": "2026-11-06"
     },
     {
      "agency": "Jacksonville Sheriff's Office",
      "county": "Duval County",
      "model": "TFM",
      "signed": "2025-02-26"
+    },
+    {
+     "agency": "Jacksonville Sheriff's Office",
+     "county": "Duval County",
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Jasper Police Department",
@@ -2881,14 +2959,14 @@
     {
      "agency": "Lee County Sheriff's Office",
      "county": "Lee County",
-     "model": "TFM",
-     "signed": "2025-02-24"
+     "model": "WSO",
+     "signed": "2025-02-26"
     },
     {
      "agency": "Lee County Sheriff's Office",
      "county": "Lee County",
-     "model": "WSO",
-     "signed": "2025-02-26"
+     "model": "TFM",
+     "signed": "2025-02-24"
     },
     {
      "agency": "Leesburg Police Department",
@@ -3809,6 +3887,12 @@
      "signed": "2025-04-15"
     },
     {
+     "agency": "Valparaiso Police Department",
+     "county": "Okaloosa County",
+     "model": "TFM",
+     "signed": "2026-10-15"
+    },
+    {
      "agency": "Venice Police Department",
      "county": "#N/A",
      "model": "TFM",
@@ -3929,16 +4013,22 @@
      "signed": "2025-04-14"
     }
    ],
-   "distinct_agencies": 289
+   "distinct_agencies": 291
   },
   "Georgia": {
-   "agreements": 137,
+   "agreements": 156,
    "models": {
-    "TFM": 88,
-    "JEM": 21,
-    "WSO": 28
+    "TFM": 107,
+    "JEM": 22,
+    "WSO": 27
    },
    "agencies": [
+    {
+     "agency": "Alamo Police Department",
+     "county": "Wheeler County",
+     "model": "TFM",
+     "signed": "2026-10-15"
+    },
     {
      "agency": "Alto Police Department",
      "county": "Banks County",
@@ -3950,6 +4040,18 @@
      "county": "Appling County",
      "model": "TFM",
      "signed": "2026-02-14"
+    },
+    {
+     "agency": "Aragon Police Department",
+     "county": "Polk County",
+     "model": "TFM",
+     "signed": "2026-11-06"
+    },
+    {
+     "agency": "Arlington Police Department",
+     "county": "Murray County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Atkinson County Sheriff's Office",
@@ -4032,8 +4134,20 @@
     {
      "agency": "Burke County Sheriff's Office",
      "county": "Burke County",
+     "model": "TFM",
+     "signed": "2026-10-09"
+    },
+    {
+     "agency": "Burke County Sheriff's Office",
+     "county": "Burke County",
      "model": "WSO",
      "signed": "2025-03-26"
+    },
+    {
+     "agency": "Butts County Sheriff's Office",
+     "county": "Butts County",
+     "model": "TFM",
+     "signed": "2026-10-14"
     },
     {
      "agency": "Calhoun County Sheriff's Office",
@@ -4078,10 +4192,22 @@
      "signed": "2025-05-22"
     },
     {
+     "agency": "Chatsworth Police Department",
+     "county": "Murray County",
+     "model": "TFM",
+     "signed": "2026-10-31"
+    },
+    {
      "agency": "Chattahoochee County Sheriff's Office",
      "county": "Chattahoochee County",
      "model": "TFM",
      "signed": "2026-08-20"
+    },
+    {
+     "agency": "City of Morrow Police Department",
+     "county": "Clayton County",
+     "model": "TFM",
+     "signed": "2025-09-22"
     },
     {
      "agency": "Claxton Police Department",
@@ -4100,12 +4226,6 @@
      "county": "Clay County",
      "model": "WSO",
      "signed": "2026-07-07"
-    },
-    {
-     "agency": "City of Morrow Police Department",
-     "county": "Clayton County",
-     "model": "TFM",
-     "signed": "2025-09-22"
     },
     {
      "agency": "Cleveland Police Department",
@@ -4140,6 +4260,12 @@
     {
      "agency": "Dade County Sheriff's Office",
      "county": "Dade County",
+     "model": "TFM",
+     "signed": "2026-10-21"
+    },
+    {
+     "agency": "Dade County Sheriff's Office",
+     "county": "Dade County",
      "model": "WSO",
      "signed": "2025-03-26"
     },
@@ -4169,13 +4295,19 @@
     },
     {
      "agency": "Decatur County Sheriff's Office",
-     "county": "Decatur",
+     "county": "Decatur County",
      "model": "WSO",
      "signed": "2025-03-26"
     },
     {
+     "agency": "Eton Police Department",
+     "county": "Murray County",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
      "agency": "Euharlee Police Department",
-     "county": "#N/A",
+     "county": "Bartow County",
      "model": "TFM",
      "signed": "2025-05-16"
     },
@@ -4208,12 +4340,6 @@
      "county": "Franklin County",
      "model": "TFM",
      "signed": "2026-09-04"
-    },
-    {
-     "agency": "Franklin County Sheriff's Office",
-     "county": "Franklin County",
-     "model": "WSO",
-     "signed": "2025-11-10"
     },
     {
      "agency": "Franklin Springs Police Department",
@@ -4264,10 +4390,28 @@
      "signed": "2025-11-04"
     },
     {
+     "agency": "Grantville Police Department",
+     "county": "Coweta County",
+     "model": "TFM",
+     "signed": "2026-11-05"
+    },
+    {
+     "agency": "Greensboro Police Department",
+     "county": "Greene County",
+     "model": "TFM",
+     "signed": "2026-10-11"
+    },
+    {
      "agency": "Hahira Police Department",
      "county": "Lowndes County",
      "model": "TFM",
      "signed": "2026-04-25"
+    },
+    {
+     "agency": "Haileyville Police Department",
+     "county": "Pittsburg County",
+     "model": "TFM",
+     "signed": "2026-11-05"
     },
     {
      "agency": "Hall County Sheriff's Office",
@@ -4294,10 +4438,10 @@
      "signed": "2025-05-22"
     },
     {
-     "agency": "Jasper County Sheriff's Office",
-     "county": "Jasper County",
-     "model": "JEM",
-     "signed": "2025-05-22"
+     "agency": "Homerville Police Department",
+     "county": "Clinch County",
+     "model": "TFM",
+     "signed": "2026-11-18"
     },
     {
      "agency": "Jasper County Sheriff's Office",
@@ -4310,6 +4454,12 @@
      "county": "Jasper County",
      "model": "WSO",
      "signed": "2025-06-25"
+    },
+    {
+     "agency": "Jasper County Sheriff's Office",
+     "county": "Jasper County",
+     "model": "JEM",
+     "signed": "2025-05-22"
     },
     {
      "agency": "Jones County Sheriff's Department",
@@ -4334,6 +4484,12 @@
      "county": "Lanier County",
      "model": "TFM",
      "signed": "2026-08-26"
+    },
+    {
+     "agency": "Lamar County Sheriff's Office",
+     "county": "Lamar County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Lanier County Sheriff's Office",
@@ -4402,6 +4558,12 @@
      "signed": "2025-05-13"
     },
     {
+     "agency": "Manchester Police Department",
+     "county": "Meriwether/Talbot Counties",
+     "model": "TFM",
+     "signed": "2026-10-30"
+    },
+    {
      "agency": "Marietta Police Department",
      "county": "Cobb County",
      "model": "TFM",
@@ -4420,6 +4582,12 @@
      "signed": "2026-10-08"
     },
     {
+     "agency": "Metter Police Department",
+     "county": "Candler County",
+     "model": "TFM",
+     "signed": "2026-10-12"
+    },
+    {
      "agency": "Miller County Sheriff's Department",
      "county": "Miller County",
      "model": "TFM",
@@ -4436,6 +4604,12 @@
      "county": "Pike County",
      "model": "TFM",
      "signed": "2026-06-07"
+    },
+    {
+     "agency": "Monroe County Sheriff's Office",
+     "county": "Monroe County",
+     "model": "TFM",
+     "signed": "2026-10-23"
     },
     {
      "agency": "Monroe County Sheriff's Office",
@@ -4466,6 +4640,12 @@
      "county": "Colquitt County",
      "model": "TFM",
      "signed": "2026-08-06"
+    },
+    {
+     "agency": "Murray County Sheriff's Office",
+     "county": "Murray County",
+     "model": "TFM",
+     "signed": "2026-11-08"
     },
     {
      "agency": "Muscogee County Sheriff's Office",
@@ -4540,7 +4720,7 @@
      "signed": "2026-07-23"
     },
     {
-     "agency": "Polk County Sheriff's Office",
+     "agency": "Polk County Police Department",
      "county": "Polk County",
      "model": "TFM",
      "signed": "2026-10-08"
@@ -4564,6 +4744,12 @@
      "signed": "2026-09-02"
     },
     {
+     "agency": "Ringgold Police Department",
+     "county": "Catoosa County",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
      "agency": "Rockmart Police Department",
      "county": "Polk County",
      "model": "TFM",
@@ -4580,6 +4766,12 @@
      "county": "Walker County",
      "model": "TFM",
      "signed": "2026-10-02"
+    },
+    {
+     "agency": "Screven County Sheriff's Office",
+     "county": "Screven County",
+     "model": "TFM",
+     "signed": "2026-10-16"
     },
     {
      "agency": "Social Circle Police Department",
@@ -4644,14 +4836,14 @@
     {
      "agency": "Tift County Sheriff's Office",
      "county": "Tift County",
-     "model": "JEM",
-     "signed": "2025-05-07"
+     "model": "TFM",
+     "signed": "2026-08-12"
     },
     {
      "agency": "Tift County Sheriff's Office",
      "county": "Tift County",
-     "model": "TFM",
-     "signed": "2026-08-12"
+     "model": "JEM",
+     "signed": "2025-05-07"
     },
     {
      "agency": "Tift County Sheriff's Office",
@@ -4746,6 +4938,12 @@
     {
      "agency": "Worth County Sheriff's Department",
      "county": "Worth County",
+     "model": "JEM",
+     "signed": "2026-10-30"
+    },
+    {
+     "agency": "Worth County Sheriff's Department",
+     "county": "Worth County",
      "model": "TFM",
      "signed": "2026-07-09"
     },
@@ -4762,7 +4960,7 @@
      "signed": "2026-09-21"
     }
    ],
-   "distinct_agencies": 111
+   "distinct_agencies": 128
   },
   "Guam": {
    "agreements": 1,
@@ -4893,9 +5091,9 @@
    "distinct_agencies": 16
   },
   "Indiana": {
-   "agreements": 50,
+   "agreements": 49,
    "models": {
-    "TFM": 41,
+    "TFM": 40,
     "WSO": 6,
     "JEM": 3
    },
@@ -5021,12 +5219,6 @@
      "signed": "2026-02-18"
     },
     {
-     "agency": "Holland Police Department",
-     "county": "Dubois County",
-     "model": "TFM",
-     "signed": "2026-04-19"
-    },
-    {
      "agency": "Indiana Department of Corrections",
      "county": "Putnam County",
      "model": "JEM",
@@ -5081,6 +5273,12 @@
      "signed": "2026-04-15"
     },
     {
+     "agency": "Lyons Police Department",
+     "county": "Greene County",
+     "model": "TFM",
+     "signed": "2026-11-06"
+    },
+    {
      "agency": "Marengo Police Department",
      "county": "Crawford County",
      "model": "TFM",
@@ -5111,12 +5309,6 @@
      "signed": "2025-03-26"
     },
     {
-     "agency": "North Salem Police Department",
-     "county": "Hendricks County",
-     "model": "TFM",
-     "signed": "2025-08-04"
-    },
-    {
      "agency": "Oakland City Police Department",
      "county": "Gibson County",
      "model": "TFM",
@@ -5133,6 +5325,12 @@
      "county": "Jay County",
      "model": "TFM",
      "signed": "2026-09-24"
+    },
+    {
+     "agency": "Ripley County Sheriff's Office",
+     "county": "Ripley County",
+     "model": "TFM",
+     "signed": "2026-11-08"
     },
     {
      "agency": "Rush County Sheriff's Office",
@@ -5171,12 +5369,6 @@
      "signed": "2026-02-10"
     },
     {
-     "agency": "Sulphur Springs Police Department",
-     "county": "Henry County",
-     "model": "TFM",
-     "signed": "2026-09-02"
-    },
-    {
      "agency": "Waterloo Marshal's Office",
      "county": "DeKalb County",
      "model": "TFM",
@@ -5201,7 +5393,7 @@
      "signed": "2026-04-13"
     }
    ],
-   "distinct_agencies": 47
+   "distinct_agencies": 46
   },
   "Iowa": {
    "agreements": 6,
@@ -5250,10 +5442,10 @@
    "distinct_agencies": 5
   },
   "Kansas": {
-   "agreements": 58,
+   "agreements": 60,
    "models": {
-    "TFM": 25,
-    "WSO": 29,
+    "TFM": 26,
+    "WSO": 30,
     "JEM": 4
    },
    "agencies": [
@@ -5278,6 +5470,12 @@
     {
      "agency": "Brown County Sheriff's Office",
      "county": "Brown County",
+     "model": "WSO",
+     "signed": "2025-11-05"
+    },
+    {
+     "agency": "Brown County Sheriff's Office",
+     "county": "Brown County",
      "model": "JEM",
      "signed": "2025-11-04"
     },
@@ -5286,12 +5484,6 @@
      "county": "Brown County",
      "model": "TFM",
      "signed": "2025-11-04"
-    },
-    {
-     "agency": "Brown County Sheriff's Office",
-     "county": "Brown County",
-     "model": "WSO",
-     "signed": "2025-11-05"
     },
     {
      "agency": "Butler County Sheriff's Office",
@@ -5340,6 +5532,12 @@
      "county": "Montgomery County",
      "model": "TFM",
      "signed": "2025-11-04"
+    },
+    {
+     "agency": "Colony Police Department",
+     "county": "Anderson County",
+     "model": "TFM",
+     "signed": "2026-10-12"
     },
     {
      "agency": "Conway Springs Police Department",
@@ -5412,6 +5610,12 @@
      "county": "#N/A",
      "model": "TFM",
      "signed": "2025-02-18"
+    },
+    {
+     "agency": "Kiowa County Sheriff's Office",
+     "county": "Kiowa County",
+     "model": "WSO",
+     "signed": "2026-10-30"
     },
     {
      "agency": "Logan County Sheriff's Department",
@@ -5606,12 +5810,12 @@
      "signed": "2025-11-14"
     }
    ],
-   "distinct_agencies": 47
+   "distinct_agencies": 49
   },
   "Kentucky": {
-   "agreements": 59,
+   "agreements": 61,
    "models": {
-    "TFM": 54,
+    "TFM": 56,
     "JEM": 3,
     "WSO": 2
    },
@@ -5803,6 +6007,12 @@
      "signed": "2025-05-02"
     },
     {
+     "agency": "Knox County Sheriff's Office",
+     "county": "Knox County",
+     "model": "TFM",
+     "signed": "2026-10-31"
+    },
+    {
      "agency": "Laurel County Sheriff's Office",
      "county": "Laurel County",
      "model": "TFM",
@@ -5917,6 +6127,12 @@
      "signed": "2025-07-02"
     },
     {
+     "agency": "Shepherdsville Police Department",
+     "county": "Bullitt County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "Simpson County Sheriff's Office",
      "county": "Simpson County",
      "model": "TFM",
@@ -5971,13 +6187,13 @@
      "signed": "2026-01-07"
     }
    ],
-   "distinct_agencies": 57
+   "distinct_agencies": 59
   },
   "Louisiana": {
-   "agreements": 104,
+   "agreements": 116,
    "models": {
-    "TFM": 89,
-    "JEM": 6,
+    "TFM": 100,
+    "JEM": 7,
     "WSO": 9
    },
    "agencies": [
@@ -5992,6 +6208,12 @@
      "county": "Livingston Parish",
      "model": "TFM",
      "signed": "2026-09-17"
+    },
+    {
+     "agency": "Anacoco Police Department",
+     "county": "Vernon Parish",
+     "model": "TFM",
+     "signed": "2026-10-30"
     },
     {
      "agency": "Arnaudville Police Department",
@@ -6024,6 +6246,12 @@
      "signed": "2026-09-04"
     },
     {
+     "agency": "Bogalusa Police Department",
+     "county": "Washington Parish",
+     "model": "TFM",
+     "signed": "2026-11-03"
+    },
+    {
      "agency": "Bossier Parish Sheriff's Office",
      "county": "Bossier Parish",
      "model": "JEM",
@@ -6042,24 +6270,6 @@
      "signed": "2025-12-10"
     },
     {
-     "agency": "Caldwell Parish Sheriff's Office",
-     "county": "Caldwell Parish",
-     "model": "TFM",
-     "signed": "2026-04-17"
-    },
-    {
-     "agency": "Cankton Police Department",
-     "county": "St. Landry Parish",
-     "model": "TFM",
-     "signed": "2026-09-24"
-    },
-    {
-     "agency": "Catahoula Parish Sheriff's Office",
-     "county": "Catahoula Parish",
-     "model": "TFM",
-     "signed": "2026-08-05"
-    },
-    {
      "agency": "Clayton Police Department",
      "county": "Concordia Parish",
      "model": "TFM",
@@ -6076,12 +6286,6 @@
      "county": "Concordia Parish",
      "model": "TFM",
      "signed": "2026-08-19"
-    },
-    {
-     "agency": "Coushatta Police Department",
-     "county": "Red River Parish",
-     "model": "TFM",
-     "signed": "2026-08-01"
     },
     {
      "agency": "Creola Police Department",
@@ -6114,16 +6318,16 @@
      "signed": "2026-07-20"
     },
     {
+     "agency": "Eunice Police Department",
+     "county": "St. Landry County",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
      "agency": "Evangeline Parish Sheriff's Office",
      "county": "Evangeline Parish",
      "model": "TFM",
      "signed": "2026-08-19"
-    },
-    {
-     "agency": "Ferriday Police Department",
-     "county": "Concordia Parish",
-     "model": "TFM",
-     "signed": "2026-08-11"
     },
     {
      "agency": "Georgetown Police Department",
@@ -6138,6 +6342,12 @@
      "signed": "2026-05-13"
     },
     {
+     "agency": "Grand Isle Police Department",
+     "county": "Jefferson Parish",
+     "model": "TFM",
+     "signed": "2026-11-16"
+    },
+    {
      "agency": "Grant Parish Sheriff's Office",
      "county": "Grant Parish",
      "model": "TFM",
@@ -6148,12 +6358,6 @@
      "county": "Grant Parish",
      "model": "WSO",
      "signed": "2026-06-22"
-    },
-    {
-     "agency": "Grayson Police Department",
-     "county": "Caldwell Parish",
-     "model": "TFM",
-     "signed": "2026-04-17"
     },
     {
      "agency": "Greenwood Police Department",
@@ -6192,6 +6396,12 @@
      "signed": "2025-10-17"
     },
     {
+     "agency": "Houma Police Department",
+     "county": "Terrebone Parish",
+     "model": "TFM",
+     "signed": "2026-11-10"
+    },
+    {
      "agency": "Iota Police Department",
      "county": "Acadia Parish",
      "model": "TFM",
@@ -6218,14 +6428,14 @@
     {
      "agency": "Kenner Police Department",
      "county": "Jefferson Parish",
-     "model": "JEM",
-     "signed": "2025-03-17"
+     "model": "TFM",
+     "signed": "2025-10-17"
     },
     {
      "agency": "Kenner Police Department",
      "county": "Jefferson Parish",
-     "model": "TFM",
-     "signed": "2025-10-17"
+     "model": "JEM",
+     "signed": "2025-03-17"
     },
     {
      "agency": "Kentwood Police Department",
@@ -6286,12 +6496,6 @@
      "county": "Vernon Parish",
      "model": "TFM",
      "signed": "2026-07-20"
-    },
-    {
-     "agency": "Lecompte Police Department",
-     "county": "Rapides Parish",
-     "model": "TFM",
-     "signed": "2026-08-01"
     },
     {
      "agency": "Livingston Parish Sheriff's Office",
@@ -6378,22 +6582,16 @@
      "signed": "2025-10-17"
     },
     {
-     "agency": "Natchitoches Parish Sheriff's Office",
-     "county": "Natchitoches Parish",
-     "model": "TFM",
-     "signed": "2026-08-05"
-    },
-    {
-     "agency": "New Llano Police Department",
-     "county": "Vernon Parish",
-     "model": "TFM",
-     "signed": "2026-09-24"
-    },
-    {
      "agency": "Newellton Police Department",
      "county": "Tensas Parish",
      "model": "TFM",
      "signed": "2026-07-24"
+    },
+    {
+     "agency": "Oil City Police Department",
+     "county": "Caddo Parish",
+     "model": "TFM",
+     "signed": "2026-11-13"
     },
     {
      "agency": "Olla Police Department",
@@ -6414,22 +6612,10 @@
      "signed": "2025-07-02"
     },
     {
-     "agency": "Patterson Police Department",
-     "county": "St. Mary Parish",
-     "model": "TFM",
-     "signed": "2026-08-01"
-    },
-    {
      "agency": "Pearl River Police Department",
      "county": "St. Tammany Parish",
      "model": "TFM",
      "signed": "2025-09-22"
-    },
-    {
-     "agency": "Pine Prairie Police Department",
-     "county": "Evangeline Parish",
-     "model": "TFM",
-     "signed": "2026-08-07"
     },
     {
      "agency": "Plaquemines Parish Sheriff's Office",
@@ -6446,6 +6632,12 @@
     {
      "agency": "Pointe Coupee Parish Sheriff's Office",
      "county": "Pointe Coupee Parish",
+     "model": "WSO",
+     "signed": "2026-04-29"
+    },
+    {
+     "agency": "Pointe Coupee Parish Sheriff's Office",
+     "county": "Pointe Coupee Parish",
      "model": "JEM",
      "signed": "2026-04-27"
     },
@@ -6456,34 +6648,16 @@
      "signed": "2026-04-27"
     },
     {
-     "agency": "Pointe Coupee Parish Sheriff's Office",
-     "county": "Pointe Coupee Parish",
-     "model": "WSO",
-     "signed": "2026-04-29"
-    },
-    {
      "agency": "Pollock Police Department",
      "county": "Grant Parish",
      "model": "TFM",
      "signed": "2026-07-20"
     },
     {
-     "agency": "Port Barre Police Department",
-     "county": "St. Landry Parish",
-     "model": "TFM",
-     "signed": "2026-08-07"
-    },
-    {
      "agency": "Port Vincent Police Department",
      "county": "Livingston Parish",
      "model": "TFM",
      "signed": "2026-09-11"
-    },
-    {
-     "agency": "Provencal Police Department",
-     "county": "Natchitoches Parish",
-     "model": "TFM",
-     "signed": "2026-08-05"
     },
     {
      "agency": "Richland Parish Sheriff's Office",
@@ -6516,12 +6690,6 @@
      "signed": "2026-09-11"
     },
     {
-     "agency": "Springfield Police Department",
-     "county": "Livingston Parish",
-     "model": "TFM",
-     "signed": "2026-08-07"
-    },
-    {
      "agency": "St. Bernard Parish Sheriff's Office",
      "county": "Chalmette Parish",
      "model": "JEM",
@@ -6534,6 +6702,18 @@
      "signed": "2025-07-24"
     },
     {
+     "agency": "St. Mary Parish Sheriff's Office",
+     "county": "St. Mary Parish",
+     "model": "JEM",
+     "signed": "2026-10-30"
+    },
+    {
+     "agency": "St. Mary Parish Sheriff's Office",
+     "county": "St. Mary Parish",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
      "agency": "Sterlington Police Department",
      "county": "Ouachita Parish",
      "model": "TFM",
@@ -6544,12 +6724,6 @@
      "county": "Tangipahoa Parish",
      "model": "TFM",
      "signed": "2026-07-10"
-    },
-    {
-     "agency": "Tullos Police Department",
-     "county": "LaSalle Parish",
-     "model": "TFM",
-     "signed": "2026-05-09"
     },
     {
      "agency": "Urania Police Department",
@@ -6570,7 +6744,7 @@
      "signed": "2026-07-27"
     },
     {
-     "agency": "Ward 5 Marshal's Office",
+     "agency": "Ward 4 Marshal's Office",
      "county": "Calcasieu Parish",
      "model": "TFM",
      "signed": "2026-09-30"
@@ -6604,9 +6778,123 @@
      "county": "Winn Parish",
      "model": "TFM",
      "signed": "2026-04-25"
+    },
+    {
+     "agency": "Caldwell Parish Sheriff's Office",
+     "county": "Caldwell Parish",
+     "model": "TFM",
+     "signed": "2026-04-17"
+    },
+    {
+     "agency": "Cankton Police Department",
+     "county": "St. Landry Parish",
+     "model": "TFM",
+     "signed": "2026-09-24"
+    },
+    {
+     "agency": "Catahoula Parish Sheriff's Office",
+     "county": "Catahoula Parish",
+     "model": "TFM",
+     "signed": "2026-08-05"
+    },
+    {
+     "agency": "Cheneyville Police Department",
+     "county": "Rapides Parish",
+     "model": "TFM",
+     "signed": "2026-11-01"
+    },
+    {
+     "agency": "Church Point Police Department",
+     "county": "Acadia Parish",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
+     "agency": "Coushatta Police Department",
+     "county": "Red River Parish",
+     "model": "TFM",
+     "signed": "2026-08-01"
+    },
+    {
+     "agency": "Ferriday Police Department",
+     "county": "Concordia Parish",
+     "model": "TFM",
+     "signed": "2026-08-11"
+    },
+    {
+     "agency": "Franklin Police Department",
+     "county": "St. Mary Parish",
+     "model": "TFM",
+     "signed": "2026-10-14"
+    },
+    {
+     "agency": "Grayson Police Department",
+     "county": "Caldwell Parish",
+     "model": "TFM",
+     "signed": "2026-04-17"
+    },
+    {
+     "agency": "Lecompte Police Department",
+     "county": "Rapides Parish",
+     "model": "TFM",
+     "signed": "2026-08-01"
+    },
+    {
+     "agency": "Natchitoches Parish Sheriff's Office",
+     "county": "Natchitoches Parish",
+     "model": "TFM",
+     "signed": "2026-08-05"
+    },
+    {
+     "agency": "New Llano Police Department",
+     "county": "Vernon Parish",
+     "model": "TFM",
+     "signed": "2026-09-24"
+    },
+    {
+     "agency": "Patterson Police Department",
+     "county": "St. Mary Parish",
+     "model": "TFM",
+     "signed": "2026-08-01"
+    },
+    {
+     "agency": "Pine Prairie Police Department",
+     "county": "Evangeline Parish",
+     "model": "TFM",
+     "signed": "2026-08-07"
+    },
+    {
+     "agency": "Port Barre Police Department",
+     "county": "St. Landry Parish",
+     "model": "TFM",
+     "signed": "2026-08-07"
+    },
+    {
+     "agency": "Provencal Police Department",
+     "county": "Natchitoches Parish",
+     "model": "TFM",
+     "signed": "2026-08-05"
+    },
+    {
+     "agency": "Springfield Police Department",
+     "county": "Livingston Parish",
+     "model": "TFM",
+     "signed": "2026-08-07"
+    },
+    {
+     "agency": "Tullos Police Department",
+     "county": "LaSalle Parish",
+     "model": "TFM",
+     "signed": "2026-05-09"
+    },
+    {
+     "agency": "Turkey Creek Police Department",
+     "county": "Evangeline Parish",
+     "model": "TFM",
+     "signed": "2026-10-27"
     }
    ],
-   "distinct_agencies": 94
+   "distinct_agencies": 106
   },
   "Massachusetts": {
    "agreements": 1,
@@ -6682,10 +6970,10 @@
    "distinct_agencies": 8
   },
   "Minnesota": {
-   "agreements": 10,
+   "agreements": 9,
    "models": {
     "TFM": 6,
-    "WSO": 3,
+    "WSO": 2,
     "JEM": 1
    },
    "agencies": [
@@ -6732,12 +7020,6 @@
      "signed": "2025-02-27"
     },
     {
-     "agency": "Kandiyohi County Sheriff's Office",
-     "county": "Kandiyohi County",
-     "model": "WSO",
-     "signed": "2025-05-22"
-    },
-    {
      "agency": "Mille Lacs County Sheriff's Office",
      "county": "Mille Lacs County",
      "model": "TFM",
@@ -6750,14 +7032,14 @@
      "signed": "2025-10-17"
     }
    ],
-   "distinct_agencies": 9
+   "distinct_agencies": 8
   },
   "Mississippi": {
-   "agreements": 67,
+   "agreements": 73,
    "models": {
-    "TFM": 58,
-    "JEM": 3,
-    "WSO": 6
+    "TFM": 62,
+    "WSO": 7,
+    "JEM": 4
    },
    "agencies": [
     {
@@ -6797,6 +7079,12 @@
      "signed": "2026-02-10"
     },
     {
+     "agency": "Choctaw County Sheriff's Office",
+     "county": "Choctaw County",
+     "model": "TFM",
+     "signed": "2026-11-04"
+    },
+    {
      "agency": "Clay County Sheriff's Department",
      "county": "Clay County",
      "model": "TFM",
@@ -6819,12 +7107,6 @@
      "county": "Alcorn County",
      "model": "TFM",
      "signed": "2026-07-20"
-    },
-    {
-     "agency": "Decatur Police Department",
-     "county": "Newton County",
-     "model": "TFM",
-     "signed": "2026-07-30"
     },
     {
      "agency": "Ecru Police Department",
@@ -6865,14 +7147,14 @@
     {
      "agency": "Harrison County Sheriff's Office",
      "county": "Harrison County",
-     "model": "JEM",
-     "signed": "2025-06-30"
+     "model": "WSO",
+     "signed": "2025-07-02"
     },
     {
      "agency": "Harrison County Sheriff's Office",
      "county": "Harrison County",
-     "model": "WSO",
-     "signed": "2025-07-02"
+     "model": "JEM",
+     "signed": "2025-06-30"
     },
     {
      "agency": "Hickory Flat Police Department",
@@ -6899,10 +7181,34 @@
      "signed": "2026-02-23"
     },
     {
+     "agency": "Long Beach Police Department",
+     "county": "Harrison County",
+     "model": "TFM",
+     "signed": "2026-10-15"
+    },
+    {
      "agency": "Louisville Police Department",
      "county": "Winston County",
      "model": "TFM",
      "signed": "2026-02-17"
+    },
+    {
+     "agency": "Lowndes County Sheriff's Department",
+     "county": "Lowndes County",
+     "model": "JEM",
+     "signed": "2026-10-12"
+    },
+    {
+     "agency": "Lowndes County Sheriff's Department",
+     "county": "Lowndes County",
+     "model": "TFM",
+     "signed": "2026-10-12"
+    },
+    {
+     "agency": "Lowndes County Sheriff's Department",
+     "county": "Lowndes County",
+     "model": "WSO",
+     "signed": "2026-10-12"
     },
     {
      "agency": "Luka Police Department",
@@ -6973,14 +7279,14 @@
     {
      "agency": "Monroe County Sheriff's Office",
      "county": "Monroe County",
-     "model": "TFM",
-     "signed": "2026-04-30"
+     "model": "WSO",
+     "signed": "2026-08-04"
     },
     {
      "agency": "Monroe County Sheriff's Office",
      "county": "Monroe County",
-     "model": "WSO",
-     "signed": "2026-08-04"
+     "model": "TFM",
+     "signed": "2026-04-30"
     },
     {
      "agency": "Montgomery County Sheriff's Department",
@@ -6993,6 +7299,12 @@
      "county": "Neshoba County",
      "model": "TFM",
      "signed": "2026-02-10"
+    },
+    {
+     "agency": "Nettleton Police Department",
+     "county": "Lee/Monroe Counties",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Newton County Sheriff's Department",
@@ -7117,14 +7429,14 @@
     {
      "agency": "Tishomingo County Sheriff's Department",
      "county": "Tishomingo County",
-     "model": "TFM",
-     "signed": "2026-05-09"
+     "model": "WSO",
+     "signed": "2026-06-12"
     },
     {
      "agency": "Tishomingo County Sheriff's Department",
      "county": "Tishomingo County",
-     "model": "WSO",
-     "signed": "2026-06-12"
+     "model": "TFM",
+     "signed": "2026-05-09"
     },
     {
      "agency": "Union Police Department",
@@ -7161,23 +7473,41 @@
      "county": "Winston County",
      "model": "TFM",
      "signed": "2026-05-24"
+    },
+    {
+     "agency": "Decatur Police Department",
+     "county": "Newton County",
+     "model": "TFM",
+     "signed": "2026-07-30"
     }
    ],
-   "distinct_agencies": 60
+   "distinct_agencies": 64
   },
   "Missouri": {
-   "agreements": 158,
+   "agreements": 178,
    "models": {
-    "TFM": 141,
+    "TFM": 161,
     "WSO": 13,
     "JEM": 4
    },
    "agencies": [
     {
+     "agency": "Andrew County Sheriff's Office",
+     "county": "Andrew County",
+     "model": "TFM",
+     "signed": "2026-10-30"
+    },
+    {
      "agency": "Ash Grove Police Department",
      "county": "Greene County",
      "model": "TFM",
      "signed": "2025-11-19"
+    },
+    {
+     "agency": "Atchison County Sheriff's Office",
+     "county": "Atchison County",
+     "model": "TFM",
+     "signed": "2026-11-06"
     },
     {
      "agency": "Ava Police Department",
@@ -7190,6 +7520,18 @@
      "county": "Barry County",
      "model": "TFM",
      "signed": "2026-09-16"
+    },
+    {
+     "agency": "Barton County Sheriff's Office",
+     "county": "Barton County",
+     "model": "TFM",
+     "signed": "2026-10-14"
+    },
+    {
+     "agency": "Battlefield Police Department",
+     "county": "Greene County",
+     "model": "TFM",
+     "signed": "2026-11-06"
     },
     {
      "agency": "Benton Police Department",
@@ -7270,6 +7612,12 @@
      "signed": "2026-08-21"
     },
     {
+     "agency": "Buffalo Police Department",
+     "county": "Dallas County",
+     "model": "TFM",
+     "signed": "2026-11-02"
+    },
+    {
      "agency": "Cabool Police Department",
      "county": "Texas County",
      "model": "TFM",
@@ -7286,6 +7634,12 @@
      "county": "Camden County",
      "model": "TFM",
      "signed": "2026-08-28"
+    },
+    {
+     "agency": "Camdenton Police Department",
+     "county": "Camden County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Carter County Sheriff's Office",
@@ -7366,6 +7720,12 @@
      "signed": "2026-04-29"
     },
     {
+     "agency": "Dade County Sheriff's Office",
+     "county": "Dade County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "Dallas County Sheriff's Office",
      "county": "Dallas County",
      "model": "TFM",
@@ -7432,6 +7792,12 @@
      "signed": "2026-03-31"
     },
     {
+     "agency": "Eldon Police Department",
+     "county": "Miller County",
+     "model": "TFM",
+     "signed": "2026-10-23"
+    },
+    {
      "agency": "Ellington Police Department",
      "county": "Reynolds County",
      "model": "TFM",
@@ -7448,6 +7814,18 @@
      "county": "Lincoln County",
      "model": "TFM",
      "signed": "2026-02-23"
+    },
+    {
+     "agency": "Eminence Police Department",
+     "county": "Shannon County",
+     "model": "TFM",
+     "signed": "2026-11-15"
+    },
+    {
+     "agency": "Everton Police Department",
+     "county": "Dade County",
+     "model": "TFM",
+     "signed": "2026-11-18"
     },
     {
      "agency": "Fordland Police Department",
@@ -7534,6 +7912,12 @@
      "signed": "2026-02-14"
     },
     {
+     "agency": "Hickory County Sheriff's Department",
+     "county": "Hickory County",
+     "model": "TFM",
+     "signed": "2026-11-02"
+    },
+    {
      "agency": "Hillsdale Police Department",
      "county": "St. Louis County",
      "model": "TFM",
@@ -7550,6 +7934,12 @@
      "county": "Holt County",
      "model": "TFM",
      "signed": "2026-09-02"
+    },
+    {
+     "agency": "Holts Summit Police Department",
+     "county": "Callaway County",
+     "model": "TFM",
+     "signed": "2026-11-17"
     },
     {
      "agency": "Houston Police Department",
@@ -7582,6 +7972,12 @@
      "signed": "2026-05-31"
     },
     {
+     "agency": "Iron Mountain Lake Police Department",
+     "county": "St. Francois County",
+     "model": "TFM",
+     "signed": "2026-11-17"
+    },
+    {
      "agency": "Jasper County Sheriff's Office",
      "county": "Jasper County",
      "model": "TFM",
@@ -7600,6 +7996,12 @@
      "signed": "2026-05-17"
     },
     {
+     "agency": "Kimberling City Police Department",
+     "county": "Stone County",
+     "model": "TFM",
+     "signed": "2026-10-15"
+    },
+    {
      "agency": "Laclede County Sheriff's Office",
      "county": "Laclede County",
      "model": "TFM",
@@ -7610,6 +8012,12 @@
      "county": "Lafayette County",
      "model": "TFM",
      "signed": "2026-09-15"
+    },
+    {
+     "agency": "Laurie Police Department",
+     "county": "Morgan County",
+     "model": "TFM",
+     "signed": "2026-10-16"
     },
     {
      "agency": "Lawrence County Sheriff's Office",
@@ -7672,6 +8080,12 @@
      "signed": "2026-01-07"
     },
     {
+     "agency": "Marble Hill Police Department",
+     "county": "Bollinger County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "Maries County Sheriff's Office",
      "county": "Maries County",
      "model": "TFM",
@@ -7700,6 +8114,12 @@
      "county": "Miller County",
      "model": "TFM",
      "signed": "2026-05-13"
+    },
+    {
+     "agency": "Miner Police Department",
+     "county": "Scott/Mississippi Counties",
+     "model": "TFM",
+     "signed": "2026-11-03"
     },
     {
      "agency": "Mississippi County Sheriff's Office",
@@ -7762,6 +8182,12 @@
      "signed": "2025-12-08"
     },
     {
+     "agency": "Mountain View Police Department",
+     "county": "Howell County",
+     "model": "TFM",
+     "signed": "2026-11-16"
+    },
+    {
      "agency": "New Madrid County Sheriff's Office",
      "county": "New Madrid County",
      "model": "TFM",
@@ -7778,12 +8204,6 @@
      "county": "Christian County",
      "model": "TFM",
      "signed": "2026-08-19"
-    },
-    {
-     "agency": "Noel Marshal's Office",
-     "county": "McDonald County",
-     "model": "TFM",
-     "signed": "2026-07-30"
     },
     {
      "agency": "North County Police Cooperative",
@@ -7830,14 +8250,14 @@
     {
      "agency": "Pettis County Sheriff's Office",
      "county": "Pettis County",
-     "model": "JEM",
-     "signed": "2025-08-28"
+     "model": "TFM",
+     "signed": "2026-04-25"
     },
     {
      "agency": "Pettis County Sheriff's Office",
      "county": "Pettis County",
-     "model": "TFM",
-     "signed": "2026-04-25"
+     "model": "JEM",
+     "signed": "2025-08-28"
     },
     {
      "agency": "Pevely Police Department",
@@ -7862,6 +8282,18 @@
      "county": "McDonald County",
      "model": "TFM",
      "signed": "2026-01-26"
+    },
+    {
+     "agency": "Pleasant Hope Police Department",
+     "county": "Polk County",
+     "model": "TFM",
+     "signed": "2026-10-29"
+    },
+    {
+     "agency": "Polk County Sheriff's Office",
+     "county": "Polk County",
+     "model": "TFM",
+     "signed": "2026-11-02"
     },
     {
      "agency": "Poplar Bluff Police Department",
@@ -8038,6 +8470,12 @@
      "signed": "2026-04-08"
     },
     {
+     "agency": "Troy Police Department",
+     "county": "Lincoln County",
+     "model": "TFM",
+     "signed": "2026-11-17"
+    },
+    {
      "agency": "Vienna Police Department",
      "county": "Maries County",
      "model": "TFM",
@@ -8122,7 +8560,7 @@
      "signed": "2026-05-26"
     }
    ],
-   "distinct_agencies": 143
+   "distinct_agencies": 163
   },
   "Montana": {
    "agreements": 8,
@@ -8183,13 +8621,19 @@
    "distinct_agencies": 8
   },
   "Nebraska": {
-   "agreements": 16,
+   "agreements": 19,
    "models": {
-    "TFM": 12,
+    "TFM": 15,
     "JEM": 2,
     "WSO": 2
    },
    "agencies": [
+    {
+     "agency": "Arthur County Sheriff's Office",
+     "county": "Arthur County",
+     "model": "TFM",
+     "signed": "2026-10-21"
+    },
     {
      "agency": "Banner County Sheriff's Office",
      "county": "Banner County",
@@ -8211,14 +8655,14 @@
     {
      "agency": "Dakota County Sheriff's Office",
      "county": "Dakota County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "TFM",
+     "signed": "2026-08-11"
     },
     {
      "agency": "Dakota County Sheriff's Office",
      "county": "Dakota County",
-     "model": "TFM",
-     "signed": "2026-08-11"
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Fillmore County Sheriff's Office",
@@ -8229,14 +8673,14 @@
     {
      "agency": "Grant County Sheriff's Office",
      "county": "Grant County",
-     "model": "TFM",
-     "signed": "2026-07-23"
+     "model": "WSO",
+     "signed": "2026-07-26"
     },
     {
      "agency": "Grant County Sheriff's Office",
      "county": "Grant County",
-     "model": "WSO",
-     "signed": "2026-07-26"
+     "model": "TFM",
+     "signed": "2026-07-23"
     },
     {
      "agency": "Greeley County Sheriff's Office",
@@ -8259,8 +8703,8 @@
     {
      "agency": "Kimball County Sheriff's Office",
      "county": "Kimball County",
-     "model": "WSO",
-     "signed": "2026-10-08"
+     "model": "TFM",
+     "signed": "2026-10-29"
     },
     {
      "agency": "Mitchell Police Department",
@@ -8281,13 +8725,25 @@
      "signed": "2025-08-28"
     },
     {
+     "agency": "Richardson County Sheriff's Office",
+     "county": "Richardson County",
+     "model": "TFM",
+     "signed": "2026-11-02"
+    },
+    {
+     "agency": "Richardson County Sheriff's Office",
+     "county": "Richardson County",
+     "model": "WSO",
+     "signed": "2026-11-02"
+    },
+    {
      "agency": "Sioux County Sheriff's Office",
      "county": "Sioux County",
      "model": "TFM",
      "signed": "2025-09-09"
     }
    ],
-   "distinct_agencies": 14
+   "distinct_agencies": 16
   },
   "Nevada": {
    "agreements": 6,
@@ -8336,9 +8792,9 @@
    "distinct_agencies": 5
   },
   "New Hampshire": {
-   "agreements": 29,
+   "agreements": 31,
    "models": {
-    "TFM": 29
+    "TFM": 31
    },
    "agencies": [
     {
@@ -8420,10 +8876,22 @@
      "signed": "2025-05-22"
     },
     {
+     "agency": "Hinsdale Police Department",
+     "county": "Cheshire County",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
      "agency": "Kingston Police Department",
      "county": "Rockingham County",
      "model": "TFM",
      "signed": "2026-05-09"
+    },
+    {
+     "agency": "Lancaster Police Department",
+     "county": "Coos County",
+     "model": "TFM",
+     "signed": "2026-11-03"
     },
     {
      "agency": "Middleton Police Department",
@@ -8516,7 +8984,7 @@
      "signed": "2026-03-25"
     }
    ],
-   "distinct_agencies": 29
+   "distinct_agencies": 31
   },
   "New Mexico": {
    "agreements": 2,
@@ -8555,18 +9023,30 @@
    "distinct_agencies": 1
   },
   "North Carolina": {
-   "agreements": 34,
+   "agreements": 37,
    "models": {
-    "WSO": 19,
-    "TFM": 12,
+    "TFM": 14,
+    "WSO": 20,
     "JEM": 3
    },
    "agencies": [
+    {
+     "agency": "North Carolina Department of Public Safety - Alcohol Law Enforcement Division",
+     "county": "Wake County",
+     "model": "TFM",
+     "signed": "2026-09-28"
+    },
     {
      "agency": "Alamance County Sheriff's Office",
      "county": "Alamance County",
      "model": "WSO",
      "signed": "2020-05-21"
+    },
+    {
+     "agency": "Alexander County Sheriff's Office",
+     "county": "Alexander County",
+     "model": "WSO",
+     "signed": "2026-10-31"
     },
     {
      "agency": "Avery County Sheriff's Office",
@@ -8627,6 +9107,12 @@
      "county": "Cherokee County",
      "model": "WSO",
      "signed": "2025-03-10"
+    },
+    {
+     "agency": "Cleveland County Sheriff's Office",
+     "county": "Cleveland County",
+     "model": "TFM",
+     "signed": "2026-10-14"
     },
     {
      "agency": "Cleveland County Sheriff's Office",
@@ -8701,12 +9187,6 @@
      "signed": "2026-09-29"
     },
     {
-     "agency": "North Carolina Department of Public Safety - Alcohol Law Enforcement Division",
-     "county": "Wake County",
-     "model": "TFM",
-     "signed": "2026-09-28"
-    },
-    {
      "agency": "North Carolina State Bureau of Investigation",
      "county": "Wake County",
      "model": "TFM",
@@ -8761,19 +9241,25 @@
      "signed": "2019-12-31"
     },
     {
-     "agency": "Fayetteville Police Department",
+     "agency": "Sampson County Sheriff's Office",
+     "county": "Sampson County",
+     "model": "TFM",
+     "signed": "2026-10-09"
+    },
+    {
+     "agency": "Union County Sheriff's Office",
      "county": "Union County",
      "model": "WSO",
      "signed": "2025-05-07"
     }
    ],
-   "distinct_agencies": 31
+   "distinct_agencies": 33
   },
   "North Dakota": {
    "agreements": 21,
    "models": {
-    "TFM": 17,
-    "WSO": 3,
+    "TFM": 18,
+    "WSO": 2,
     "JEM": 1
    },
    "agencies": [
@@ -8796,16 +9282,16 @@
      "signed": "2026-03-13"
     },
     {
-     "agency": "Dickinson Police Department",
-     "county": "Stark County",
-     "model": "TFM",
-     "signed": "2025-03-07"
-    },
-    {
      "agency": "Devils Lake Police Department",
      "county": "Ramsey County",
      "model": "TFM",
      "signed": "2026-10-06"
+    },
+    {
+     "agency": "Dickinson Police Department",
+     "county": "Stark County",
+     "model": "TFM",
+     "signed": "2025-03-07"
     },
     {
      "agency": "Dunn County Sheriff's Office",
@@ -8868,12 +9354,6 @@
      "signed": "2025-11-21"
     },
     {
-     "agency": "Renville County Sheriff's Office",
-     "county": "Renville County",
-     "model": "WSO",
-     "signed": "2025-11-21"
-    },
-    {
      "agency": "Rolette County Sheriff's Office",
      "county": "Rolette County",
      "model": "TFM",
@@ -8884,6 +9364,12 @@
      "county": "Mountrail County",
      "model": "TFM",
      "signed": "2026-08-06"
+    },
+    {
+     "agency": "Walsh County Sheriff's Office",
+     "county": "Walsh County",
+     "model": "TFM",
+     "signed": "2026-10-30"
     },
     {
      "agency": "Williams County Sheriff's Office",
@@ -8904,7 +9390,7 @@
      "signed": "2026-04-13"
     }
    ],
-   "distinct_agencies": 17
+   "distinct_agencies": 18
   },
   "Northern Mariana Islands": {
    "agreements": 2,
@@ -8929,9 +9415,9 @@
    "distinct_agencies": 2
   },
   "Ohio": {
-   "agreements": 24,
+   "agreements": 25,
    "models": {
-    "TFM": 20,
+    "TFM": 21,
     "JEM": 1,
     "WSO": 3
    },
@@ -8945,14 +9431,14 @@
     {
      "agency": "Butler County Sheriff's Office",
      "county": "Butler County",
-     "model": "JEM",
-     "signed": "2025-02-24"
+     "model": "TFM",
+     "signed": "2025-04-02"
     },
     {
      "agency": "Butler County Sheriff's Office",
      "county": "Butler County",
-     "model": "TFM",
-     "signed": "2025-04-02"
+     "model": "JEM",
+     "signed": "2025-02-24"
     },
     {
      "agency": "Clermont County Sheriff's Office",
@@ -9027,6 +9513,12 @@
      "signed": "2025-03-17"
     },
     {
+     "agency": "Rio Grande Police Department",
+     "county": "Gallia County",
+     "model": "TFM",
+     "signed": "2026-10-09"
+    },
+    {
      "agency": "Russellville Police Department",
      "county": "Brown County",
      "model": "TFM",
@@ -9081,16 +9573,22 @@
      "signed": "2026-07-03"
     }
    ],
-   "distinct_agencies": 20
+   "distinct_agencies": 21
   },
   "Oklahoma": {
-   "agreements": 126,
+   "agreements": 141,
    "models": {
-    "TFM": 114,
+    "TFM": 129,
     "WSO": 7,
     "JEM": 5
    },
    "agencies": [
+    {
+     "agency": "Office of The District Attorney - 22nd District",
+     "county": "#N/A",
+     "model": "TFM",
+     "signed": "2026-11-18"
+    },
     {
      "agency": "Achille Police Department",
      "county": "Bryan County",
@@ -9126,6 +9624,12 @@
      "county": "Le Flore County",
      "model": "TFM",
      "signed": "2026-08-27"
+    },
+    {
+     "agency": "Asher Police Department",
+     "county": "Pottawatomie County",
+     "model": "TFM",
+     "signed": "2026-10-13"
     },
     {
      "agency": "Atoka County Sheriff's Office",
@@ -9182,6 +9686,12 @@
      "signed": "2026-02-10"
     },
     {
+     "agency": "Bokoshe Police Department",
+     "county": "Le Flore County",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
      "agency": "Bristow Police Department",
      "county": "Creek County",
      "model": "TFM",
@@ -9194,16 +9704,16 @@
      "signed": "2026-08-19"
     },
     {
+     "agency": "Caddo County Sheriff's Office",
+     "county": "Caddo County",
+     "model": "TFM",
+     "signed": "2026-10-23"
+    },
+    {
      "agency": "Caddo Police Department",
      "county": "Bryan County",
      "model": "TFM",
      "signed": "2026-03-11"
-    },
-    {
-     "agency": "Canadian County Sheriff's Office",
-     "county": "Canadian County",
-     "model": "JEM",
-     "signed": "2020-03-13"
     },
     {
      "agency": "Canadian County Sheriff's Office",
@@ -9216,6 +9726,12 @@
      "county": "Canadian County",
      "model": "WSO",
      "signed": "2025-08-28"
+    },
+    {
+     "agency": "Canadian County Sheriff's Office",
+     "county": "Canadian County",
+     "model": "JEM",
+     "signed": "2020-03-13"
     },
     {
      "agency": "Caney Police Department",
@@ -9248,12 +9764,6 @@
      "signed": "2026-03-06"
     },
     {
-     "agency": "Cherokee Police Department",
-     "county": "Alfalfa County",
-     "model": "TFM",
-     "signed": "2026-05-21"
-    },
-    {
      "agency": "Cimarron County Sheriff's Office",
      "county": "Cimarron County",
      "model": "TFM",
@@ -9270,12 +9780,6 @@
      "county": "Bryan County",
      "model": "TFM",
      "signed": "2026-03-13"
-    },
-    {
-     "agency": "Colcord Police Department",
-     "county": "Delaware County",
-     "model": "TFM",
-     "signed": "2026-05-21"
     },
     {
      "agency": "Collinsville Police Department",
@@ -9344,6 +9848,12 @@
      "signed": "2026-06-15"
     },
     {
+     "agency": "Forest Park Police Department",
+     "county": "Oklahoma County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "Geary Police Department",
      "county": "Blaine County",
      "model": "TFM",
@@ -9374,12 +9884,6 @@
      "signed": "2026-03-28"
     },
     {
-     "agency": "Heavener Police Department",
-     "county": "Le Flore County",
-     "model": "TFM",
-     "signed": "2026-09-02"
-    },
-    {
      "agency": "Hobart Police Department",
      "county": "Kiowa County",
      "model": "TFM",
@@ -9398,6 +9902,12 @@
      "signed": "2026-07-29"
     },
     {
+     "agency": "Howe Police Department",
+     "county": "Le Flore County",
+     "model": "TFM",
+     "signed": "2026-10-09"
+    },
+    {
      "agency": "Hughes County Sheriff's Office",
      "county": "Hughes County",
      "model": "TFM",
@@ -9414,6 +9924,12 @@
      "county": "Johnston County",
      "model": "TFM",
      "signed": "2026-05-04"
+    },
+    {
+     "agency": "Kay County Sheriff's Office",
+     "county": "Kay County",
+     "model": "TFM",
+     "signed": "2026-11-09"
     },
     {
      "agency": "Keota Police Department",
@@ -9482,6 +9998,12 @@
      "signed": "2025-12-08"
     },
     {
+     "agency": "Mangum Police Department",
+     "county": "Morgan County",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
      "agency": "Mannford Police Department",
      "county": "Creek County",
      "model": "TFM",
@@ -9498,6 +10020,12 @@
      "county": "McIntosh County",
      "model": "TFM",
      "signed": "2026-02-10"
+    },
+    {
+     "agency": "McLoud Police Department",
+     "county": "Pottawatomie County",
+     "model": "TFM",
+     "signed": "2026-11-06"
     },
     {
      "agency": "Minco Police Department",
@@ -9520,6 +10048,12 @@
     {
      "agency": "Muskogee County Sheriff's Office",
      "county": "Muskogee County",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
+     "agency": "Muskogee County Sheriff's Office",
+     "county": "Muskogee County",
      "model": "WSO",
      "signed": "2025-04-16"
     },
@@ -9528,6 +10062,12 @@
      "county": "Noble County",
      "model": "TFM",
      "signed": "2026-04-20"
+    },
+    {
+     "agency": "North Enid Police Department",
+     "county": "Garfield County",
+     "model": "TFM",
+     "signed": "2026-10-14"
     },
     {
      "agency": "Nowata Police Department",
@@ -9540,6 +10080,12 @@
      "county": "Kay County",
      "model": "TFM",
      "signed": "2026-05-04"
+    },
+    {
+     "agency": "Okarche Police Department",
+     "county": "Canadian/King Fisher Counties",
+     "model": "TFM",
+     "signed": "2026-10-31"
     },
     {
      "agency": "Okfuskee County Sheriff's Office",
@@ -9638,22 +10184,34 @@
      "signed": "2026-04-27"
     },
     {
+     "agency": "Pottawatomie County Sheriff's Office",
+     "county": "Pottawatomie County",
+     "model": "TFM",
+     "signed": "2026-10-14"
+    },
+    {
      "agency": "Quinton Police Department",
      "county": "Pittsburg County",
      "model": "TFM",
      "signed": "2026-06-23"
     },
     {
-     "agency": "Rogers County Sheriff's Office",
-     "county": "Rogers County",
+     "agency": "Ramona Police Department",
+     "county": "Washington",
      "model": "TFM",
-     "signed": "2026-05-31"
+     "signed": "2026-11-03"
     },
     {
      "agency": "Rattan Police Department",
      "county": "Pushmataha County",
      "model": "TFM",
      "signed": "2026-07-20"
+    },
+    {
+     "agency": "Rogers County Sheriff's Office",
+     "county": "Rogers County",
+     "model": "TFM",
+     "signed": "2026-05-31"
     },
     {
      "agency": "Roland Police Department",
@@ -9672,6 +10230,12 @@
      "county": "Sequoyah County",
      "model": "TFM",
      "signed": "2025-10-17"
+    },
+    {
+     "agency": "Shady Point Police Department",
+     "county": "Le Flore County",
+     "model": "TFM",
+     "signed": "2026-10-16"
     },
     {
      "agency": "Sperry Police Department",
@@ -9742,14 +10306,14 @@
     {
      "agency": "Tulsa County Sheriff's Office",
      "county": "Tulsa County",
-     "model": "JEM",
-     "signed": "2020-06-08"
+     "model": "TFM",
+     "signed": "2026-07-07"
     },
     {
      "agency": "Tulsa County Sheriff's Office",
      "county": "Tulsa County",
-     "model": "TFM",
-     "signed": "2026-07-07"
+     "model": "JEM",
+     "signed": "2020-06-08"
     },
     {
      "agency": "Tushka Police Department",
@@ -9824,6 +10388,12 @@
      "signed": "2026-09-26"
     },
     {
+     "agency": "Wellston Police Department",
+     "county": "Lincoln County",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
      "agency": "West Siloam Springs Police Department",
      "county": "Delaware County",
      "model": "TFM",
@@ -9846,22 +10416,40 @@
      "county": "Woodward County",
      "model": "TFM",
      "signed": "2026-08-06"
+    },
+    {
+     "agency": "Cherokee Police Department",
+     "county": "Alfalfa County",
+     "model": "TFM",
+     "signed": "2026-05-21"
+    },
+    {
+     "agency": "Colcord Police Department",
+     "county": "Delaware County",
+     "model": "TFM",
+     "signed": "2026-05-21"
     }
    ],
-   "distinct_agencies": 118
+   "distinct_agencies": 132
   },
   "Pennsylvania": {
-   "agreements": 143,
+   "agreements": 149,
    "models": {
-    "TFM": 140,
+    "TFM": 146,
     "WSO": 3
    },
    "agencies": [
     {
+     "agency": "Allegheny Township Police Department",
+     "county": "Armstrong County",
+     "model": "TFM",
+     "signed": "2026-11-10"
+    },
+    {
      "agency": "Ambridge Borough Police Department",
      "county": "Beaver County",
      "model": "TFM",
-     "signed": "2026-08-07"
+     "signed": "2026-10-07"
     },
     {
      "agency": "Armstrong County District Attorney’s Office",
@@ -9966,6 +10554,12 @@
      "signed": "2026-07-27"
     },
     {
+     "agency": "Carbondale Township Police Department",
+     "county": "Lackawanna County",
+     "model": "TFM",
+     "signed": "2026-11-16"
+    },
+    {
      "agency": "Carroll Township Police Department",
      "county": "York County",
      "model": "TFM",
@@ -9988,12 +10582,6 @@
      "county": "Beaver County",
      "model": "TFM",
      "signed": "2025-12-08"
-    },
-    {
-     "agency": "Clarion Borough Police Department",
-     "county": "Clarion County",
-     "model": "TFM",
-     "signed": "2026-07-30"
     },
     {
      "agency": "Coal Township Police Department",
@@ -10030,12 +10618,6 @@
      "county": "Lackawanna County",
      "model": "TFM",
      "signed": "2026-07-20"
-    },
-    {
-     "agency": "Damascus Township Constable",
-     "county": "#N/A",
-     "model": "TFM",
-     "signed": "2025-04-29"
     },
     {
      "agency": "Danville Borough Police Department",
@@ -10260,6 +10842,12 @@
      "signed": "2026-03-31"
     },
     {
+     "agency": "Logan Township Police Department",
+     "county": "Blair County",
+     "model": "TFM",
+     "signed": "2026-11-17"
+    },
+    {
      "agency": "Lower Burrell Fourth Ward Constable",
      "county": "Westmoreland County",
      "model": "TFM",
@@ -10276,6 +10864,12 @@
      "county": "Schuylkill County",
      "model": "TFM",
      "signed": "2026-02-10"
+    },
+    {
+     "agency": "Mahanoy Township Police Department",
+     "county": "Schuylkill County",
+     "model": "TFM",
+     "signed": "2026-10-13"
     },
     {
      "agency": "Mahoning Township Police Department",
@@ -10318,6 +10912,12 @@
      "county": "Schuylkill County",
      "model": "TFM",
      "signed": "2026-05-13"
+    },
+    {
+     "agency": "McDonald Borough Police Department",
+     "county": "Allegheny County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "McKean County District Attorney's Office - Detectives’ Bureau",
@@ -10398,6 +10998,12 @@
      "signed": "2026-07-29"
     },
     {
+     "agency": "North Woodbury Township Police",
+     "county": "Blair County",
+     "model": "TFM",
+     "signed": "2026-11-05"
+    },
+    {
      "agency": "Northern York County Regional Police Department",
      "county": "York County",
      "model": "TFM",
@@ -10458,6 +11064,18 @@
      "signed": "2026-07-13"
     },
     {
+     "agency": "Point Township Police Department",
+     "county": "Northumberland County",
+     "model": "TFM",
+     "signed": "2026-10-14"
+    },
+    {
+     "agency": "Polk Borough Police Department",
+     "county": "Venango County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "Port Carbon Borough Police Department",
      "county": "Schuylkill County",
      "model": "TFM",
@@ -10482,12 +11100,6 @@
      "signed": "2026-02-25"
     },
     {
-     "agency": "Rockwood Borough Police Department",
-     "county": "Somerset County",
-     "model": "TFM",
-     "signed": "2026-09-02"
-    },
-    {
      "agency": "Reynoldsville Borough Police Department",
      "county": "Jefferson County",
      "model": "TFM",
@@ -10504,6 +11116,18 @@
      "county": "Beaver County",
      "model": "TFM",
      "signed": "2026-05-14"
+    },
+    {
+     "agency": "Rockwood Borough Police Department",
+     "county": "Somerset County",
+     "model": "TFM",
+     "signed": "2026-09-02"
+    },
+    {
+     "agency": "Rostraver Township Police Department",
+     "county": "Westmoreland County",
+     "model": "TFM",
+     "signed": "2026-10-23"
     },
     {
      "agency": "Salem Township Police Department",
@@ -10620,10 +11244,10 @@
      "signed": "2025-11-06"
     },
     {
-     "agency": "Summerhill Township Police Department",
-     "county": "Cambria County",
+     "agency": "Sugar Notch Borough Police Department",
+     "county": "Luzerne County",
      "model": "TFM",
-     "signed": "2026-07-20"
+     "signed": "2026-10-09"
     },
     {
      "agency": "Summit Township Police Department",
@@ -10654,12 +11278,6 @@
      "county": "Washington County",
      "model": "TFM",
      "signed": "2025-11-04"
-    },
-    {
-     "agency": "Unity Township Constable Office",
-     "county": "Westmoreland County",
-     "model": "TFM",
-     "signed": "2025-07-15"
     },
     {
      "agency": "Versailles Borough Police Department",
@@ -10716,16 +11334,22 @@
      "signed": "2026-03-21"
     }
    ],
-   "distinct_agencies": 143
+   "distinct_agencies": 149
   },
   "South Carolina": {
-   "agreements": 68,
+   "agreements": 75,
    "models": {
+    "TFM": 56,
     "WSO": 16,
-    "TFM": 49,
     "JEM": 3
    },
    "agencies": [
+    {
+     "agency": "Williston Police Department",
+     "county": "Barnwell County",
+     "model": "TFM",
+     "signed": "2026-09-23"
+    },
     {
      "agency": "Anderson County Sheriff's Office",
      "county": "Anderson County",
@@ -10787,6 +11411,12 @@
      "signed": "2026-05-26"
     },
     {
+     "agency": "Campobello Police Department",
+     "county": "Spartanburg County",
+     "model": "TFM",
+     "signed": "2026-10-29"
+    },
+    {
      "agency": "Charleston County Sheriff's Office",
      "county": "Charleston County",
      "model": "WSO",
@@ -10835,16 +11465,28 @@
      "signed": "2025-06-11"
     },
     {
-     "agency": "Elloree Police Department",
-     "county": "Orangeburg County",
+     "agency": "Edgefield County Sheriff's Office",
+     "county": "Edgefield County",
      "model": "TFM",
-     "signed": "2026-01-07"
+     "signed": "2026-10-09"
     },
     {
      "agency": "Ehrhardt Police Department",
      "county": "Bamberg County",
      "model": "TFM",
      "signed": "2026-07-20"
+    },
+    {
+     "agency": "Elloree Police Department",
+     "county": "Orangeburg County",
+     "model": "TFM",
+     "signed": "2026-01-07"
+    },
+    {
+     "agency": "Estill Police Department",
+     "county": "Hampton County",
+     "model": "TFM",
+     "signed": "2026-10-16"
     },
     {
      "agency": "Eutawville Police Department",
@@ -10857,6 +11499,12 @@
      "county": "Allendale County",
      "model": "TFM",
      "signed": "2026-09-23"
+    },
+    {
+     "agency": "Fort Lawn Police Department",
+     "county": "Chester County",
+     "model": "TFM",
+     "signed": "2026-11-16"
     },
     {
      "agency": "Gaston Police Department",
@@ -10925,6 +11573,12 @@
      "signed": "2026-09-23"
     },
     {
+     "agency": "Jackson Police Department",
+     "county": "Aiken County",
+     "model": "TFM",
+     "signed": "2026-10-14"
+    },
+    {
      "agency": "Jamestown Police Department",
      "county": "Berkeley County",
      "model": "TFM",
@@ -10935,6 +11589,12 @@
      "county": "Jasper County",
      "model": "TFM",
      "signed": "2026-03-08"
+    },
+    {
+     "agency": "Johnston Police Department",
+     "county": "Edgefield County",
+     "model": "TFM",
+     "signed": "2026-10-13"
     },
     {
      "agency": "Kershaw County Sheriff's Office",
@@ -11011,14 +11671,14 @@
     {
      "agency": "Pickens County Sheriff's Office",
      "county": "Pickens County",
-     "model": "TFM",
-     "signed": "2025-05-16"
+     "model": "WSO",
+     "signed": "2025-05-22"
     },
     {
      "agency": "Pickens County Sheriff's Office",
      "county": "Pickens County",
-     "model": "WSO",
-     "signed": "2025-05-22"
+     "model": "TFM",
+     "signed": "2025-05-16"
     },
     {
      "agency": "Pine Ridge Police Department",
@@ -11081,6 +11741,12 @@
      "signed": "2025-04-02"
     },
     {
+     "agency": "Springfield Police Department",
+     "county": "Orangeburg County",
+     "model": "TFM",
+     "signed": "2026-11-10"
+    },
+    {
      "agency": "Timmonsville Police Department",
      "county": "Florence County",
      "model": "TFM",
@@ -11117,12 +11783,6 @@
      "signed": "2026-10-06"
     },
     {
-     "agency": "Williston Police Department",
-     "county": "Barnwell County",
-     "model": "TFM",
-     "signed": "2026-09-23"
-    },
-    {
      "agency": "Yemassee Police Department",
      "county": "Hampton County",
      "model": "TFM",
@@ -11135,12 +11795,12 @@
      "signed": "2020-06-09"
     }
    ],
-   "distinct_agencies": 61
+   "distinct_agencies": 68
   },
   "South Dakota": {
-   "agreements": 16,
+   "agreements": 18,
    "models": {
-    "TFM": 10,
+    "TFM": 12,
     "JEM": 2,
     "WSO": 4
    },
@@ -11194,6 +11854,12 @@
      "signed": "2025-03-07"
     },
     {
+     "agency": "Lake Norden Police Department",
+     "county": "Hamlin County",
+     "model": "TFM",
+     "signed": "2026-11-04"
+    },
+    {
      "agency": "Miller Police Department",
      "county": "Hand County",
      "model": "TFM",
@@ -11212,16 +11878,22 @@
      "signed": "2026-07-23"
     },
     {
-     "agency": "South Dakota Department of Corrections",
-     "county": "#NA",
-     "model": "JEM",
-     "signed": "2025-07-25"
+     "agency": "Roberts County Sheriff's Office",
+     "county": "Roberts County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "South Dakota Department of Corrections",
      "county": "#NA",
      "model": "WSO",
      "signed": "2025-08-28"
+    },
+    {
+     "agency": "South Dakota Department of Corrections",
+     "county": "#NA",
+     "model": "JEM",
+     "signed": "2025-07-25"
     },
     {
      "agency": "South Dakota Division of Criminal Investigation",
@@ -11242,13 +11914,13 @@
      "signed": "2026-03-28"
     }
    ],
-   "distinct_agencies": 14
+   "distinct_agencies": 16
   },
   "Tennessee": {
-   "agreements": 162,
+   "agreements": 173,
    "models": {
-    "TFM": 70,
-    "WSO": 83,
+    "TFM": 79,
+    "WSO": 85,
     "JEM": 9
    },
    "agencies": [
@@ -11271,10 +11943,22 @@
      "signed": "2026-07-20"
     },
     {
+     "agency": "Bean Station Police Department",
+     "county": "Grainger County",
+     "model": "TFM",
+     "signed": "2026-10-09"
+    },
+    {
      "agency": "Bedford County Sheriff's Office",
      "county": "Bedford County",
      "model": "WSO",
      "signed": "2026-02-18"
+    },
+    {
+     "agency": "Benton City Police Department",
+     "county": "Benton County",
+     "model": "TFM",
+     "signed": "2026-11-17"
     },
     {
      "agency": "Benton County Sheriff’s Office",
@@ -11307,6 +11991,12 @@
      "signed": "2025-09-22"
     },
     {
+     "agency": "Bradley County Constable District 2",
+     "county": "Bradley County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "Bradley County Constable District 5",
      "county": "Bradley County",
      "model": "TFM",
@@ -11329,6 +12019,18 @@
      "county": "Bradley County",
      "model": "JEM",
      "signed": "2025-12-09"
+    },
+    {
+     "agency": "Campbell County Sheriff's Office",
+     "county": "Campbell County",
+     "model": "WSO",
+     "signed": "2026-10-30"
+    },
+    {
+     "agency": "Campbell County Sheriff's Office",
+     "county": "Campbell County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Cannon County Sheriff's Office",
@@ -11443,6 +12145,12 @@
      "county": "Cumberland County",
      "model": "WSO",
      "signed": "2025-06-25"
+    },
+    {
+     "agency": "Decatur County Sheriff's Office",
+     "county": "Decatur County",
+     "model": "TFM",
+     "signed": "2026-10-31"
     },
     {
      "agency": "Decatur County Sheriff's Office",
@@ -11679,6 +12387,12 @@
      "signed": "2026-05-28"
     },
     {
+     "agency": "Huntland Police Department",
+     "county": "Franklin County",
+     "model": "TFM",
+     "signed": "2026-11-17"
+    },
+    {
      "agency": "Jackson County Sheriff's Office",
      "county": "Jackson County",
      "model": "TFM",
@@ -11717,14 +12431,14 @@
     {
      "agency": "Knox County Sheriff’s Office",
      "county": "Knox County",
-     "model": "JEM",
-     "signed": "2020-06-08"
+     "model": "TFM",
+     "signed": "2026-09-11"
     },
     {
      "agency": "Knox County Sheriff’s Office",
      "county": "Knox County",
-     "model": "TFM",
-     "signed": "2026-09-11"
+     "model": "JEM",
+     "signed": "2020-06-08"
     },
     {
      "agency": "Lafayette Police Department",
@@ -11847,6 +12561,12 @@
      "signed": "2026-09-21"
     },
     {
+     "agency": "McKenzie Police Department",
+     "county": "Carroll County",
+     "model": "TFM",
+     "signed": "2026-10-26"
+    },
+    {
      "agency": "McMinn County Sheriff's Office",
      "county": "McMinn County",
      "model": "WSO",
@@ -11883,10 +12603,28 @@
      "signed": "2025-09-22"
     },
     {
+     "agency": "Monroe County Constable District 3",
+     "county": "Monroe County",
+     "model": "TFM",
+     "signed": "2026-11-03"
+    },
+    {
      "agency": "Monroe County Sheriff's Office",
      "county": "Monroe County",
      "model": "JEM",
      "signed": "2025-08-28"
+    },
+    {
+     "agency": "Monroe County Sheriff's Office",
+     "county": "Monroe County",
+     "model": "WSO",
+     "signed": "2026-11-16"
+    },
+    {
+     "agency": "Monroe County Sheriff's Office",
+     "county": "Monroe County",
+     "model": "TFM",
+     "signed": "2026-11-16"
     },
     {
      "agency": "Montgomery County Sheriff's Office",
@@ -11993,14 +12731,14 @@
     {
      "agency": "Putnam County Sheriff's Office",
      "county": "Putnam County",
-     "model": "JEM",
-     "signed": "2025-02-24"
+     "model": "TFM",
+     "signed": "2025-06-24"
     },
     {
      "agency": "Putnam County Sheriff's Office",
      "county": "Putnam County",
-     "model": "TFM",
-     "signed": "2025-06-24"
+     "model": "JEM",
+     "signed": "2025-02-24"
     },
     {
      "agency": "Rhea County Sheriff's Office",
@@ -12225,13 +12963,13 @@
      "signed": "2026-01-26"
     }
    ],
-   "distinct_agencies": 127
+   "distinct_agencies": 134
   },
   "Texas": {
-   "agreements": 549,
+   "agreements": 578,
    "models": {
-    "TFM": 345,
-    "WSO": 148,
+    "TFM": 366,
+    "WSO": 156,
     "JEM": 56
    },
    "agencies": [
@@ -12544,14 +13282,14 @@
     {
      "agency": "Brooks County Sheriff's Office",
      "county": "Brooks County",
-     "model": "JEM",
-     "signed": "2025-06-11"
+     "model": "TFM",
+     "signed": "2025-06-12"
     },
     {
      "agency": "Brooks County Sheriff's Office",
      "county": "Brooks County",
-     "model": "TFM",
-     "signed": "2025-06-12"
+     "model": "JEM",
+     "signed": "2025-06-11"
     },
     {
      "agency": "Brown County Sheriff's Office",
@@ -12598,14 +13336,14 @@
     {
      "agency": "Caldwell County Sheriff's Office",
      "county": "Caldwell County",
-     "model": "TFM",
-     "signed": "2025-07-15"
+     "model": "WSO",
+     "signed": "2025-09-09"
     },
     {
      "agency": "Caldwell County Sheriff's Office",
      "county": "Caldwell County",
-     "model": "WSO",
-     "signed": "2025-09-09"
+     "model": "TFM",
+     "signed": "2025-07-15"
     },
     {
      "agency": "Calhoun County Sheriff’s Office",
@@ -12660,12 +13398,6 @@
      "county": "Cass County",
      "model": "TFM",
      "signed": "2026-06-18"
-    },
-    {
-     "agency": "Cass County Sheriff's Office",
-     "county": "Cass County",
-     "model": "JEM",
-     "signed": "2026-01-26"
     },
     {
      "agency": "Cass County Sheriff's Office",
@@ -12772,14 +13504,20 @@
     {
      "agency": "Collin County Sheriff's Office",
      "county": "Collin County",
-     "model": "JEM",
-     "signed": "2026-01-26"
+     "model": "TFM",
+     "signed": "2026-08-01"
     },
     {
      "agency": "Collin County Sheriff's Office",
      "county": "Collin County",
-     "model": "TFM",
-     "signed": "2026-08-01"
+     "model": "JEM",
+     "signed": "2026-01-26"
+    },
+    {
+     "agency": "Collingsworth County Sheriff's Office",
+     "county": "Collingsworth County",
+     "model": "WSO",
+     "signed": "2026-10-29"
     },
     {
      "agency": "Collinsville Police Department",
@@ -12790,14 +13528,14 @@
     {
      "agency": "Colorado County Sheriff's Office",
      "county": "Colorado County",
-     "model": "JEM",
-     "signed": "2025-05-22"
+     "model": "WSO",
+     "signed": "2025-12-02"
     },
     {
      "agency": "Colorado County Sheriff's Office",
      "county": "Colorado County",
-     "model": "WSO",
-     "signed": "2025-12-02"
+     "model": "JEM",
+     "signed": "2025-05-22"
     },
     {
      "agency": "Comal County Sheriff's Office",
@@ -12852,6 +13590,12 @@
      "county": "Coryell County",
      "model": "TFM",
      "signed": "2026-04-08"
+    },
+    {
+     "agency": "Crane County Sheriff's Office",
+     "county": "Crane County",
+     "model": "WSO",
+     "signed": "2026-10-31"
     },
     {
      "agency": "Crosby County Sheriff's Office",
@@ -12940,14 +13684,14 @@
     {
      "agency": "Denton County Sheriff's Office",
      "county": "Denton County",
-     "model": "JEM",
-     "signed": "2025-07-29"
+     "model": "TFM",
+     "signed": "2026-01-26"
     },
     {
      "agency": "Denton County Sheriff's Office",
      "county": "Denton County",
-     "model": "TFM",
-     "signed": "2026-01-26"
+     "model": "JEM",
+     "signed": "2025-07-29"
     },
     {
      "agency": "Denver City Police Department",
@@ -12964,14 +13708,20 @@
     {
      "agency": "DeWitt County Sheriff’s Office",
      "county": "DeWitt County",
-     "model": "JEM",
-     "signed": "2020-06-08"
+     "model": "WSO",
+     "signed": "2025-02-26"
     },
     {
      "agency": "DeWitt County Sheriff’s Office",
      "county": "DeWitt County",
-     "model": "WSO",
-     "signed": "2025-02-26"
+     "model": "JEM",
+     "signed": "2020-06-08"
+    },
+    {
+     "agency": "Dickens County Sheriff's Office",
+     "county": "Dickens County",
+     "model": "TFM",
+     "signed": "2026-10-21"
     },
     {
      "agency": "Dickens County Sheriff's Office",
@@ -13040,6 +13790,12 @@
      "signed": "2025-09-22"
     },
     {
+     "agency": "Eastland Police Department",
+     "county": "Eastland County",
+     "model": "TFM",
+     "signed": "2026-11-17"
+    },
+    {
      "agency": "Ector County Sheriff's Office",
      "county": "Ector County",
      "model": "WSO",
@@ -13072,8 +13828,20 @@
     {
      "agency": "Ellis County Sheriff's Office",
      "county": "Ellis County",
+     "model": "TFM",
+     "signed": "2026-10-30"
+    },
+    {
+     "agency": "Ellis County Sheriff's Office",
+     "county": "Ellis County",
      "model": "JEM",
      "signed": "2025-04-16"
+    },
+    {
+     "agency": "Emory Police Department",
+     "county": "Rains County",
+     "model": "TFM",
+     "signed": "2026-11-13"
     },
     {
      "agency": "Erath County Sheriff's Office",
@@ -13162,14 +13930,14 @@
     {
      "agency": "Franklin County Sheriff's Office",
      "county": "Franklin County",
-     "model": "TFM",
-     "signed": "2026-02-17"
+     "model": "WSO",
+     "signed": "2026-06-09"
     },
     {
      "agency": "Franklin County Sheriff's Office",
      "county": "Franklin County",
-     "model": "WSO",
-     "signed": "2026-06-09"
+     "model": "TFM",
+     "signed": "2026-02-17"
     },
     {
      "agency": "Freer Police Department",
@@ -13192,14 +13960,14 @@
     {
      "agency": "Freestone County Sheriff's Office",
      "county": "Freestone County",
-     "model": "TFM",
-     "signed": "2026-05-17"
+     "model": "WSO",
+     "signed": "2026-05-28"
     },
     {
      "agency": "Freestone County Sheriff's Office",
      "county": "Freestone County",
-     "model": "WSO",
-     "signed": "2026-05-28"
+     "model": "TFM",
+     "signed": "2026-05-17"
     },
     {
      "agency": "Frio County Sheriff's Office",
@@ -13218,12 +13986,6 @@
      "county": "Frio County",
      "model": "WSO",
      "signed": "2025-09-22"
-    },
-    {
-     "agency": "Fulton Police Department",
-     "county": "Aransas County",
-     "model": "TFM",
-     "signed": "2026-08-21"
     },
     {
      "agency": "Gaines County Sheriff's Office",
@@ -13360,14 +14122,14 @@
     {
      "agency": "Gregg County Sheriff's Office",
      "county": "Gregg County",
-     "model": "JEM",
-     "signed": "2025-03-17"
+     "model": "TFM",
+     "signed": "2026-04-05"
     },
     {
      "agency": "Gregg County Sheriff's Office",
      "county": "Gregg County",
-     "model": "TFM",
-     "signed": "2026-04-05"
+     "model": "JEM",
+     "signed": "2025-03-17"
     },
     {
      "agency": "Grimes County Sheriff's Office",
@@ -13396,14 +14158,14 @@
     {
      "agency": "Guadalupe County Sheriff's Office",
      "county": "Guadalupe County",
-     "model": "JEM",
-     "signed": "2025-12-02"
+     "model": "TFM",
+     "signed": "2026-10-01"
     },
     {
      "agency": "Guadalupe County Sheriff's Office",
      "county": "Guadalupe County",
-     "model": "TFM",
-     "signed": "2026-10-01"
+     "model": "JEM",
+     "signed": "2025-12-02"
     },
     {
      "agency": "Hale County Sheriff's Office",
@@ -13431,15 +14193,15 @@
     },
     {
      "agency": "Hamilton County Sheriff's Office",
+     "county": "Hansford County",
+     "model": "WSO",
+     "signed": "2026-10-13"
+    },
+    {
+     "agency": "Hamilton County Sheriff's Office",
      "county": "Hamilton County",
      "model": "TFM",
      "signed": "2025-04-10"
-    },
-    {
-     "agency": "Hansford County Sheriff's Office",
-     "county": "Hansford County",
-     "model": "JEM",
-     "signed": "2026-10-07"
     },
     {
      "agency": "Hardeman County Sheriff's Office",
@@ -13452,6 +14214,12 @@
      "county": "Hardin County",
      "model": "JEM",
      "signed": "2026-06-02"
+    },
+    {
+     "agency": "Harris County Sheriff's Office",
+     "county": "Harris County",
+     "model": "WSO",
+     "signed": "2026-11-17"
     },
     {
      "agency": "Harrison County Sheriff's Office",
@@ -13476,6 +14244,18 @@
      "county": "Haskell County",
      "model": "TFM",
      "signed": "2026-01-26"
+    },
+    {
+     "agency": "Hawk Cove Police Department",
+     "county": "Hunt County",
+     "model": "TFM",
+     "signed": "2026-09-20"
+    },
+    {
+     "agency": "Hays County Sheriff's Office",
+     "county": "Hays County",
+     "model": "WSO",
+     "signed": "2026-11-09"
     },
     {
      "agency": "Hemphill County Sheriff's Office",
@@ -13610,10 +14390,22 @@
      "signed": "2026-03-17"
     },
     {
+     "agency": "Idalou Police Department",
+     "county": "Lubbock County",
+     "model": "TFM",
+     "signed": "2026-10-23"
+    },
+    {
      "agency": "Ingram Police Department",
      "county": "Kerr County",
      "model": "TFM",
      "signed": "2025-10-17"
+    },
+    {
+     "agency": "Italy Police Department",
+     "county": "Ellis County",
+     "model": "TFM",
+     "signed": "2026-11-09"
     },
     {
      "agency": "Ivanhoe Police Department",
@@ -13648,14 +14440,14 @@
     {
      "agency": "Jackson County Sheriff's Office",
      "county": "Jackson County",
-     "model": "JEM",
-     "signed": "2020-06-08"
+     "model": "TFM",
+     "signed": "2025-10-17"
     },
     {
      "agency": "Jackson County Sheriff's Office",
      "county": "Jackson County",
-     "model": "TFM",
-     "signed": "2025-10-17"
+     "model": "JEM",
+     "signed": "2020-06-08"
     },
     {
      "agency": "Jackson County Sheriff's Office",
@@ -13726,8 +14518,8 @@
     {
      "agency": "Jim Wells County Sheriff's Office",
      "county": "Jim Wells County",
-     "model": "JEM",
-     "signed": "2025-02-28"
+     "model": "WSO",
+     "signed": "2025-03-26"
     },
     {
      "agency": "Jim Wells County Sheriff's Office",
@@ -13738,14 +14530,26 @@
     {
      "agency": "Jim Wells County Sheriff's Office",
      "county": "Jim Wells County",
-     "model": "WSO",
-     "signed": "2025-03-26"
+     "model": "JEM",
+     "signed": "2025-02-28"
     },
     {
      "agency": "Johnson County District Attorney's Office",
      "county": "Johnson County",
      "model": "TFM",
      "signed": "2026-03-08"
+    },
+    {
+     "agency": "Jones County Sheriff's Office",
+     "county": "Jones County",
+     "model": "WSO",
+     "signed": "2026-10-30"
+    },
+    {
+     "agency": "Jones Creek Marshal's Office",
+     "county": "Brazoria County",
+     "model": "TFM",
+     "signed": "2026-10-16"
     },
     {
      "agency": "Junction Police Department",
@@ -13786,14 +14590,14 @@
     {
      "agency": "Kerr County Sheriff's Office",
      "county": "Kerr County",
-     "model": "JEM",
-     "signed": "2025-05-02"
+     "model": "TFM",
+     "signed": "2025-05-08"
     },
     {
      "agency": "Kerr County Sheriff's Office",
      "county": "Kerr County",
-     "model": "TFM",
-     "signed": "2025-05-08"
+     "model": "JEM",
+     "signed": "2025-05-02"
     },
     {
      "agency": "Kerr County Sheriff's Office",
@@ -13834,20 +14638,14 @@
     {
      "agency": "Kleberg County Sheriff's Office",
      "county": "Kleberg County",
-     "model": "JEM",
-     "signed": "2020-07-31"
-    },
-    {
-     "agency": "Kleberg County Sheriff's Office",
-     "county": "Kleberg County",
      "model": "TFM",
      "signed": "2025-12-18"
     },
     {
-     "agency": "Knox City Police Department",
-     "county": "Knox Couty",
-     "model": "TFM",
-     "signed": "2026-07-13"
+     "agency": "Kleberg County Sheriff's Office",
+     "county": "Kleberg County",
+     "model": "JEM",
+     "signed": "2020-07-31"
     },
     {
      "agency": "Knox County Sheriff's Office",
@@ -13860,6 +14658,12 @@
      "county": "Knox County",
      "model": "WSO",
      "signed": "2025-06-30"
+    },
+    {
+     "agency": "La Coste Police Department",
+     "county": "Medina County",
+     "model": "TFM",
+     "signed": "2026-10-26"
     },
     {
      "agency": "La Grange Police Department",
@@ -13924,14 +14728,14 @@
     {
      "agency": "Lavaca County Sheriff’s Office",
      "county": "Lavaca County",
-     "model": "JEM",
-     "signed": "2020-06-08"
+     "model": "TFM",
+     "signed": "2025-09-09"
     },
     {
      "agency": "Lavaca County Sheriff’s Office",
      "county": "Lavaca County",
-     "model": "TFM",
-     "signed": "2025-09-09"
+     "model": "JEM",
+     "signed": "2020-06-08"
     },
     {
      "agency": "Lavaca County Sheriff's Office",
@@ -13943,12 +14747,6 @@
      "agency": "League City Police Department",
      "county": "Galveston County",
      "model": "TFM",
-     "signed": "2025-09-22"
-    },
-    {
-     "agency": "League City Police Department",
-     "county": "Galveston County",
-     "model": "WSO",
      "signed": "2025-09-22"
     },
     {
@@ -14036,6 +14834,18 @@
      "signed": "2025-04-16"
     },
     {
+     "agency": "Llano County Sheriff's Office",
+     "county": "Llano County",
+     "model": "TFM",
+     "signed": "2026-11-18"
+    },
+    {
+     "agency": "Llano County Sheriff's Office",
+     "county": "Llano County",
+     "model": "JEM",
+     "signed": "2026-11-18"
+    },
+    {
      "agency": "Lone Star Police Department",
      "county": "Morris County",
      "model": "TFM",
@@ -14088,6 +14898,18 @@
      "county": "Fall County",
      "model": "TFM",
      "signed": "2025-12-10"
+    },
+    {
+     "agency": "Mason County Sheriff's Office",
+     "county": "Mason County",
+     "model": "JEM",
+     "signed": "2026-11-03"
+    },
+    {
+     "agency": "Mason County Sheriff's Office",
+     "county": "Mason County",
+     "model": "TFM",
+     "signed": "2026-11-03"
     },
     {
      "agency": "Matagorda County Sheriff's Office",
@@ -14206,6 +15028,12 @@
     {
      "agency": "Montague County Sheriff's Office",
      "county": "Montague County",
+     "model": "TFM",
+     "signed": "2026-10-27"
+    },
+    {
+     "agency": "Montague County Sheriff's Office",
+     "county": "Montague County",
      "model": "WSO",
      "signed": "2026-02-14"
     },
@@ -14277,21 +15105,21 @@
     },
     {
      "agency": "Naples Police Department",
-     "county": "Morris",
+     "county": "Morris County",
      "model": "TFM",
      "signed": "2026-07-22"
+    },
+    {
+     "agency": "Navarro County Sheriff's Office",
+     "county": "Navarro County",
+     "model": "WSO",
+     "signed": "2026-10-14"
     },
     {
      "agency": "Navasota Police Department",
      "county": "Grimes County",
      "model": "TFM",
      "signed": "2026-06-22"
-    },
-    {
-     "agency": "Hawk Cove Police Department",
-     "county": "Hunt County",
-     "model": "TFM",
-     "signed": "2026-09-20"
     },
     {
      "agency": "Nederland Police Department",
@@ -14340,6 +15168,12 @@
      "county": "Nolan County",
      "model": "WSO",
      "signed": "2025-10-17"
+    },
+    {
+     "agency": "Normangee Police Department",
+     "county": "Leon County",
+     "model": "TFM",
+     "signed": "2026-10-16"
     },
     {
      "agency": "Northlake Police Department",
@@ -14480,16 +15314,34 @@
      "signed": "2025-11-06"
     },
     {
-     "agency": "Parker County Constable Precinct 4",
-     "county": "Parker County",
-     "model": "TFM",
-     "signed": "2026-06-12"
-    },
-    {
      "agency": "Parker County (County) Attorney's Office",
      "county": "Parker County",
      "model": "TFM",
      "signed": "2026-04-05"
+    },
+    {
+     "agency": "Parker County Constable Precinct 1",
+     "county": "Parker County",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
+     "agency": "Parker County Constable Precinct 2",
+     "county": "Parker County",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
+     "agency": "Parker County Constable Precinct 3",
+     "county": "Parker County",
+     "model": "TFM",
+     "signed": "2026-10-16"
+    },
+    {
+     "agency": "Parker County Constable Precinct 4",
+     "county": "Parker County",
+     "model": "TFM",
+     "signed": "2026-06-12"
     },
     {
      "agency": "Parker County District Attorney's Office",
@@ -14584,14 +15436,14 @@
     {
      "agency": "Randall County Sheriff's Office",
      "county": "Randall County",
-     "model": "JEM",
-     "signed": "2025-02-28"
+     "model": "WSO",
+     "signed": "2025-08-28"
     },
     {
      "agency": "Randall County Sheriff's Office",
      "county": "Randall County",
-     "model": "WSO",
-     "signed": "2025-08-28"
+     "model": "JEM",
+     "signed": "2025-02-28"
     },
     {
      "agency": "Ranger Police Department",
@@ -14632,12 +15484,6 @@
     {
      "agency": "Refugio County Sheriff’s Office",
      "county": "Refugio County",
-     "model": "JEM",
-     "signed": "2020-06-09"
-    },
-    {
-     "agency": "Refugio County Sheriff’s Office",
-     "county": "Refugio County",
      "model": "TFM",
      "signed": "2025-12-10"
     },
@@ -14648,10 +15494,28 @@
      "signed": "2025-03-07"
     },
     {
+     "agency": "Refugio County Sheriff’s Office",
+     "county": "Refugio County",
+     "model": "JEM",
+     "signed": "2020-06-09"
+    },
+    {
      "agency": "Refugio Police Department",
      "county": "Refugio County",
      "model": "TFM",
      "signed": "2026-01-08"
+    },
+    {
+     "agency": "Richland Police Department",
+     "county": "Navarro County",
+     "model": "TFM",
+     "signed": "2026-11-17"
+    },
+    {
+     "agency": "Roberts County Sheriff's Office",
+     "county": "Roberts County",
+     "model": "WSO",
+     "signed": "2026-10-26"
     },
     {
      "agency": "Robertson County Sheriff's Office",
@@ -14674,8 +15538,8 @@
     {
      "agency": "Rockwall County Sheriff's Office",
      "county": "Rockwall County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "WSO",
+     "signed": "2025-07-08"
     },
     {
      "agency": "Rockwall County Sheriff's Office",
@@ -14686,8 +15550,8 @@
     {
      "agency": "Rockwall County Sheriff's Office",
      "county": "Rockwall County",
-     "model": "WSO",
-     "signed": "2025-07-08"
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Roma Police Department",
@@ -14782,14 +15646,14 @@
     {
      "agency": "San Jacinto County Sheriff's Office",
      "county": "San Jacinto County",
-     "model": "TFM",
-     "signed": "2025-08-28"
+     "model": "WSO",
+     "signed": "2025-10-17"
     },
     {
      "agency": "San Jacinto County Sheriff's Office",
      "county": "San Jacinto County",
-     "model": "WSO",
-     "signed": "2025-10-17"
+     "model": "TFM",
+     "signed": "2025-08-28"
     },
     {
      "agency": "San Patricio County Sheriff’s Office",
@@ -14920,14 +15784,14 @@
     {
      "agency": "Smith County Sheriff’s Office",
      "county": "Smith County",
-     "model": "JEM",
-     "signed": "2020-06-09"
+     "model": "TFM",
+     "signed": "2025-02-18"
     },
     {
      "agency": "Smith County Sheriff’s Office",
      "county": "Smith County",
-     "model": "TFM",
-     "signed": "2025-02-18"
+     "model": "JEM",
+     "signed": "2020-06-09"
     },
     {
      "agency": "Somervell County Sheriff's Office",
@@ -15028,6 +15892,12 @@
     {
      "agency": "Swisher County Sheriff's Office",
      "county": "Swisher County",
+     "model": "TFM",
+     "signed": "2026-11-13"
+    },
+    {
+     "agency": "Swisher County Sheriff's Office",
+     "county": "Swisher County",
      "model": "WSO",
      "signed": "2025-08-28"
     },
@@ -15058,12 +15928,6 @@
     {
      "agency": "Terrell County Sheriff's Office",
      "county": "Terrell County",
-     "model": "JEM",
-     "signed": "2020-06-09"
-    },
-    {
-     "agency": "Terrell County Sheriff's Office",
-     "county": "Terrell County",
      "model": "TFM",
      "signed": "2025-07-02"
     },
@@ -15072,6 +15936,18 @@
      "county": "Terrell County",
      "model": "WSO",
      "signed": "2025-04-16"
+    },
+    {
+     "agency": "Terrell County Sheriff's Office",
+     "county": "Terrell County",
+     "model": "JEM",
+     "signed": "2020-06-09"
+    },
+    {
+     "agency": "Terry County District Attorney's Office",
+     "county": "Terry County",
+     "model": "TFM",
+     "signed": "2026-11-05"
     },
     {
      "agency": "Terry County Sheriff's Office",
@@ -15140,6 +16016,12 @@
      "signed": "2026-02-10"
     },
     {
+     "agency": "Travis County Sheriff's Office",
+     "county": "Travis County",
+     "model": "WSO",
+     "signed": "2026-11-17"
+    },
+    {
      "agency": "Trenton Police Department",
      "county": "Fannin County",
      "model": "TFM",
@@ -15186,6 +16068,12 @@
      "county": "Smith County",
      "model": "TFM",
      "signed": "2026-03-17"
+    },
+    {
+     "agency": "Troy Police Department",
+     "county": "Bell County",
+     "model": "TFM",
+     "signed": "2026-11-17"
     },
     {
      "agency": "Tye Police Department",
@@ -15242,6 +16130,12 @@
      "signed": "2026-01-26"
     },
     {
+     "agency": "Valley View Police Department",
+     "county": "Cooke County",
+     "model": "TFM",
+     "signed": "2026-10-31"
+    },
+    {
      "agency": "Van Alstyne Police Department",
      "county": "Grayson County",
      "model": "TFM",
@@ -15262,12 +16156,6 @@
     {
      "agency": "Victoria County Sheriff’s Office",
      "county": "Victoria County",
-     "model": "JEM",
-     "signed": "2020-06-08"
-    },
-    {
-     "agency": "Victoria County Sheriff’s Office",
-     "county": "Victoria County",
      "model": "TFM",
      "signed": "2025-07-07"
     },
@@ -15276,6 +16164,12 @@
      "county": "Victoria County",
      "model": "WSO",
      "signed": "2025-02-26"
+    },
+    {
+     "agency": "Victoria County Sheriff’s Office",
+     "county": "Victoria County",
+     "model": "JEM",
+     "signed": "2020-06-08"
     },
     {
      "agency": "Vidor Police Department",
@@ -15288,6 +16182,12 @@
      "county": "Bexar County",
      "model": "TFM",
      "signed": "2026-07-07"
+    },
+    {
+     "agency": "Wake Village Police Department",
+     "county": "Bowie County",
+     "model": "TFM",
+     "signed": "2026-10-31"
     },
     {
      "agency": "Walker County Constable Pct 3",
@@ -15342,6 +16242,12 @@
      "county": "Orange County",
      "model": "TFM",
      "signed": "2026-09-15"
+    },
+    {
+     "agency": "West Police Department",
+     "county": "McLennan County",
+     "model": "TFM",
+     "signed": "2026-11-13"
     },
     {
      "agency": "Wharton County Sheriff’s Office",
@@ -15400,12 +16306,6 @@
     {
      "agency": "Winkler County Sheriff's Office",
      "county": "Winkler County",
-     "model": "JEM",
-     "signed": "2025-03-21"
-    },
-    {
-     "agency": "Winkler County Sheriff's Office",
-     "county": "Winkler County",
      "model": "TFM",
      "signed": "2025-04-14"
     },
@@ -15414,6 +16314,12 @@
      "county": "Winkler County",
      "model": "WSO",
      "signed": "2025-03-26"
+    },
+    {
+     "agency": "Winkler County Sheriff's Office",
+     "county": "Winkler County",
+     "model": "JEM",
+     "signed": "2025-03-21"
     },
     {
      "agency": "Winnsboro Police Department",
@@ -15438,6 +16344,12 @@
      "county": "Hunt County",
      "model": "TFM",
      "signed": "2026-06-09"
+    },
+    {
+     "agency": "Woodbranch Police Department",
+     "county": "Montgomery County",
+     "model": "TFM",
+     "signed": "2026-11-03"
     },
     {
      "agency": "Woodville Police Department",
@@ -15530,7 +16442,7 @@
      "signed": "2026-06-17"
     }
    ],
-   "distinct_agencies": 450
+   "distinct_agencies": 474
   },
   "Utah": {
    "agreements": 20,
@@ -15664,10 +16576,10 @@
    "distinct_agencies": 15
   },
   "Virginia": {
-   "agreements": 22,
+   "agreements": 21,
    "models": {
     "WSO": 2,
-    "TFM": 20
+    "TFM": 19
    },
    "agencies": [
     {
@@ -15785,12 +16697,6 @@
      "signed": "2026-06-09"
     },
     {
-     "agency": "Tazewell County Sheriff's Office",
-     "county": "Tazewell County",
-     "model": "TFM",
-     "signed": "2025-09-09"
-    },
-    {
      "agency": "Washington County Sheriff's Office",
      "county": "Washington County",
      "model": "TFM",
@@ -15803,12 +16709,12 @@
      "signed": "2025-07-23"
     }
    ],
-   "distinct_agencies": 22
+   "distinct_agencies": 21
   },
   "West Virginia": {
-   "agreements": 43,
+   "agreements": 44,
    "models": {
-    "TFM": 42,
+    "TFM": 43,
     "WSO": 1
    },
    "agencies": [
@@ -16069,9 +16975,15 @@
      "county": "Wood County",
      "model": "TFM",
      "signed": "2025-05-08"
+    },
+    {
+     "agency": "Wyoming County Sheriff's Department",
+     "county": "Wyoming County",
+     "model": "TFM",
+     "signed": "2026-10-15"
     }
    ],
-   "distinct_agencies": 43
+   "distinct_agencies": 44
   },
   "Wisconsin": {
    "agreements": 24,
@@ -16228,9 +17140,9 @@
    "distinct_agencies": 22
   },
   "Wyoming": {
-   "agreements": 20,
+   "agreements": 21,
    "models": {
-    "WSO": 7,
+    "WSO": 8,
     "TFM": 11,
     "JEM": 2
    },
@@ -16254,6 +17166,12 @@
      "signed": "2026-09-16"
     },
     {
+     "agency": "Converse County Sheriff's Office",
+     "county": "Converse County",
+     "model": "WSO",
+     "signed": "2026-10-16"
+    },
+    {
      "agency": "Crook County Sheriff's Office",
      "county": "Crook County",
      "model": "TFM",
@@ -16280,8 +17198,8 @@
     {
      "agency": "Laramie County Sheriff’s Office",
      "county": "Laramie County",
-     "model": "JEM",
-     "signed": "2025-05-20"
+     "model": "WSO",
+     "signed": "2025-06-12"
     },
     {
      "agency": "Laramie County Sheriff’s Office",
@@ -16292,8 +17210,8 @@
     {
      "agency": "Laramie County Sheriff’s Office",
      "county": "Laramie County",
-     "model": "WSO",
-     "signed": "2025-06-12"
+     "model": "JEM",
+     "signed": "2025-05-20"
     },
     {
      "agency": "Lincoln County Sheriff's Office",
@@ -16328,14 +17246,14 @@
     {
      "agency": "Sweetwater County Sheriff's Office",
      "county": "Sweetwater County",
-     "model": "JEM",
-     "signed": "2025-03-07"
+     "model": "TFM",
+     "signed": "2025-04-24"
     },
     {
      "agency": "Sweetwater County Sheriff's Office",
      "county": "Sweetwater County",
-     "model": "TFM",
-     "signed": "2025-04-24"
+     "model": "JEM",
+     "signed": "2025-03-07"
     },
     {
      "agency": "Sweetwater County Sheriff's Office",
@@ -16356,7 +17274,7 @@
      "signed": "2025-07-24"
     }
    ],
-   "distinct_agencies": 14
+   "distinct_agencies": 15
   }
  }
 }
